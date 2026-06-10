@@ -108,7 +108,6 @@ export default function TermsPage() {
 
         <SECTION title="5. Cancellation and Refunds">
 
-          <h3 className="mt-2 text-base font-semibold text-foreground">All users</h3>
           <p>
             You may cancel your subscription at any time through your account
             settings or by contacting us at{" "}
@@ -116,51 +115,61 @@ export default function TermsPage() {
               hello@insuliniq.com
             </a>
             . Cancellation takes effect at the end of the current billing period.
-            You will retain access to paid features until then.
-          </p>
-          <p>
-            We offer a <strong>30-day money-back guarantee</strong> on all
-            subscription plans. If you are not satisfied within the first 30
-            days of a new subscription, contact us for a full refund — no
-            questions asked.
+            You will retain access to paid features until that date. Outside of
+            the statutory rights described below, payments are non-refundable.
           </p>
 
           <div className="rounded-2xl border border-sage-200 bg-sage-50 p-5">
-            <h3 className="font-semibold text-sage-800">UK Consumers — Cooling-Off Period</h3>
+            <h3 className="font-semibold text-sage-800">UK Consumers — 14-Day Cooling-Off Period</h3>
             <p className="mt-2 text-sm text-sage-700">
-              Under the Consumer Contracts (Information, Cancellation and
-              Additional Charges) Regulations 2013, you have the right to cancel
-              a subscription within <strong>14 days</strong> of your initial
-              purchase (&ldquo;cooling-off period&rdquo;) without giving any
-              reason. To exercise this right, contact us at{" "}
+              Under the <strong>Consumer Contracts (Information, Cancellation
+              and Additional Charges) Regulations 2013</strong>, you have a
+              statutory right to cancel any distance contract within{" "}
+              <strong>14 calendar days</strong> of the date of purchase, without
+              giving any reason. This is known as the &ldquo;cooling-off
+              period.&rdquo;
+            </p>
+            <p className="mt-3 text-sm text-sage-700">
+              <strong>How to cancel:</strong> Send a clear written statement to{" "}
               <a href="mailto:hello@insuliniq.com" className="text-sage-800 underline">
                 hello@insuliniq.com
               </a>{" "}
-              within 14 days of your purchase date. A full refund will be
-              processed within 14 calendar days. Note: if you explicitly request
-              immediate access to digital content during the cooling-off period
-              (which is the default for InsulinIQ), you acknowledge that your
-              right to cancel may be affected once the content has been fully
-              consumed. Our 30-day money-back guarantee offers broader protection
-              than the statutory minimum in any case.
+              within 14 days of your purchase date, stating that you wish to
+              withdraw from the contract. You do not need to give a reason. We
+              will issue a full refund within 14 calendar days of receiving your
+              cancellation request.
+            </p>
+            <p className="mt-3 text-sm text-sage-700">
+              <strong>Exception — immediate digital access:</strong> Under
+              Regulation 36 of the same legislation, if you explicitly consent
+              to receiving digital content immediately (before the 14-day period
+              expires) and acknowledge that doing so waives your right to cancel,
+              you lose the right to a refund once delivery has begun. At checkout,
+              InsulinIQ asks for this consent. If you did not give consent or are
+              unsure, contact us and we will review your case individually.
+            </p>
+            <p className="mt-3 text-sm text-sage-700">
+              These rights cannot be waived by contract. Any term in these Terms
+              that appears to contradict them is void to that extent.
             </p>
           </div>
 
           <div className="rounded-2xl border border-honey-200 bg-honey-50 p-5">
             <h3 className="font-semibold text-honey-800">Australian Consumers — Consumer Guarantees</h3>
             <p className="mt-2 text-sm text-honey-700">
-              Under the Australian Consumer Law (ACL), you are entitled to
-              consumer guarantees for services. If InsulinIQ fails to deliver a
-              service that is fit for purpose, of acceptable quality, or
-              corresponds to its description, you may be entitled to a remedy
-              including a refund. These statutory rights are in addition to our
-              30-day money-back guarantee and are not excluded, restricted, or
-              modified by these Terms. To make a claim under consumer guarantees,
-              contact{" "}
+              Under the <strong>Australian Consumer Law (ACL)</strong>, you are
+              entitled to consumer guarantees for services. If InsulinIQ fails
+              to deliver a service that is fit for purpose, of acceptable
+              quality, or corresponds to its description, you may be entitled to
+              a remedy including a repair, re-supply, or refund. These statutory
+              rights are not excluded, restricted, or modified by these Terms.
+              To make a claim, contact{" "}
               <a href="mailto:hello@insuliniq.com" className="text-honey-800 underline">
                 hello@insuliniq.com
               </a>
-              .
+              . If we cannot resolve your complaint, you may contact the{" "}
+              <strong>Australian Competition and Consumer Commission (ACCC)</strong>{" "}
+              at accc.gov.au.
             </p>
           </div>
 
