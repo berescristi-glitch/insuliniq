@@ -16,6 +16,15 @@ export const metadata: Metadata = {
 
 const MDX_ARTICLES = [
   {
+    href: "/learn/nutrition",
+    title: "Eating for Metabolic Health: What the Evidence Actually Says",
+    excerpt:
+      "A science-backed, shame-free guide to the six dietary principles that support insulin sensitivity — covering PCOS, NAFLD, metabolic syndrome, prediabetes, and gut health.",
+    category: "Nutrition",
+    readingTime: 18,
+    badge: "bg-forest-50 text-forest-700 border-forest-200",
+  },
+  {
     href: "/learn/what-is-insulin-resistance",
     title: "What Is Insulin Resistance? A Plain-English Guide",
     excerpt:
