@@ -25,6 +25,24 @@ const MDX_ARTICLES = [
     badge: "bg-emerald-50 text-emerald-700 border-emerald-200",
   },
   {
+    href: "/learn/metabolic-syndrome",
+    title: "Metabolic Syndrome: What It Is and Why It Matters",
+    excerpt:
+      "The five criteria, why insulin resistance connects them, what 87 studies say about cardiovascular and diabetes risk, and the lifestyle evidence that consistently moves the numbers.",
+    category: "Metabolic Syndrome",
+    readingTime: 13,
+    badge: "bg-green-50 text-green-800 border-green-200",
+  },
+  {
+    href: "/learn/microbiome",
+    title: "Your Gut Microbiome and Metabolic Health",
+    excerpt:
+      "How the trillions of microbes in your gut communicate with your metabolism — SCFAs, LPS endotoxemia, bile acids — and what the research says actually improves microbial health.",
+    category: "Gut Microbiome",
+    readingTime: 14,
+    badge: "bg-teal-50 text-teal-700 border-teal-200",
+  },
+  {
     href: "/pcos",
     title: "PCOS and Insulin Resistance: Understanding the Connection",
     excerpt:
@@ -87,7 +105,7 @@ export default async function LearnPage() {
       </header>
 
       {/* Static MDX articles — always visible */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6 mb-12">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
         {MDX_ARTICLES.map((article) => (
           <Link key={article.href} href={article.href} className="group block">
             <article className="h-full rounded-xl border bg-white p-6 hover:shadow-md transition-shadow flex flex-col">
