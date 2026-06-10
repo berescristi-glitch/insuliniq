@@ -1,0 +1,274 @@
+import { MedicalDisclaimer } from "@/components/content/MedicalDisclaimer";
+import { StatGrid } from "@/components/content/StatGrid";
+import { KeyInsight } from "@/components/content/KeyInsight";
+import { FAQItem } from "@/components/content/FAQItem";
+
+export const metadata = {
+  title: "Metabolic Syndrome: What It Is and Why It Matters | InsulinIQ",
+  description:
+    "A plain-English guide to metabolic syndrome — the five criteria, why insulin resistance connects them, what the research says about risk, and what genuinely helps.",
+};
+
+<article className="mx-auto max-w-2xl px-4 sm:px-6 py-12">
+
+<div className="mb-8">
+  <span className="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold border-transparent bg-secondary text-secondary-foreground">Metabolic Syndrome</span>
+  <span className="ml-2 text-sm text-gray-400">Updated June 2026 · 13 min read</span>
+</div>
+
+# Metabolic Syndrome: What It Is and Why It Matters
+
+Maybe your doctor mentioned it at a routine visit. Maybe you saw your lab results and noticed a cluster of numbers that were slightly off — blood pressure a little high, triglycerides elevated, HDL lower than it should be — and then saw the phrase "metabolic syndrome" in the notes. Or perhaps you've simply been reading about insulin resistance and keep running into this term.
+
+Whatever brought you here, it's worth taking a careful look. Metabolic syndrome is one of those concepts that sounds more alarming than it needs to, but also gets dismissed more casually than it should. This guide will explain what it actually is, what is happening in the body, what the research says about risk, and — importantly — what evidence-backed steps tend to help. No panic, no shame, and no false promises.
+
+<StatGrid stats={[
+  { value: "~35%", label: "of US adults meet the criteria for metabolic syndrome — roughly 1 in 3", source: "Aguilar et al., 2015", color: "forest" },
+  { value: "~2.4×", label: "higher cardiovascular event risk at population level for people with metabolic syndrome vs. those without — a relative risk, not a personal prediction", source: "Mottillo et al., 2010", color: "forest" },
+  { value: "−58%", label: "reduction in T2DM incidence in the DPP lifestyle arm — in people with prediabetes on a structured program, not a guaranteed individual result", source: "Knowler et al., 2002", color: "forest" },
+]} />
+
+---
+
+## What Metabolic Syndrome Actually Is
+
+Metabolic syndrome is not a disease in the traditional sense. It is a clinical label — a useful shorthand — for a cluster of five metabolic abnormalities that tend to appear together and that, together, meaningfully raise the risk of cardiovascular disease and type 2 diabetes.
+
+Think of it less like a diagnosis and more like a weather pattern. When certain conditions converge — elevated blood pressure, dysregulated blood fats, excess abdominal fat, impaired blood sugar regulation — they tend to amplify one another. Recognizing the pattern early gives clinicians, and patients, a chance to intervene before the downstream consequences arrive.
+
+The current internationally agreed-upon definition comes from a joint statement by major health organizations worldwide (Alberti et al., 2009). It requires **any three of the following five criteria** to be present:
+
+| Criterion | Threshold |
+|---|---|
+| **Elevated waist circumference** | Population- and ethnicity-specific cut-offs apply (see note below) |
+| **Elevated triglycerides** | ≥150 mg/dL (1.7 mmol/L), or taking medication for elevated triglycerides |
+| **Reduced HDL cholesterol** | &lt;40 mg/dL (1.0 mmol/L) in men; &lt;50 mg/dL (1.3 mmol/L) in women, or taking medication for low HDL |
+| **Elevated blood pressure** | ≥130/85 mmHg, or taking antihypertensive medication |
+| **Elevated fasting blood glucose** | ≥100 mg/dL (5.6 mmol/L), or taking medication for elevated blood sugar |
+
+**A note on waist circumference:** the threshold varies by ethnicity. For people of European descent, the commonly used cut-offs are ≥94 cm (37 in) for men and ≥80 cm (31.5 in) for women. For people of South Asian, East Asian, or Japanese descent, lower thresholds apply. The 2009 harmonized statement incorporated ethnicity-specific values because waist circumference predicts metabolic risk differently across populations (Alberti et al., 2009). Your doctor can tell you which threshold applies to you.
+
+<KeyInsight type="insight">
+Earlier definitions — including the influential NCEP ATP III criteria from 2001 (NCEP ATP III, 2001) and the International Diabetes Federation's 2005 definition (Alberti et al., 2005) — differed on whether central obesity was a required criterion versus one of five optional ones. The 2009 harmonized statement resolved this by making central obesity optional but recommending ethnicity-specific thresholds throughout. Different studies still use different criteria, which is one reason prevalence estimates vary so widely.
+</KeyInsight>
+
+---
+
+## How Common Is It?
+
+In the United States, approximately 34.7% of adults met the harmonized criteria for metabolic syndrome in 2011–2012, up from 32.9% a decade earlier (Aguilar et al., 2015). That is roughly one in three adults.
+
+Globally, estimates vary considerably — from around 10% to as high as 84% in certain populations — because prevalence depends heavily on which diagnostic criteria are used, which population is studied, and how abdominal obesity is defined in that group (Saklayen, 2018). A widely cited estimate puts global prevalence at approximately 25%, though robust data for the UK and Australia specifically are less consistent than US figures, and should be interpreted accordingly (Saklayen, 2018).
+
+What is clear is that metabolic syndrome has increased in tandem with shifts in diet patterns, physical activity levels, and rates of abdominal obesity across most high-income countries over recent decades. These are trends that operate at a population level, shaped by environment, food systems, and economic conditions — not just individual choices.
+
+---
+
+## Why Insulin Resistance Is the Connecting Thread
+
+The five criteria of metabolic syndrome can look like five separate problems. But there is a unifying biological mechanism running beneath them, and understanding it makes the whole picture much clearer.
+
+That mechanism is **insulin resistance** — a state in which the body's cells respond less effectively to insulin, the hormone that moves glucose from the bloodstream into cells for energy. When cells stop responding properly, the pancreas compensates by producing more and more insulin, resulting in chronically elevated insulin levels (hyperinsulinemia). This state then drives the other components of metabolic syndrome through a series of downstream effects.
+
+The groundwork for this understanding was laid by Gerald Reaven in a landmark 1988 paper (Reaven, 1988). He described what he called "Syndrome X" — the cluster of hyperinsulinemia, hypertriglyceridemia, low HDL, and elevated blood pressure — and proposed that insulin resistance was the central driver. That framework has been substantially refined but remains the foundation of how clinicians think about metabolic syndrome today.
+
+Here is how it unfolds mechanically:
+
+**Visceral fat as the starting point.** Fat stored around the abdominal organs — visceral fat — is metabolically active in a way that subcutaneous fat (the fat under the skin) is not. Visceral fat releases large quantities of free fatty acids directly into the portal vein, which delivers blood to the liver. This portal free fatty acid flux is a primary driver of hepatic insulin resistance (Desprès & Lemieux, 2006).
+
+**The liver's response.** A liver that is resistant to insulin keeps producing glucose even when blood sugar is already elevated. It also overproduces VLDL particles — very-low-density lipoprotein — which carry triglycerides into the circulation. This is the mechanism behind the elevated triglycerides and low HDL seen in metabolic syndrome: more VLDL particles means more triglycerides and, through the activity of an enzyme called cholesteryl ester transfer protein, lower HDL (Samuel & Shulman, 2012).
+
+**Muscle and glucose disposal.** Skeletal muscle is the primary tissue that clears glucose from the bloodstream after a meal. In insulin-resistant muscle, glucose uptake is impaired, contributing to elevated fasting glucose and eventually to the progression toward prediabetes and type 2 diabetes (Samuel & Shulman, 2012).
+
+**Blood pressure.** Elevated insulin levels affect the kidneys (promoting sodium retention) and activate the sympathetic nervous system, both of which tend to raise blood pressure (Reaven, 1988).
+
+<KeyInsight type="research">
+Samuel and Shulman's 2012 Cell paper is particularly useful here because it showed that insulin resistance is **tissue-specific**: muscle insulin resistance primarily impairs glucose disposal after meals, while hepatic insulin resistance drives glucose overproduction between meals and VLDL overproduction throughout the day (Samuel & Shulman, 2012). These different tissues can become resistant at different rates and for different reasons — which is part of why metabolic syndrome presents differently in different people.
+</KeyInsight>
+
+---
+
+## The Inflammation Connection
+
+Insulin resistance and metabolic syndrome are not just metabolic problems — they are also inflammatory ones. The connection runs in both directions: inflammation worsens insulin resistance, and insulin resistance generates more inflammation.
+
+Visceral fat tissue does not sit passively in the abdomen. It releases a variety of signaling molecules called **adipokines**, as well as inflammatory cytokines including **TNF-alpha** (tumor necrosis factor-alpha). Hotamisligil et al. first demonstrated in 1993 that adipose tissue could produce TNF-alpha and that this contributed directly to insulin resistance in animal models — a finding that opened up the entire field of metabolic inflammation (Hotamisligil et al., 1993).
+
+In humans with metabolic syndrome, a blood marker called **hsCRP** (high-sensitivity C-reactive protein) — a general marker of systemic inflammation — is typically elevated. Ridker et al. showed that elevated hsCRP in the context of metabolic syndrome substantially increases cardiovascular event rates compared to either elevated hsCRP or metabolic syndrome alone (Ridker et al., 2003). This suggests the inflammatory component adds meaningful independent risk on top of the metabolic one.
+
+Desprès and Lemieux's influential 2006 review in Nature described the mechanism clearly: visceral fat drives portal free fatty acid flux, which drives hepatic insulin resistance, VLDL overproduction, and the release of pro-inflammatory adipokines — all of which converge on the cardiovascular system (Desprès & Lemieux, 2006).
+
+<KeyInsight type="important">
+You may encounter references to the **NLRP3 inflammasome** in connection with metabolic syndrome and type 2 diabetes. This is an intracellular protein complex involved in inflammatory signaling. Research in animal models suggests it may play a role in obesity-driven inflammation and insulin resistance. However, NLRP3 should currently be understood as an area of emerging mechanistic research — primarily in animal models — not an established clinical pathway in humans. It is not yet a basis for clinical decisions.
+</KeyInsight>
+
+---
+
+## What the Research Says About Risk
+
+Understanding risk is one of the primary reasons the metabolic syndrome concept exists as a clinical tool. The research on cardiovascular and diabetes risk is extensive.
+
+### Cardiovascular Disease Risk
+
+Two large meta-analyses provide the clearest picture. Gami et al. (2007) analyzed 37 studies covering more than 172,000 patients and found that people with metabolic syndrome had a relative risk of approximately 2.35 for cardiovascular events — roughly 2.4 times the risk of those without the syndrome (Gami et al., 2007). Mottillo et al. (2010) went further, analyzing 87 studies covering more than 951,000 subjects, and found a hazard ratio of 2.35 for cardiovascular events and 2.99 for type 2 diabetes in those with metabolic syndrome (Mottillo et al., 2010).
+
+These numbers represent real elevation in risk and are worth taking seriously. But they come with important context.
+
+### An Honest Note on the Research Debate
+
+Not all researchers agree that the metabolic syndrome label is clinically useful. Sattar et al. (2008) analyzed data from prospective studies and found that while metabolic syndrome was a strong predictor of **type 2 diabetes** (hazard ratio approximately 5.17), it did **not** predict cardiovascular disease events significantly better than its individual component risk factors considered separately (Sattar et al., 2008). Their argument: if the components already predict risk individually, does combining them into a syndrome add information — or just complexity?
+
+This debate has not been definitively resolved. The practical response is nuanced: whether or not "metabolic syndrome" as a label adds predictive value beyond its components, the components themselves are real, measurable, and clinically important. Having three or more of them together is a reasonable signal that a thorough metabolic assessment is warranted.
+
+### Type 2 Diabetes Risk
+
+The diabetes risk associated with metabolic syndrome is striking. The hazard ratio of approximately 5 in the Sattar et al. analysis means that individuals with metabolic syndrome are roughly five times more likely to develop type 2 diabetes than those without it (Sattar et al., 2008). This reflects the central role of insulin resistance in both conditions and is one of the clearest clinical reasons to take a metabolic syndrome finding seriously.
+
+<KeyInsight type="insight">
+Having metabolic syndrome does not mean you will develop cardiovascular disease or type 2 diabetes. Risk is a population-level concept: it describes what happens across many people, not what will happen to any individual. What the data tells us is that these risk factors in combination create conditions that make complications more likely — and that addressing them tends to improve those odds.
+</KeyInsight>
+
+---
+
+## Overlap With Other Conditions
+
+Metabolic syndrome rarely travels alone. Several related conditions share so much biological territory that separating them is sometimes more academic than clinical.
+
+### PCOS
+
+Polycystic ovary syndrome is the most common hormonal condition in reproductive-age women, and its overlap with metabolic syndrome is substantial. Apridonidze et al. found that 43% of US women with PCOS met criteria for metabolic syndrome, compared to approximately 24% of controls matched for age and weight — a meaningful excess risk even after accounting for body composition (Apridonidze et al., 2005). Estimates across studies range from about 33% to 47% depending on the population and criteria used.
+
+The 2023 international PCOS guidelines explicitly recommend metabolic screening — including assessment of glucose regulation, blood pressure, and lipids — for all people with PCOS, reflecting the strength of this association (Teede et al., 2023).
+
+### NAFLD / MASLD
+
+Nonalcoholic fatty liver disease (now increasingly referred to as **metabolic dysfunction-associated steatotic liver disease, or MASLD**) is often described as the hepatic manifestation of metabolic syndrome. Marchesini et al. found NAFLD present in nearly all obese patients with metabolic syndrome (Marchesini et al., 2003). The mechanistic connection is direct: hepatic insulin resistance drives excess VLDL production and promotes fat accumulation within liver cells.
+
+The 2023 renaming to MASLD is itself significant — the new nomenclature explicitly embeds metabolic criteria into the fatty liver diagnosis, formally acknowledging the relationship that clinicians have long observed (Rinella et al., 2023).
+
+### Prediabetes
+
+The overlap with prediabetes is so large it can be difficult to discuss them separately. Elevated fasting glucose is one of the five metabolic syndrome criteria; insulin resistance is the common driver of both. Many people with prediabetes meet the full criteria for metabolic syndrome, and most people with metabolic syndrome have some degree of impaired glucose regulation even if their numbers do not yet reach the prediabetes threshold.
+
+---
+
+## What Actually Helps
+
+This is where the evidence becomes genuinely encouraging. The same biological mechanisms that allow metabolic syndrome to develop — particularly insulin resistance and visceral fat accumulation — are also responsive to well-studied interventions.
+
+### Exercise: The Most Consistent Finding in the Literature
+
+Physical activity is one of the most reliably effective interventions for improving insulin sensitivity and most components of metabolic syndrome. Aerobic exercise reduces visceral fat, lowers triglycerides, raises HDL, and improves blood pressure. Resistance training builds skeletal muscle, expanding the body's glucose-clearing capacity. Both matter, and the combination appears more effective than either alone.
+
+The landmark **Diabetes Prevention Program** (DPP) demonstrated that 150 minutes per week of moderate-intensity physical activity — approximately 22 minutes per day — combined with modest dietary changes reduced the incidence of type 2 diabetes by 58% in people with prediabetes over about three years (Knowler et al., 2002). Many DPP participants had metabolic syndrome at enrollment. Starting from a sedentary baseline, even a daily 20–30 minute walk has measurable effects on metabolic markers within weeks.
+
+### Dietary Patterns: Principles, Not Prescriptions
+
+The strongest dietary evidence for metabolic syndrome involves overall eating patterns rather than individual foods or strict calorie targets. The **PREDIMED trial** — a large randomized trial that was corrected and republished in 2018 — found that a Mediterranean dietary pattern supplemented with extra-virgin olive oil or mixed nuts reduced major cardiovascular events by approximately 30% compared to a low-fat control diet in people at high cardiovascular risk, many of whom had metabolic syndrome (Estruch et al., 2018).
+
+The Mediterranean pattern is characterized by emphasis on vegetables, legumes, whole grains, fish, olive oil, and nuts — with less emphasis on ultra-processed foods and added sugars. It is not about restriction or eliminating food groups. The DPP's dietary component similarly focused on sustainable changes rather than rigid protocols.
+
+A note worth including here: changing how you eat is deeply personal, and for some people, focusing heavily on food can be complicated by prior experiences with disordered eating or difficult food relationships. There is no single eating pattern that works for everyone, and working with a registered dietitian (or, in Australia, an Accredited Practising Dietitian / APD) can help translate the research into an approach that fits your specific circumstances, preferences, and history.
+
+If you are currently experiencing a difficult or distressing relationship with food or eating, support is available. **US:** NEDA Helpline 1-800-931-2237 · **UK:** Beat 0808 801 0677 · **Australia:** Butterfly Foundation 1800 33 4673.
+
+### Sleep
+
+Sleep is a metabolic variable, not merely a wellness preference. Chronic short sleep and poor sleep quality independently worsen insulin sensitivity and drive inflammatory markers upward. Seven to nine hours of consistent, reasonably good-quality sleep is associated with better metabolic outcomes. Sleep apnea — which is both more common in people with metabolic syndrome and a contributor to further metabolic disruption — is worth mentioning to your doctor, particularly if you have any concerns about your sleep quality.
+
+### Stress
+
+Cortisol, the primary stress hormone, directly counteracts insulin's effects. Chronic psychological stress maintains cortisol at persistently elevated levels, effectively creating a sustained state of impaired insulin signaling. Stress management is not an add-on to metabolic care — it is part of the mechanism. What that looks like varies enormously from person to person: structured relaxation practices, therapy, social connection, time outdoors, or simply changes in circumstance when those are possible.
+
+### Medications
+
+Several prescription medications are relevant when lifestyle measures alone are insufficient or when cardiovascular or diabetes risk is elevated. These include medications that address insulin sensitivity, blood glucose, lipids, and blood pressure — as well as newer agents with demonstrated effects on visceral fat and cardiovascular outcomes. Medication decisions are individual ones that belong entirely in a conversation with your doctor or care team, who know your full medical history.
+
+*InsulinIQ does not recommend specific medications. Any drug names you may encounter in cited research are referenced in educational context only. All prescribing decisions must happen with a qualified clinician.*
+
+<KeyInsight type="action">
+The DPP's core finding bears repeating because it is genuinely motivating: 150 minutes of moderate activity per week plus modest, sustainable dietary changes reduced new type 2 diabetes by 58% over three years (Knowler et al., 2002). That is not a small effect, and it did not require perfection. It required consistency with attainable targets. If metabolic syndrome has been identified in your labs, that evidence is worth holding onto.
+</KeyInsight>
+
+---
+
+## Questions to Ask Your Doctor
+
+Knowing what to ask can make a brief appointment much more productive. Consider bringing these questions:
+
+- "My labs show [elevated triglycerides / low HDL / fasting glucose of X] — do I meet the criteria for metabolic syndrome? Can we look at all five criteria together?"
+- "Would a fasting insulin level or HOMA-IR calculation give us useful additional information about my insulin resistance?"
+- "Should I be tested for sleep apnea, given these metabolic findings?"
+- "If I have PCOS or fatty liver, how does that change what you'd want to monitor metabolically?"
+- "What would you want to see change in my labs over the next six to twelve months, and what would be a realistic timeline?"
+- "Are there any medications that would be worth discussing at this point, or is lifestyle the primary approach right now?"
+
+---
+
+## Frequently Asked Questions
+
+<FAQItem question="Can you have metabolic syndrome at a healthy weight?">
+
+Yes — though it is less common. Metabolic syndrome is defined by the five criteria, not by body weight directly. Some people, particularly those with predominantly visceral fat accumulation rather than overall body fat, can meet multiple criteria even at a body weight their doctor would consider healthy. This pattern is sometimes called "metabolically obese, normal weight" and is more common in people of certain ethnicities, including South Asian populations, where visceral fat tends to accumulate at lower overall body weights (Alberti et al., 2009). Waist circumference is often a more informative measure than weight or BMI in this context.
+
+</FAQItem>
+
+<FAQItem question="Is metabolic syndrome the same as insulin resistance?">
+
+They are closely related but not the same thing. Insulin resistance is a physiological state — the body's reduced ability to respond to insulin — and it appears to be the central driver of most of the components of metabolic syndrome (Reaven, 1988). Metabolic syndrome is a clinical classification based on measurable thresholds across five criteria. You can have significant insulin resistance without yet meeting the formal criteria for metabolic syndrome; conversely, meeting three of the five criteria reliably suggests that meaningful insulin resistance is present. The two concepts describe the same underlying biology from different angles.
+
+</FAQItem>
+
+<FAQItem question="Does metabolic syndrome mean I will get diabetes or heart disease?">
+
+No. Metabolic syndrome indicates meaningfully elevated risk compared to the general population — roughly 2.4 times the cardiovascular event risk (Mottillo et al., 2010) and approximately five times the type 2 diabetes risk (Sattar et al., 2008). But risk is a population-level concept, not a personal prediction. Many people with metabolic syndrome do not go on to develop either condition, particularly with sustained lifestyle changes. The point of identifying the cluster is to create an opportunity to intervene before complications arrive — not to issue a prognosis.
+
+</FAQItem>
+
+<FAQItem question="Can metabolic syndrome go away?">
+
+The individual criteria that make up metabolic syndrome are all measurable, and all of them can improve. Research consistently shows that sustained lifestyle changes — particularly regular physical activity and dietary pattern shifts — can normalize triglycerides, raise HDL, lower fasting glucose, reduce waist circumference, and lower blood pressure over time. Whether the criteria revert to below threshold depends on the individual and the degree of change, but meaningful improvement in the underlying metabolic picture is achievable for many people. "Going away" is less useful framing than "improving your metabolic markers" — the latter is what the evidence supports.
+
+</FAQItem>
+
+<FAQItem question="How is metabolic syndrome different from prediabetes?">
+
+Prediabetes is a specific classification based on blood glucose values falling between normal and diabetic ranges (fasting glucose 100–125 mg/dL, or HbA1c 5.7–6.4%). Metabolic syndrome is a broader cluster of five criteria, only one of which involves blood glucose. The two conditions overlap substantially — elevated fasting glucose is one of the metabolic syndrome criteria, and insulin resistance drives both — but they are not synonymous. A person can have prediabetes without meeting the full criteria for metabolic syndrome, and can meet the full metabolic syndrome criteria without yet having prediabetes-range glucose values.
+
+</FAQItem>
+
+<FAQItem question="Should I ask my doctor to check for metabolic syndrome?">
+
+If you have any of the five criteria — borderline blood pressure, elevated triglycerides, low HDL, elevated fasting glucose, or a notably increased waist circumference — asking your doctor to review all five together is a reasonable and practical conversation to initiate. A standard metabolic panel, fasting lipid panel, fasting glucose, and blood pressure reading cover most of the picture. You might say: "I'd like to understand my overall metabolic risk — can we look at these markers together and talk about whether anything warrants closer attention?" That framing is empowering rather than alarming, and any good clinician will welcome it.
+
+</FAQItem>
+
+---
+
+## Sources
+
+1. Aguilar, M. et al. (2015). Prevalence of the metabolic syndrome in the United States, 2003–2012. *JAMA*, 313(19), 1973–1974.
+2. Alberti, K.G.M.M. et al. (2009). Harmonizing the metabolic syndrome: a joint interim statement. *Circulation*, 120(16), 1640–1645.
+3. Alberti, K.G.M.M. et al. / International Diabetes Federation. (2005). The metabolic syndrome — a new worldwide definition. *Lancet*, 366(9491), 1059–1062.
+4. Apridonidze, T. et al. (2005). Prevalence and characteristics of the metabolic syndrome in women with polycystic ovary syndrome. *Journal of Clinical Endocrinology & Metabolism*, 90(4), 1929–1935.
+5. Desprès, J.P. & Lemieux, I. (2006). Abdominal obesity and metabolic syndrome. *Nature*, 444(7121), 881–887.
+6. Estruch, R. et al. / PREDIMED Study Investigators. (2018). Primary prevention of cardiovascular disease with a Mediterranean diet supplemented with extra-virgin olive oil or nuts [corrected republication]. *New England Journal of Medicine*, 378(25), e34.
+7. Gami, A.S. et al. (2007). Metabolic syndrome and risk of incident cardiovascular events and death: a systematic review and meta-analysis of longitudinal studies. *Journal of the American College of Cardiology*, 49(4), 403–414.
+8. Hotamisligil, G.S. et al. (1993). Adipose expression of tumor necrosis factor-alpha: direct role in obesity-linked insulin resistance. *Science*, 259(5091), 87–91.
+9. Knowler, W.C. et al. / Diabetes Prevention Program Research Group. (2002). Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. *New England Journal of Medicine*, 346(6), 393–403.
+10. Marchesini, G. et al. (2003). Nonalcoholic fatty liver disease: a feature of the metabolic syndrome. *Hepatology*, 37(4), 917–923.
+11. Mottillo, S. et al. (2010). The metabolic syndrome and cardiovascular risk: a systematic review and meta-analysis. *Journal of the American College of Cardiology*, 56(14), 1113–1132.
+12. NCEP ATP III. (2001). Executive summary of the third report of the National Cholesterol Education Program expert panel on detection, evaluation, and treatment of high blood cholesterol in adults. *JAMA*, 285(19), 2486–2497.
+13. Reaven, G.M. (1988). Banting Lecture 1988: role of insulin resistance in human disease. *Diabetes*, 37(12), 1595–1607.
+14. Ridker, P.M. et al. (2003). C-reactive protein, the metabolic syndrome, and risk of incident cardiovascular events: an 8-year follow-up of 14,719 initially healthy American women. *Circulation*, 107(3), 391–397.
+15. Rinella, M.E. et al. (2023). A multisociety Delphi consensus statement on new fatty liver disease nomenclature. *Hepatology*, 78(6), 1966–1986.
+16. Saklayen, M.G. (2018). The global epidemic of the metabolic syndrome. *Current Hypertension Reports*, 20(2), 12.
+17. Samuel, V.T. & Shulman, G.I. (2012). Mechanisms for insulin resistance: common threads and missing links. *Cell*, 148(5), 852–871.
+18. Sattar, N. et al. (2008). Metabolic syndrome with and without C-reactive protein as a predictor of coronary heart disease and diabetes in the West of Scotland Coronary Prevention Study. *Lancet*, 371(9628), 1927–1935.
+19. Teede, H.J. et al. (2023). Recommendations from the 2023 international evidence-based guideline for the assessment and management of polycystic ovary syndrome. *Journal of Clinical Endocrinology & Metabolism*, 108(10), 2447–2469.
+
+---
+
+<MedicalDisclaimer />
+
+</article>
