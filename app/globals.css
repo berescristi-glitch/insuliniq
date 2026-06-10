@@ -4,48 +4,76 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 240 10% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 240 10% 3.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 240 10% 3.9%;
-    --primary: 142 76% 36%;
-    --primary-foreground: 355 100% 97%;
-    --secondary: 240 4.8% 95.9%;
-    --secondary-foreground: 240 5.9% 10%;
-    --muted: 240 4.8% 95.9%;
-    --muted-foreground: 240 3.8% 46.1%;
-    --accent: 240 4.8% 95.9%;
-    --accent-foreground: 240 5.9% 10%;
-    --destructive: 0 84.2% 60.2%;
+    /* ── Natural InsulinIQ palette ────────────────────────────────── */
+    --background:          45 28% 98%;
+    --foreground:         152 22%  8%;
+
+    --card:                 0  0% 100%;
+    --card-foreground:    152 22%  8%;
+
+    --popover:              0  0% 100%;
+    --popover-foreground: 152 22%  8%;
+
+    --primary:            152 40% 28%;
+    --primary-foreground:  45 28% 97%;
+
+    --secondary:           45 18% 93%;
+    --secondary-foreground:152 18% 18%;
+
+    --muted:               45 14% 91%;
+    --muted-foreground:   152  8% 42%;
+
+    --accent:              45 18% 91%;
+    --accent-foreground:  152 18% 18%;
+
+    --destructive:          0 72% 51%;
     --destructive-foreground: 0 0% 98%;
-    --border: 240 5.9% 90%;
-    --input: 240 5.9% 90%;
-    --ring: 142 76% 36%;
-    --radius: 0.5rem;
+
+    --border:              45 14% 86%;
+    --input:               45 14% 86%;
+    --ring:               152 40% 28%;
+    --radius:             0.5rem;
+
+    /* ── Condition accent colors ──────────────────────────────────── */
+    --sage:               148 28% 50%;   /* PCOS */
+    --sage-light:         148 30% 95%;
+    --clay:                16 52% 50%;   /* Prediabetes */
+    --clay-light:          16 55% 95%;
+    --honey:               36 62% 46%;   /* NAFLD / MASLD */
+    --honey-light:         36 64% 95%;
+    --forest:             152 40% 28%;   /* IR / primary */
+    --forest-light:       152 38% 95%;
   }
 
+  /* ── Dark bar / dark mode ─────────────────────────────────────── */
   .dark {
-    --background: 240 10% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 240 10% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 142 76% 36%;
-    --primary-foreground: 355 100% 97%;
-    --secondary: 240 3.7% 15.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-    --accent: 240 3.7% 15.9%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
+    --background:         152 20%  7%;
+    --foreground:          45 24% 93%;
+
+    --card:               152 18% 10%;
+    --card-foreground:     45 24% 93%;
+
+    --popover:            152 18% 10%;
+    --popover-foreground:  45 24% 93%;
+
+    --primary:            152 35% 55%;
+    --primary-foreground: 152 20%  7%;
+
+    --secondary:          152 14% 14%;
+    --secondary-foreground: 45 18% 82%;
+
+    --muted:              152 12% 14%;
+    --muted-foreground:    45 10% 58%;
+
+    --accent:             152 14% 14%;
+    --accent-foreground:   45 18% 82%;
+
+    --destructive:          0 62% 31%;
     --destructive-foreground: 0 0% 98%;
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 142 76% 36%;
+
+    --border:             152 12% 16%;
+    --input:              152 12% 16%;
+    --ring:               152 35% 55%;
   }
 }
 
