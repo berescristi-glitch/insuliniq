@@ -2,6 +2,7 @@ import { MedicalDisclaimer } from "@/components/content/MedicalDisclaimer";
 import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
+import { RelatedArticles } from "@/components/content/RelatedArticles";
 
 export const metadata = {
   title: "PCOS and Insulin Resistance: Understanding the Connection | InsulinIQ",
@@ -13,7 +14,7 @@ export const metadata = {
 
 <div className="mb-8">
   <span className="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold border-transparent bg-secondary text-secondary-foreground">PCOS</span>
-  <span className="ml-2 text-sm text-gray-400">Updated June 2025 · 14 min read</span>
+  <span className="ml-2 text-sm text-gray-400">Updated June 2026 · 14 min read</span>
 </div>
 
 # PCOS and Insulin Resistance: Understanding the Connection
@@ -193,6 +194,12 @@ Start with your healthcare provider. Ask for a metabolic screening panel — at 
 5. PMC Network Meta-Analysis. (2025). Comparative effectiveness of exercise modalities on insulin resistance in polycystic ovary syndrome: a network meta-analysis of 19 randomized controlled trials.
 
 ---
+
+<RelatedArticles articles={[
+  { href: "/learn/nutrition", title: "Eating for Metabolic Health: Nutrition Principles for Insulin Resistance", category: "Nutrition", color: "forest" },
+  { href: "/learn/what-is-insulin-resistance", title: "What Is Insulin Resistance? A Plain-English Guide", category: "Insulin Resistance", color: "forest" },
+  { href: "/learn/microbiome", title: "Your Gut Microbiome and Metabolic Health", category: "Gut Microbiome", color: "sage" },
+]} />
 
 <MedicalDisclaimer />
 

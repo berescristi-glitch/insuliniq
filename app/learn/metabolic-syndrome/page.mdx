@@ -2,6 +2,7 @@ import { MedicalDisclaimer } from "@/components/content/MedicalDisclaimer";
 import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
+import { RelatedArticles } from "@/components/content/RelatedArticles";
 
 export const metadata = {
   title: "Metabolic Syndrome: What It Is and Why It Matters | InsulinIQ",
@@ -268,6 +269,12 @@ If you have any of the five criteria — borderline blood pressure, elevated tri
 19. Teede, H.J. et al. (2023). Recommendations from the 2023 international evidence-based guideline for the assessment and management of polycystic ovary syndrome. *Journal of Clinical Endocrinology & Metabolism*, 108(10), 2447–2469.
 
 ---
+
+<RelatedArticles articles={[
+  { href: "/learn/what-is-insulin-resistance", title: "What Is Insulin Resistance? A Plain-English Guide", category: "Insulin Resistance", color: "forest" },
+  { href: "/learn/nutrition", title: "Eating for Metabolic Health: Nutrition Principles for Insulin Resistance", category: "Nutrition", color: "forest" },
+  { href: "/learn/microbiome", title: "Your Gut Microbiome and Metabolic Health", category: "Gut Microbiome", color: "sage" },
+]} />
 
 <MedicalDisclaimer />
 

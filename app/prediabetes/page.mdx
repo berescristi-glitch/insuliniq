@@ -2,6 +2,7 @@ import { MedicalDisclaimer } from "@/components/content/MedicalDisclaimer";
 import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
+import { RelatedArticles } from "@/components/content/RelatedArticles";
 
 export const metadata = {
   title: "What Is Prediabetes? Understanding Your Numbers and Your Options",
@@ -13,7 +14,7 @@ export const metadata = {
 
 <div className="mb-8">
   <span className="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold border-transparent bg-secondary text-secondary-foreground">Prediabetes</span>
-  <span className="ml-2 text-sm text-gray-400">Updated June 2025 · 12 min read</span>
+  <span className="ml-2 text-sm text-gray-400">Updated June 2026 · 12 min read</span>
 </div>
 
 # What Is Prediabetes? Understanding Your Numbers and Your Options
@@ -206,6 +207,12 @@ According to current estimates, approximately **96 million US adults** — more 
 5. PMC / PubMed Central (2021). Mechanisms by which exercise improves insulin sensitivity and glucose metabolism.
 
 ---
+
+<RelatedArticles articles={[
+  { href: "/learn/nutrition", title: "Eating for Metabolic Health: Nutrition Principles for Insulin Resistance", category: "Nutrition", color: "forest" },
+  { href: "/learn/what-is-insulin-resistance", title: "What Is Insulin Resistance? A Plain-English Guide", category: "Insulin Resistance", color: "forest" },
+  { href: "/learn/metabolic-syndrome", title: "Metabolic Syndrome: What It Is and Why It Matters", category: "Metabolic Syndrome", color: "forest" },
+]} />
 
 <MedicalDisclaimer />
 

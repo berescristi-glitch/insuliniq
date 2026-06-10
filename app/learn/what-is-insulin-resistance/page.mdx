@@ -2,6 +2,7 @@ import { MedicalDisclaimer } from "@/components/content/MedicalDisclaimer";
 import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
+import { RelatedArticles } from "@/components/content/RelatedArticles";
 
 export const metadata = {
   title: "What Is Insulin Resistance? A Plain-English Guide | InsulinIQ",
@@ -197,6 +198,12 @@ It's a reasonable conversation to initiate, especially if you have symptoms, a f
 3. Petersen, M.C. & Shulman, G.I. (2018). Mechanisms of insulin action and insulin resistance. *Physiological Reviews*, 98(4), 2133–2223.
 
 ---
+
+<RelatedArticles articles={[
+  { href: "/learn/nutrition", title: "Eating for Metabolic Health: Nutrition Principles for Insulin Resistance", category: "Nutrition", color: "forest" },
+  { href: "/learn/metabolic-syndrome", title: "Metabolic Syndrome: What It Is and Why It Matters", category: "Metabolic Syndrome", color: "forest" },
+  { href: "/learn/microbiome", title: "Your Gut Microbiome and Metabolic Health", category: "Gut Microbiome", color: "sage" },
+]} />
 
 <MedicalDisclaimer />
 
