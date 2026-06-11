@@ -33,8 +33,8 @@ export function QuizCTASection() {
             <span className="text-forest-600">metabolic profile?</span>
           </h2>
           <p className="mt-4 text-xl text-muted-foreground max-w-xl mx-auto">
-            8 questions. Personalised recipe recommendations matched to your
-            region, symptoms, and lifestyle.
+            8 questions. Educational resources and recipe ideas matched to your
+            region, goals, and lifestyle.
           </p>
 
           <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
@@ -74,8 +74,8 @@ export function QuizCTASection() {
 
               <div className="text-center space-y-2 max-w-md">
                 <p className="text-base text-muted-foreground">
-                  Tell us your goal, region, symptoms, and food preferences — we&apos;ll
-                  match you to the right articles and recipe plan.
+                  Tell us your goal, region, and food preferences — we&apos;ll
+                  match you to relevant articles and recipe ideas.
                 </p>
               </div>
 

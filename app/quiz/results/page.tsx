@@ -66,7 +66,7 @@ function ResultsContent({ result }: { result: MatchResult }) {
         <span
           className={`inline-block rounded-full border px-4 py-1.5 text-sm font-semibold ${styles.badge}`}
         >
-          Your profile
+          Your educational profile
         </span>
         <h1
           className={`text-3xl sm:text-4xl font-bold leading-tight ${styles.heading}`}
@@ -76,6 +76,8 @@ function ResultsContent({ result }: { result: MatchResult }) {
         <p className="max-w-prose mx-auto text-base text-muted-foreground leading-relaxed">
           {result.description}
         </p>
+        {/* Disclaimer placed here — before any paid offer, per compliance requirement */}
+        <MedicalDisclaimer />
       </div>
 
       {/* Article recommendations */}
@@ -152,8 +154,7 @@ function ResultsContent({ result }: { result: MatchResult }) {
         </Link>
       </p>
 
-      {/* Required per CLAUDE.md — results contain condition-linked health information */}
-      <MedicalDisclaimer />
+      {/* MedicalDisclaimer already rendered above the CTA — omit duplicate */}
     </div>
   );
 }

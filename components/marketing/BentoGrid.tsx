@@ -32,7 +32,7 @@ const sideConditions: Condition[] = [
     title: "Prediabetes",
     subtitle: "Blood Sugar Dysregulation",
     description:
-      "Catch it before it progresses. Lifestyle changes from the DPP trial work better than medication.",
+      "Catch it before it progresses. The landmark DPP trial found that structured lifestyle changes significantly reduced progression to type 2 diabetes — learn what that evidence actually shows.",
     overlay: "from-clay-600/85 to-clay-800/90",
     tag: "Blood Sugar",
     photo: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=600&q=80",
@@ -162,7 +162,7 @@ export function BentoGrid() {
           </h2>
           <p className="mt-4 text-xl text-muted-foreground max-w-2xl mx-auto">
             Insulin resistance doesn&apos;t act alone. Explore how these
-            conditions overlap — and what you can actually do.
+            conditions overlap — and what the research actually shows.
           </p>
         </div>
 

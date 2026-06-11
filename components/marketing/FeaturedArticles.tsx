@@ -40,9 +40,9 @@ const articles: Article[] = [
   },
   {
     href: "/prediabetes",
-    title: "Reversing Prediabetes: What the DPP Trial Actually Found",
+    title: "Prediabetes & the DPP Trial: What the Evidence Actually Shows",
     description:
-      "The landmark prevention trial that showed lifestyle changes outperform metformin — and what 7% weight loss really means.",
+      "The landmark prevention trial that found structured lifestyle changes significantly reduced progression to type 2 diabetes — and what the study's findings mean for daily life.",
     tag: "Prediabetes",
     readTime: "10 min read",
     tagBg: "bg-clay-100 text-clay-700",

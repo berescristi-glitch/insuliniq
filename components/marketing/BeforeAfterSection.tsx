@@ -5,7 +5,7 @@ const before = [
   "No clear connection between your symptoms and insulin",
   "Overwhelming research papers written for specialists",
   "Generic diet tips that ignore your specific condition",
-  "Feeling dismissed — 'your labs are normal'",
+  "Feeling confused after hearing 'your labs are normal' but still experiencing symptoms",
 ];
 
 const after = [
@@ -13,7 +13,7 @@ const after = [
   "Understand exactly how insulin drives PCOS, NAFLD & prediabetes",
   "Science translated into plain language — no medical degree needed",
   "Condition-specific guides: PCOS, prediabetes, NAFLD, metabolic syndrome",
-  "A metabolic profile that explains what your numbers actually mean",
+  "A metabolic profile that helps you understand what common lab markers relate to — so you can have better conversations with your doctor",
 ];
 
 export function BeforeAfterSection() {

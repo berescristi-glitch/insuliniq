@@ -29,7 +29,7 @@ const steps: Step[] = [
     icon: BarChart3,
     title: "Get your metabolic profile",
     description:
-      "Instantly see which areas of metabolic health need your attention most, with a clear visual breakdown.",
+      "Instantly see which educational topics are most relevant to your answers, with a clear visual breakdown.",
     iconBg: "bg-honey-100",
     iconColor: "text-honey-700",
     dotColor: "bg-honey-500",
@@ -62,7 +62,7 @@ export function HowItWorksSection() {
           </h2>
           <p className="mt-4 text-xl text-muted-foreground max-w-xl mx-auto">
             No overwhelm. No medical jargon. Just a clear path to understanding
-            your metabolic health.
+            metabolic health — and the science behind it.
           </p>
         </div>
 

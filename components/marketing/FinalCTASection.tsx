@@ -26,8 +26,8 @@ export function FinalCTASection() {
         </h2>
 
         <p className="mt-6 text-lg md:text-xl text-forest-300 max-w-xl mx-auto leading-relaxed">
-          Take the free quiz and get a personalised profile explaining exactly
-          how insulin resistance affects your specific symptoms.
+          Take the free quiz and get a personalised educational profile showing
+          which metabolic health topics are most relevant to your symptoms and lifestyle.
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
