@@ -5,6 +5,7 @@ import { useFormStatus } from "react-dom";
 import { subscribeToNewsletter } from "@/actions/newsletter";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { Mail } from "lucide-react";
 
 function SubmitButton() {
   const { pending } = useFormStatus();
@@ -12,7 +13,7 @@ function SubmitButton() {
     <Button
       type="submit"
       disabled={pending}
-      className="bg-emerald-600 hover:bg-emerald-700 whitespace-nowrap"
+      className="bg-white text-forest-800 hover:bg-forest-50 font-semibold whitespace-nowrap px-6 h-12 rounded-xl shadow-sm transition-all hover:-translate-y-px disabled:opacity-60"
     >
       {pending ? "Subscribing…" : "Get Free Tips"}
     </Button>
@@ -29,30 +30,46 @@ export function NewsletterForm() {
   }
 
   return (
-    <section className="bg-emerald-700 py-16">
-      <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-2xl font-bold text-white sm:text-3xl">
+    <section className="bg-gradient-to-br from-forest-800 to-forest-900 py-20 md:py-24 relative overflow-hidden">
+      {/* Decorative blobs */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-forest-600/30 blur-3xl"
+      />
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -bottom-24 -left-24 h-64 w-64 rounded-full bg-sage-800/30 blur-3xl"
+      />
+
+      <div className="relative mx-auto max-w-2xl px-4 sm:px-6 lg:px-8 text-center">
+        <div className="inline-flex items-center justify-center w-12 h-12 rounded-2xl bg-forest-700 mb-6">
+          <Mail className="h-6 w-6 text-forest-300" />
+        </div>
+
+        <h2 className="text-3xl md:text-4xl font-extrabold text-white">
           Weekly metabolic health tips — free
         </h2>
-        <p className="mt-3 text-emerald-200">
-          Join 10,000+ readers learning to reverse insulin resistance naturally.
-          No spam, unsubscribe anytime.
+        <p className="mt-4 text-forest-200 text-lg leading-relaxed">
+          Join early readers building better metabolic health — one insight at a
+          time. No spam, unsubscribe anytime.
         </p>
 
-        <form action={handleAction} className="mt-8 flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+        <form
+          action={handleAction}
+          className="mt-8 flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
+        >
           <Input
             type="email"
             name="email"
             placeholder="Enter your email"
             required
-            className="bg-white/10 border-white/20 text-white placeholder:text-emerald-200 focus:bg-white focus:text-gray-900 focus:placeholder:text-gray-400 flex-1"
+            className="bg-white/10 border-white/20 text-white placeholder:text-forest-300 focus:bg-white/20 focus:border-forest-400 h-12 rounded-xl flex-1 text-base"
           />
           <SubmitButton />
         </form>
 
-        <p className="mt-3 text-xs text-emerald-300">
-          This content is for educational purposes only and does not constitute
-          medical advice. Always consult a qualified healthcare provider.
+        <p className="mt-4 text-xs text-forest-400">
+          Educational purposes only. Not medical advice. Unsubscribe anytime.
         </p>
       </div>
     </section>

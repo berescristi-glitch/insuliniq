@@ -1,6 +1,7 @@
-import { createHmac } from "crypto";
+import { createHmac, timingSafeEqual } from "crypto";
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
+import { sendPurchaseConfirmationEmail } from "@/lib/resend/emails";
 import type { Database } from "@/types/database";
 
 type SubscriptionStatus =
@@ -11,7 +12,12 @@ function verifySignature(payload: string, signature: string): boolean {
   const expected = createHmac("sha256", secret)
     .update(payload)
     .digest("hex");
-  return expected === signature;
+  const expectedBuf = Buffer.from(expected, "hex");
+  const sigBuf = Buffer.from(signature, "hex");
+  return (
+    expectedBuf.length === sigBuf.length &&
+    timingSafeEqual(expectedBuf, sigBuf)
+  );
 }
 
 function getAdminClient() {
@@ -64,6 +70,48 @@ export async function POST(request: Request) {
         .from("subscriptions")
         .update({ status: statusMap[eventName] })
         .eq("lemon_squeezy_subscription_id", String(data.id));
+      break;
+    }
+
+    case "order_created": {
+      if (attrs.status !== "paid") break;
+
+      const userId = String(customData.user_id ?? "");
+      if (!userId) {
+        console.log("order_created: no user_id in custom_data — skipping subscription link");
+        break;
+      }
+
+      const firstItem = (attrs.first_order_item ?? {}) as Record<string, unknown>;
+      const variantId = String(firstItem.variant_id ?? "");
+
+      const planDays: Record<string, number> = {
+        [process.env.LS_VARIANT_14_DAYS ?? ""]: 14,
+        [process.env.LS_VARIANT_21_DAYS ?? ""]: 21,
+        [process.env.LS_VARIANT_45_DAYS ?? ""]: 45,
+      };
+
+      const days = planDays[variantId];
+      if (!days) break;
+
+      const expiresAt = new Date();
+      expiresAt.setDate(expiresAt.getDate() + days);
+
+      await supabase.from("subscriptions").insert({
+        lemon_squeezy_subscription_id: `order_${String(data.id)}`,
+        lemon_squeezy_customer_id: String(attrs.customer_id ?? ""),
+        user_id: userId,
+        plan_id: variantId,
+        status: "active",
+        current_period_end: expiresAt.toISOString(),
+      });
+
+      const userEmail = String(attrs.user_email ?? "");
+      if (userEmail) {
+        sendPurchaseConfirmationEmail(userEmail, `${days}-Day Plan`).catch((err) =>
+          console.error("Purchase confirmation email failed:", err)
+        );
+      }
       break;
     }
 

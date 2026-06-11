@@ -86,11 +86,17 @@ export function SiteFooter() {
           </div>
         </div>
 
-        <div className="mt-8 border-t pt-8">
+        <div className="mt-8 border-t pt-8 space-y-4">
+          <p className="text-xs text-gray-500 leading-relaxed max-w-4xl mx-auto text-center">
+            <strong className="text-gray-600">Educational Disclaimer:</strong> InsulinIQ provides digital educational content,
+            nutrition frameworks, and self-assessment tools for general health information purposes only. The information,
+            products, and services offered here are not intended to diagnose, treat, cure, or prevent any medical condition,
+            nor do they replace a face-to-face consultation with a licensed healthcare provider. Never disregard professional
+            medical advice or delay seeking it because of something you read on this website. Nutritional modifications should
+            be undertaken in consultation with your primary physician or endocrinologist.
+          </p>
           <p className="text-xs text-gray-400 text-center">
-            © {new Date().getFullYear()} InsulinIQ. This content is for
-            educational purposes only and does not constitute medical advice.
-            Always consult a qualified healthcare provider.
+            © {new Date().getFullYear()} InsulinIQ. All rights reserved. Educational content only — not medical advice.
           </p>
         </div>
       </div>

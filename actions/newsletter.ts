@@ -2,7 +2,7 @@
 
 import { z } from "zod";
 import { createClient } from "@/lib/supabase/server";
-import { sendWelcomeEmail } from "@/lib/resend/emails";
+import { sendConfirmationEmail } from "@/lib/resend/emails";
 
 const EmailSchema = z.object({
   email: z.string().email("Please enter a valid email address"),
@@ -33,7 +33,7 @@ export async function subscribeToNewsletter(formData: FormData) {
     return { error: "Something went wrong. Please try again." };
   }
 
-  await sendWelcomeEmail(email);
+  await sendConfirmationEmail(email);
 
   return { success: true };
 }

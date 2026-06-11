@@ -13,6 +13,32 @@ interface PageProps {
   params: Promise<{ slug: string }>;
 }
 
+/**
+ * Strips the primary XSS vectors from CMS-sourced HTML.
+ * Replace with sanitize-html once npm filesystem issues are resolved:
+ *   npm install sanitize-html @types/sanitize-html
+ */
+function sanitizeCmsHtml(html: string): string {
+  return (
+    html
+      // Remove script tags and their contents
+      .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "")
+      // Remove dangerous embeds
+      .replace(
+        /<(iframe|embed|object|applet|link|meta|style|base|form)\b[^>]*>[\s\S]*?<\/\1>/gi,
+        ""
+      )
+      .replace(
+        /<(iframe|embed|object|applet|link|meta|style|base|form)\b[^>]*\/?>/gi,
+        ""
+      )
+      // Remove all on* event attributes
+      .replace(/\s+on[a-z]+\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]*)/gi, "")
+      // Replace javascript: hrefs/srcs
+      .replace(/(href|src|action)\s*=\s*["']\s*javascript:[^"']*["']/gi, '$1="#"')
+  );
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const supabase = await createClient();
@@ -88,7 +114,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
       <div
         className="prose prose-gray prose-headings:text-gray-900 prose-a:text-emerald-700 max-w-none"
-        dangerouslySetInnerHTML={{ __html: article.content }}
+        dangerouslySetInnerHTML={{ __html: sanitizeCmsHtml(article.content) }}
       />
 
       <ArticleSources sources={article.sources} />

@@ -2,6 +2,7 @@ import { createCheckout } from "@lemonsqueezy/lemonsqueezy.js";
 import { initLemonSqueezy } from "./client";
 
 export const PLANS = {
+  // Legacy one-time plans — kept so existing checkout links remain valid
   "plan-14-days": {
     variantId: process.env.LS_VARIANT_14_DAYS!,
     name: "14-Day Plan",
@@ -17,6 +18,7 @@ export const PLANS = {
     name: "45-Day Plan",
     prices: { US: "$59", GB: "£49", AU: "$84 AUD" },
   },
+  // Legacy subscriptions — kept so existing checkout links remain valid
   "subscription-basic": {
     variantId: process.env.LS_VARIANT_SUB_BASIC!,
     name: "Basic Subscription",
@@ -31,6 +33,22 @@ export const PLANS = {
     variantId: process.env.LS_VARIANT_SUB_COMMUNITY!,
     name: "Community Subscription",
     prices: { US: "$24/mo", GB: "£19/mo", AU: "$35/mo AUD" },
+  },
+  // Current product lineup (post-consolidation)
+  "plan-starter-kit": {
+    variantId: process.env.LS_VARIANT_STARTER_KIT!,
+    name: "Starter Kit",
+    prices: { US: "$27", GB: "£22", AU: "$42 AUD" },
+  },
+  "subscription-core-monthly": {
+    variantId: process.env.LS_VARIANT_CORE_MONTHLY!,
+    name: "Core Membership — Monthly",
+    prices: { US: "$29/mo", GB: "£23/mo", AU: "$45/mo AUD" },
+  },
+  "subscription-core-annual": {
+    variantId: process.env.LS_VARIANT_CORE_ANNUAL!,
+    name: "Core Membership — Annual",
+    prices: { US: "$199/yr", GB: "£159/yr", AU: "$309/yr AUD" },
   },
 } as const;
 
