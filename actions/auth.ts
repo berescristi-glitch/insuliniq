@@ -2,6 +2,7 @@
 
 import { z } from "zod";
 import { redirect } from "next/navigation";
+import { headers } from "next/headers";
 import { createClient } from "@/lib/supabase/server";
 
 const LoginSchema = z.object({
@@ -74,6 +75,11 @@ export async function registerAction(formData: FormData) {
   const now = new Date().toISOString();
   const newsletterOn = newsletter_opt_in === "on";
 
+  const headersList = await headers();
+  const origin =
+    headersList.get("origin") ??
+    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "http://localhost:3000");
+
   const supabase = await createClient();
   const { error } = await supabase.auth.signUp({
     email,
@@ -87,7 +93,7 @@ export async function registerAction(formData: FormData) {
         newsletter_opt_in: newsletterOn,
         newsletter_opt_in_at: newsletterOn ? now : null,
       },
-      emailRedirectTo: `${process.env.NEXT_PUBLIC_APP_URL}/auth/callback`,
+      emailRedirectTo: `${origin}/auth/callback`,
     },
   });
 
