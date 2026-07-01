@@ -95,14 +95,15 @@ export default function TermsPage() {
             and privacy policy govern the payment transaction itself.
           </p>
           <p>
-            Current subscription plans include Basic, Premium, and Community
-            tiers, billed monthly. Prices are displayed at checkout in USD, GBP,
-            or AUD depending on your region. All prices include applicable taxes
-            where required by law.
+            Current plans include the Starter Kit (one-time purchase), and the
+            Core Membership, available billed monthly or annually. Prices are
+            displayed at checkout in USD, GBP, or AUD depending on your region.
+            All prices include applicable taxes where required by law.
           </p>
           <p>
-            Subscriptions renew automatically at the end of each billing period
-            unless cancelled before the renewal date.
+            Core Membership subscriptions renew automatically at the end of
+            each billing period unless cancelled before the renewal date. The
+            Starter Kit is a one-time purchase and does not renew.
           </p>
         </SECTION>
 
@@ -303,13 +304,6 @@ export default function TermsPage() {
             .
           </p>
         </SECTION>
-
-        <div className="rounded-xl border border-border bg-muted/40 px-5 py-4 text-sm text-muted-foreground">
-          ⚠️ These Terms were drafted for general guidance covering US, UK
-          (Consumer Rights Act 2015, Consumer Contracts Regulations 2013), and
-          Australian (ACL) requirements. Have a qualified lawyer in each of your
-          target jurisdictions review them before publishing.
-        </div>
 
       </div>
     </article>

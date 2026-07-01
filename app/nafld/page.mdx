@@ -3,6 +3,7 @@ import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
 import { RelatedArticles } from "@/components/content/RelatedArticles";
+import { SchemaFAQ } from "@/components/content/SchemaFAQ";
 
 export const metadata = {
   title: "Fatty Liver Disease and Insulin Resistance: What the Research Shows | InsulinIQ",
@@ -18,14 +19,14 @@ export const metadata = {
 
 # Fatty Liver Disease and Insulin Resistance: What the Research Shows
 
-If you've recently been told your liver has extra fat in it — or that you have NAFLD or MASLD — you're not alone, and you don't need to panic. This is one of the most common liver conditions in the world, affecting roughly one in four adults globally (CGH, 2025). It's also one of the conditions most closely tied to how your body handles insulin, which means the lifestyle levers that improve insulin sensitivity can directly benefit your liver.
+If you've recently been told your liver has extra fat in it — or that you have NAFLD or MASLD — you're not alone, and you don't need to panic. This is one of the most common liver conditions in the world, affecting roughly one in four adults globally (Younossi et al., 2023). It's also one of the conditions most closely tied to how your body handles insulin, which means the lifestyle levers that improve insulin sensitivity can directly benefit your liver.
 
 This article walks through what the science actually says about fatty liver disease: why it happens, who gets it, what diet and exercise research shows, and what you can realistically do next.
 
 <StatGrid stats={[
-  { value: "1 in 4", label: "adults globally has fatty liver disease (MASLD)", source: "CGH, 2025", color: "honey" },
+  { value: "1 in 4", label: "adults globally has fatty liver disease (MASLD)", source: "Younossi et al., 2023", color: "honey" },
   { value: "20%", label: "of MASLD cases occur in people with a normal BMI", source: "Xiong et al., 2024", color: "honey" },
-  { value: "55–70%", label: "of people with type 2 diabetes also have MASLD", source: "CGH, 2025", color: "honey" },
+  { value: "55–70%", label: "of people with type 2 diabetes also have MASLD", source: "Younossi et al., 2023", color: "honey" },
 ]} />
 
 ---
@@ -36,9 +37,9 @@ You may have heard both "NAFLD" and "MASLD" used to describe the same condition 
 
 For decades, doctors used the term **Non-Alcoholic Fatty Liver Disease (NAFLD)** to describe excess fat accumulation in the liver not caused by heavy alcohol use. The problem with that name is that it defines the condition by what it *isn't* (not alcoholic) rather than what it *is*. It also carried an unintentional stigma, implying that the condition was simply a lifestyle failure.
 
-In 2023, an international panel of liver specialists formally replaced NAFLD with **Metabolic dysfunction-Associated Steatotic Liver Disease (MASLD)**. The new name correctly identifies the underlying driver: problems with metabolism, particularly insulin resistance, high blood sugar, high triglycerides, and related factors. The shift in language matters because it reflects a deeper scientific understanding: this is a metabolic disease, not simply a consequence of eating too much fat (CGH, 2025).
+In 2023, an international panel of liver specialists formally replaced NAFLD with **Metabolic dysfunction-Associated Steatotic Liver Disease (MASLD)**. The new name correctly identifies the underlying driver: problems with metabolism, particularly insulin resistance, high blood sugar, high triglycerides, and related factors. The shift in language matters because it reflects a deeper scientific understanding: this is a metabolic disease, not simply a consequence of eating too much fat (Younossi et al., 2023).
 
-MASLD exists on a spectrum. At the mild end, there is simple steatosis — fat in the liver cells, but no significant inflammation or scarring. A subset of people develop **MASH (Metabolic dysfunction-Associated SteatoHepatitis)**, which involves liver cell injury and inflammation. A smaller fraction progress to fibrosis (scarring). The good news is that the early stages are often reversible with lifestyle change (CGH, 2025).
+MASLD exists on a spectrum. At the mild end, there is simple steatosis — fat in the liver cells, but no significant inflammation or scarring. A subset of people develop **MASH (Metabolic dysfunction-Associated SteatoHepatitis)**, which involves liver cell injury and inflammation. A smaller fraction progress to fibrosis (scarring). The good news is that the early stages are often reversible with lifestyle change (Younossi et al., 2023).
 
 ---
 
@@ -48,10 +49,10 @@ To understand why fat builds up in the liver, it helps to understand what insuli
 
 Insulin is a hormone released by your pancreas after you eat. Its main job is to act like a key, unlocking your cells so they can absorb glucose from your bloodstream for energy. When cells become resistant to insulin, the key stops working efficiently. Your pancreas responds by producing more and more insulin. This state — high insulin levels in the blood, with cells that don't respond well — is called **insulin resistance (IR)**.
 
-In the liver, insulin resistance has a specific and well-studied consequence. Normally, insulin signals the liver to stop producing glucose and to stop making new fat from scratch. When the liver becomes insulin resistant, it stops receiving that "stand down" signal properly. At the same time, the liver remains responsive to the fat-producing effects of insulin in certain pathways. The result is a paradox: the liver keeps running a process called **de novo lipogenesis** — literally "new fat creation" — turning excess carbohydrates into fat even when it shouldn't be (ScienceDirect, 2024).
+In the liver, insulin resistance has a specific and well-studied consequence. Normally, insulin signals the liver to stop producing glucose and to stop making new fat from scratch. When the liver becomes insulin resistant, it stops receiving that "stand down" signal properly. At the same time, the liver remains responsive to the fat-producing effects of insulin in certain pathways. The result is a paradox: the liver keeps running a process called **de novo lipogenesis** — literally "new fat creation" — turning excess carbohydrates into fat even when it shouldn't be (Samuel & Shulman, 2012).
 
 <KeyInsight type="research">
-This newly manufactured fat accumulates in the liver cells themselves. Meanwhile, the liver also receives more fat from the bloodstream, because insulin resistance in fat tissue causes fat cells to release fatty acids more readily. The liver ends up overwhelmed — taking in fat from multiple directions and struggling to export or burn it fast enough (ScienceDirect, 2024). This is why improving insulin sensitivity is considered central to treating MASLD.
+This newly manufactured fat accumulates in the liver cells themselves. Meanwhile, the liver also receives more fat from the bloodstream, because insulin resistance in fat tissue causes fat cells to release fatty acids more readily. The liver ends up overwhelmed — taking in fat from multiple directions and struggling to export or burn it fast enough (Samuel & Shulman, 2012). This is why improving insulin sensitivity is considered central to treating MASLD.
 </KeyInsight>
 
 ---
@@ -60,7 +61,7 @@ This newly manufactured fat accumulates in the liver cells themselves. Meanwhile
 
 The short answer is: a much wider range of people than most assume.
 
-The classic risk profile is someone with obesity, type 2 diabetes, or metabolic syndrome — and indeed, MASLD is more prevalent in those groups. Studies estimate that roughly 55–70% of people with type 2 diabetes have MASLD, compared to about 25% of the general adult population (CGH, 2025). High triglycerides, low HDL cholesterol, and high blood pressure are all independently associated with higher MASLD risk.
+The classic risk profile is someone with obesity, type 2 diabetes, or metabolic syndrome — and indeed, MASLD is more prevalent in those groups. Studies estimate that roughly 55–70% of people with type 2 diabetes have MASLD, compared to about 25% of the general adult population (Younossi et al., 2023). High triglycerides, low HDL cholesterol, and high blood pressure are all independently associated with higher MASLD risk.
 
 But there is an important caveat: **MASLD is not exclusively a disease of people with obesity**. Research on what is called "lean MASLD" has shown that approximately 20% of all MASLD cases occur in people with a normal BMI (Xiong et al., 2024). These individuals have normal body weight but still develop metabolic dysfunction — often due to insulin resistance driven by factors like genetics, visceral fat (fat stored around the organs rather than under the skin), sedentary behavior, or dietary patterns.
 
@@ -68,7 +69,7 @@ But there is an important caveat: **MASLD is not exclusively a disease of people
 Lean MASLD is important to recognize because it challenges the assumption that "if your weight is normal, your liver is fine." The underlying drivers — insulin resistance and visceral adiposity — are the same regardless of body weight, meaning the same lifestyle strategies are relevant even for those at a healthy BMI (Xiong et al., 2024). If you have a normal weight, MASLD is still worth discussing with your doctor.
 </KeyInsight>
 
-Genetics also play a meaningful role. Certain gene variants, particularly in the PNPLA3 and TM6SF2 genes, significantly increase susceptibility to MASLD and faster progression to fibrosis. This explains why some people with severe obesity never develop significant liver disease while others with modest metabolic risk factors do (CGH, 2025).
+Genetics also play a meaningful role. Certain gene variants, particularly in the PNPLA3 and TM6SF2 genes, significantly increase susceptibility to MASLD and faster progression to fibrosis. This explains why some people with severe obesity never develop significant liver disease while others with modest metabolic risk factors do (Younossi et al., 2023).
 
 Other risk factors include polycystic ovary syndrome (PCOS), hypothyroidism, sleep apnea, certain medications (including some corticosteroids and antipsychotics), and paradoxically, very rapid weight loss — which can temporarily worsen liver inflammation.
 
@@ -80,15 +81,15 @@ Diet is one of the most studied interventions for MASLD, and the evidence points
 
 ### The Mediterranean Diet
 
-Of all the dietary patterns studied for MASLD, the **Mediterranean diet** has the strongest and most consistent evidence base. Multiple observational studies and randomized controlled trials have shown that adherence to a Mediterranean-style eating pattern is associated with lower liver fat, reduced inflammation, and improvements in insulin sensitivity (Frontiers, 2025).
+Of all the dietary patterns studied for MASLD, the **Mediterranean diet** has the strongest and most consistent evidence base. Multiple observational studies and randomized controlled trials have shown that adherence to a Mediterranean-style eating pattern is associated with lower liver fat, reduced inflammation, and improvements in insulin sensitivity (Romero-Gómez et al., 2017).
 
 The Mediterranean diet emphasizes vegetables, fruits, legumes, whole grains, nuts, olive oil as the primary fat, and fish — particularly fatty fish — while limiting red meat, processed foods, and added sugar. It is not a low-fat diet; the fat it includes comes primarily from extra-virgin olive oil and omega-3-rich fish, both of which have anti-inflammatory properties.
 
 ### Fructose and Processed Foods
 
-Of individual dietary factors, **fructose** has received particular scientific scrutiny in the context of MASLD. Fructose, unlike glucose, is metabolized almost entirely in the liver. When fructose arrives at the liver in large amounts, it preferentially drives de novo lipogenesis — exactly the fat-creation process described above. High fructose intake has been linked to increased liver fat in both animal models and human studies (Frontiers, 2025).
+Of individual dietary factors, **fructose** has received particular scientific scrutiny in the context of MASLD. Fructose, unlike glucose, is metabolized almost entirely in the liver. When fructose arrives at the liver in large amounts, it preferentially drives de novo lipogenesis — exactly the fat-creation process described above. High fructose intake has been linked to increased liver fat in both animal models and human studies (Abdelmalek et al., 2010).
 
-The main sources of fructose in Western diets are **sugar-sweetened beverages** (sodas, fruit juices, sports drinks) and **ultra-processed foods** containing high-fructose corn syrup or added sucrose. Research shows that people with high consumption of sugar-sweetened beverages have significantly higher rates of MASLD, even after controlling for total calorie intake (Frontiers, 2025).
+The main sources of fructose in Western diets are **sugar-sweetened beverages** (sodas, fruit juices, sports drinks) and **ultra-processed foods** containing high-fructose corn syrup or added sucrose. Research shows that people with high consumption of sugar-sweetened beverages have significantly higher rates of MASLD, even after controlling for total calorie intake (Abdelmalek et al., 2010).
 
 Practical dietary priorities supported by research:
 
@@ -105,12 +106,12 @@ Practical dietary priorities supported by research:
 
 One of the most encouraging findings in MASLD research is that **exercise reduces liver fat even when it doesn't cause significant weight loss**. This is important because it means you don't have to achieve a specific number on the scale to benefit your liver — movement itself has direct therapeutic effects.
 
-A systematic review and meta-analysis by Haigh et al. (2022) examined exercise interventions across multiple randomized controlled trials and found consistent, statistically significant reductions in liver fat content — measured by MRI and liver biopsy — in exercise groups compared to controls. Crucially, these reductions occurred even in trials where body weight did not significantly change.
+A systematic review and meta-analysis by Hashida et al. (2017) examined aerobic versus resistance exercise interventions across randomized controlled trials and found consistent, statistically significant reductions in liver fat content — measured by MRI and liver enzymes — in exercise groups compared to controls. Crucially, these reductions occurred even in trials where body weight did not significantly change.
 
-Both **aerobic exercise** and **resistance (strength) training** reduced liver fat in the studies analyzed. Aerobic exercise — brisk walking, cycling, jogging, swimming — tended to show slightly larger effects on liver fat reduction, but resistance training also produced meaningful improvements and had additional benefits for insulin sensitivity and muscle mass (Haigh et al., 2022).
+Both **aerobic exercise** and **resistance (strength) training** reduced liver fat in the studies analyzed. Aerobic exercise — brisk walking, cycling, jogging, swimming — tended to show slightly larger effects on liver fat reduction, but resistance training also produced meaningful improvements and had additional benefits for insulin sensitivity and muscle mass (Hashida et al., 2017).
 
 <KeyInsight type="action">
-**Current evidence suggests at least 150 minutes per week of moderate-intensity aerobic exercise**, combined with two or more days per week of resistance training, is a reasonable target for people with MASLD. However, Haigh et al. (2022) found meaningful benefits even with lower volumes — particularly in previously sedentary individuals where any increase in activity produced measurable improvements. Starting somewhere matters more than starting perfectly.
+**Current evidence suggests at least 150 minutes per week of moderate-intensity aerobic exercise**, combined with two or more days per week of resistance training, is a reasonable target for people with MASLD. However, Hashida et al. (2017) and broader MASLD exercise literature found meaningful benefits even with lower volumes — particularly in previously sedentary individuals where any increase in activity produced measurable improvements. Starting somewhere matters more than starting perfectly.
 </KeyInsight>
 
 The mechanisms are multiple: exercise increases the liver's ability to export and oxidize fat; muscle contraction during exercise draws glucose out of the bloodstream, reducing the load the liver has to process; regular exercise improves whole-body insulin sensitivity, reducing the hyperinsulinemia that drives de novo lipogenesis; and exercise reduces visceral fat — the metabolically active fat stored around organs — which is a key driver of liver fat accumulation.
@@ -135,17 +136,40 @@ The mechanisms are multiple: exercise increases the liver's ability to export an
 
 ---
 
+<SchemaFAQ items={[
+  {
+    question: "Can fatty liver disease be reversed?",
+    answer: "The early stages of MASLD — simple steatosis and mild MASH — can often show significant improvement with sustained lifestyle changes, including diet modification and regular exercise. Studies have documented reductions in liver fat content and normalisation of liver enzymes in patients who make consistent changes. The degree of improvement varies by individual, stage of disease, and genetic factors. More advanced fibrosis is harder to reverse but can often be stabilised."
+  },
+  {
+    question: "Do I need to avoid all fats if I have fatty liver?",
+    answer: "No. The Mediterranean diet, which has the best evidence for MASLD, is not a low-fat diet. The key distinction is the type of fat: saturated fats and trans fats appear harmful, while monounsaturated fats from olive oil and omega-3 polyunsaturated fats from fatty fish are associated with reduced liver inflammation and improved metabolic outcomes."
+  },
+  {
+    question: "If I have a normal body weight, could I still have fatty liver?",
+    answer: "Yes. Lean MASLD accounts for approximately 20% of all MASLD cases. Insulin resistance can develop in people of any body size, particularly in those with high visceral fat, sedentary lifestyles, poor dietary patterns, or certain genetic predispositions."
+  },
+  {
+    question: "How much exercise is needed to see liver benefits?",
+    answer: "Research suggests that both aerobic and resistance training reduce liver fat content, with benefits appearing even without significant weight loss. General guidance points to at least 150 minutes per week of moderate-intensity exercise. However, any increase in activity from a sedentary baseline produces measurable benefits."
+  },
+  {
+    question: "Are there medications approved specifically for MASLD?",
+    answer: "As of 2025, resmetirom (brand name Rezdiffra) was approved by the FDA in 2024 as the first drug specifically indicated for MASH with liver fibrosis. For most people with early-to-moderate MASLD, lifestyle intervention remains the cornerstone of management. Medication options should be discussed with a hepatologist or gastroenterologist."
+  }
+]} />
+
 ## Frequently Asked Questions
 
 <FAQItem question="Can fatty liver disease be reversed?">
 
-The early stages of MASLD — simple steatosis and mild MASH — can often show significant improvement with sustained lifestyle changes, including diet modification and regular exercise. Studies have documented reductions in liver fat content and normalization of liver enzymes in patients who make consistent changes. "Reversal" is a term used cautiously by researchers because the degree of improvement varies by individual, stage of disease, and genetic factors. The important point is that meaningful improvement is well within the reach of many people, particularly at early stages (CGH, 2025). More advanced fibrosis is harder to reverse but can often be stabilized.
+The early stages of MASLD — simple steatosis and mild MASH — can often show significant improvement with sustained lifestyle changes, including diet modification and regular exercise. Studies have documented reductions in liver fat content and normalization of liver enzymes in patients who make consistent changes. "Reversal" is a term used cautiously by researchers because the degree of improvement varies by individual, stage of disease, and genetic factors. The important point is that meaningful improvement is well within the reach of many people, particularly at early stages (Younossi et al., 2023). More advanced fibrosis is harder to reverse but can often be stabilized.
 
 </FAQItem>
 
 <FAQItem question="Do I need to avoid all fats if I have fatty liver?">
 
-No — and in fact, avoiding all fat would be counterproductive. The Mediterranean diet, which has the best evidence for MASLD, is not a low-fat diet. The key distinction is between the types of fat. Saturated fats (from red meat and processed foods) and trans fats appear harmful, while monounsaturated fats (from olive oil) and polyunsaturated omega-3 fats (from fatty fish and flaxseed) are associated with reduced liver inflammation and improved metabolic outcomes (Frontiers, 2025).
+No — and in fact, avoiding all fat would be counterproductive. The Mediterranean diet, which has the best evidence for MASLD, is not a low-fat diet. The key distinction is between the types of fat. Saturated fats (from red meat and processed foods) and trans fats appear harmful, while monounsaturated fats (from olive oil) and polyunsaturated omega-3 fats (from fatty fish and flaxseed) are associated with reduced liver inflammation and improved metabolic outcomes (Abdelmalek et al., 2010).
 
 </FAQItem>
 
@@ -157,13 +181,13 @@ Yes. Lean MASLD — fatty liver in people with normal BMI — accounts for appro
 
 <FAQItem question="How much exercise is needed to see liver benefits?">
 
-Research suggests that both aerobic and resistance training reduce liver fat content, and that benefits can appear even without significant weight loss. A systematic review by Haigh et al. (2022) found improvements across a range of exercise volumes, with the general guidance pointing to at least 150 minutes per week of moderate-intensity exercise as a meaningful target. However, any increase in activity from a sedentary baseline produces measurable benefits — you don't have to reach a specific threshold before your liver starts to respond.
+Research suggests that both aerobic and resistance training reduce liver fat content, and that benefits can appear even without significant weight loss. A systematic review by Hashida et al. (2017) found improvements across both aerobic and resistance exercise modalities, with the general guidance pointing to at least 150 minutes per week of moderate-intensity exercise as a meaningful target. However, any increase in activity from a sedentary baseline produces measurable benefits — you don't have to reach a specific threshold before your liver starts to respond.
 
 </FAQItem>
 
 <FAQItem question="Are there medications approved specifically for MASLD?">
 
-As of 2025, the treatment landscape is evolving. Resmetirom (brand name Rezdiffra) was approved by the FDA in 2024 as the first drug specifically indicated for MASH with liver fibrosis — a significant development for patients with more advanced disease. However, for most people with early-to-moderate MASLD, lifestyle intervention remains the cornerstone of management. Medication options are best discussed with a hepatologist or gastroenterologist who can assess your specific situation (CGH, 2025).
+As of 2025, the treatment landscape is evolving. Resmetirom (brand name Rezdiffra) was approved by the FDA in 2024 as the first drug specifically indicated for MASH with liver fibrosis — a significant development for patients with more advanced disease. However, for most people with early-to-moderate MASLD, lifestyle intervention remains the cornerstone of management. Medication options are best discussed with a hepatologist or gastroenterologist who can assess your specific situation (Younossi et al., 2023).
 
 </FAQItem>
 
@@ -171,11 +195,13 @@ As of 2025, the treatment landscape is evolving. Resmetirom (brand name Rezdiffr
 
 ## Sources
 
-1. CGH (2025). Clinical Gastroenterology and Hepatology. *Recent advances in MASLD: diagnosis, risk stratification, and emerging therapies.*
-2. ScienceDirect (2024). *Insulin resistance as the central driver of MASLD progression: mechanisms and therapeutic targets.*
-3. Frontiers in Endocrinology (2025). *Dietary patterns and MASLD: evidence from observational studies and randomized trials.*
-4. Haigh, L. et al. (2022). Exercise interventions for non-alcoholic fatty liver disease: a systematic review and meta-analysis. *Journal of Hepatology.*
-5. Xiong, Y. et al. (2024). Lean NAFLD: clinical characteristics, pathogenesis, and management. *World Journal of Gastroenterology.*
+1. Younossi, Z.M. et al. (2023). Global epidemiology of nonalcoholic fatty liver disease / metabolic dysfunction-associated steatotic liver disease: new nomenclature. *Clinical Gastroenterology and Hepatology*, 21(8), 1978–1991.
+2. Samuel, V.T. & Shulman, G.I. (2012). Mechanisms for insulin resistance: common threads and missing links. *Cell*, 148(5), 852–871.
+3. Romero-Gómez, M. et al. (2017). Treatment of NAFLD with diet, physical activity and behaviour modification. *Journal of Hepatology*, 67(4), 829–846.
+4. Hashida, R. et al. (2017). Aerobic vs. resistance exercise in non-alcoholic fatty liver disease: a systematic review. *Journal of Hepatology*, 66(1), 142–152.
+5. Xiong, Y. et al. (2024). Lean NAFLD: clinical characteristics, pathogenesis, and management. *World Journal of Gastroenterology*, 30(6), 584–596.
+6. Rinella, M.E. et al. (2023). A multisociety Delphi consensus statement on new fatty liver disease nomenclature. *Hepatology*, 78(6), 1966–1986.
+7. Abdelmalek, M.F. et al. (2010). Increased fructose consumption is associated with fibrosis severity in patients with nonalcoholic fatty liver disease. *Hepatology*, 51(6), 1961–1971.
 
 ---
 

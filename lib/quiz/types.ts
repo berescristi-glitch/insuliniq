@@ -82,6 +82,19 @@ export type AgeRange =
   | "55_64"
   | "65_plus";
 
+// Safety-screening flags (CLAUDE.md §16) — never used to block/diagnose, only to
+// surface a "speak with a doctor before any meal plan" notice on the results page.
+export type SafetyFlag =
+  | "type1_diabetes"
+  | "pregnant"
+  | "breastfeeding"
+  | "kidney_disease"
+  | "advanced_liver_disease"
+  | "eating_disorder_history"
+  | "takes_insulin"
+  | "hypoglycemia_risk_medication"
+  | "under_18";
+
 export type MetabolicProfile =
   | "pcos"
   | "prediabetes"
@@ -99,8 +112,9 @@ export interface QuizAnswers {
   cookingTime: CookingTime | null;
   cookingSkill: CookingSkill | null;
   ageRange: AgeRange | null;
+  safetyFlags: SafetyFlag[];
   email: string | null;
 }
 
-// 8 = email gate step
-export type QuizStep = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8;
+// 8 = safety screening step, 9 = email gate step
+export type QuizStep = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;

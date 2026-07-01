@@ -3,6 +3,7 @@ import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
 import { RelatedArticles } from "@/components/content/RelatedArticles";
+import { SchemaFAQ } from "@/components/content/SchemaFAQ";
 
 export const metadata = {
   title: "Your Gut Microbiome and Metabolic Health | InsulinIQ",
@@ -217,6 +218,33 @@ These questions are designed to give you language for a productive conversation,
 - "Could fermented foods be a reasonable addition to my current dietary plan?"
 
 ---
+
+<SchemaFAQ items={[
+  {
+    question: "Do I need a gut microbiome test to improve my gut health?",
+    answer: "Probably not, for most people. Direct-to-consumer microbiome tests are not currently able to provide clinically actionable guidance for metabolic health, and metrics like the F/B ratio are not validated biomarkers. The interventions most supported by evidence — more fiber, fermented foods, exercise — don't require knowing your microbiome composition."
+  },
+  {
+    question: "Can gut bacteria actually cause insulin resistance, or is it just a correlation?",
+    answer: "Probably both causal and correlated, reinforcing each other. Animal experiments showed that LPS infusion alone causes insulin resistance, and human fecal microbiota transplant trials showed transferring a lean microbiome temporarily improved insulin sensitivity — pointing toward causal influence alongside the bidirectional relationship."
+  },
+  {
+    question: "Should I take a probiotic for insulin resistance?",
+    answer: "The evidence does not currently support a strong general recommendation. The best meta-analysis found modest HOMA-IR reductions with probiotics, but effects were strain-specific and heterogeneity was high. Discuss specific strains and doses with your doctor or a registered dietitian."
+  },
+  {
+    question: "Is fermented food the same as a probiotic supplement?",
+    answer: "Not exactly, though there is overlap. Fermented foods contain live microorganisms and other nutritional value beyond their microbial content. A high-fermented-food dietary pattern increased microbiome diversity and reduced inflammation in a way that probiotic capsule studies have not consistently replicated."
+  },
+  {
+    question: "I've read that the Firmicutes/Bacteroidetes ratio tells you about your metabolic health. Is that true?",
+    answer: "This was a widely cited hypothesis based on early mouse data, but it does not hold up reliably in human research — a systematic re-analysis found the F/B ratio was not a consistent predictor of obesity or metabolic health. Consumer tests reporting this ratio overstate what the science supports."
+  },
+  {
+    question: "How quickly can dietary changes affect my gut microbiome?",
+    answer: "Microbial diversity can begin to change within days of a significant dietary shift. A 10-week trial of consistent fermented food intake showed meaningful changes in diversity and inflammatory markers, though the microbiome also reverts relatively quickly if the dietary change is not sustained."
+  }
+]} />
 
 ## Frequently Asked Questions
 

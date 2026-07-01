@@ -17,23 +17,23 @@ const stats: Stat[] = [
     value: 3,
     suffix: "",
     label: "adults has insulin resistance",
-    description: "Affecting over 2 billion people worldwide",
+    description: "CDC & IDF Diabetes Atlas estimates",
     color: "text-forest-400",
   },
   {
     prefix: "",
-    value: 88,
-    suffix: "%",
-    label: "of cases go undiagnosed",
-    description: "Most people don't know they have it",
+    value: 80,
+    suffix: "%+",
+    label: "of people with prediabetes are unaware",
+    description: "CDC National Diabetes Statistics, 2023",
     color: "text-honey-400",
   },
   {
     prefix: "",
-    value: 500,
+    value: 541,
     suffix: "M+",
-    label: "people affected globally",
-    description: "And the number is rising every year",
+    label: "adults estimated to have prediabetes globally",
+    description: "IDF Diabetes Atlas, 2023",
     color: "text-clay-300",
   },
 ];
@@ -119,8 +119,8 @@ export function StatsSection() {
 
         <div className="mt-16 text-center">
           <p className="text-white/30 text-xs max-w-xl mx-auto">
-            Sources: IDF Diabetes Atlas 2023 · CDC National Diabetes Statistics
-            Report · WHO Global Report on Diabetes
+            Sources: IDF Diabetes Atlas 2023 (prediabetes prevalence) · CDC National Diabetes Statistics Report 2023
+            (prediabetes awareness) · WHO Global Report on Diabetes (metabolic health burden)
           </p>
         </div>
       </div>

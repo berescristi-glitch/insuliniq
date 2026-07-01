@@ -282,13 +282,6 @@ export default function PrivacyPolicyPage() {
           </p>
         </SECTION>
 
-        <div className="rounded-xl border border-border bg-muted/40 px-5 py-4 text-sm text-muted-foreground">
-          ⚠️ This Privacy Policy was drafted for general guidance and covers
-          common requirements under GDPR (UK/EU), the Australian Privacy Act
-          1988, and US state privacy laws. Have a qualified lawyer in each of
-          your target jurisdictions review it before publishing.
-        </div>
-
       </div>
     </article>
   );

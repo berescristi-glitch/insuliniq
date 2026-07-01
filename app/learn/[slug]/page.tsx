@@ -113,7 +113,7 @@ export default async function ArticlePage({ params }: PageProps) {
       </header>
 
       <div
-        className="prose prose-gray prose-headings:text-gray-900 prose-a:text-emerald-700 max-w-none"
+        className="prose prose-gray prose-headings:text-gray-900 prose-a:text-forest-700 max-w-none"
         dangerouslySetInnerHTML={{ __html: sanitizeCmsHtml(article.content) }}
       />
 

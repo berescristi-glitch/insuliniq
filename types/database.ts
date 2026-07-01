@@ -76,6 +76,9 @@ export interface Database {
           risk_score: number | null;
           recommendations: Json | null;
           created_at: string;
+          // Sprint 5 — add_quiz_v2_metadata.sql
+          quiz_version: string;
+          profile_confidence: string | null;
         };
         Insert: {
           id?: string;
@@ -86,11 +89,15 @@ export interface Database {
           risk_score?: number | null;
           recommendations?: Json | null;
           created_at?: string;
+          quiz_version?: string;
+          profile_confidence?: string | null;
         };
         Update: {
           metabolic_profile?: string | null;
           risk_score?: number | null;
           recommendations?: Json | null;
+          quiz_version?: string;
+          profile_confidence?: string | null;
         };
         Relationships: [];
       };
@@ -219,6 +226,20 @@ export interface Database {
           country: string | null;
           source: string | null;
           created_at: string;
+          // nurture sequence — add_nurture_columns.sql
+          nurture_started_at: string | null;
+          nurture_completed: boolean;
+          // Sprint 3 consent + profile columns — add_consent_profile_columns.sql
+          marketing_consent: boolean;
+          consent_timestamp: string | null;
+          consent_source: string | null;
+          metabolic_profile: string | null;
+          quiz_goal: string | null;
+          region: string | null;
+          locale: string | null;
+          unsubscribed_at: string | null;
+          has_safety_flags: boolean;
+          updated_at: string;
         };
         Insert: {
           id?: string;
@@ -227,10 +248,65 @@ export interface Database {
           country?: string | null;
           source?: string | null;
           created_at?: string;
+          nurture_started_at?: string | null;
+          nurture_completed?: boolean;
+          marketing_consent?: boolean;
+          consent_timestamp?: string | null;
+          consent_source?: string | null;
+          metabolic_profile?: string | null;
+          quiz_goal?: string | null;
+          region?: string | null;
+          locale?: string | null;
+          unsubscribed_at?: string | null;
+          has_safety_flags?: boolean;
+          updated_at?: string;
         };
         Update: {
           confirmed?: boolean;
+          nurture_started_at?: string | null;
+          nurture_completed?: boolean;
+          marketing_consent?: boolean;
+          consent_timestamp?: string | null;
+          consent_source?: string | null;
+          metabolic_profile?: string | null;
+          quiz_goal?: string | null;
+          region?: string | null;
+          locale?: string | null;
+          unsubscribed_at?: string | null;
+          has_safety_flags?: boolean;
+          updated_at?: string;
         };
+        Relationships: [];
+      };
+    };
+      quiz_analytics_events: {
+        Row: {
+          id: string;
+          quiz_version: string;
+          event_type: string;
+          matched_profile: string | null;
+          profile_confidence: string | null;
+          completion_path: string | null;
+          marketing_consent: boolean | null;
+          has_safety_flags: boolean | null;
+          source: string;
+          session_hash: string | null;
+          created_at: string;
+        };
+        Insert: {
+          id?: string;
+          quiz_version: string;
+          event_type: string;
+          matched_profile?: string | null;
+          profile_confidence?: string | null;
+          completion_path?: string | null;
+          marketing_consent?: boolean | null;
+          has_safety_flags?: boolean | null;
+          source?: string;
+          session_hash?: string | null;
+          created_at?: string;
+        };
+        Update: Record<string, never>;
         Relationships: [];
       };
     };

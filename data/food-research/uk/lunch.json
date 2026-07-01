@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "uk-lunch-001",
+    "name": "Chicken Salad Meal Deal Sandwich",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Supermarket meal deals (sandwich + snack + drink, typically £3.50-£4) are a defining feature of UK office lunch culture, sold by Tesco, Boots, Sainsbury's and Asda. Chicken salad is consistently one of the best-selling fillings.",
+    "ingredients": [
+      { "item": "wholemeal or malted bread", "quantity": 80, "unit": "g" },
+      { "item": "cooked chicken breast, sliced", "quantity": 60, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 15, "unit": "g" },
+      { "item": "lettuce", "quantity": 15, "unit": "g" },
+      { "item": "tomato, sliced", "quantity": 20, "unit": "g" },
+      { "item": "cucumber, sliced", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Standard pre-packed format: two slices of bread filled with sliced cooked chicken, mayonnaise and salad. Bought ready-made or assembled at home for a packed lunch in under 5 minutes.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 22,
+      "carbs_g": 38,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods ingredient values; cross-checked against Tesco/Sainsbury's chicken salad sandwich nutrition panels (typically 350-420 kcal, 20-25g protein)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Boots"],
+      "notes": "Available as a pre-packed meal deal item nationwide in supermarket and pharmacy chains."
+    },
+    "sources": [
+      { "title": "Tesco meal deal chicken sandwich Nutrition", "url": "https://www.snapcalorie.com/nutrition/tesco_meal_deal_chicken_sandwich_nutrition.html" },
+      { "title": "Best Tesco Meal Deals: High-Protein & Low-Calorie", "url": "https://www.myjuniper.co.uk/articles/high-protein-tesco-meal-deal" }
+    ]
+  },
+  {
+    "id": "uk-lunch-002",
+    "name": "Egg Mayo Sandwich (Meal Deal Style)",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Egg mayonnaise is one of the longest-running, most consistently stocked sandwich fillings in UK supermarkets and is a Boots/Tesco/Sainsbury's meal deal staple, especially popular with vegetarians.",
+    "ingredients": [
+      { "item": "white or malted bread", "quantity": 80, "unit": "g" },
+      { "item": "hard-boiled eggs, chopped", "quantity": 100, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 25, "unit": "g" },
+      { "item": "cress or lettuce", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Hard-boil and chop 2 eggs, mix with mayonnaise, season, and spread between buttered bread with a little salad. Keeps well chilled for a few hours, making it suitable for packed lunches.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 15,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 23,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods; verified against Boots Simply Egg Mayo Sandwich nutrition panel (449 kcal, 13-15% protein)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Boots", "Tesco", "Sainsbury's", "Asda", "Co-op"],
+      "notes": "One of the most widely available meal-deal fillings; gluten-free versions also stocked in most large stores."
+    },
+    "sources": [
+      { "title": "Calories in Simply Egg Mayo Sandwich by Boots and Nutrition Facts", "url": "https://www.mynetdiary.com/food/calories-in-simply-egg-mayo-sandwich-by-boots-pack-14102727-0.html" },
+      { "title": "Calories in Gluten Free Egg Mayo Sandwich by Boots", "url": "https://www.mynetdiary.com/food/calories-in-gluten-free-egg-mayo-sandwich-by-boots-pack-30244091-0.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-003",
+    "name": "Prawn Mayo Sandwich",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A long-standing British sandwich-counter classic, especially popular at Boots, Costa, Sainsbury's and Co-op, often made with brown or granary bread.",
+    "ingredients": [
+      { "item": "brown or granary bread", "quantity": 80, "unit": "g" },
+      { "item": "cooked, peeled prawns", "quantity": 65, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 20, "unit": "g" },
+      { "item": "lettuce", "quantity": 10, "unit": "g" },
+      { "item": "lemon juice", "quantity": 2, "unit": "ml" }
+    ],
+    "prepNotes": "Mix cooked prawns with mayonnaise and a squeeze of lemon, season with black pepper, and layer onto bread with shredded lettuce.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 17,
+      "carbs_g": 35,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 12,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods; cross-checked with Sainsbury's and Co-op prawn mayonnaise sandwich nutrition panels (270-335 kcal range)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "eggs", "shellfish"]
+    },
+    "regionAvailability": {
+      "stores": ["Boots", "Sainsbury's", "Co-op", "Tesco"],
+      "notes": "Available year-round at most major supermarket and pharmacy meal-deal counters."
+    },
+    "sources": [
+      { "title": "Calories in Sainsbury's Prawn Mayonnaise Sandwich and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/sainsburys/prawn-mayonnaise-sandwich/1-pack" },
+      { "title": "Co-op Prawn Mayonnaise Sandwich Nutrition Facts", "url": "https://www.eatthismuch.com/calories/prawn-mayonnaise-sandwich-156028" }
+    ]
+  },
+  {
+    "id": "uk-lunch-004",
+    "name": "Jacket Potato with Cheese and Beans",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Jacket potato (baked potato) with cheese and beans is a classic British café, pub and workplace canteen lunch, sold everywhere from school canteens to motorway services and supermarket cafés.",
+    "ingredients": [
+      { "item": "baking potato", "quantity": 250, "unit": "g" },
+      { "item": "baked beans in tomato sauce", "quantity": 200, "unit": "g" },
+      { "item": "mature cheddar, grated", "quantity": 40, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Pierce the potato and bake at 200C for 60-75 minutes until the skin is crisp and the inside fluffy. Heat the beans separately, split the potato open, top with butter, beans and grated cheese.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 24,
+      "carbs_g": 78,
+      "fiber_g": 12,
+      "sugar_g": 14,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for potato, baked beans and cheddar; cross-checked against jacket potato with beans and cheese nutrition panels (520-600 kcal range)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "A café and canteen staple nationwide; potatoes, beans and cheese are budget-friendly and available in every supermarket."
+    },
+    "sources": [
+      { "title": "Jacket Potato with Beans & Cheese | Don't Go Bacon My Heart", "url": "https://www.dontgobaconmyheart.co.uk/jacket-potato-with-beans-cheese/" },
+      { "title": "Jacket potato with cheese and beans nutrition", "url": "https://www.eatthismuch.com/calories/jacket-potato-with-cheese-tuna-mayo-and-beans-1332052" }
+    ]
+  },
+  {
+    "id": "uk-lunch-005",
+    "name": "Jacket Potato with Tuna Mayo and Sweetcorn",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Tuna mayo jacket potato is one of the most ordered baked-potato toppings in UK café and pub menus, valued as a filling, protein-rich lunch option.",
+    "ingredients": [
+      { "item": "baking potato", "quantity": 250, "unit": "g" },
+      { "item": "tinned tuna in water, drained", "quantity": 100, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 25, "unit": "g" },
+      { "item": "sweetcorn", "quantity": 40, "unit": "g" },
+      { "item": "spring onion, chopped", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Bake the potato at 200C for 60-75 minutes. Flake the drained tuna and mix with mayonnaise, sweetcorn and spring onion, then pile onto the split-open potato.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 30,
+      "carbs_g": 62,
+      "fiber_g": 8,
+      "sugar_g": 8,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for potato, tinned tuna and mayonnaise; cross-checked against tuna mayo jacket potato nutrition panels (400-480 kcal range)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["eggs", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Co-op"],
+      "notes": "Tinned tuna and potatoes are pantry staples sold in every UK supermarket; this combination is a long-running café menu item."
+    },
+    "sources": [
+      { "title": "Healthy Baked Potato With Tuna And Cheese", "url": "https://neilshealthymeals.com/healthy-baked-potato-with-tuna-and-cheese/" },
+      { "title": "Tuna Mayo Jacket Potato & Salad", "url": "https://www.eatthismuch.com/calories/tuna-mayo-jacket-potato-salad-2629803" }
+    ]
+  },
+  {
+    "id": "uk-lunch-006",
+    "name": "Leek and Potato Soup with Granary Roll",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Leek and potato soup is one of the most enduring British soup recipes, a BBC Good Food and BBC Food staple, commonly served with bread as a simple home or café lunch, especially in colder months.",
+    "ingredients": [
+      { "item": "leeks, sliced", "quantity": 150, "unit": "g" },
+      { "item": "potato, diced", "quantity": 150, "unit": "g" },
+      { "item": "vegetable or chicken stock", "quantity": 400, "unit": "ml" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "semi-skimmed milk or single cream", "quantity": 50, "unit": "ml" },
+      { "item": "granary roll", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Soften leeks in butter for 3-4 minutes, add potato and stock, simmer 20 minutes until tender, then blend until smooth and stir through a splash of milk or cream. Serve hot with a granary roll.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 11,
+      "carbs_g": 58,
+      "fiber_g": 7,
+      "sugar_g": 9,
+      "fat_g": 11,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for leeks, potato, stock, milk and bread roll, following the standard BBC Food leek and potato soup recipe ratios"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Leeks and potatoes are year-round staples in every UK supermarket; pre-made versions are also sold chilled in most large stores."
+    },
+    "sources": [
+      { "title": "BBC Food - Leek and potato soup", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/leekandpotatosoup_1920.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-007",
+    "name": "Lentil and Vegetable Soup with Wholemeal Bread",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Red lentil soup with carrots and tomatoes is a widely cooked British home lunch, popular for being cheap, filling and freezer-friendly, and a frequent feature on BBC Good Food and NHS healthy-eating recipe pages.",
+    "ingredients": [
+      { "item": "red lentils, dried", "quantity": 75, "unit": "g" },
+      { "item": "carrot, diced", "quantity": 80, "unit": "g" },
+      { "item": "onion, diced", "quantity": 50, "unit": "g" },
+      { "item": "tinned tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "vegetable stock", "quantity": 400, "unit": "ml" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "wholemeal bread", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Soften onion and carrot in olive oil, add lentils, tomatoes and stock, then simmer for 25-30 minutes until the lentils break down. Season and serve with a slice of wholemeal bread.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 19,
+      "carbs_g": 60,
+      "fiber_g": 14,
+      "sugar_g": 11,
+      "fat_g": 9,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for red lentils, vegetables and bread; lentil-based soups in this style typically provide 14-18g protein and 12-15g fibre per bowl"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "Dried lentils and tinned tomatoes are inexpensive pantry items stocked everywhere, making this a common budget lunch."
+    },
+    "sources": [
+      { "title": "BBC Good Food lentil soup recipes", "url": "https://www.cooks.com/rec/sch/0,1-31,lentil_tomato_soup,FF.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-008",
+    "name": "Cheese and Tomato Toastie with Tomato Soup",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The combination of a grilled cheese toastie with tomato soup is a long-standing British café and home lunch pairing, widely served in pub kitchens, garden centre cafés and family kitchens alike.",
+    "ingredients": [
+      { "item": "white or wholemeal bread", "quantity": 80, "unit": "g" },
+      { "item": "mature cheddar, grated", "quantity": 50, "unit": "g" },
+      { "item": "tomato, sliced", "quantity": 30, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "tinned tomato soup", "quantity": 300, "unit": "g" }
+    ],
+    "prepNotes": "Butter the bread, fill with cheese and tomato slices, then grill or pan-fry in a sandwich press until golden and the cheese melts. Heat the tomato soup separately and serve alongside.",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 23,
+      "carbs_g": 58,
+      "fiber_g": 6,
+      "sugar_g": 15,
+      "fat_g": 30,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for bread, cheddar and butter, plus a standard tinned tomato soup nutrition panel (typically 100-120 kcal per 300g serving)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "A widely available café combo; tinned tomato soup and cheddar are sold in every UK supermarket."
+    },
+    "sources": [
+      { "title": "Cheese & Tomato Toastie Recipe - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/recipes/calorie-counted/breakfast/cheese-tomato-toastie-32.htm" },
+      { "title": "Classic Grilled Cheese And Tomato Soup", "url": "https://www.eatthismuch.com/calories/classic-grilled-cheese-and-tomato-soup-930004" }
+    ]
+  },
+  {
+    "id": "uk-lunch-009",
+    "name": "Ploughman's Lunch",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The ploughman's lunch is a traditional British pub lunch of cold cheese, bread, pickle and salad, dating back to mid-20th-century pub catering and still found on pub menus across the country.",
+    "ingredients": [
+      { "item": "mature cheddar", "quantity": 80, "unit": "g" },
+      { "item": "crusty white or granary bread", "quantity": 80, "unit": "g" },
+      { "item": "Branston pickle or chutney", "quantity": 30, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "apple", "quantity": 100, "unit": "g" },
+      { "item": "celery sticks and salad leaves", "quantity": 40, "unit": "g" },
+      { "item": "pickled onions", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Arrange a thick wedge of cheddar, buttered bread, a spoonful of pickle, a whole or sliced apple, celery, salad and pickled onions on a board. No cooking required — this is an assembled, room-temperature lunch.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 24,
+      "carbs_g": 68,
+      "fiber_g": 7,
+      "sugar_g": 28,
+      "fat_g": 32,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for cheddar, bread, pickle, fruit and vegetables in standard pub ploughman's portions"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "Morrisons"],
+      "notes": "A pub-menu classic nationwide; all components (cheddar, chutney, crusty bread, pickled onions) are sold in every UK supermarket for a homemade version."
+    },
+    "sources": [
+      { "title": "Ploughman's lunch - Wikipedia", "url": "https://en.wikipedia.org/wiki/Ploughman's_lunch" },
+      { "title": "Traditional British Ploughman's Lunch - Lavender and Lovage", "url": "https://www.lavenderandlovage.com/2024/07/traditional-british-ploughmans-lunch.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-010",
+    "name": "Steak and Ale Pie with Mash and Peas",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Steak and ale pie is a quintessential British pub lunch, served with mashed potato, peas and gravy in pubs and carveries nationwide, including chains such as Wetherspoons and Sizzling Pubs.",
+    "ingredients": [
+      { "item": "stewing beef", "quantity": 120, "unit": "g" },
+      { "item": "shortcrust or puff pastry", "quantity": 60, "unit": "g" },
+      { "item": "ale or stout", "quantity": 50, "unit": "ml" },
+      { "item": "onion and carrot, diced", "quantity": 60, "unit": "g" },
+      { "item": "potato, mashed with butter and milk", "quantity": 200, "unit": "g" },
+      { "item": "peas", "quantity": 60, "unit": "g" },
+      { "item": "beef gravy", "quantity": 50, "unit": "ml" }
+    ],
+    "prepNotes": "Braise diced beef with onion, carrot and ale for 1.5-2 hours until tender, top with pastry and bake until golden. Serve with buttery mashed potato, peas and gravy — a typical sit-down pub portion.",
+    "nutrition": {
+      "calories": 780,
+      "protein_g": 42,
+      "carbs_g": 62,
+      "fiber_g": 8,
+      "sugar_g": 7,
+      "fat_g": 38,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for beef, pastry, potato and vegetables; cross-checked against pub-style steak and ale pie with mash nutrition panels (700-900 kcal for a sit-down portion)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A pub-lunch classic found nationwide; chilled and frozen steak pies for home cooking are sold in every major supermarket."
+    },
+    "sources": [
+      { "title": "British Steak and Ale Pie - Culinary Ginger", "url": "https://culinaryginger.com/british-steak-and-ale-pie/" },
+      { "title": "Calories in Sizzling Pubs British Steak Pie, Chips & Peas", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-meals-british-steak-pie-chips-peas/TPgTewoVRleGyrD9TsU2hA" }
+    ]
+  },
+  {
+    "id": "uk-lunch-011",
+    "name": "Scampi and Chips with Tartare Sauce",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Scampi and chips is a long-standing British pub and seaside-café lunch staple, made from breaded or battered langoustine/prawn tails, popularised through pub chains and chip shops nationwide.",
+    "ingredients": [
+      { "item": "breaded scampi (langoustine tails)", "quantity": 150, "unit": "g" },
+      { "item": "chips (fried potato)", "quantity": 200, "unit": "g" },
+      { "item": "tartare sauce", "quantity": 30, "unit": "g" },
+      { "item": "peas", "quantity": 60, "unit": "g" },
+      { "item": "lemon wedge", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Deep-fry or oven-bake breaded scampi until golden and cooked through, alongside thick-cut chips. Serve with a spoon of tartare sauce, peas and a lemon wedge, in the classic pub-plate format.",
+    "nutrition": {
+      "calories": 720,
+      "protein_g": 28,
+      "carbs_g": 72,
+      "fiber_g": 7,
+      "sugar_g": 5,
+      "fat_g": 35,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for breaded scampi, fried chips and tartare sauce; pub-style scampi and chips meals typically range 650-800 kcal per plate"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "shellfish", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Iceland"],
+      "notes": "A pub and seaside café staple nationwide; frozen breaded scampi is widely sold for home cooking, particularly at Iceland and Tesco."
+    },
+    "sources": [
+      { "title": "Discovering British Pub Snacks: From Pork Scratchings to Scampi Fries", "url": "https://goodwoods.com/blogs/news/discovering-british-pub-snacks-from-pork-scratchings-to-scampi-fries" }
+    ]
+  },
+  {
+    "id": "uk-lunch-012",
+    "name": "Scotch Broth with Crusty Bread",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Scotch broth is a traditional Scottish soup of lamb, pearl barley and root vegetables, served as a warming lunch throughout Scotland and recognised nationally as a classic British soup.",
+    "ingredients": [
+      { "item": "lamb neck or shoulder, diced", "quantity": 80, "unit": "g" },
+      { "item": "pearl barley", "quantity": 40, "unit": "g" },
+      { "item": "carrot, swede and turnip, diced", "quantity": 120, "unit": "g" },
+      { "item": "leek, sliced", "quantity": 40, "unit": "g" },
+      { "item": "lamb or vegetable stock", "quantity": 400, "unit": "ml" },
+      { "item": "crusty bread", "quantity": 50, "unit": "g" }
+    ],
+    "prepNotes": "Simmer lamb with stock for 45 minutes, add pearl barley and root vegetables, then cook for a further 30-40 minutes until the barley and lamb are tender. Serve hot with crusty bread.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 24,
+      "carbs_g": 48,
+      "fiber_g": 8,
+      "sugar_g": 9,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for lamb, pearl barley and root vegetables in a standard Scotch broth recipe ratio"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "A Scottish national classic with year-round popularity, especially in colder months; lamb, barley and root vegetables are sold in all major supermarkets."
+    },
+    "sources": [
+      { "title": "Scotch Broth Soup with Lamb - Krumpli", "url": "https://www.krumpli.co.uk/scotch-broth/" },
+      { "title": "Scotch broth - Wikipedia", "url": "https://en.wikipedia.org/wiki/Scotch_broth" }
+    ]
+  },
+  {
+    "id": "uk-lunch-013",
+    "name": "Welsh Cawl",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Cawl is the national soup-stew of Wales, made with lamb or beef and root vegetables, traditionally eaten as a warming midday meal, often served with a wedge of Welsh cheese and bread.",
+    "ingredients": [
+      { "item": "lamb shoulder or neck, diced", "quantity": 100, "unit": "g" },
+      { "item": "potato, diced", "quantity": 120, "unit": "g" },
+      { "item": "swede and carrot, diced", "quantity": 100, "unit": "g" },
+      { "item": "leek, sliced", "quantity": 50, "unit": "g" },
+      { "item": "lamb stock", "quantity": 400, "unit": "ml" },
+      { "item": "Welsh cheddar (Caerphilly), to serve", "quantity": 30, "unit": "g" },
+      { "item": "crusty bread", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Brown the lamb, then simmer with stock, potato, swede and carrot for around an hour until tender. Add leeks for the final 10 minutes, then serve hot with a wedge of cheese and bread on the side.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 27,
+      "carbs_g": 46,
+      "fiber_g": 7,
+      "sugar_g": 9,
+      "fat_g": 20,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for lamb, root vegetables, Welsh cheese and bread in a standard cawl recipe ratio"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Wales's national dish, widely cooked at home and served in Welsh cafés and pubs; lamb and Caerphilly cheese are stocked in supermarkets across the UK."
+    },
+    "sources": [
+      { "title": "Welsh Cawl Simple Lamb Soup - Krumpli", "url": "https://www.krumpli.co.uk/welsh-lamb-cawl/" },
+      { "title": "Cawl - Wikipedia", "url": "https://en.wikipedia.org/wiki/Cawl" }
+    ]
+  },
+  {
+    "id": "uk-lunch-014",
+    "name": "Chicken Tikka Masala with Rice",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Chicken tikka masala is widely regarded as Britain's most popular curry, developed in British Indian restaurants and now a fixture of curry-house and supermarket ready-meal menus, with around 25 million portions eaten annually in the UK.",
+    "ingredients": [
+      { "item": "chicken breast, diced", "quantity": 150, "unit": "g" },
+      { "item": "natural yoghurt", "quantity": 40, "unit": "g" },
+      { "item": "tomato-based masala sauce (onion, tomato, cream, spices)", "quantity": 150, "unit": "g" },
+      { "item": "basmati rice, cooked", "quantity": 180, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Marinate chicken in yoghurt and spices, grill or pan-sear until charred at the edges, then simmer in a tomato and cream masala sauce for 10-15 minutes. Serve over basmati rice.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 42,
+      "carbs_g": 60,
+      "fiber_g": 3,
+      "sugar_g": 10,
+      "fat_g": 22,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for chicken, yoghurt-cream sauce and basmati rice; cross-checked against UK curry house and supermarket ready-meal chicken tikka masala nutrition panels (550-700 kcal with rice)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "Britain's best-selling curry, sold as a ready meal in every supermarket and on virtually every Indian restaurant and takeaway menu nationwide."
+    },
+    "sources": [
+      { "title": "Chicken Tikka Masala: The Spiced (but Not Spicy) Curry That's the National Dish of the UK", "url": "https://www.going.com/guides/chicken-tikka-masala-uk" },
+      { "title": "Chicken tikka masala - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chicken_tikka_masala" }
+    ]
+  },
+  {
+    "id": "uk-lunch-015",
+    "name": "Chicken Chow Mein",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Chicken chow mein is one of the most ordered dishes from British Chinese takeaways, found on virtually every high-street Chinese takeaway menu nationwide as a popular midday lunch order.",
+    "ingredients": [
+      { "item": "egg noodles, cooked", "quantity": 180, "unit": "g" },
+      { "item": "chicken breast, sliced", "quantity": 120, "unit": "g" },
+      { "item": "beansprouts", "quantity": 60, "unit": "g" },
+      { "item": "carrot and pepper, sliced", "quantity": 60, "unit": "g" },
+      { "item": "soy sauce", "quantity": 15, "unit": "ml" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Stir-fry sliced chicken in hot oil until cooked through, add vegetables and stir-fry for 2-3 minutes, then toss through cooked noodles and soy sauce for a final minute over high heat.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 36,
+      "carbs_g": 58,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 19,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for noodles, chicken and stir-fry vegetables; cross-checked against UK Chinese takeaway chicken chow mein nutrition data (typically 500-600 kcal per portion)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Iceland"],
+      "notes": "A nationwide British Chinese takeaway staple; pre-packed stir-fry noodle kits and frozen versions are sold in all major supermarkets."
+    },
+    "sources": [
+      { "title": "Calories in Chow mein, chicken, takeaway | CalorieKing (United Kingdom)", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-meat-dishes-chow-mein-chicken-takeaway/VNi6IVkASym9VPopUhEy9g" }
+    ]
+  },
+  {
+    "id": "uk-lunch-016",
+    "name": "Sweet and Sour Chicken with Egg Fried Rice",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Sweet and sour chicken with egg fried rice is a long-standing British Chinese takeaway order, a fixture of high-street takeaway menus since the dish's introduction to the UK in the mid-20th century.",
+    "ingredients": [
+      { "item": "chicken breast, battered and fried", "quantity": 130, "unit": "g" },
+      { "item": "sweet and sour sauce (tomato, pineapple, vinegar, sugar)", "quantity": 100, "unit": "g" },
+      { "item": "pepper and onion, sliced", "quantity": 50, "unit": "g" },
+      { "item": "egg fried rice", "quantity": 200, "unit": "g" }
+    ],
+    "prepNotes": "Deep-fry battered chicken pieces until golden, then toss in a simmered sweet and sour sauce with peppers and onion. Serve with egg fried rice, made by stir-frying cooked rice with beaten egg and peas.",
+    "nutrition": {
+      "calories": 700,
+      "protein_g": 32,
+      "carbs_g": 86,
+      "fiber_g": 3,
+      "sugar_g": 22,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for battered chicken, sweet and sour sauce and egg fried rice; cross-checked against UK takeaway sweet and sour chicken with rice nutrition data (650-750 kcal)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Iceland"],
+      "notes": "A nationwide British Chinese takeaway classic; frozen and chilled supermarket versions are also widely available."
+    },
+    "sources": [
+      { "title": "Restaurant, sweet and sour chicken, Chinese nutrition facts", "url": "https://www.nutritionvalue.org/Restaurant%2C_sweet_and_sour_chicken%2C_Chinese_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-017",
+    "name": "Greggs-Style Sausage Roll with Side Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The sausage roll is one of Britain's best-known bakery lunch items, sold by the million weekly at Greggs and independent bakeries, and a fixture of high-street lunch culture nationwide.",
+    "ingredients": [
+      { "item": "puff pastry", "quantity": 60, "unit": "g" },
+      { "item": "sausage meat, seasoned", "quantity": 80, "unit": "g" },
+      { "item": "mixed salad leaves, tomato and cucumber", "quantity": 80, "unit": "g" },
+      { "item": "olive oil and vinegar dressing", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Wrap seasoned sausage meat in puff pastry, brush with egg wash and bake at 200C for 25-30 minutes until golden and crisp. Serve with a simple side salad to balance the meal.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 16,
+      "carbs_g": 28,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 33,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for puff pastry and sausage meat, cross-checked against Greggs sausage roll nutrition panel (328 kcal per 103g roll), plus a side salad with dressing"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Co-op"],
+      "notes": "Greggs and independent bakeries sell sausage rolls nationwide; supermarket bakery counters also stock equivalent versions."
+    },
+    "sources": [
+      { "title": "Sausage Roll - Greggs", "url": "https://www.greggs.com/menu/product/sausage-roll-1000446" },
+      { "title": "Calories in Sausage Rolls by Greggs and Nutrition Facts", "url": "https://www.mynetdiary.com/food/calories-in-sausage-rolls-by-greggs-roll-4005395-0.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-018",
+    "name": "Cornish Pasty with Side Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The Cornish pasty is a Protected Geographical Indication British lunch food, originally a miner's portable meal from Cornwall and now sold nationwide in bakeries, supermarkets and Greggs.",
+    "ingredients": [
+      { "item": "shortcrust pastry", "quantity": 90, "unit": "g" },
+      { "item": "beef skirt, diced", "quantity": 80, "unit": "g" },
+      { "item": "potato, swede and onion, diced", "quantity": 120, "unit": "g" },
+      { "item": "mixed salad leaves and tomato", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Encase diced beef, potato, swede and onion in a pastry parcel, crimp the edge, and bake at 180-200C for around 50 minutes until golden. Serve warm or at room temperature with a side salad.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 18,
+      "carbs_g": 56,
+      "fiber_g": 5,
+      "sugar_g": 5,
+      "fat_g": 30,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for pastry, beef and root vegetables; cross-checked against Greggs Cornish pasty nutrition panel (500-560 kcal per pasty)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Co-op"],
+      "notes": "A nationwide bakery item with Protected Geographical Indication status; sold fresh and frozen in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Calories in Greggs Cornish Pasty", "url": "https://mobile.fatsecret.co.uk/calories-nutrition/greggs/cornish-pasty/1-pasty" }
+    ]
+  },
+  {
+    "id": "uk-lunch-019",
+    "name": "Chicken Doner Kebab Wrap with Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The doner kebab wrap is one of the most popular British takeaway lunches, served from kebab shops on virtually every high street, often as a lighter wrap version rather than the full tray meal.",
+    "ingredients": [
+      { "item": "chicken doner meat, sliced", "quantity": 150, "unit": "g" },
+      { "item": "flatbread or pitta", "quantity": 80, "unit": "g" },
+      { "item": "lettuce, tomato and onion", "quantity": 80, "unit": "g" },
+      { "item": "garlic mayo or chilli sauce", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Slice grilled, marinated chicken from a rotisserie or pan, warm the flatbread, and fill with chicken, shredded salad and a sauce of choice, then fold or roll to serve.",
+    "nutrition": {
+      "calories": 550,
+      "protein_g": 35,
+      "carbs_g": 48,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 22,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for chicken doner meat, flatbread and salad; cross-checked against chicken doner kebab wrap nutrition data (450-550 kcal per wrap)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["halal"],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda"],
+      "notes": "Independent kebab shops sell this nationwide on every high street; halal-certified chicken doner meat is also sold pre-packed in larger supermarkets."
+    },
+    "sources": [
+      { "title": "Chicken Doner Kebab calories & nutrition - Arise App", "url": "https://www.arise-app.com/dish/Chicken-Doner-Kebab" },
+      { "title": "Chicken Doner Kebab | Halal, Healthy & Full Nutrient", "url": "https://infusionvillage.com/chicken-doner-kebab/" }
+    ]
+  },
+  {
+    "id": "uk-lunch-020",
+    "name": "Vegetable Samosa and Onion Bhaji with Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Vegetable samosas and onion bhajis are a popular British Indian takeaway and supermarket deli combination, commonly bought as a light vegetarian lunch or shared starter, including Tesco's well-known fresh food deli pairing.",
+    "ingredients": [
+      { "item": "vegetable samosas", "quantity": 80, "unit": "g" },
+      { "item": "onion bhajis", "quantity": 70, "unit": "g" },
+      { "item": "mixed salad leaves and cucumber", "quantity": 80, "unit": "g" },
+      { "item": "mango chutney or mint yoghurt dip", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Bake or shallow-fry samosas and bhajis until hot through and crisp, then serve with a side salad and a small pot of mango chutney or mint yoghurt for dipping.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 10,
+      "carbs_g": 52,
+      "fiber_g": 6,
+      "sugar_g": 14,
+      "fat_g": 26,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for pastry, potato, vegetables and chutney; cross-checked against Tesco Fresh Food Vegetable Samosa & Onion Bhaji nutrition panel (225 kcal for 2 medium pieces) scaled to a full lunch portion with salad"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Sold fresh in supermarket deli counters nationwide and at every British Indian takeaway and restaurant."
+    },
+    "sources": [
+      { "title": "Calories in Fresh Food Vegetable Samosa & Onion Bhaji 2 Med by Tesco", "url": "https://www.mynetdiary.com/food/calories-in-fresh-food-vegetable-samosa-onion-bhaji-2-med-by-tesco-serving-673013-0.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-021",
+    "name": "Quiche Lorraine with Coleslaw and Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Quiche Lorraine with coleslaw and salad is a classic British café and supermarket deli counter lunch, widely sold by Sainsbury's, M&S and Waitrose cafés as a ready-to-eat plate.",
+    "ingredients": [
+      { "item": "shortcrust pastry", "quantity": 50, "unit": "g" },
+      { "item": "eggs", "quantity": 80, "unit": "g" },
+      { "item": "bacon, diced", "quantity": 40, "unit": "g" },
+      { "item": "double cream and milk", "quantity": 60, "unit": "ml" },
+      { "item": "Gruyere or cheddar cheese", "quantity": 30, "unit": "g" },
+      { "item": "coleslaw and salad leaves", "quantity": 100, "unit": "g" }
+    ],
+    "prepNotes": "Blind-bake a pastry case, fill with beaten eggs, cream, diced bacon and cheese, then bake at 180C for 30-35 minutes until set and golden. Serve a slice at room temperature with coleslaw and salad.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 20,
+      "carbs_g": 30,
+      "fiber_g": 3,
+      "sugar_g": 8,
+      "fat_g": 38,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for pastry, eggs, bacon, cream and cheese; cross-checked against Sainsbury's Cafe quiche lorraine, coleslaw and salad nutrition panel (418 kcal for a lighter portion, scaled up for a standard slice)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Sainsbury's", "Waitrose", "Tesco", "Morrisons", "M&S"],
+      "notes": "A deli-counter and café staple sold fresh nationwide, especially at Sainsbury's, Waitrose and M&S cafés and food halls."
+    },
+    "sources": [
+      { "title": "Calories in Quiche Lorraine Coleslaw & Salad by Sainsburys Cafe", "url": "https://www.mynetdiary.com/food/calories-in-quiche-lorraine-coleslaw-salad-by-sainsburys-cafe-meal-18806752-0.html" },
+      { "title": "Calories in British Pork Quiche Lorraine by Morrisons", "url": "https://www.mynetdiary.com/food/calories-in-british-pork-quiche-lorraine-by-morrisons-quiche-25991540-0.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-022",
+    "name": "Supermarket Sushi Selection Box (Salmon and California Rolls)",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Pre-packed sushi boxes are now a mainstream UK lunch option, stocked daily by Sainsbury's, M&S, Tesco and Asda, and a popular alternative to sandwiches for office workers.",
+    "ingredients": [
+      { "item": "sushi rice", "quantity": 150, "unit": "g" },
+      { "item": "salmon, raw or cooked", "quantity": 50, "unit": "g" },
+      { "item": "nori seaweed, cucumber and avocado", "quantity": 60, "unit": "g" },
+      { "item": "soy sauce", "quantity": 10, "unit": "ml" },
+      { "item": "pickled ginger and wasabi", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Bought ready-made as a mixed selection box of salmon nigiri, salmon and avocado rolls and California rolls, served chilled with soy sauce, pickled ginger and wasabi on the side.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 18,
+      "carbs_g": 62,
+      "fiber_g": 3,
+      "sugar_g": 8,
+      "fat_g": 8,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for sushi rice, salmon and vegetables; cross-checked against Sainsbury's and M&S sushi selection box nutrition panels (350-450 kcal per box)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Sainsbury's", "M&S", "Tesco", "Asda", "Waitrose"],
+      "notes": "Pre-packed sushi is sold fresh daily in chiller cabinets at most large UK supermarkets, especially in city-centre branches."
+    },
+    "sources": [
+      { "title": "Which Supermarket Sushi Is Actually Worth it?", "url": "https://graziadaily.co.uk/life/food-and-drink/supermarket-sushi-actually-worth/" },
+      { "title": "Sushi Yo! Salmon Lunch Set", "url": "https://www.eatthismuch.com/calories/sushi-yo-salmon-lunch-set-147188" }
+    ]
+  },
+  {
+    "id": "uk-lunch-023",
+    "name": "Falafel and Hummus Wrap",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Falafel and hummus wraps have become a mainstream UK lunch option, sold widely in supermarket meal-deal ranges and high-street chains as a popular vegetarian and vegan choice.",
+    "ingredients": [
+      { "item": "wholewheat wrap or pitta", "quantity": 70, "unit": "g" },
+      { "item": "falafel (chickpea), baked or fried", "quantity": 90, "unit": "g" },
+      { "item": "hummus", "quantity": 40, "unit": "g" },
+      { "item": "mixed salad leaves, tomato and cucumber", "quantity": 60, "unit": "g" },
+      { "item": "tahini or yoghurt dressing", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Warm the falafel, spread hummus over the wrap, layer with falafel, salad and a drizzle of tahini or yoghurt dressing, then roll tightly and slice in half.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 16,
+      "carbs_g": 56,
+      "fiber_g": 10,
+      "sugar_g": 6,
+      "fat_g": 19,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for chickpea falafel, hummus and wrap bread; consistent with UK supermarket falafel wrap nutrition panels (420-490 kcal)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose", "Co-op"],
+      "notes": "A widely stocked vegetarian/vegan meal-deal option in supermarket chiller cabinets and a common item on high-street lunch chain menus."
+    },
+    "sources": [
+      { "title": "Falafel Wrap Recipe | olivemagazine", "url": "https://www.olivemagazine.com/recipes/vegan/falafel-wrap/" }
+    ]
+  },
+  {
+    "id": "uk-lunch-024",
+    "name": "BBQ Chicken, Bacon and Cheese Panini",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The BBQ chicken, bacon and cheese panini is a popular hot lunch item at British pub chains and coffee shops such as Wetherspoons and Costa, commonly grabbed as a quick midday meal.",
+    "ingredients": [
+      { "item": "ciabatta or panini bread", "quantity": 90, "unit": "g" },
+      { "item": "cooked chicken breast, sliced", "quantity": 80, "unit": "g" },
+      { "item": "bacon", "quantity": 30, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 30, "unit": "g" },
+      { "item": "BBQ sauce", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Layer chicken, bacon, cheese and BBQ sauce inside the split panini bread, then press in a panini grill for 3-4 minutes until the bread is toasted and the cheese has melted.",
+    "nutrition": {
+      "calories": 600,
+      "protein_g": 38,
+      "carbs_g": 56,
+      "fiber_g": 3,
+      "sugar_g": 12,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for bread, chicken, bacon and cheese; cross-checked against Wetherspoon BBQ Chicken, Bacon & Cheese Panini nutrition panel (610 kcal, 43g protein)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Co-op"],
+      "notes": "Available at pub chains, coffee shops and supermarket hot-food counters nationwide; pre-packed chilled versions also sold for home grilling."
+    },
+    "sources": [
+      { "title": "Carbs in Wetherspoon Bbq Chicken, Bacon & Cheese Panini", "url": "https://www.carbmanager.com/food-detail/nb:c6405087a7ba7446c8953cd7/bbq-chicken-bacon-cheese-panini" }
+    ]
+  },
+  {
+    "id": "uk-lunch-025",
+    "name": "Beans on Toast with Grated Cheese",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Beans on toast is one of the most iconic and widely eaten British lunches, valued for being quick, cheap and comforting, and a fixture in homes, school canteens and workplace kitchens nationwide.",
+    "ingredients": [
+      { "item": "baked beans in tomato sauce", "quantity": 220, "unit": "g" },
+      { "item": "wholemeal or white bread", "quantity": 80, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 25, "unit": "g" }
+    ],
+    "prepNotes": "Toast the bread, butter while hot, and top with warmed baked beans and a scattering of grated cheddar. Ready in under 10 minutes, making it one of Britain's fastest lunches.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 21,
+      "carbs_g": 64,
+      "fiber_g": 11,
+      "sugar_g": 16,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for baked beans, bread, butter and cheddar; consistent with standard beans-on-toast nutrition data (350-460 kcal depending on cheese and bread quantity)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "Baked beans (notably Heinz) and bread are among the most universally stocked items in every UK supermarket and corner shop."
+    },
+    "sources": [
+      { "title": "Beans on Toast (The Proper British Way - Recipe by a Brit!)", "url": "https://www.christinascucina.com/beans-on-toast-the-proper-british-way-recipe-by-a-brit/" },
+      { "title": "How Many Calories in Beans on Toast - Complete Nutrition", "url": "https://completenutrition.co.uk/blogs/calories/how-many-calories-in-beans-on-toast" }
+    ]
+  },
+  {
+    "id": "uk-lunch-026",
+    "name": "Leftover Roast Chicken Sandwich with Stuffing",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Making a sandwich from leftover Sunday roast chicken is a deeply embedded British Monday-lunch tradition, valued as a practical way to use up roast dinner leftovers.",
+    "ingredients": [
+      { "item": "white or granary bread", "quantity": 80, "unit": "g" },
+      { "item": "cold roast chicken, sliced", "quantity": 100, "unit": "g" },
+      { "item": "leftover stuffing", "quantity": 30, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 15, "unit": "g" },
+      { "item": "lettuce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Layer cold sliced roast chicken, a slice of leftover stuffing and lettuce onto buttered or mayo-spread bread. A practical way to use up Sunday roast leftovers for Monday's lunch.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 32,
+      "carbs_g": 44,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for roast chicken, bread, stuffing and mayonnaise in a standard sandwich portion"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A home-kitchen staple nationwide rather than a retail product; all ingredients are standard items in any UK supermarket."
+    },
+    "sources": [
+      { "title": "Leftover Sunday Roast Chicken Recipe - Hovis", "url": "https://www.hovis.co.uk/recipes/hovis-leftover-sunday-roast-chicken-recipe" },
+      { "title": "Roast Chicken Sandwiches with Leftover Herby Mayo | Mob", "url": "https://www.mob.co.uk/recipes/roast-chicken-sandwiches-with-leftover-herby-mayo" }
+    ]
+  },
+  {
+    "id": "uk-lunch-027",
+    "name": "Chef's Italian-Style Chicken Salad Box",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Pre-packed chicken salad boxes from chains such as Pret a Manger and supermarket equivalents are a popular grab-and-go lunch among UK office workers seeking a protein-rich, lower-carbohydrate option.",
+    "ingredients": [
+      { "item": "cooked chicken breast, sliced", "quantity": 100, "unit": "g" },
+      { "item": "mixed salad leaves, rocket and spinach", "quantity": 80, "unit": "g" },
+      { "item": "cherry tomatoes and cucumber", "quantity": 60, "unit": "g" },
+      { "item": "parmesan shavings", "quantity": 15, "unit": "g" },
+      { "item": "olive oil and balsamic dressing", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Sold ready-to-eat as a chilled salad box: sliced chicken breast over mixed leaves with tomatoes, cucumber and parmesan, with a separate dressing sachet to add before eating.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 30,
+      "carbs_g": 12,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 26,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for chicken, salad vegetables, parmesan and olive oil dressing; cross-checked against Pret a Manger Chef's Italian Chicken Salad nutrition panel (around 400-610 kcal depending on dressing volume)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "M&S", "Waitrose"],
+      "notes": "Sold at Pret a Manger and equivalent chilled salad boxes are widely stocked at M&S, Sainsbury's and Waitrose food-to-go counters."
+    },
+    "sources": [
+      { "title": "Chicken Salad | Pret A Manger", "url": "https://www.pret.co.uk/en-GB/products/UK020107/chicken-salad" },
+      { "title": "Calories in Chef's Italian Chicken Salad by Pret a Manger UK", "url": "https://www.mynetdiary.com/food/calories-in-chef-s-italian-chicken-salad-by-pret-a-manger-uk-serving-18374780-0.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-028",
+    "name": "BLT Sandwich (Meal Deal Style)",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "BLT (bacon, lettuce and tomato) is consistently named among the top-selling sandwich fillings in the UK and is a guaranteed crowd-pleaser stocked by M&S, Tesco, Boots and most major chains.",
+    "ingredients": [
+      { "item": "white or malted bread", "quantity": 80, "unit": "g" },
+      { "item": "British bacon, grilled", "quantity": 50, "unit": "g" },
+      { "item": "lettuce", "quantity": 15, "unit": "g" },
+      { "item": "tomato, sliced", "quantity": 30, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Grill bacon until crisp, then layer with lettuce, tomato and mayonnaise between two slices of bread. A quick assembly for a packed lunch or a standard pre-packed meal-deal item.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 19,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 22,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for bacon, bread, salad and mayonnaise; consistent with major UK retailer BLT sandwich nutrition panels (380-450 kcal)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["M&S", "Tesco", "Boots", "Sainsbury's", "Asda"],
+      "notes": "One of the UK's best-selling sandwich fillings, available as a pre-packed meal-deal item nationwide."
+    },
+    "sources": [
+      { "title": "Made-to-Order Sandwich Platters at M&S", "url": "https://www.marksandspencer.com/l/food-to-order/sandwich-platters" }
+    ]
+  },
+  {
+    "id": "uk-lunch-029",
+    "name": "Couscous Salad with Chickpeas and Feta",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Couscous salad with chickpeas is a widely made British lunchbox and meal-prep dish, frequently featured in BBC Good Food-style magazine recipes as a make-ahead lunch that travels well.",
+    "ingredients": [
+      { "item": "couscous, dry", "quantity": 60, "unit": "g" },
+      { "item": "vegetable stock", "quantity": 80, "unit": "ml" },
+      { "item": "chickpeas, drained", "quantity": 100, "unit": "g" },
+      { "item": "feta cheese, cubed", "quantity": 40, "unit": "g" },
+      { "item": "cucumber, cherry tomatoes and red onion", "quantity": 100, "unit": "g" },
+      { "item": "olive oil and lemon dressing", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Pour boiling stock over couscous, cover and leave for 5 minutes to absorb, then fluff with a fork. Stir through chickpeas, feta and chopped vegetables, and finish with an olive oil and lemon dressing.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 18,
+      "carbs_g": 54,
+      "fiber_g": 9,
+      "sugar_g": 8,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for couscous, chickpeas, feta and vegetables in a standard lunchbox-style salad portion"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "mediterranean"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose", "Aldi"],
+      "notes": "Couscous, chickpeas and feta are widely stocked pantry and chiller items, and this style of salad is also sold ready-made in supermarket lunch-to-go ranges."
+    },
+    "sources": [
+      { "title": "Couscous Salad With Chickpeas and Tomatoes", "url": "https://www.food.com/recipe/couscous-salad-with-chickpeas-and-tomatoes-225342" },
+      { "title": "Summer Couscous Salad", "url": "https://www.food.com/recipe/summer-couscous-salad-170168" }
+    ]
+  },
+  {
+    "id": "uk-lunch-030",
+    "name": "Fish Finger Sandwich with Tartare Sauce",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The fish finger sandwich is a beloved British comfort lunch, a nostalgic nod to childhood fish fingers reinvented as a pub and café 'posh' sandwich on menus such as Ember Inns.",
+    "ingredients": [
+      { "item": "breaded fish fingers (cod or haddock)", "quantity": 4, "unit": "pieces" },
+      { "item": "white bloomer or soft bread roll", "quantity": 90, "unit": "g" },
+      { "item": "tartare sauce", "quantity": 25, "unit": "g" },
+      { "item": "lettuce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Grill or oven-bake fish fingers until crisp and golden, then sandwich between buttered bread or a soft roll with lettuce and a generous spoon of tartare sauce.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 24,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 21,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for breaded white fish, bread and tartare sauce; consistent with UK pub and café fish finger sandwich nutrition data (400-500 kcal)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "fish", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Birds Eye (Iceland/all major stores)"],
+      "notes": "Frozen fish fingers are a UK household staple sold in every supermarket; the sandwich is also a pub menu item nationwide."
+    },
+    "sources": [
+      { "title": "Calories in Ember Inns Posh Fish Finger Sandwich", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-sandwiches-rolls-wraps-posh-fish-finger-sandwich-without-extra-sides/BMlzuMpdTNy0OpXc0k7rVQ" },
+      { "title": "Nellys fish finger sandwich (serves 1)", "url": "https://nomnomnelly.wordpress.com/2014/05/31/nellys-fish-finger-sandwich-serves-1-cals-435pp/" }
+    ]
+  },
+  {
+    "id": "uk-lunch-031",
+    "name": "Pea and Ham Soup with Crusty Bread",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Pea and ham soup is a traditional British recipe long used to make the most of a leftover gammon or ham joint, commonly cooked at home as a hearty, warming lunch.",
+    "ingredients": [
+      { "item": "split peas or frozen peas", "quantity": 100, "unit": "g" },
+      { "item": "cooked ham or gammon, diced", "quantity": 80, "unit": "g" },
+      { "item": "onion and carrot, diced", "quantity": 60, "unit": "g" },
+      { "item": "ham or vegetable stock", "quantity": 400, "unit": "ml" },
+      { "item": "crusty bread", "quantity": 50, "unit": "g" }
+    ],
+    "prepNotes": "Simmer split peas with stock, onion and carrot for 30-40 minutes until soft, then blend until smooth or leave chunky. Stir through diced ham and warm through, then serve with crusty bread.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 28,
+      "carbs_g": 50,
+      "fiber_g": 10,
+      "sugar_g": 8,
+      "fat_g": 10,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for split peas, ham and vegetables; consistent with British pea and ham soup recipe nutrition data (260-370 kcal per bowl before bread)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "A classic home-cooked British soup, often made from a leftover Sunday gammon joint; split peas, ham and stock are sold in every supermarket."
+    },
+    "sources": [
+      { "title": "Pea and Ham Soup {Easy & Delicious}", "url": "https://www.tamingtwins.com/pea-and-ham-soup-recipe/" },
+      { "title": "Leftover Ham and Split Pea Soup - Culinary Ginger", "url": "https://culinaryginger.com/ham-and-split-pea-soup/" }
+    ]
+  },
+  {
+    "id": "uk-lunch-032",
+    "name": "Chicken and Bacon Caesar Wrap",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The chicken and bacon Caesar wrap is a widely sold UK supermarket meal-deal item, stocked by Morrisons, Tesco and Sainsbury's as a popular protein-rich lunch choice.",
+    "ingredients": [
+      { "item": "wheat flour tortilla wrap", "quantity": 70, "unit": "g" },
+      { "item": "cooked chicken breast, sliced", "quantity": 80, "unit": "g" },
+      { "item": "bacon, cooked and chopped", "quantity": 25, "unit": "g" },
+      { "item": "romaine lettuce", "quantity": 30, "unit": "g" },
+      { "item": "Caesar dressing", "quantity": 25, "unit": "g" },
+      { "item": "parmesan, grated", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Lay chicken, bacon, lettuce, parmesan and Caesar dressing along the tortilla, then roll tightly and slice in half. A standard pre-packed format found in supermarket chiller cabinets.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 28,
+      "carbs_g": 36,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for chicken, bacon, tortilla and Caesar dressing; cross-checked against Morrisons and Sainsbury's chicken and bacon Caesar wrap nutrition panels (420-460 kcal)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Morrisons", "Tesco", "Sainsbury's", "Asda"],
+      "notes": "A standard meal-deal wrap option sold nationwide in supermarket chiller cabinets."
+    },
+    "sources": [
+      { "title": "Morrisons Chicken Caesar Wrap", "url": "https://groceries.morrisons.com/products/morrisons-chicken-caesar-wrap/104047049" },
+      { "title": "Chicken and bacon caesar wrap Nutrition", "url": "https://www.snapcalorie.com/nutrition/chicken_and_bacon_caesar_wrap_nutrition.html" }
+    ]
+  },
+  {
+    "id": "uk-lunch-033",
+    "name": "Mini Frittata Muffins with Side Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Mini frittata muffins are a popular British meal-prep and lunchbox recipe, frequently recommended by egg industry bodies and family food blogs as a portable, protein-rich lunch for adults and children alike.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 150, "unit": "g" },
+      { "item": "cherry tomatoes, peppers and spinach, diced", "quantity": 100, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 30, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 30, "unit": "ml" },
+      { "item": "mixed salad leaves", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Whisk eggs with milk, stir through diced vegetables and cheese, then pour into a greased muffin tin and bake at 180C for 18-20 minutes until set. Serve 3-4 muffins with a side salad.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 26,
+      "carbs_g": 8,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 26,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for eggs, vegetables, cheese and milk in a standard frittata muffin batch, scaled to a typical lunch portion of 3-4 muffins"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "A common home-cooked meal-prep lunch nationwide; eggs and vegetables are everyday staples in every UK supermarket."
+    },
+    "sources": [
+      { "title": "Mini frittata muffins | Egg Recipes - British Lion Eggs", "url": "https://www.egginfo.co.uk/recipes/mini-frittata-muffins" }
+    ]
+  },
+  {
+    "id": "uk-lunch-034",
+    "name": "Melton Mowbray Pork Pie with Pickle and Salad",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The Melton Mowbray pork pie is a Protected Geographical Indication British food, traditionally eaten cold as a picnic or packed lunch with pickle, and widely sold across UK supermarket deli counters.",
+    "ingredients": [
+      { "item": "Melton Mowbray pork pie", "quantity": 150, "unit": "g" },
+      { "item": "Branston pickle", "quantity": 25, "unit": "g" },
+      { "item": "mixed salad leaves and tomato", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Eaten cold, sliced into wedges, with a spoonful of pickle and a side salad. No cooking is required as the pie is fully cooked and typically bought ready to eat.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 20,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugar_g": 10,
+      "fat_g": 36,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for pork pie pastry and jellied pork filling; cross-checked against M&S and Tesco Melton Mowbray pork pie nutrition panels (400-560 kcal depending on size), plus pickle and salad"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose", "M&S"],
+      "notes": "Sold fresh in deli counters and pre-packed nationwide; a classic picnic and packed-lunch item with Protected Geographical Indication status."
+    },
+    "sources": [
+      { "title": "Marks & Spencer Melton Mowbray, Pork Pie Nutrition Facts", "url": "https://www.eatthismuch.com/calories/melton-mowbray-pork-pie-1728760" }
+    ]
+  },
+  {
+    "id": "uk-lunch-035",
+    "name": "Cottage Pie with Seasonal Vegetables",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Cottage pie, made with minced beef and a mashed potato topping, is a deeply traditional British lunch and dinner dish served in homes, school canteens and pub kitchens nationwide.",
+    "ingredients": [
+      { "item": "beef mince", "quantity": 120, "unit": "g" },
+      { "item": "onion and carrot, diced", "quantity": 80, "unit": "g" },
+      { "item": "beef stock and Worcestershire sauce", "quantity": 100, "unit": "ml" },
+      { "item": "potato, mashed with butter and milk", "quantity": 200, "unit": "g" },
+      { "item": "broccoli or green beans", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Brown the mince with onion and carrot, simmer in stock and Worcestershire sauce for 20 minutes, then top with mashed potato and bake at 200C for 20-25 minutes until golden. Serve with steamed seasonal vegetables.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 34,
+      "carbs_g": 48,
+      "fiber_g": 7,
+      "sugar_g": 8,
+      "fat_g": 22,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for beef mince, potato and vegetables in a standard home-cooked cottage pie portion (500-610 kcal range)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "A nationwide home-cooking staple; chilled and frozen ready-meal versions are sold in every UK supermarket."
+    },
+    "sources": [
+      { "title": "Cottage Pie - RecipeTin Eats", "url": "https://www.recipetineats.com/cottage-pie/" }
+    ]
+  },
+  {
+    "id": "uk-lunch-036",
+    "name": "Falafel, Houmous and Spiced Carrot Wrap (Meal Deal)",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Plant-based falafel and houmous wraps have become a mainstream UK supermarket meal-deal staple, with Tesco's Plant Chef, Morrisons' Plant Revolution and Lidl ranges all selling a near-identical format nationwide.",
+    "ingredients": [
+      { "item": "tomato tortilla wrap", "quantity": 70, "unit": "g" },
+      { "item": "carrot and coriander falafel", "quantity": 80, "unit": "g" },
+      { "item": "houmous", "quantity": 35, "unit": "g" },
+      { "item": "grated carrot and baby spinach", "quantity": 50, "unit": "g" },
+      { "item": "mango chutney", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Sold pre-packed and ready to eat: a tomato tortilla filled with carrot and coriander falafel, houmous, grated carrot, spinach and a touch of mango chutney, rolled and sliced.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 13,
+      "carbs_g": 58,
+      "fiber_g": 9,
+      "sugar_g": 12,
+      "fat_g": 16,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for chickpea falafel, houmous and tortilla wrap; cross-checked against Tesco Plant Chef Falafel Houmous Wrap nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Morrisons", "Lidl", "Co-op", "Sainsbury's"],
+      "notes": "Part of widely sold plant-based meal-deal ranges (Tesco Plant Chef, Morrisons Plant Revolution, Co-op GRO, Lidl), available nationwide."
+    },
+    "sources": [
+      { "title": "Tesco Plant Chef Falafel Houmous Wrap", "url": "https://www.tesco.com/groceries/en-GB/products/304795647" },
+      { "title": "Vegan meal deals for lunch on the go", "url": "https://www.v-landuk.com/article/vegan-meal-deals-for-lunch-on-the-go" }
+    ]
+  },
+  {
+    "id": "uk-lunch-037",
+    "name": "Club Sandwich (Chicken, Bacon, Egg)",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The triple-decker club sandwich with chicken, bacon and egg is a popular café and pub lunch order in the UK, commonly served with chips or a side salad in pub chains and independent cafés.",
+    "ingredients": [
+      { "item": "toasted white or granary bread", "quantity": 120, "unit": "g" },
+      { "item": "cooked chicken breast, sliced", "quantity": 80, "unit": "g" },
+      { "item": "bacon, grilled", "quantity": 30, "unit": "g" },
+      { "item": "hard-boiled egg, sliced", "quantity": 50, "unit": "g" },
+      { "item": "lettuce and tomato", "quantity": 40, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Toast three slices of bread, layer chicken, bacon, egg, lettuce, tomato and mayonnaise between them, then cut into triangular quarters and secure with cocktail sticks, in the classic triple-decker format.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 42,
+      "carbs_g": 50,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 31,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for bread, chicken, bacon, egg and mayonnaise in a standard triple-decker club sandwich portion"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Co-op"],
+      "notes": "A common pub and café menu item nationwide; pre-packed supermarket club sandwiches are also widely stocked."
+    },
+    "sources": [
+      { "title": "'I tried sandwiches from M&S, Greggs, Tesco and Co-op'", "url": "https://www.dailypost.co.uk/whats-on/food-drink-news/i-tried-sandwiches-ms-greggs-26324165" }
+    ]
+  },
+  {
+    "id": "uk-lunch-038",
+    "name": "Lentil Dahl with Brown Rice",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Lentil dahl is a widely cooked British-Indian home lunch, popular for being inexpensive, plant-based and high in fibre; it features regularly in NHS healthy-eating recipe guides and BBC Good Food's curry collections.",
+    "ingredients": [
+      { "item": "red lentils, dried", "quantity": 80, "unit": "g" },
+      { "item": "onion, garlic and ginger", "quantity": 50, "unit": "g" },
+      { "item": "tinned tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "curry spices (turmeric, cumin, coriander)", "quantity": 5, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "brown rice, cooked", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Fry onion, garlic, ginger and spices until fragrant, add lentils, tomatoes and water, then simmer for 25-30 minutes until the lentils are soft and the dahl has thickened. Serve over brown rice.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 22,
+      "carbs_g": 88,
+      "fiber_g": 14,
+      "sugar_g": 9,
+      "fat_g": 10,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for red lentils, brown rice and spices; consistent with NHS and BBC Good Food dahl recipe nutrition data"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "Dried lentils, brown rice and curry spices are inexpensive pantry staples sold in every UK supermarket, and this dish is widely cooked at home nationwide."
+    },
+    "sources": [
+      { "title": "NHS Healthier Families lunchbox and recipe guidance", "url": "https://www.nhs.uk/healthier-families/recipes/healthier-lunchboxes/" }
+    ]
+  },
+  {
+    "id": "uk-lunch-039",
+    "name": "Greek-Style Halloumi and Roasted Vegetable Wrap",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Halloumi wraps with roasted Mediterranean vegetables have become a popular UK café and supermarket lunch option as halloumi's mainstream popularity has grown, sold by Pret a Manger and supermarket food-to-go ranges.",
+    "ingredients": [
+      { "item": "halloumi cheese, sliced and grilled", "quantity": 80, "unit": "g" },
+      { "item": "wholewheat wrap", "quantity": 70, "unit": "g" },
+      { "item": "roasted red pepper, courgette and red onion", "quantity": 100, "unit": "g" },
+      { "item": "houmous", "quantity": 30, "unit": "g" },
+      { "item": "mixed salad leaves", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Grill sliced halloumi until golden, roast the vegetables at 200C for 20 minutes, then spread houmous on the wrap and fill with halloumi, vegetables and salad leaves before rolling.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 22,
+      "carbs_g": 50,
+      "fiber_g": 8,
+      "sugar_g": 10,
+      "fat_g": 28,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for halloumi, roasted vegetables, houmous and wrap bread, consistent with Pret a Manger-style halloumi wrap nutrition data"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "mediterranean"],
+      "allergens": ["gluten", "dairy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "M&S"],
+      "notes": "Sold at Pret a Manger and as a chilled food-to-go item at Waitrose, M&S and Sainsbury's; halloumi is now a mainstream UK supermarket cheese."
+    },
+    "sources": [
+      { "title": "Pret A Manger Falafel and Halloumi Hot Wrap", "url": "https://bitebuddy.co.uk/recipes/pret-falafel-halloumi-hot-wrap" }
+    ]
+  },
+  {
+    "id": "uk-lunch-040",
+    "name": "Tuna Pasta Salad Lunch Pot",
+    "country": "UK",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Tuna pasta salad is a long-standing British packed-lunch and meal-prep dish, popular for being inexpensive, easy to make in batches and well suited to lunchboxes and office fridges.",
+    "ingredients": [
+      { "item": "fusilli or penne pasta, cooked", "quantity": 150, "unit": "g" },
+      { "item": "tinned tuna in water, drained", "quantity": 100, "unit": "g" },
+      { "item": "sweetcorn and peas", "quantity": 60, "unit": "g" },
+      { "item": "cherry tomatoes, halved", "quantity": 50, "unit": "g" },
+      { "item": "mayonnaise or light mayonnaise", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Cook and cool the pasta, then mix with flaked tuna, sweetcorn, peas, tomatoes and mayonnaise. Keeps well chilled for 2-3 days, making it a reliable batch-cooked lunch for the working week.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 30,
+      "carbs_g": 64,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 16,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods for pasta, tinned tuna, vegetables and mayonnaise in a standard lunchbox-style pasta salad portion"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "eggs", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "A budget-friendly, widely made home lunch nationwide; all ingredients are inexpensive pantry and chiller staples in every UK supermarket."
+    },
+    "sources": [
+      { "title": "10-Minute Couscous Salad", "url": "https://www.food.com/recipe/10-minute-couscous-salad-421355" }
+    ]
+  }
+]

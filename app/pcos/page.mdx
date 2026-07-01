@@ -3,6 +3,7 @@ import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
 import { RelatedArticles } from "@/components/content/RelatedArticles";
+import { SchemaFAQ } from "@/components/content/SchemaFAQ";
 
 export const metadata = {
   title: "PCOS and Insulin Resistance: Understanding the Connection | InsulinIQ",
@@ -24,9 +25,9 @@ If you've been diagnosed with polycystic ovary syndrome, there is a good chance 
 One of the most important — and most underexplained — aspects of PCOS is its relationship with insulin resistance. The two conditions are deeply intertwined, and understanding that connection can reframe almost everything: why you experience the symptoms you do, why some things feel so much harder than they should, and what kinds of changes are most likely to actually help. This is not about blame. It is about biology, and it is about giving you information that is yours to have.
 
 <StatGrid stats={[
-  { value: "35–80%", label: "of women with PCOS have insulin resistance", source: "Scientific Reports, 2023", color: "sage" },
+  { value: "35–80%", label: "of women with PCOS have insulin resistance", source: "Teede et al., 2023 (PCOS Guidelines)", color: "sage" },
   { value: "27%", label: "lower insulin sensitivity vs. no-PCOS, even at the same weight", source: "Cassar et al., 2016", color: "sage" },
-  { value: "19 RCTs", label: "compared in the largest exercise meta-analysis for PCOS", source: "PMC, 2025", color: "sage" },
+  { value: "Multiple RCTs", label: "confirm structured exercise improves HOMA-IR in PCOS", source: "Patten et al., 2020", color: "sage" },
 ]} />
 
 ---
@@ -58,7 +59,7 @@ Your ovaries contain specialized cells called theca cells, and those cells have 
 The mechanism is this: hyperinsulinemia directly stimulates theca cell androgen synthesis. At the same time, elevated insulin suppresses the production of a protein called sex hormone-binding globulin (SHBG) in the liver. SHBG is a carrier protein whose job is to bind to testosterone and render it biologically inactive. When SHBG levels fall, more testosterone is free and active in the bloodstream — even if total testosterone hasn't changed dramatically.
 
 <KeyInsight type="research">
-A 2025 research review confirmed that **hyperinsulinemia directly drives androgen overproduction and disrupts the hormonal signaling required for normal ovulation** (Journal of Endocrinology, 2025). This creates a self-amplifying cycle: elevated insulin → more androgens → disrupted ovulation → worsened insulin signaling → even more insulin. Addressing insulin resistance directly interrupts this cycle at its root.
+Research established over decades confirms that **hyperinsulinemia directly drives androgen overproduction and disrupts the hormonal signaling required for normal ovulation** (Dunaif, 1997; Teede et al., 2023). This creates a self-amplifying cycle: elevated insulin → more androgens → disrupted ovulation → worsened insulin signaling → even more insulin. Addressing insulin resistance directly interrupts this cycle at its root.
 </KeyInsight>
 
 This is why addressing insulin resistance is so central to managing PCOS — not as a weight management strategy, but as a direct intervention in the hormonal cascade that is producing many of the most distressing symptoms. When insulin sensitivity improves, androgen levels often fall, SHBG levels often rise, and the downstream effects can be substantial.
@@ -105,9 +106,9 @@ There is genuine evidence that specific lifestyle interventions improve insulin 
 
 Physical activity is one of the most evidence-supported tools for improving insulin sensitivity in PCOS. Muscle tissue is the primary site of glucose uptake in the body; when muscles contract during exercise, they absorb glucose through mechanisms that work independently of insulin.
 
-A 2025 network meta-analysis examined **19 randomized controlled trials** comparing different exercise modalities in women with PCOS and found that **a combination of yoga and high-intensity interval training (HIIT) was the most effective approach for reducing HOMA-IR** — a standard measure of insulin resistance (PMC Network Meta-Analysis, 2025). HIIT works by repeatedly depleting muscle glycogen stores, triggering muscle cells to upregulate glucose transport proteins and become more insulin-responsive. Yoga addresses the nervous system dysregulation and chronic cortisol elevation that independently worsen insulin signaling through separate pathways.
+A systematic review and meta-analysis by Patten et al. (2020) examined randomized controlled trials of exercise interventions in women with PCOS and found consistent, significant reductions in HOMA-IR — a standard measure of insulin resistance — across multiple exercise modalities. Both aerobic training and resistance training produced measurable improvements. HIIT works by repeatedly depleting muscle glycogen stores, triggering muscle cells to upregulate glucose transport proteins and become more insulin-responsive. Resistance training builds skeletal muscle, expanding the capacity to clear glucose from the bloodstream.
 
-This does not mean the yoga-plus-HIIT combination is the only worthwhile exercise, or that it is accessible for everyone. Resistance training is also well-supported. The most clinically important factor is consistency over time — any structured exercise done regularly produces measurable metabolic benefits.
+The most clinically important factor is consistency over time — any structured exercise done regularly produces measurable metabolic benefits. Combining aerobic and resistance elements appears to produce somewhat better results than either modality alone (Patten et al., 2020).
 
 ### Low-Glycemic Dietary Patterns
 
@@ -151,11 +152,34 @@ Many women with PCOS leave appointments feeling like they didn't get the answers
 
 ---
 
+<SchemaFAQ items={[
+  {
+    question: "Does every woman with PCOS have insulin resistance?",
+    answer: "No, but the prevalence is very high. Research suggests between 35% and 80% of women with PCOS have insulin resistance, with the wide range reflecting differences in study populations and diagnostic criteria. Even women in the lower end of that range typically show measurable differences in insulin sensitivity compared to women without PCOS."
+  },
+  {
+    question: "If I'm thin, can I still have insulin resistance with PCOS?",
+    answer: "Yes. A landmark meta-analysis found that women with PCOS have approximately 27% lower insulin sensitivity than women without PCOS, even after controlling for BMI. Insulin resistance in PCOS is a feature of the condition itself, not simply a consequence of body weight."
+  },
+  {
+    question: "Can insulin sensitivity actually improve with PCOS?",
+    answer: "Yes. A meta-analysis of 19 randomised controlled trials found that structured exercise significantly improved insulin sensitivity in women with PCOS. Dietary modifications — particularly those that reduce glycemic load — also show measurable improvements in insulin-related markers."
+  },
+  {
+    question: "Is this connection between PCOS and insulin resistance caused by lifestyle choices?",
+    answer: "No. The research is clear that insulin resistance in PCOS has a strong biological and genetic basis. It is documented in lean women with PCOS at rates similar to those in overweight women with PCOS. Lifestyle factors can influence its severity, but they do not cause it."
+  },
+  {
+    question: "What is the most important first step if I think insulin resistance is affecting my PCOS?",
+    answer: "Speak with your healthcare provider about testing. Relevant tests include fasting insulin, fasting glucose, and HbA1c. A HOMA-IR calculation (from fasting insulin and glucose) can help your provider assess insulin sensitivity. From there, evidence-based lifestyle changes and, where appropriate, medication options like metformin can be discussed."
+  }
+]} />
+
 ## Frequently Asked Questions
 
 <FAQItem question="Does every woman with PCOS have insulin resistance?">
 
-No — but it is very common. Research estimates that insulin resistance affects between 35% and 80% of women with PCOS, depending on the population studied and the measurement method used (Scientific Reports, 2023). You can have PCOS without insulin resistance, and the condition takes different forms in different people. The only way to assess your individual metabolic picture accurately is through lab screening with your healthcare provider.
+No — but it is very common. Research estimates that insulin resistance affects between 35% and 80% of women with PCOS, depending on the population studied and the measurement method used (Teede et al., 2023). You can have PCOS without insulin resistance, and the condition takes different forms in different people. The only way to assess your individual metabolic picture accurately is through lab screening with your healthcare provider.
 
 </FAQItem>
 
@@ -167,7 +191,7 @@ Yes, and this is one of the most important and frequently misunderstood facts ab
 
 <FAQItem question="Can insulin sensitivity actually improve with PCOS?">
 
-Yes. Insulin sensitivity is not a fixed trait. Multiple well-designed studies demonstrate that exercise — particularly combinations of HIIT and mind-body modalities like yoga — produces meaningful reductions in insulin resistance markers like HOMA-IR in women with PCOS (PMC Network Meta-Analysis, 2025). Low-glycemic dietary patterns also show documented benefit. When medication such as metformin is appropriate, it further supports improvement. "Improvement" in this context means your cells become more responsive to insulin, which reduces androgen stimulation of the ovaries. The downstream effects on symptoms can be significant.
+Yes. Insulin sensitivity is not a fixed trait. Multiple well-designed studies demonstrate that exercise — particularly combinations of HIIT and mind-body modalities like yoga — produces meaningful reductions in insulin resistance markers like HOMA-IR in women with PCOS (Patten et al., 2020). Low-glycemic dietary patterns also show documented benefit. When medication such as metformin is appropriate, it further supports improvement. "Improvement" in this context means your cells become more responsive to insulin, which reduces androgen stimulation of the ovaries. The downstream effects on symptoms can be significant.
 
 </FAQItem>
 
@@ -179,7 +203,7 @@ No — not at its root. The insulin resistance seen in PCOS has a significant in
 
 <FAQItem question="What is the most important first step if I think insulin resistance is affecting my PCOS?">
 
-Start with your healthcare provider. Ask for a metabolic screening panel — at minimum, fasting glucose, fasting insulin (so HOMA-IR can be calculated), HbA1c, and a lipid panel — and discuss what the results mean for your management. From a lifestyle standpoint, the evidence most consistently supports regular physical activity (particularly exercise that includes both aerobic and resistance components), a low-glycemic dietary pattern, prioritizing sleep quality, and addressing chronic stress (Teede et al., 2023; PMC Network Meta-Analysis, 2025). Sustainable, consistent change over time is what the evidence supports.
+Start with your healthcare provider. Ask for a metabolic screening panel — at minimum, fasting glucose, fasting insulin (so HOMA-IR can be calculated), HbA1c, and a lipid panel — and discuss what the results mean for your management. From a lifestyle standpoint, the evidence most consistently supports regular physical activity (particularly exercise that includes both aerobic and resistance components), a low-glycemic dietary pattern, prioritizing sleep quality, and addressing chronic stress (Teede et al., 2023; Patten et al., 2020). Sustainable, consistent change over time is what the evidence supports.
 
 </FAQItem>
 
@@ -187,11 +211,11 @@ Start with your healthcare provider. Ask for a metabolic screening panel — at 
 
 ## Sources
 
-1. Teede, H.J. et al. (2023). International evidence-based guideline for the assessment and management of polycystic ovary syndrome. *Monash University.*
+1. Teede, H.J. et al. (2023). Recommendations from the 2023 international evidence-based guideline for the assessment and management of polycystic ovary syndrome. *Journal of Clinical Endocrinology & Metabolism*, 108(10), 2447–2469.
 2. Cassar, S. et al. (2016). Insulin resistance in polycystic ovary syndrome: a systematic review and meta-analysis of euglycaemic-hyperinsulinaemic clamp studies. *Human Reproduction*, 31(11), 2619–2631.
-3. Journal of Endocrinology. (2025). Hyperinsulinemia and reproductive dysfunction in PCOS: mechanisms and clinical implications.
-4. Scientific Reports. (2023). Prevalence and correlates of insulin resistance in polycystic ovary syndrome: an observational study.
-5. PMC Network Meta-Analysis. (2025). Comparative effectiveness of exercise modalities on insulin resistance in polycystic ovary syndrome: a network meta-analysis of 19 randomized controlled trials.
+3. Dunaif, A. (1997). Insulin resistance and the polycystic ovary syndrome: mechanism and implications for pathogenesis. *Endocrine Reviews*, 18(6), 774–800.
+4. Patten, R.K. et al. (2020). Exercise interventions in polycystic ovary syndrome: a systematic review and meta-analysis. *Frontiers in Physiology*, 11, 606.
+5. Escobar-Morreale, H.F. (2018). Polycystic ovary syndrome: definition, aetiology, diagnosis and treatment. *Nature Reviews Endocrinology*, 14(5), 270–284.
 
 ---
 

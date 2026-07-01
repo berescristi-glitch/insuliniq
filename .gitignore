@@ -27,6 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env.vercel*
 
 # vercel
 .vercel
@@ -35,4 +36,15 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.vercel
+# playwright test artifacts
+/.playwright-mcp/
+
+# build logs
+build-err.txt
+build-out.txt
+_build_err.txt
+_build_out.txt
+
+# temporary fix scripts
+__fix_all_corrupt.mjs
+__install_fix.mjs

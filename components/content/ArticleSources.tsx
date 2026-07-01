@@ -27,7 +27,7 @@ export function ArticleSources({ sources }: ArticleSourcesProps) {
               href={s.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-emerald-700 underline hover:text-emerald-900"
+              className="text-forest-700 underline hover:text-forest-900"
             >
               {s.title}
             </a>

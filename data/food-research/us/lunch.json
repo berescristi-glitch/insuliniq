@@ -1,0 +1,1710 @@
+[
+  {
+    "id": "us-lunch-001",
+    "name": "Chick-fil-A Grilled Chicken Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "One of the most-ordered items at Chick-fil-A, a top-5 US fast food chain by sales; widely chosen as a 'lighter' fast food lunch option compared to fried sandwiches.",
+    "ingredients": [
+      { "item": "grilled chicken breast filet", "quantity": 4, "unit": "oz" },
+      { "item": "multigrain bun", "quantity": 1, "unit": "bun" },
+      { "item": "green leaf lettuce", "quantity": 1, "unit": "leaf" },
+      { "item": "tomato slice", "quantity": 1, "unit": "slice" }
+    ],
+    "prepNotes": "Order as-is at the counter or drive-thru, or replicate at home by grilling a lemon-herb marinated chicken breast and assembling on a toasted multigrain bun with lettuce and tomato.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 28,
+      "carbs_g": 44,
+      "fiber_g": 3,
+      "sugar_g": 8,
+      "fat_g": 11,
+      "method": "Published nutrition panel, Chick-fil-A; cross-checked against USDA FoodData Central for chicken breast and multigrain bun components"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "Chick-fil-A is a nationwide quick-service chain; home-replication ingredients (chicken, multigrain buns) available at any US supermarket."
+    },
+    "sources": [
+      { "title": "Chick-fil-A Grilled Chicken Sandwich official menu page", "url": "https://www.chick-fil-a.com/menu/entrees/grilled-chicken-sandwich" },
+      { "title": "Chick-fil-A Grilled Chicken Sandwich Nutrition Facts", "url": "https://fastfoodnutrition.org/chick-fil-a/chargrilled-chicken-sandwich" }
+    ]
+  },
+  {
+    "id": "us-lunch-002",
+    "name": "Chipotle Chicken Burrito Bowl",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Chipotle's burrito bowl is one of the most ordered fast-casual lunch items in the US, popularized as a customizable, higher-protein alternative to a wrapped burrito.",
+    "ingredients": [
+      { "item": "cilantro-lime white rice", "quantity": 0.5, "unit": "cup" },
+      { "item": "black beans", "quantity": 0.5, "unit": "cup" },
+      { "item": "grilled chicken", "quantity": 4, "unit": "oz" },
+      { "item": "romaine lettuce", "quantity": 1, "unit": "cup" },
+      { "item": "salsa", "quantity": 2, "unit": "tbsp" },
+      { "item": "shredded cheese", "quantity": 2, "unit": "tbsp" },
+      { "item": "guacamole", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Build in a bowl: rice and beans first, then top with grilled chicken, lettuce, salsa, cheese and guacamole. At Chipotle, order this exact build at the counter; at home, use rotisserie or grilled chicken breast.",
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 45,
+      "carbs_g": 60,
+      "fiber_g": 12,
+      "sugar_g": 3,
+      "fat_g": 22,
+      "method": "Published nutrition panel, Chipotle Mexican Grill, for stated build; cross-checked against USDA FoodData Central component values"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target"],
+      "notes": "Chipotle is a nationwide fast-casual chain; home-build ingredients available at any major US supermarket."
+    },
+    "sources": [
+      { "title": "Chipotle Chicken Burrito Bowl Nutrition Facts", "url": "https://fastfoodnutrition.org/chipotle/chicken-burrito-bowl" },
+      { "title": "Carbs in Chipotle Chicken Burrito Bowl", "url": "https://www.carbmanager.com/food-detail/md:25ed0723e6fce6905773bb09d64a86a8/chicken-burrito-bowl" }
+    ]
+  },
+  {
+    "id": "us-lunch-003",
+    "name": "Turkey Chili with Beans",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 6,
+    "popularityContext": "Turkey chili is a widely cooked American comfort-food lunch and meal-prep staple, especially popular in fall and winter and as a leaner alternative to beef chili.",
+    "ingredients": [
+      { "item": "ground turkey (93% lean)", "quantity": 1, "unit": "lb" },
+      { "item": "kidney beans, canned, drained", "quantity": 15, "unit": "oz" },
+      { "item": "black beans, canned, drained", "quantity": 15, "unit": "oz" },
+      { "item": "diced tomatoes, canned", "quantity": 28, "unit": "oz" },
+      { "item": "yellow onion, diced", "quantity": 1, "unit": "cup" },
+      { "item": "bell pepper, diced", "quantity": 1, "unit": "cup" },
+      { "item": "chili powder", "quantity": 2, "unit": "tbsp" },
+      { "item": "cumin", "quantity": 1, "unit": "tsp" },
+      { "item": "low-sodium chicken broth", "quantity": 1, "unit": "cup" }
+    ],
+    "prepNotes": "Brown turkey with onion and bell pepper in a large pot until cooked through. Add beans, tomatoes, broth and spices, then simmer uncovered for 25-30 minutes, stirring occasionally. Adjust seasoning and serve in 1.5-cup portions.",
+    "nutrition": {
+      "calories": 295,
+      "protein_g": 24,
+      "carbs_g": 33,
+      "fiber_g": 10,
+      "sugar_g": 6,
+      "fat_g": 7,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, 1.5-cup serving of 6"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Aldi", "Safeway", "Costco"],
+      "notes": "All ingredients are nationwide pantry and grocery staples year-round."
+    },
+    "sources": [
+      { "title": "Turkey Chili with Beans and Corn, VA Nutrition and Food Services", "url": "https://www.nutrition.va.gov/docs/Recipes/MainDishes/TurkeyChiliwithBeansandCornMay2021.pdf" },
+      { "title": "High Protein Turkey Chili — Iowa Girl Eats", "url": "https://iowagirleats.com/easy-turkey-chili/" }
+    ]
+  },
+  {
+    "id": "us-lunch-004",
+    "name": "Turkey Lettuce Wraps",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A common low-carb meal-prep lunchbox staple in the US, popularized by fitness and meal-prep culture as well as fast-casual chains like P.F. Chang's-style lettuce wraps adapted for home lunches.",
+    "ingredients": [
+      { "item": "sliced deli turkey breast", "quantity": 4, "unit": "oz" },
+      { "item": "butter lettuce leaves", "quantity": 4, "unit": "leaves" },
+      { "item": "avocado, sliced", "quantity": 0.25, "unit": "avocado" },
+      { "item": "shredded carrot", "quantity": 0.25, "unit": "cup" },
+      { "item": "hummus", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Lay lettuce leaves flat, spread a thin layer of hummus on each, then layer turkey, avocado and shredded carrot. Roll or fold like a taco and secure with a toothpick if packing for later.",
+    "nutrition": {
+      "calories": 290,
+      "protein_g": 26,
+      "carbs_g": 14,
+      "fiber_g": 6,
+      "sugar_g": 3,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's", "Whole Foods", "Walmart", "Kroger", "Target"],
+      "notes": "Deli turkey, lettuce and avocado are available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Turkey lettuce wrap nutrition", "url": "https://eatthismuch.com/calories/turkey-lettuce-wrap-3003230" },
+      { "title": "Turkey bibb lettuce wrap nutrition", "url": "https://eatthismuch.com/calories/turkey-bibb-lettuce-wrap-1496413" }
+    ]
+  },
+  {
+    "id": "us-lunch-005",
+    "name": "Rotisserie Chicken Salad Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 4,
+    "popularityContext": "Made from store-bought rotisserie chicken (a Costco and Walmart deli staple), this is one of the most common American meal-prep lunches for using up leftover chicken.",
+    "ingredients": [
+      { "item": "rotisserie chicken, shredded", "quantity": 3, "unit": "cups" },
+      { "item": "mayonnaise", "quantity": 0.33, "unit": "cup" },
+      { "item": "celery, diced", "quantity": 0.5, "unit": "cup" },
+      { "item": "red onion, minced", "quantity": 2, "unit": "tbsp" },
+      { "item": "lemon juice", "quantity": 1, "unit": "tbsp" },
+      { "item": "whole wheat bread", "quantity": 8, "unit": "slices" }
+    ],
+    "prepNotes": "Shred rotisserie chicken and mix with mayonnaise, celery, red onion and lemon juice in a bowl. Season with salt and pepper, then spread about 3/4 cup of the mixture between two slices of whole wheat bread per sandwich.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 29,
+      "carbs_g": 28,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, per sandwich of 4 servings"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Costco", "Walmart", "Kroger", "Safeway", "Aldi"],
+      "notes": "Rotisserie chicken is a year-round deli staple at nearly every major US grocery chain."
+    },
+    "sources": [
+      { "title": "Rotisserie Chicken Salad Sandwich Recipe — Mom On Timeout", "url": "https://www.momontimeout.com/rotisserie-chicken-salad-sandwich-recipe/" },
+      { "title": "Classic Chicken Salad Recipe — Spend with Pennies", "url": "https://www.spendwithpennies.com/classic-chicken-salad-recipe/" }
+    ]
+  },
+  {
+    "id": "us-lunch-006",
+    "name": "Classic Cobb Salad",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Invented at the Brown Derby restaurant in Hollywood in the 1930s, the Cobb salad remains a staple sit-down lunch salad on American diner and casual restaurant menus nationwide.",
+    "ingredients": [
+      { "item": "romaine lettuce, chopped", "quantity": 2, "unit": "cups" },
+      { "item": "grilled chicken breast, diced", "quantity": 4, "unit": "oz" },
+      { "item": "hard-boiled egg", "quantity": 1, "unit": "egg" },
+      { "item": "bacon, cooked and crumbled", "quantity": 2, "unit": "slices" },
+      { "item": "avocado, diced", "quantity": 0.5, "unit": "avocado" },
+      { "item": "cherry tomatoes, halved", "quantity": 0.5, "unit": "cup" },
+      { "item": "blue cheese, crumbled", "quantity": 2, "unit": "tbsp" },
+      { "item": "red wine vinaigrette", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Arrange chopped romaine on a plate or in a bowl. Top with rows of diced chicken, chopped egg, bacon, avocado, tomatoes and blue cheese. Drizzle with vinaigrette just before eating.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 12,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 36,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Kroger", "Safeway", "Walmart"],
+      "notes": "All ingredients are standard nationwide produce, dairy and meat counter items."
+    },
+    "sources": [
+      { "title": "Cobb Salad Recipe — Downshiftology", "url": "https://downshiftology.com/recipes/cobb-salad/" },
+      { "title": "Cobb Salad nutrition data", "url": "https://www.arise-app.com/dish/Cobb-Salad" }
+    ]
+  },
+  {
+    "id": "us-lunch-007",
+    "name": "Subway 6-Inch Turkey Breast Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Subway is the largest sandwich chain in the US, and the turkey breast sub is consistently one of its top-selling items, frequently chosen as a lighter, build-your-own fast lunch.",
+    "ingredients": [
+      { "item": "9-grain wheat bread, 6 inch", "quantity": 1, "unit": "roll" },
+      { "item": "turkey breast, sliced", "quantity": 2.5, "unit": "oz" },
+      { "item": "lettuce, tomato, cucumber, onion", "quantity": 1, "unit": "cup" },
+      { "item": "yellow mustard", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Order at the counter on 9-grain wheat with turkey breast, your choice of vegetables, and a light condiment like mustard for a lower-fat build. Ask for double vegetables to add fiber and volume.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 18,
+      "carbs_g": 46,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 4,
+      "method": "Published nutrition panel, Subway"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "Subway is a nationwide quick-service chain with locations in nearly every US city and town."
+    },
+    "sources": [
+      { "title": "Calories in 6 Inch Turkey Sandwich by Subway", "url": "https://www.mynetdiary.com/food/calories-in-6-inch-turkey-sandwich-by-subway-serving-19314903-0.html" },
+      { "title": "Subway Turkey Breast nutrition", "url": "https://nutriscan.app/calories-nutrition/subway-turkey-breast" }
+    ]
+  },
+  {
+    "id": "us-lunch-008",
+    "name": "Classic Italian Sub (Hoagie)",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A staple of Italian-American delis on the East Coast (especially Philadelphia and New York), the Italian sub/hoagie is a widely recognized regional lunch sandwich found in delis nationwide.",
+    "ingredients": [
+      { "item": "Italian sub roll", "quantity": 1, "unit": "roll" },
+      { "item": "Genoa salami, sliced", "quantity": 2, "unit": "oz" },
+      { "item": "capicola, sliced", "quantity": 2, "unit": "oz" },
+      { "item": "provolone cheese, sliced", "quantity": 1, "unit": "oz" },
+      { "item": "shredded lettuce", "quantity": 0.5, "unit": "cup" },
+      { "item": "tomato, sliced", "quantity": 2, "unit": "slices" },
+      { "item": "red onion, sliced", "quantity": 2, "unit": "tbsp" },
+      { "item": "olive oil and red wine vinegar", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Split the roll and layer salami, capicola and provolone. Top with lettuce, tomato and onion, then drizzle with olive oil and vinegar and season with oregano, salt and pepper.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 32,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 36,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, 8-inch sub"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Kroger", "Safeway"],
+      "notes": "Deli meats and Italian sub rolls are available at deli counters nationwide, especially common in Northeast supermarkets."
+    },
+    "sources": [
+      { "title": "Authentic New York Italian Sub/Hero/Hoagie — Sip and Feast", "url": "https://www.sipandfeast.com/italian-sub-hoagie-hero/" },
+      { "title": "Italian Sub Calories — Bricco Salumeria", "url": "https://briccosalumeria.com/2025/07/25/whats-the-real-calorie-count-in-an-italian-sub/" }
+    ]
+  },
+  {
+    "id": "us-lunch-009",
+    "name": "Taco Bell Crunchy Taco Supreme (2-Pack)",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Taco Bell is one of the largest fast food chains in the US, and the Crunchy Taco Supreme is one of its longest-running, most recognizable menu items, commonly ordered two at a time as a lunch combo.",
+    "ingredients": [
+      { "item": "crunchy corn taco shell", "quantity": 2, "unit": "shells" },
+      { "item": "seasoned ground beef", "quantity": 3, "unit": "oz" },
+      { "item": "shredded lettuce", "quantity": 0.5, "unit": "cup" },
+      { "item": "diced tomato", "quantity": 0.25, "unit": "cup" },
+      { "item": "shredded cheddar cheese", "quantity": 2, "unit": "tbsp" },
+      { "item": "reduced-fat sour cream", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Order two Crunchy Taco Supremes at the counter or drive-thru, or replicate at home by filling crunchy corn shells with seasoned beef, lettuce, tomato, cheese and sour cream.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 16,
+      "carbs_g": 30,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 22,
+      "method": "Published nutrition panel, Taco Bell, doubled for 2-taco order"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "Taco Bell is a nationwide quick-service chain found in nearly every US region."
+    },
+    "sources": [
+      { "title": "Taco Bell Crunchy Taco Supreme Nutrition Facts", "url": "https://fastfoodnutrition.org/taco-bell/crunchy-taco-supreme" },
+      { "title": "Calories in Taco Bell Crunchy Taco Supreme", "url": "https://www.calorieking.com/us/en/foods/f/calories-in-tacos-crunchy-taco-supremewith-seasoned-beef/WQji6YlXTSCL0NEc0Idh_Q" }
+    ]
+  },
+  {
+    "id": "us-lunch-010",
+    "name": "Panda Express Orange Chicken with Steamed Rice",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Panda Express is the largest Chinese-American fast food chain in the US, and orange chicken is its single best-known and best-selling dish, ordered as a standard fast-casual lunch entrée.",
+    "ingredients": [
+      { "item": "orange chicken (breaded, fried, glazed)", "quantity": 5.7, "unit": "oz" },
+      { "item": "steamed white rice", "quantity": 1, "unit": "cup" }
+    ],
+    "prepNotes": "Order an Orange Chicken entrée with a side of steamed rice at the counter. For a more balanced version at home, pair a smaller portion of the chicken with steamed rice and a vegetable side such as broccoli.",
+    "nutrition": {
+      "calories": 730,
+      "protein_g": 22,
+      "carbs_g": 99,
+      "fiber_g": 2,
+      "sugar_g": 20,
+      "fat_g": 25,
+      "method": "Published nutrition panel, Panda Express, orange chicken plus 1 cup steamed rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["wheat", "soy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "Panda Express is a nationwide fast food chain, frequently found in shopping mall food courts and strip malls across the US."
+    },
+    "sources": [
+      { "title": "Panda Express Orange Chicken nutrition", "url": "https://www.panda-express-nutrition.com/fact/beyond-orange-chicken" },
+      { "title": "Calories in The Original Orange Chicken by Panda Express", "url": "https://www.mynetdiary.com/food/calories-in-the-original-orange-chicken-by-panda-express-serving-23640356-0.html" }
+    ]
+  },
+  {
+    "id": "us-lunch-011",
+    "name": "In-N-Out Cheeseburger",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "In-N-Out is a beloved West Coast fast food chain with a famously short, simple menu; the classic Cheeseburger is its most-ordered item and a widely cited example of a simpler-ingredient fast food lunch.",
+    "ingredients": [
+      { "item": "beef patty", "quantity": 2.5, "unit": "oz" },
+      { "item": "hamburger bun", "quantity": 1, "unit": "bun" },
+      { "item": "American cheese", "quantity": 1, "unit": "slice" },
+      { "item": "lettuce, tomato, onion", "quantity": 0.5, "unit": "cup" },
+      { "item": "spread (Thousand Island-style)", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Order at the counter or drive-thru as a standard Cheeseburger with lettuce, tomato, onion and spread. At home, grill a beef patty, melt on a slice of American cheese, and build on a toasted bun with the same toppings.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 22,
+      "carbs_g": 39,
+      "fiber_g": 3,
+      "sugar_g": 10,
+      "fat_g": 27,
+      "method": "Published nutrition panel, In-N-Out Burger official nutrition info"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "In-N-Out is concentrated in the West/Southwest (California, Nevada, Arizona, Texas, Oregon, Utah, Colorado); home-build ingredients available nationwide."
+    },
+    "sources": [
+      { "title": "In-N-Out Burger Official Nutrition Facts", "url": "https://www.in-n-out.com/docs/default-source/downloads/nutrition_info.pdf?sfvrsn=332aab37_36" },
+      { "title": "In-N-Out Nutrition Guide", "url": "https://cheatdaydesign.com/in-n-out-nutrition/" }
+    ]
+  },
+  {
+    "id": "us-lunch-012",
+    "name": "Turkey Bacon Club Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The club sandwich is a diner and deli menu fixture across the US, dating back over a century, and the turkey-bacon version remains one of the most ordered sandwich combinations at delis and casual restaurants.",
+    "ingredients": [
+      { "item": "whole wheat bread", "quantity": 3, "unit": "slices" },
+      { "item": "turkey breast, sliced", "quantity": 3, "unit": "oz" },
+      { "item": "bacon, cooked", "quantity": 2, "unit": "slices" },
+      { "item": "lettuce", "quantity": 2, "unit": "leaves" },
+      { "item": "tomato, sliced", "quantity": 2, "unit": "slices" },
+      { "item": "mayonnaise", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Toast the bread, then stack turkey, bacon, lettuce and tomato between three slices with mayonnaise spread on the inner sides. Cut into quarters and secure with toothpicks for a classic diner presentation.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 32,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Aldi"],
+      "notes": "Standard deli and bread aisle ingredients available at any US supermarket nationwide."
+    },
+    "sources": [
+      { "title": "Classic Turkey Club Sandwich (made lighter) — Skinnytaste", "url": "https://www.skinnytaste.com/turkey-club/" },
+      { "title": "Classic Club Sandwich — Small Town Woman", "url": "https://www.smalltownwoman.com/classic-club-sandwich/" }
+    ]
+  },
+  {
+    "id": "us-lunch-013",
+    "name": "BLT Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The BLT is one of the most enduring American sandwiches, a diner and home-kitchen lunch classic since the early 20th century and a staple on virtually every American deli and café menu.",
+    "ingredients": [
+      { "item": "white or wheat bread", "quantity": 2, "unit": "slices" },
+      { "item": "bacon, cooked", "quantity": 3, "unit": "slices" },
+      { "item": "iceberg lettuce", "quantity": 2, "unit": "leaves" },
+      { "item": "tomato, sliced", "quantity": 3, "unit": "slices" },
+      { "item": "mayonnaise", "quantity": 1.5, "unit": "tbsp" }
+    ],
+    "prepNotes": "Toast the bread and spread mayonnaise on both slices. Layer bacon, lettuce and tomato between the slices, season tomato with a pinch of salt and pepper, and slice in half.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 32,
+      "fiber_g": 3,
+      "sugar_g": 6,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["wheat", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Aldi", "Safeway", "Target"],
+      "notes": "Bacon, bread, lettuce and tomato are standard nationwide grocery items year-round."
+    },
+    "sources": [
+      { "title": "BLT Sandwich nutrition data", "url": "https://www.caloriqueapp.com/calories/blt-sandwich" },
+      { "title": "Calories in Sandwich, BLT — CalorieKing", "url": "https://www.calorieking.com/us/en/foods/f/calories-in-sandwiches-wraps-sandwich-blt-5-strips-bacon-2-tbsp-mayo-w-3-oz-bread/l62qIGh1RVCaCOkQKU3t2Q" }
+    ]
+  },
+  {
+    "id": "us-lunch-014",
+    "name": "Chicken Gyro with Tzatziki",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Greek-American gyro shops are common in cities and food courts across the US; the chicken gyro is a widely ordered Mediterranean-style lunch sandwich, especially popular at fast-casual Mediterranean chains and food trucks.",
+    "ingredients": [
+      { "item": "chicken breast, marinated and grilled", "quantity": 5, "unit": "oz" },
+      { "item": "pita bread", "quantity": 1, "unit": "pita" },
+      { "item": "tzatziki sauce", "quantity": 3, "unit": "tbsp" },
+      { "item": "tomato, sliced", "quantity": 0.25, "unit": "cup" },
+      { "item": "red onion, sliced", "quantity": 2, "unit": "tbsp" },
+      { "item": "feta cheese", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Marinate chicken in lemon juice, olive oil, garlic and oregano, then grill until cooked through and slice. Warm the pita, spread with tzatziki, and fill with chicken, tomato, onion and a sprinkle of feta.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 42,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["mediterranean"],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Kroger", "Safeway"],
+      "notes": "Pita, tzatziki and feta are widely stocked nationally in the international/Mediterranean aisle of most major chains."
+    },
+    "sources": [
+      { "title": "Greek Chicken Gyros recipe — RecipeTin Eats", "url": "https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/" },
+      { "title": "Chicken Gyros Recipe — Tastes Better from Scratch", "url": "https://tastesbetterfromscratch.com/chicken-gyros/" }
+    ]
+  },
+  {
+    "id": "us-lunch-015",
+    "name": "Shrimp and Sausage Gumbo",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 6,
+    "popularityContext": "Gumbo is a foundational Cajun/Creole dish from Louisiana, commonly served for lunch in the American South and increasingly found on Southern-style restaurant menus nationwide.",
+    "ingredients": [
+      { "item": "shrimp, peeled and deveined", "quantity": 1, "unit": "lb" },
+      { "item": "andouille sausage, sliced", "quantity": 0.75, "unit": "lb" },
+      { "item": "all-purpose flour", "quantity": 0.33, "unit": "cup" },
+      { "item": "vegetable oil", "quantity": 0.33, "unit": "cup" },
+      { "item": "onion, celery, bell pepper, diced (holy trinity)", "quantity": 2, "unit": "cups" },
+      { "item": "chicken broth", "quantity": 4, "unit": "cups" },
+      { "item": "diced tomatoes, canned", "quantity": 14.5, "unit": "oz" },
+      { "item": "cooked white rice", "quantity": 3, "unit": "cups" }
+    ],
+    "prepNotes": "Make a roux by whisking flour into hot oil over medium heat until deep brown, about 15-20 minutes, stirring constantly. Add the diced vegetables and cook until soft, then stir in broth and tomatoes and simmer 30 minutes. Add sausage and simmer 10 minutes, then add shrimp and cook until pink, about 5 minutes; serve over rice.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 26,
+      "carbs_g": 34,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, includes 0.5 cup rice per serving"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["wheat", "shellfish"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Costco"],
+      "notes": "Andouille sausage and shrimp are available nationwide, often fresh in Southern regions and frozen elsewhere; especially common in Gulf Coast states."
+    },
+    "sources": [
+      { "title": "Shrimp and Sausage Gumbo Recipe — Evolving Table", "url": "https://www.evolvingtable.com/cajun-shrimp-and-sausage-gumbo/" },
+      { "title": "Chicken, Sausage, and Shrimp Gumbo — Sip and Feast", "url": "https://www.sipandfeast.com/chicken-sausage-shrimp-gumbo/" }
+    ]
+  },
+  {
+    "id": "us-lunch-016",
+    "name": "Greek Yogurt Protein Bowl with Berries and Granola",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A widely eaten high-protein lunch or brunch bowl in the US, popularized by Greek yogurt's mainstream adoption (Chobani, Fage) and meal-prep/protein-focused eating trends.",
+    "ingredients": [
+      { "item": "plain Greek yogurt, 2%", "quantity": 1.5, "unit": "cups" },
+      { "item": "mixed berries (strawberries, blueberries)", "quantity": 1, "unit": "cup" },
+      { "item": "granola", "quantity": 0.25, "unit": "cup" },
+      { "item": "almonds, sliced", "quantity": 1, "unit": "tbsp" },
+      { "item": "honey", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Spoon Greek yogurt into a bowl, top with berries, granola and sliced almonds, and finish with a drizzle of honey. Can be assembled the night before in a sealed container for an on-the-go lunch.",
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 35,
+      "carbs_g": 48,
+      "fiber_g": 6,
+      "sugar_g": 30,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's", "Whole Foods", "Walmart", "Kroger", "Costco"],
+      "notes": "Greek yogurt, berries (fresh or frozen) and granola are nationwide year-round grocery staples."
+    },
+    "sources": [
+      { "title": "Greek Protein Yogurt Fruit Granola Bowls — The Matbakh", "url": "https://thematbakh.com/greek-protein-yogurt-fruit-granola-bowls/" },
+      { "title": "Protein Yogurt Berry Bowl — Health Beet", "url": "https://healthbeet.org/protein-yogurt-berry-bowl/" }
+    ]
+  },
+  {
+    "id": "us-lunch-017",
+    "name": "Philly Cheesesteak Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Originating in Philadelphia in the 1930s, the cheesesteak is a regionally iconic American sandwich now served at sandwich shops and sports bars nationwide, especially popular as a hearty lunch order.",
+    "ingredients": [
+      { "item": "ribeye steak, thinly sliced", "quantity": 6, "unit": "oz" },
+      { "item": "hoagie roll", "quantity": 1, "unit": "roll" },
+      { "item": "provolone cheese", "quantity": 2, "unit": "slices" },
+      { "item": "onion, sliced and sautéed", "quantity": 0.5, "unit": "cup" },
+      { "item": "vegetable oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Sauté sliced onion in oil until soft, then push aside and griddle thin-sliced steak, chopping as it cooks. Mix steak with onions, top with provolone until melted, and pile into a split, lightly toasted hoagie roll.",
+    "nutrition": {
+      "calories": 680,
+      "protein_g": 42,
+      "carbs_g": 46,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Costco"],
+      "notes": "Ribeye, hoagie rolls and provolone are nationwide grocery staples; especially associated with Philadelphia and the broader Northeast."
+    },
+    "sources": [
+      { "title": "Philly Cheesesteak Sandwich nutrition data", "url": "https://www.arise-app.com/dish/Philly-Cheesesteak-Sandwich" },
+      { "title": "How Many Calories in a Cheesesteak — Philly Sandwich Co.", "url": "https://phillysandwichsd.com/cheesesteak-calories-your-guide-to-nutrition-facts/" }
+    ]
+  },
+  {
+    "id": "us-lunch-018",
+    "name": "Lentil Soup with Whole Grain Bread",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 4,
+    "popularityContext": "A common budget-friendly, plant-based lunch across the US, served at home, in cafeterias and on the menus of soup-focused fast-casual chains as a hearty, fiber-rich option.",
+    "ingredients": [
+      { "item": "dried brown lentils", "quantity": 1.5, "unit": "cups" },
+      { "item": "carrots, diced", "quantity": 1, "unit": "cup" },
+      { "item": "celery, diced", "quantity": 1, "unit": "cup" },
+      { "item": "onion, diced", "quantity": 1, "unit": "cup" },
+      { "item": "vegetable broth", "quantity": 6, "unit": "cups" },
+      { "item": "diced tomatoes, canned", "quantity": 14.5, "unit": "oz" },
+      { "item": "olive oil", "quantity": 2, "unit": "tbsp" },
+      { "item": "whole grain bread", "quantity": 4, "unit": "slices" }
+    ],
+    "prepNotes": "Sauté onion, carrot and celery in olive oil until softened, then add lentils, broth, tomatoes and seasonings (cumin, bay leaf). Simmer 30-35 minutes until lentils are tender, then serve a 1.5-cup portion with a slice of whole grain bread.",
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 18,
+      "carbs_g": 52,
+      "fiber_g": 15,
+      "sugar_g": 7,
+      "fat_g": 8,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, soup plus bread slice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegan", "vegetarian", "dairy_free"],
+      "allergens": ["wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Aldi", "Walmart", "Kroger", "Trader Joe's", "Costco"],
+      "notes": "Dried lentils, canned tomatoes and whole grain bread are inexpensive, shelf-stable, nationwide pantry staples."
+    },
+    "sources": [
+      { "title": "Hearty Lentil Soup — Heather Mangieri Nutrition", "url": "https://heathermangieri.com/hearty-lentil-soup/" },
+      { "title": "Lentil soup nutrition data", "url": "https://foodstruct.com/food/lentil-soup" }
+    ]
+  },
+  {
+    "id": "us-lunch-019",
+    "name": "Peanut Butter and Jelly Sandwich with Apple",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The PB&J is the quintessential American children's school lunchbox sandwich, a staple in lunchboxes nationwide for generations and still commonly packed for kids and adults alike.",
+    "ingredients": [
+      { "item": "whole wheat bread", "quantity": 2, "unit": "slices" },
+      { "item": "peanut butter", "quantity": 2, "unit": "tbsp" },
+      { "item": "grape jelly", "quantity": 1, "unit": "tbsp" },
+      { "item": "apple, sliced", "quantity": 1, "unit": "medium" }
+    ],
+    "prepNotes": "Spread peanut butter on one slice of bread and jelly on the other, then press together. Pack with a whole sliced apple on the side for fiber and crunch.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 14,
+      "carbs_g": 65,
+      "fiber_g": 8,
+      "sugar_g": 32,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "dairy_free"],
+      "allergens": ["peanuts", "wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Aldi", "Kroger", "Target", "Safeway"],
+      "notes": "Peanut butter, jelly, bread and apples are inexpensive, shelf-stable staples found in every US grocery store nationwide."
+    },
+    "sources": [
+      { "title": "Peanut butter and jelly sandwich nutrition data, MyFoodData", "url": "https://tools.myfooddata.com/nutrition-facts/784435/wt1" },
+      { "title": "Peanut butter and jelly sandwich nutrition facts", "url": "https://www.nutritionvalue.org/Peanut_butter_and_jelly_sandwich%2C_with_regular_peanut_butter%2C_regular_jelly%2C_on_white_bread_42302015_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "us-lunch-020",
+    "name": "Panera Broccoli Cheddar Soup with Half Turkey Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Panera Bread's soup-and-half-sandwich combo is one of the chain's most ordered lunch formats nationwide, and the broccoli cheddar soup is one of its most iconic, best-selling menu items.",
+    "ingredients": [
+      { "item": "broccoli cheddar soup", "quantity": 1, "unit": "cup" },
+      { "item": "turkey breast sandwich, half", "quantity": 0.5, "unit": "sandwich" }
+    ],
+    "prepNotes": "Order the 'You Pick Two' combo at the counter: a cup of broccoli cheddar soup paired with a half turkey sandwich on whole grain bread. At home, pair a simple broccoli-cheddar soup with half a turkey-and-cheese sandwich.",
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 25,
+      "carbs_g": 48,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 27,
+      "method": "Published nutrition panel, Panera Bread, soup cup plus standard half turkey sandwich"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "Panera Bread is a nationwide fast-casual bakery-café chain found in most US metro and suburban areas."
+    },
+    "sources": [
+      { "title": "Panera Broccoli Cheddar Soup Nutrition Facts", "url": "https://fastfoodnutrition.org/panera-bread/broccoli-cheddar-soup" },
+      { "title": "Panera Broccoli Cheddar Soup nutrition data", "url": "https://www.carbmanager.com/food-detail/md:deb54e9fec1808979d8b190a0a329e14/cheddar-broccoli-soup" }
+    ]
+  },
+  {
+    "id": "us-lunch-021",
+    "name": "Classic Tuna Salad Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Tuna salad on bread is one of the most common American home-packed and deli lunch sandwiches, built on canned tuna, a pantry staple in nearly every US household.",
+    "ingredients": [
+      { "item": "canned tuna in water, drained", "quantity": 5, "unit": "oz" },
+      { "item": "mayonnaise", "quantity": 2, "unit": "tbsp" },
+      { "item": "celery, diced", "quantity": 2, "unit": "tbsp" },
+      { "item": "whole wheat bread", "quantity": 2, "unit": "slices" },
+      { "item": "lettuce leaf", "quantity": 1, "unit": "leaf" }
+    ],
+    "prepNotes": "Flake drained tuna into a bowl and mix with mayonnaise, celery and a squeeze of lemon juice. Spread between two slices of whole wheat bread with a lettuce leaf.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 33,
+      "carbs_g": 28,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "eggs", "wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Aldi", "Kroger", "Costco", "Safeway"],
+      "notes": "Canned tuna, mayonnaise and bread are inexpensive, shelf-stable staples available nationwide."
+    },
+    "sources": [
+      { "title": "Tuna Salad Sandwich nutrition data, MyFoodData", "url": "https://tools.myfooddata.com/nutrition-facts/783607/wt1" },
+      { "title": "Tuna Salad Sandwich USDA recipe — Healthy School Recipes", "url": "https://healthyschoolrecipes.com/recipes/tuna-salad-sandwich-usda/" }
+    ]
+  },
+  {
+    "id": "us-lunch-022",
+    "name": "Buffalo Chicken Wrap",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Buffalo-style chicken, born in Buffalo, NY, is now a nationwide flavor staple, and the buffalo chicken wrap is a widely ordered item at delis, gyms-adjacent cafés and casual restaurants across the US.",
+    "ingredients": [
+      { "item": "chicken breast, cooked and diced", "quantity": 5, "unit": "oz" },
+      { "item": "buffalo sauce", "quantity": 2, "unit": "tbsp" },
+      { "item": "flour tortilla, large", "quantity": 1, "unit": "tortilla" },
+      { "item": "romaine lettuce, shredded", "quantity": 1, "unit": "cup" },
+      { "item": "ranch or blue cheese dressing", "quantity": 2, "unit": "tbsp" },
+      { "item": "shredded cheddar cheese", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Toss cooked, diced chicken with buffalo sauce until coated. Lay the tortilla flat, layer lettuce, buffalo chicken, cheese and a drizzle of ranch or blue cheese dressing, then roll tightly and slice in half.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 40,
+      "carbs_g": 32,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Target"],
+      "notes": "Buffalo sauce, tortillas and chicken breast are standard nationwide grocery items year-round."
+    },
+    "sources": [
+      { "title": "Buffalo Chicken Wrap — Tastes Better From Scratch", "url": "https://tastesbetterfromscratch.com/buffalo-chicken-wrap/" },
+      { "title": "High Protein Buffalo Chicken Wraps — Mason Fit", "url": "https://masonfit.com/healthy-buffalo-chicken-wraps/" }
+    ]
+  },
+  {
+    "id": "us-lunch-023",
+    "name": "Chicken Quinoa Salad Bowl",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Quinoa-and-chicken salad bowls are a common meal-prep and fast-casual lunch format in the US, reflecting quinoa's mainstream adoption as a higher-protein, fiber-rich grain alternative.",
+    "ingredients": [
+      { "item": "cooked quinoa", "quantity": 0.75, "unit": "cup" },
+      { "item": "grilled chicken breast, diced", "quantity": 4, "unit": "oz" },
+      { "item": "cucumber, diced", "quantity": 0.5, "unit": "cup" },
+      { "item": "cherry tomatoes, halved", "quantity": 0.5, "unit": "cup" },
+      { "item": "feta cheese", "quantity": 2, "unit": "tbsp" },
+      { "item": "olive oil and lemon dressing", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Combine cooked quinoa, chicken, cucumber and tomatoes in a bowl. Top with feta and drizzle with an olive oil and lemon dressing; toss gently and serve at room temperature or chilled.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 38,
+      "carbs_g": 38,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 19,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "mediterranean"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Kroger", "Costco"],
+      "notes": "Quinoa, feta and chicken breast are widely available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Chicken Quinoa Salad — Peas and Crayons", "url": "https://peasandcrayons.com/chicken-quinoa-salad/" },
+      { "title": "Chicken & Quinoa Bowl — Feel Good Foodie", "url": "https://feelgoodfoodie.net/recipe/chicken-quinoa-bowl/" }
+    ]
+  },
+  {
+    "id": "us-lunch-024",
+    "name": "Wendy's Grilled Chicken Sandwich",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Wendy's is one of the top-3 US burger chains by sales, and its Grilled Chicken Sandwich is a long-running menu staple frequently chosen as a higher-protein fast food lunch.",
+    "ingredients": [
+      { "item": "grilled chicken breast filet", "quantity": 4, "unit": "oz" },
+      { "item": "kaiser-style bun", "quantity": 1, "unit": "bun" },
+      { "item": "lettuce leaf", "quantity": 1, "unit": "leaf" },
+      { "item": "tomato slice", "quantity": 1, "unit": "slice" },
+      { "item": "honey mustard sauce", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Order at the counter or drive-thru as-is; at home, grill a seasoned chicken breast and build on a toasted bun with lettuce, tomato and a light honey mustard spread.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 35,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 9,
+      "fat_g": 10,
+      "method": "Published nutrition panel, Wendy's"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "Wendy's is a nationwide quick-service chain found in nearly every US city and town."
+    },
+    "sources": [
+      { "title": "Wendy's Grilled Chicken Sandwich Nutrition Facts", "url": "https://fastfoodnutrition.org/wendys/grilled-chicken-sandwich" },
+      { "title": "Calories in Grilled Chicken Sandwich by Wendy's", "url": "https://www.mynetdiary.com/food/calories-in-grilled-chicken-sandwich-by-wendy-s-serving-28030628-0.html" }
+    ]
+  },
+  {
+    "id": "us-lunch-025",
+    "name": "Chicken Pho (Pho Ga)",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Vietnamese-American pho shops are common across major US cities, and chicken pho is a frequently ordered lunch soup, reflecting the strong Vietnamese-American culinary presence nationwide.",
+    "ingredients": [
+      { "item": "chicken breast, poached and shredded", "quantity": 4, "unit": "oz" },
+      { "item": "rice noodles", "quantity": 2, "unit": "oz" },
+      { "item": "chicken broth", "quantity": 2.5, "unit": "cups" },
+      { "item": "bean sprouts", "quantity": 0.5, "unit": "cup" },
+      { "item": "Thai basil and cilantro", "quantity": 0.25, "unit": "cup" },
+      { "item": "lime wedge", "quantity": 1, "unit": "wedge" }
+    ],
+    "prepNotes": "Simmer chicken broth with charred ginger, onion, star anise and cinnamon for at least 30 minutes, then strain. Cook rice noodles separately, place in a bowl with shredded chicken, pour hot broth over, and top with bean sprouts, herbs and a squeeze of lime.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 30,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 7,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free", "gluten_free"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's", "Walmart", "Kroger", "Whole Foods"],
+      "notes": "Rice noodles, fish sauce and pho spices are available nationwide in the international aisle of most major supermarkets; Vietnamese restaurants are concentrated in larger metro areas."
+    },
+    "sources": [
+      { "title": "Chicken Pho Nutrition Facts — Supernatural Eats", "url": "https://supernaturaleats.com/blog/chicken-pho-nutrition-facts" },
+      { "title": "Is Pho Healthy for You — Snapdragon", "url": "https://snapdragonfood.com/is-pho-healthy/" }
+    ]
+  },
+  {
+    "id": "us-lunch-026",
+    "name": "Cuban Sandwich (Cubano)",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A Florida regional specialty rooted in Tampa and Miami's Cuban-American communities, the Cubano is now served at sandwich shops nationwide as a recognized regional American classic.",
+    "ingredients": [
+      { "item": "Cuban bread or sub roll", "quantity": 1, "unit": "roll" },
+      { "item": "roast pork, sliced", "quantity": 3, "unit": "oz" },
+      { "item": "ham, sliced", "quantity": 2, "unit": "oz" },
+      { "item": "Swiss cheese, sliced", "quantity": 1.5, "unit": "oz" },
+      { "item": "dill pickles, sliced", "quantity": 4, "unit": "slices" },
+      { "item": "yellow mustard", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Layer pork, ham, cheese and pickles on the roll with mustard, then press in a panini press or skillet with a weight on top until golden and the cheese melts.",
+    "nutrition": {
+      "calories": 550,
+      "protein_g": 40,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugar_g": 4,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Whole Foods"],
+      "notes": "Roast pork, ham, Swiss cheese and sub rolls are standard nationwide deli items; the Cubano is especially common in Florida."
+    },
+    "sources": [
+      { "title": "Cuban Sandwich nutrition data", "url": "https://nutriscan.app/calories-nutrition/cuban-sandwich" },
+      { "title": "Cuban Sandwich Recipe — MealsHomeCooked", "url": "https://www.mealshomecooked.com/recipe/cuban-sandwich" }
+    ]
+  },
+  {
+    "id": "us-lunch-027",
+    "name": "Egg Salad Sandwich on Whole Wheat",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Egg salad sandwiches are a long-standing American home-kitchen and deli lunch staple, commonly packed for lunchboxes and served at diners and delis nationwide.",
+    "ingredients": [
+      { "item": "hard-boiled eggs", "quantity": 3, "unit": "eggs" },
+      { "item": "mayonnaise", "quantity": 2, "unit": "tbsp" },
+      { "item": "Dijon mustard", "quantity": 1, "unit": "tsp" },
+      { "item": "celery, diced", "quantity": 2, "unit": "tbsp" },
+      { "item": "whole wheat bread", "quantity": 2, "unit": "slices" }
+    ],
+    "prepNotes": "Chop hard-boiled eggs and mix with mayonnaise, mustard and celery. Season with salt and pepper, then spread between two slices of whole wheat bread.",
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 21,
+      "carbs_g": 26,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Aldi", "Kroger", "Safeway", "Target"],
+      "notes": "Eggs, mayonnaise and bread are inexpensive, nationwide staple grocery items."
+    },
+    "sources": [
+      { "title": "Egg Salad Sandwich USDA recipe — Healthy School Recipes", "url": "https://healthyschoolrecipes.com/recipes/egg-salad-sandwich-usda/" },
+      { "title": "Egg Salad Sandwich nutrition data", "url": "https://www.arise-app.com/dish/Egg-Salad-Sandwich" }
+    ]
+  },
+  {
+    "id": "us-lunch-028",
+    "name": "Hot Pastrami on Rye",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A New York Jewish-deli classic popularized by institutions like Katz's Delicatessen, hot pastrami on rye remains a widely recognized American deli lunch order found in delis across major cities.",
+    "ingredients": [
+      { "item": "pastrami, sliced and warmed", "quantity": 5, "unit": "oz" },
+      { "item": "rye bread", "quantity": 2, "unit": "slices" },
+      { "item": "deli mustard", "quantity": 1, "unit": "tbsp" },
+      { "item": "dill pickle spear", "quantity": 1, "unit": "spear" }
+    ],
+    "prepNotes": "Steam or warm sliced pastrami until hot and slightly crisped at the edges. Pile onto rye bread with deli mustard and serve with a dill pickle spear on the side.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 34,
+      "carbs_g": 32,
+      "fiber_g": 4,
+      "sugar_g": 3,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Kroger", "Safeway", "Whole Foods", "Trader Joe's"],
+      "notes": "Pastrami and rye bread are widely available at deli counters nationwide, especially common in Northeast and Mid-Atlantic delis."
+    },
+    "sources": [
+      { "title": "Pastrami on Rye nutrition data", "url": "https://www.snapcalorie.com/nutrition/hot_pastrami_on_rye_nutrition.html" },
+      { "title": "Pastrami sandwich nutrition data", "url": "https://www.snapcalorie.com/nutrition/pastrami_sandwich_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-lunch-029",
+    "name": "Beef Taco Bowl with Black Beans and Rice",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 4,
+    "popularityContext": "Tex-Mex-style taco bowls are a common American home-cooked and meal-prep lunch, taking the flavors of ground beef tacos and serving them deconstructed over rice for easy weekly meal prep.",
+    "ingredients": [
+      { "item": "lean ground beef (90% lean)", "quantity": 1, "unit": "lb" },
+      { "item": "taco seasoning", "quantity": 2, "unit": "tbsp" },
+      { "item": "cooked brown rice", "quantity": 2, "unit": "cups" },
+      { "item": "black beans, canned, drained", "quantity": 15, "unit": "oz" },
+      { "item": "shredded lettuce", "quantity": 2, "unit": "cups" },
+      { "item": "shredded cheddar cheese", "quantity": 0.5, "unit": "cup" },
+      { "item": "salsa", "quantity": 0.5, "unit": "cup" }
+    ],
+    "prepNotes": "Brown ground beef in a skillet, drain excess fat, and stir in taco seasoning with a splash of water. Divide rice and black beans into bowls, top with seasoned beef, lettuce, cheese and salsa.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 34,
+      "carbs_g": 46,
+      "fiber_g": 9,
+      "sugar_g": 3,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, per serving of 4"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Aldi", "Kroger", "Costco", "Safeway"],
+      "notes": "Ground beef, rice, canned beans and taco seasoning are nationwide grocery staples year-round."
+    },
+    "sources": [
+      { "title": "Beef Taco Bowl nutrition reference, Carb Manager", "url": "https://www.carbmanager.com/food-detail/cc:f86376bba9bcff43f353ada54c5a5573/club-sandwich-with-bacon-turkey-lettuce-tomato-mayo" },
+      { "title": "Taco seasoning and ground beef composition, USDA FoodData Central", "url": "https://fdc.nal.usda.gov/" }
+    ]
+  },
+  {
+    "id": "us-lunch-030",
+    "name": "New England Clam Chowder with Oyster Crackers",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A New England regional classic dating back to colonial-era coastal cooking, clam chowder is a widely recognized American soup served at seafood shacks, diners and chain restaurants nationwide.",
+    "ingredients": [
+      { "item": "canned or fresh clams, chopped", "quantity": 6, "unit": "oz" },
+      { "item": "potatoes, diced", "quantity": 1, "unit": "cup" },
+      { "item": "bacon, diced", "quantity": 2, "unit": "slices" },
+      { "item": "onion, diced", "quantity": 0.25, "unit": "cup" },
+      { "item": "whole milk", "quantity": 1, "unit": "cup" },
+      { "item": "heavy cream", "quantity": 0.25, "unit": "cup" },
+      { "item": "oyster crackers", "quantity": 10, "unit": "crackers" }
+    ],
+    "prepNotes": "Render bacon in a pot, then sauté onion in the drippings. Add potatoes and clam juice, simmer until potatoes are tender, then stir in clams, milk and cream and heat gently without boiling. Serve with oyster crackers on top.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 22,
+      "carbs_g": 32,
+      "fiber_g": 2,
+      "sugar_g": 7,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["shellfish", "dairy", "wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Costco"],
+      "notes": "Canned clams and oyster crackers are nationwide pantry staples; clam chowder is especially associated with New England coastal cuisine."
+    },
+    "sources": [
+      { "title": "New England Clam Chowder nutrition data", "url": "https://foodstruct.com/food/new-england-clam-chowder" },
+      { "title": "Nutrition Facts for Soup, clam chowder, new england, canned", "url": "https://tools.myfooddata.com/nutrition-facts/174555/wt1" }
+    ]
+  },
+  {
+    "id": "us-lunch-031",
+    "name": "McDonald's Premium Caesar Salad with Grilled Chicken",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "McDonald's, the largest fast food chain in the US by locations, has long offered a grilled chicken Caesar salad as its primary 'lighter' lunch alternative to burgers and fries.",
+    "ingredients": [
+      { "item": "grilled chicken breast, sliced", "quantity": 4, "unit": "oz" },
+      { "item": "romaine lettuce blend", "quantity": 2.5, "unit": "cups" },
+      { "item": "shredded parmesan", "quantity": 2, "unit": "tbsp" },
+      { "item": "Caesar dressing", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Order at the counter or kiosk as a Premium Caesar Salad with Grilled Chicken; at home, toss chopped romaine with grilled chicken, shaved parmesan and a light Caesar dressing.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 32,
+      "carbs_g": 12,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 23,
+      "method": "Published nutrition panel, McDonald's, salad with dressing and grilled chicken, no croutons"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy", "fish", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target"],
+      "notes": "McDonald's is a nationwide quick-service chain present in nearly every US town and city."
+    },
+    "sources": [
+      { "title": "McDonald's Premium Caesar Salad with Grilled Chicken Nutrition Facts", "url": "https://fastfoodnutrition.org/mcdonalds/premium-caesar-salad-with-grilled-chicken" },
+      { "title": "Calories in Grilled Chicken Caesar Salad by McDonald's", "url": "https://www.mynetdiary.com/food/calories-in-grilled-chicken-caesar-salad-without-croutons-dressing-by-mcdonald-s-serving-19923442-0.html" }
+    ]
+  },
+  {
+    "id": "us-lunch-032",
+    "name": "Baja-Style Grilled Fish Tacos",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A Southern California and Tex-Mex staple inspired by Baja, Mexico fishing villages, grilled fish tacos are a common West Coast and Southwest lunch order found at taco shops nationwide.",
+    "ingredients": [
+      { "item": "white fish (cod or tilapia)", "quantity": 5, "unit": "oz" },
+      { "item": "corn tortillas", "quantity": 2, "unit": "tortillas" },
+      { "item": "cabbage, shredded", "quantity": 0.5, "unit": "cup" },
+      { "item": "lime crema (sour cream and lime)", "quantity": 2, "unit": "tbsp" },
+      { "item": "pico de gallo", "quantity": 0.25, "unit": "cup" }
+    ],
+    "prepNotes": "Season fish with cumin, chili powder and lime juice, then grill 3-4 minutes per side until flaky. Warm corn tortillas, fill with fish, shredded cabbage, pico de gallo and a drizzle of lime crema.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 34,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 4,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, 2-taco serving"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free"],
+      "allergens": ["fish", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's", "Whole Foods", "Walmart", "Kroger", "Safeway"],
+      "notes": "White fish, corn tortillas and cabbage are available nationwide; fish tacos are especially associated with the West Coast and Southwest."
+    },
+    "sources": [
+      { "title": "Healthy Cod Fish Tacos — Skinnytaste", "url": "https://www.skinnytaste.com/cod-fish-tacos/" },
+      { "title": "Quick and Healthy Fish Tacos — Gimme Delicious", "url": "https://gimmedelicious.com/quick-and-healthy-fish-tacos/" }
+    ]
+  },
+  {
+    "id": "us-lunch-033",
+    "name": "Chicken and Sausage Jambalaya",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 6,
+    "popularityContext": "Jambalaya is a foundational Louisiana Creole and Cajun one-pot dish, served for lunch across the American South and increasingly found on Southern-themed restaurant menus nationwide.",
+    "ingredients": [
+      { "item": "chicken thighs, diced", "quantity": 1, "unit": "lb" },
+      { "item": "andouille sausage, sliced", "quantity": 0.5, "unit": "lb" },
+      { "item": "long-grain white rice", "quantity": 1.5, "unit": "cups" },
+      { "item": "onion, celery, bell pepper, diced", "quantity": 2, "unit": "cups" },
+      { "item": "diced tomatoes, canned", "quantity": 14.5, "unit": "oz" },
+      { "item": "chicken broth", "quantity": 2.5, "unit": "cups" },
+      { "item": "Cajun seasoning", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Brown chicken and sausage in a large pot, then sauté the diced vegetables until softened. Stir in rice, tomatoes, broth and Cajun seasoning, bring to a boil, then cover and simmer 20-25 minutes until rice is tender and liquid is absorbed.",
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 28,
+      "carbs_g": 42,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, per serving of 6"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Costco"],
+      "notes": "Andouille sausage, rice and Cajun seasoning are available nationwide, especially common in Southern and Gulf Coast supermarkets."
+    },
+    "sources": [
+      { "title": "Weeknight Chicken and Sausage Jambalaya — Southern Bite", "url": "https://southernbite.com/chicken-and-sausage-jambalaya/" },
+      { "title": "Cajun Chicken and Sausage Jambalaya — Evolving Table", "url": "https://www.evolvingtable.com/sausage-chicken-cajun-jambalaya-gluten-free/" }
+    ]
+  },
+  {
+    "id": "us-lunch-034",
+    "name": "Sheet Pan Chicken and Vegetables (Dinner Leftovers)",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 4,
+    "popularityContext": "Sheet pan chicken and vegetables is one of the most common American weeknight meal-prep dinners, deliberately cooked in batches so leftovers become a packed next-day lunch.",
+    "ingredients": [
+      { "item": "boneless chicken thighs", "quantity": 1.5, "unit": "lbs" },
+      { "item": "broccoli florets", "quantity": 2, "unit": "cups" },
+      { "item": "bell peppers, sliced", "quantity": 2, "unit": "cups" },
+      { "item": "sweet potato, cubed", "quantity": 2, "unit": "cups" },
+      { "item": "olive oil", "quantity": 3, "unit": "tbsp" },
+      { "item": "garlic powder, paprika, salt", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Toss chicken and vegetables with olive oil and seasonings, then spread on a sheet pan and roast at 425°F for 25-30 minutes, flipping halfway. Divide into 4 containers; reheats well for next-day lunch.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 33,
+      "carbs_g": 28,
+      "fiber_g": 6,
+      "sugar_g": 7,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, per serving of 4"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "paleo"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Aldi", "Kroger", "Costco", "Trader Joe's"],
+      "notes": "Chicken thighs and standard roasting vegetables are available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Sheet Pan Chicken and Vegetables — Girl Gone Gourmet", "url": "https://www.girlgonegourmet.com/one-pan-roasted-chicken-and-veggies/" },
+      { "title": "Meal Prep Healthy Roasted Chicken and Veggies — Gimme Delicious", "url": "https://gimmedelicious.com/meal-prep-healthy-roasted-chicken-and-veggies/" }
+    ]
+  },
+  {
+    "id": "us-lunch-035",
+    "name": "Mediterranean Hummus and Veggie Wrap",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A common vegetarian office and school lunchbox option across the US, hummus veggie wraps are widely sold pre-packaged at supermarket delis and made at home for plant-based lunches.",
+    "ingredients": [
+      { "item": "whole wheat tortilla, large", "quantity": 1, "unit": "tortilla" },
+      { "item": "hummus", "quantity": 0.33, "unit": "cup" },
+      { "item": "cucumber, sliced", "quantity": 0.5, "unit": "cup" },
+      { "item": "shredded carrot", "quantity": 0.25, "unit": "cup" },
+      { "item": "spinach leaves", "quantity": 1, "unit": "cup" },
+      { "item": "feta cheese", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Spread hummus generously over the tortilla, then layer spinach, cucumber, carrot and feta. Roll tightly, slice in half, and wrap in foil or parchment if packing to-go.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 14,
+      "carbs_g": 46,
+      "fiber_g": 9,
+      "sugar_g": 6,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "mediterranean"],
+      "allergens": ["wheat", "dairy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's", "Whole Foods", "Walmart", "Kroger", "Aldi"],
+      "notes": "Hummus, tortillas and fresh vegetables are nationwide grocery staples year-round."
+    },
+    "sources": [
+      { "title": "Hummus and Veggie Wrap-Up, VA Nutrition and Food Services", "url": "https://www.nutrition.va.gov/docs/Recipes/MainDishes/Hummus-and-Veggie-Wrap-Up-Apr2021.pdf" },
+      { "title": "Healthy Mediterranean Hummus Wrap Recipe", "url": "https://www.plantpowercouple.com/recipes/healthy-mediterranean-hummus-wrap/" }
+    ]
+  },
+  {
+    "id": "us-lunch-036",
+    "name": "Turkey Burger with Lettuce Bun",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Turkey burgers are a widely eaten American lunch alternative to beef burgers, and the lettuce-bun version is a common adaptation found in home cooking, gym-adjacent cafés and fast-casual 'protein style' burger options.",
+    "ingredients": [
+      { "item": "ground turkey (93% lean)", "quantity": 6, "unit": "oz" },
+      { "item": "iceberg or butter lettuce leaves", "quantity": 4, "unit": "large leaves" },
+      { "item": "tomato slice", "quantity": 2, "unit": "slices" },
+      { "item": "avocado, sliced", "quantity": 0.25, "unit": "avocado" },
+      { "item": "mustard", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Form ground turkey into a patty, season with salt, pepper and garlic powder, and grill or pan-sear about 5-6 minutes per side until cooked through (165°F internal). Wrap in large lettuce leaves with tomato, avocado and mustard in place of a bun.",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 42,
+      "carbs_g": 9,
+      "fiber_g": 5,
+      "sugar_g": 3,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Trader Joe's", "Whole Foods", "Aldi"],
+      "notes": "Ground turkey, lettuce and avocado are nationwide grocery staples year-round."
+    },
+    "sources": [
+      { "title": "Lettuce Wrap Burger — Blissfully Low Carb and Keto Recipes", "url": "https://blissfullylowcarb.com/lettuce-wrap-burger/" },
+      { "title": "Healthy Turkey Burgers, high protein, low fat — Caged Crossfit", "url": "https://www.cagedcrossfit.com/post/healthy-turkey-burgers" }
+    ]
+  },
+  {
+    "id": "us-lunch-037",
+    "name": "Soul Food Smothered Chicken with Collard Greens",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 4,
+    "popularityContext": "Smothered chicken and collard greens are foundational dishes of African-American Southern soul food cuisine, served at lunch counters, home tables and soul food restaurants across the US, especially in the South.",
+    "ingredients": [
+      { "item": "bone-in chicken thighs", "quantity": 1.5, "unit": "lbs" },
+      { "item": "all-purpose flour", "quantity": 0.25, "unit": "cup" },
+      { "item": "onion, sliced", "quantity": 1, "unit": "cup" },
+      { "item": "chicken broth", "quantity": 1.5, "unit": "cups" },
+      { "item": "collard greens, chopped", "quantity": 4, "unit": "cups" },
+      { "item": "smoked turkey leg or ham hock", "quantity": 4, "unit": "oz" }
+    ],
+    "prepNotes": "Dredge chicken in seasoned flour and brown in a skillet, then remove. Sauté onions in the same pan, stir in remaining flour and broth to make a gravy, return chicken, cover and simmer 30-35 minutes. Separately, simmer collard greens with smoked turkey for about 45 minutes until tender, and serve alongside the chicken.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 38,
+      "carbs_g": 16,
+      "fiber_g": 5,
+      "sugar_g": 3,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, per serving of 4"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["wheat"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway"],
+      "notes": "Collard greens, smoked turkey and chicken thighs are available nationwide, with strongest availability and cultural presence in the American South."
+    },
+    "sources": [
+      { "title": "Soul Food Collard Greens with Smoked Turkey — Curbing Carbs", "url": "https://curbingcarbs.com/soul-food-collard-greens/" },
+      { "title": "Southern Collard Greens — Immaculate Bites", "url": "https://www.africanbites.com/southern-style-greens/" }
+    ]
+  },
+  {
+    "id": "us-lunch-038",
+    "name": "School Cafeteria Whole Grain Chicken Nuggets with Veggies",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Whole grain breaded chicken nuggets are one of the most common USDA National School Lunch Program entrées served to American schoolchildren, paired with a fruit or vegetable side as required by federal school meal standards.",
+    "ingredients": [
+      { "item": "whole grain breaded chicken nuggets", "quantity": 5, "unit": "pieces" },
+      { "item": "steamed green beans or baby carrots", "quantity": 0.5, "unit": "cup" },
+      { "item": "dipping sauce (ketchup or BBQ)", "quantity": 1, "unit": "tbsp" },
+      { "item": "low-fat milk", "quantity": 1, "unit": "cup" }
+    ],
+    "prepNotes": "Bake nuggets according to package instructions until golden and reaching 165°F internally. Serve with a vegetable side and a carton of low-fat milk, following standard National School Lunch Program tray composition.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 20,
+      "carbs_g": 38,
+      "fiber_g": 4,
+      "sugar_g": 16,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, school lunch chicken nuggets entry plus standard tray sides"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["wheat", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Costco"],
+      "notes": "Whole grain breaded chicken nuggets are a standard frozen-aisle product nationwide and the basis of USDA National School Lunch Program menus."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for School Lunch, chicken nuggets, whole grain breaded — USDA", "url": "https://tools.myfooddata.com/nutrition-facts/170795/wt1" },
+      { "title": "School Lunch Chicken Nuggets nutrition, Nutritionix/USDA", "url": "https://www.nutritionix.com/i/usda/school-lunch-chicken-nuggets-whole-grain-breaded-5-pieces/ddee1087ab4a6c72e9e25247" }
+    ]
+  },
+  {
+    "id": "us-lunch-039",
+    "name": "Greek Salad with Grilled Shrimp",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Greek-American restaurants and Mediterranean fast-casual chains across the US commonly serve a Greek salad topped with grilled shrimp as a lighter, protein-forward lunch salad option.",
+    "ingredients": [
+      { "item": "shrimp, peeled and grilled", "quantity": 5, "unit": "oz" },
+      { "item": "romaine lettuce, chopped", "quantity": 2, "unit": "cups" },
+      { "item": "cucumber, diced", "quantity": 0.5, "unit": "cup" },
+      { "item": "cherry tomatoes, halved", "quantity": 0.5, "unit": "cup" },
+      { "item": "kalamata olives", "quantity": 8, "unit": "olives" },
+      { "item": "feta cheese", "quantity": 0.25, "unit": "cup" },
+      { "item": "olive oil and red wine vinegar dressing", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Season and grill shrimp 2-3 minutes per side until pink and opaque. Toss romaine, cucumber, tomatoes and olives in a bowl, top with shrimp and feta, and finish with an olive oil and vinegar dressing.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 36,
+      "carbs_g": 14,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free", "mediterranean", "low_carb"],
+      "allergens": ["shellfish", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Costco", "Kroger", "Safeway"],
+      "notes": "Shrimp, feta and Greek salad vegetables are available nationwide year-round, fresh or frozen."
+    },
+    "sources": [
+      { "title": "Greek Salad with Shrimp nutrition reference, USDA FoodData Central", "url": "https://fdc.nal.usda.gov/" },
+      { "title": "Cobb Salad and Greek salad component nutrition cross-check", "url": "https://downshiftology.com/recipes/cobb-salad/" }
+    ]
+  },
+  {
+    "id": "us-lunch-040",
+    "name": "Beef and Broccoli Stir-Fry (Chinese-American Takeout)",
+    "country": "US",
+    "mealType": "lunch",
+    "servings": 4,
+    "popularityContext": "Beef and broccoli is one of the most ordered dishes at Chinese-American takeout restaurants nationwide, and a common home-cooked weeknight stir-fry that doubles as a meal-prep lunch.",
+    "ingredients": [
+      { "item": "flank steak, thinly sliced", "quantity": 1, "unit": "lb" },
+      { "item": "broccoli florets", "quantity": 4, "unit": "cups" },
+      { "item": "soy sauce", "quantity": 0.33, "unit": "cup" },
+      { "item": "garlic, minced", "quantity": 3, "unit": "cloves" },
+      { "item": "cornstarch", "quantity": 2, "unit": "tbsp" },
+      { "item": "vegetable oil", "quantity": 2, "unit": "tbsp" },
+      { "item": "cooked white rice", "quantity": 2, "unit": "cups" }
+    ],
+    "prepNotes": "Toss sliced beef with a tablespoon of soy sauce and half the cornstarch, then stir-fry in hot oil until browned and set aside. Stir-fry broccoli and garlic until crisp-tender, add beef back with remaining soy sauce and cornstarch slurry, and toss until sauce thickens; serve over rice.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 32,
+      "carbs_g": 42,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via USDA FoodData Central, per serving of 4 with 0.5 cup rice",
+      "note": null
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Aldi", "Trader Joe's", "Safeway"],
+      "notes": "Flank steak, broccoli and soy sauce are nationwide grocery staples; Chinese-American takeout restaurants serving this dish are present in nearly every US city."
+    },
+    "sources": [
+      { "title": "Beef and broccoli nutrition reference, USDA FoodData Central", "url": "https://fdc.nal.usda.gov/" },
+      { "title": "Panda Express menu nutrition cross-check for comparable stir-fry dishes", "url": "https://pandaxpressnutrition.com/" }
+    ]
+  }
+]

@@ -1,24 +1,56 @@
 // Pure profile-matching logic — no imports from Next.js or Supabase.
-// Runs on the server (results page) and is also called from the server action.
-// Exported MatchResult is serializable so it can be passed as JSON.
+// Sprint 6 refactor: interfaces and profile constants moved to profile-content.ts.
+// This file re-exports interfaces for backward compatibility and retains
+// matchProfile() + getSafetyNotice() unchanged.
 
 import type { QuizAnswers, MetabolicProfile } from "./types";
+import {
+  PCOS_RESULT,
+  NAFLD_RESULT,
+  METABOLIC_SYNDROME_RESULT,
+  PREDIABETES_RESULT,
+  INSULIN_RESISTANCE_RESULT,
+} from "./profile-content";
 
-export interface ArticleRef {
-  href: string;
-  title: string;
-  category: string;
+// ── Re-exports for backward compatibility ─────────────────────────────────────
+// All existing imports of these types from "@/lib/quiz/matcher" continue to work.
+export type { ArticleRef, FrictionPoint, PlanDay, MatchResult } from "./profile-content";
+
+// ── Safety notice (v1) ────────────────────────────────────────────────────────
+
+export function getSafetyNotice(answers: QuizAnswers): string | null {
+  const flags = answers.safetyFlags;
+  if (!flags || flags.length === 0) return null;
+
+  if (flags.includes("type1_diabetes") || flags.includes("takes_insulin")) {
+    return "You indicated you have type 1 diabetes or take insulin. Dietary changes — especially lower-carbohydrate approaches — can significantly affect your insulin requirements and hypoglycaemia risk. Please discuss any meal plan with your diabetes care team before making changes. The educational content on this platform is not a substitute for individualised medical nutrition therapy.";
+  }
+  if (flags.includes("hypoglycemia_risk_medication")) {
+    return "You indicated you take medication that can cause low blood sugar. Some dietary changes — particularly reducing carbohydrate intake — can increase hypoglycaemia risk with certain medications (e.g. sulfonylureas). Please speak with your prescribing doctor before significantly changing your diet.";
+  }
+  if (flags.includes("pregnant") || flags.includes("breastfeeding")) {
+    return "You indicated you are pregnant or breastfeeding. Nutritional requirements during pregnancy and breastfeeding are specific and differ from general metabolic health guidance. Please consult a registered dietitian or your midwife / OB before making dietary changes.";
+  }
+  if (flags.includes("advanced_liver_disease")) {
+    return "You indicated you have advanced liver disease. Advanced liver disease (e.g. cirrhosis) has specific protein and sodium requirements that differ significantly from general nutrition guidance for fatty liver. Please work with a hepatologist or specialist dietitian before making dietary changes.";
+  }
+  if (flags.includes("kidney_disease")) {
+    return "You indicated you have kidney disease. Kidney disease involves specific restrictions on protein, potassium, and phosphorus that can conflict with general metabolic health guidance. Please consult a renal dietitian before making significant dietary changes.";
+  }
+  if (flags.includes("eating_disorder_history")) {
+    return "You indicated a history of eating disorders. Some approaches commonly used in metabolic health — calorie tracking, meal timing, food restriction — can be triggering or harmful for people with a history of disordered eating. Please work with a healthcare provider experienced in both eating disorders and nutrition before applying any structured meal plan.";
+  }
+  if (flags.includes("under_18")) {
+    return "You indicated you are under 18. The content on this platform is designed for adults. If you are under 18 and have health concerns, please speak with a parent or guardian and a paediatric healthcare provider.";
+  }
+
+  return "Some of your answers suggest it's worth speaking with a doctor or qualified healthcare provider before starting any meal plan — including ours. Your educational profile below is safe to read. We simply recommend professional supervision before making significant dietary changes.";
 }
 
-export interface MatchResult {
-  profile: MetabolicProfile;
-  profileLabel: string;
-  // Maps to the Tailwind color scale prefix (forest / sage / clay / honey)
-  profileColor: "forest" | "sage" | "clay" | "honey";
-  description: string;
-  articles: ArticleRef[];
-  planHref: string;
-}
+// ── matchProfile (v1 — unchanged) ─────────────────────────────────────────────
+
+// Import the re-exported MatchResult type for the return annotation
+import type { MatchResult } from "./profile-content";
 
 export function matchProfile(answers: QuizAnswers): MatchResult {
   const { goal, symptoms } = answers;
@@ -31,11 +63,10 @@ export function matchProfile(answers: QuizAnswers): MatchResult {
   const hasNAFLD =
     goal === "liver_health" || symptoms.includes("fatty_liver");
 
-  const hasHighBP = symptoms.includes("high_blood_pressure");
+  const hasHighBP  = symptoms.includes("high_blood_pressure");
   const hasHighTrig = symptoms.includes("high_triglycerides");
-  const hasHighBG = symptoms.includes("high_blood_sugar");
+  const hasHighBG  = symptoms.includes("high_blood_sugar");
 
-  // Metabolic syndrome: ≥2 flags across the classic cluster
   const metSynFlags = [
     hasHighBP,
     hasHighTrig,
@@ -43,143 +74,10 @@ export function matchProfile(answers: QuizAnswers): MatchResult {
     symptoms.includes("dark_skin_patches"),
   ].filter(Boolean).length;
 
-  // Priority order mirrors clinical relevance: PCOS > NAFLD > MetSyn > Prediabetes > default IR
-  if (hasPCOS && !hasNAFLD) {
-    return {
-      profile: "pcos",
-      profileLabel: "PCOS Metabolic Support",
-      profileColor: "sage",
-      description:
-        "Your answers suggest patterns associated with hormonal and metabolic imbalances common in PCOS. The recipes and articles below are chosen to support stable blood sugar and reduce the insulin-driven androgen excess that underlies many PCOS symptoms.",
-      articles: [
-        {
-          href: "/pcos",
-          title: "PCOS and Insulin Resistance",
-          category: "PCOS",
-        },
-        {
-          href: "/learn/nutrition",
-          title: "Eating for Metabolic Health",
-          category: "Nutrition",
-        },
-        {
-          href: "/learn/what-is-insulin-resistance",
-          title: "What Is Insulin Resistance?",
-          category: "Insulin Resistance",
-        },
-      ],
-      planHref: "https://insuliniq.lemonsqueezy.com",
-    };
-  }
-
-  if (hasNAFLD) {
-    return {
-      profile: "nafld",
-      profileLabel: "Liver Metabolic Focus",
-      profileColor: "honey",
-      description:
-        "Your answers suggest patterns associated with metabolic liver health concerns. The recipes and articles below are chosen to reduce dietary factors that drive hepatic fat accumulation.",
-      articles: [
-        {
-          href: "/nafld",
-          title: "Fatty Liver Disease and Insulin Resistance",
-          category: "NAFLD / MASLD",
-        },
-        {
-          href: "/learn/nutrition",
-          title: "Eating for Metabolic Health",
-          category: "Nutrition",
-        },
-        {
-          href: "/learn/metabolic-syndrome",
-          title: "Metabolic Syndrome Explained",
-          category: "Metabolic Syndrome",
-        },
-      ],
-      planHref: "https://insuliniq.lemonsqueezy.com",
-    };
-  }
-
-  if (metSynFlags >= 2 || goal === "belly_fat") {
-    return {
-      profile: "metabolic_syndrome",
-      profileLabel: "Metabolic Syndrome Focus",
-      profileColor: "forest",
-      description:
-        "Your answers suggest patterns across multiple metabolic systems — blood sugar, blood pressure, and lipids. The recipes and articles below address the root cause: insulin resistance driving the full cluster.",
-      articles: [
-        {
-          href: "/learn/metabolic-syndrome",
-          title: "Metabolic Syndrome Explained",
-          category: "Metabolic Syndrome",
-        },
-        {
-          href: "/learn/nutrition",
-          title: "Eating for Metabolic Health",
-          category: "Nutrition",
-        },
-        {
-          href: "/learn/microbiome",
-          title: "Your Gut Microbiome and Metabolic Health",
-          category: "Gut Microbiome",
-        },
-      ],
-      planHref: "https://insuliniq.lemonsqueezy.com",
-    };
-  }
-
-  if (hasHighBG || goal === "diabetes_risk") {
-    return {
-      profile: "prediabetes",
-      profileLabel: "Blood Sugar Stabiliser",
-      profileColor: "clay",
-      description:
-        "Your answers suggest patterns associated with blood sugar regulation challenges. The recipes and articles below are chosen to support a lower glycaemic load and better insulin sensitivity.",
-      articles: [
-        {
-          href: "/prediabetes",
-          title: "What Is Prediabetes?",
-          category: "Prediabetes",
-        },
-        {
-          href: "/learn/nutrition",
-          title: "Eating for Metabolic Health",
-          category: "Nutrition",
-        },
-        {
-          href: "/learn/what-is-insulin-resistance",
-          title: "What Is Insulin Resistance?",
-          category: "Insulin Resistance",
-        },
-      ],
-      planHref: "https://insuliniq.lemonsqueezy.com",
-    };
-  }
-
-  // Default: general IR / wellness
-  return {
-    profile: "insulin_resistance",
-    profileLabel: "Metabolic Health Foundations",
-    profileColor: "forest",
-    description:
-      "Your answers suggest you're building awareness of how insulin resistance affects energy, weight, and long-term health. The resources below are your best starting point for understanding and improving your metabolic health.",
-    articles: [
-      {
-        href: "/learn/what-is-insulin-resistance",
-        title: "What Is Insulin Resistance?",
-        category: "Insulin Resistance",
-      },
-      {
-        href: "/learn/nutrition",
-        title: "Eating for Metabolic Health",
-        category: "Nutrition",
-      },
-      {
-        href: "/learn/microbiome",
-        title: "Your Gut Microbiome and Metabolic Health",
-        category: "Gut Microbiome",
-      },
-    ],
-    planHref: "https://insuliniq.lemonsqueezy.com",
-  };
+  // Priority order: PCOS > NAFLD > MetSyn > Prediabetes > default IR
+  if (hasPCOS && !hasNAFLD) return PCOS_RESULT;
+  if (hasNAFLD)              return NAFLD_RESULT;
+  if (metSynFlags >= 2 || goal === "belly_fat") return METABOLIC_SYNDROME_RESULT;
+  if (hasHighBG || goal === "diabetes_risk")    return PREDIABETES_RESULT;
+  return INSULIN_RESISTANCE_RESULT;
 }

@@ -1,15 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
-import { createClient } from "@supabase/supabase-js";
+import { getAdminClient } from "@/lib/supabase/admin";
 import { verifyEmailToken } from "@/lib/utils/email-tokens";
 import { sendWelcomeEmail } from "@/lib/resend/emails";
-import type { Database } from "@/types/database";
-
-function getAdminClient() {
-  return createClient<Database>(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.SUPABASE_SERVICE_ROLE_KEY!
-  );
-}
 
 export async function GET(request: NextRequest) {
   const { searchParams } = request.nextUrl;

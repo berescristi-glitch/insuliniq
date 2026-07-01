@@ -1,0 +1,1317 @@
+[
+  {
+    "id": "uk-breakfast-011",
+    "name": "Bacon Breakfast Roll (Greggs-style)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A grab-and-go staple of British high streets; Greggs sells millions of bacon breakfast rolls each year and most UK bakery chains and cafes offer an equivalent, making it one of the most common on-the-way-to-work breakfasts.",
+    "ingredients": [
+      { "item": "white bread roll", "quantity": 1, "unit": "roll (85g)" },
+      { "item": "back bacon rashers, grilled", "quantity": 3, "unit": "rashers (75g)" },
+      { "item": "butter or spread", "quantity": 5, "unit": "g" },
+      { "item": "brown sauce or ketchup (optional)", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Grill the bacon rashers until crisp at the edges. Slice the roll and butter lightly. Fill with the hot bacon and add sauce if using. Serve immediately while warm.",
+    "nutrition": {
+      "calories": 353,
+      "protein_g": 21,
+      "carbs_g": 34,
+      "fiber_g": 2,
+      "sugar_g": 4,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Greggs breakfast bacon roll nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Sold ready-made at Greggs, motorway services and workplace canteens; components (rolls, back bacon) sold in every UK supermarket for home versions."
+    },
+    "sources": [
+      { "title": "Greggs Bacon Breakfast Roll", "url": "https://www.greggs.com/menu/product/bacon-breakfast-roll-1000714" },
+      { "title": "Calories in Breakfast Bacon Roll by Greggs and Nutrition Facts", "url": "https://www.mynetdiary.com/food/calories-in-breakfast-bacon-roll-by-greggs-roll-56945393-0.html" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-012",
+    "name": "Sausage Breakfast Roll (Bakery-style)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A high-street bakery breakfast classic alongside the bacon roll; sold by Greggs and independent bakeries across the UK as an affordable, filling on-the-go option.",
+    "ingredients": [
+      { "item": "white bread roll", "quantity": 1, "unit": "roll (85g)" },
+      { "item": "pork sausages, grilled", "quantity": 2, "unit": "sausages (100g)" },
+      { "item": "ketchup or brown sauce (optional)", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Grill the sausages until browned and cooked through, about 12-15 minutes, turning occasionally. Split the roll and add the sausages whole or sliced lengthways. Add sauce to taste and serve hot.",
+    "nutrition": {
+      "calories": 401,
+      "protein_g": 19,
+      "carbs_g": 40,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Greggs sausage breakfast roll nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Sold ready-made at Greggs and most bakery counters; sausages and rolls are everyday supermarket staples for home preparation."
+    },
+    "sources": [
+      { "title": "Calories in Greggs Sausage Breakfast Roll and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/greggs/sausage-breakfast-roll/1-portion" },
+      { "title": "Greggs Roll Menu With Calories & Price", "url": "https://greggs-menus.co.uk/greggs-roll-menu/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-013",
+    "name": "Bacon and Egg McMuffin-style Breakfast Muffin",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely eaten fast-food breakfast sandwich available across McDonald's UK branches every morning until 11am; the home-made version using an English muffin, egg and bacon is also a common weekend cafe-style breakfast.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "muffin (60g)" },
+      { "item": "back bacon rasher, grilled", "quantity": 1, "unit": "rasher (25g)" },
+      { "item": "egg, fried or griddled", "quantity": 1, "unit": "large" },
+      { "item": "cheese slice", "quantity": 1, "unit": "slice (20g)" },
+      { "item": "butter or spread", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Toast the split English muffin and spread lightly with butter. Grill the bacon and fry or griddle the egg so the yolk just sets. Layer bacon, cheese and egg between the muffin halves and serve warm.",
+    "nutrition": {
+      "calories": 348,
+      "protein_g": 20,
+      "carbs_g": 27,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against McDonald's UK Bacon & Egg McMuffin nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Sold as a fast-food item at McDonald's UK nationwide; English muffins, bacon, eggs and cheese slices for the home version are sold in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Bacon and Egg McMuffin - McDonald's UK", "url": "https://www.mcdonalds.com/gb/en-gb/product/bacon-egg-mcmuffin.html" },
+      { "title": "Calories in McDonald's UK Bacon & Egg McMuffin", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-breakfast-bacon-egg-mcmuffin/LIBPAL0xS_OeZxDiUpxk1A" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-014",
+    "name": "Kippers with Brown Bread and Butter",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A traditional British breakfast dating to the 19th century, particularly associated with seaside towns like Whitby and Craster; smoked herring kippers remain a recognised, if now less common, British breakfast choice sold by fishmongers and supermarket fish counters.",
+    "ingredients": [
+      { "item": "kipper (smoked herring), grilled", "quantity": 1, "unit": "whole fillet pair (160g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "wholemeal bread", "quantity": 1, "unit": "slice (38g)" },
+      { "item": "lemon wedge", "quantity": 1, "unit": "wedge" }
+    ],
+    "prepNotes": "Grill the kipper skin-side up for 5-6 minutes until the flesh flakes easily. Toast the bread and butter it. Serve the kipper whole with a squeeze of lemon and the buttered toast on the side.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 32,
+      "carbs_g": 14,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Sainsbury's", "Waitrose", "Tesco", "Morrisons"],
+      "notes": "Smoked kippers are sold at the fresh fish counter or chilled aisle of larger supermarkets, especially Sainsbury's and Waitrose; also widely available from independent fishmongers."
+    },
+    "sources": [
+      { "title": "What Are Kippers? Benefits of the Traditional Breakfast", "url": "https://www.nutritionadvance.com/what-are-kippers/" },
+      { "title": "Kippers - Seriously Good For You!", "url": "https://www.justcaught.co.uk/blogs/news/kippers-seriously-good-for-you" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-015",
+    "name": "Smoked Salmon and Scrambled Egg Bagel",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A popular weekend brunch and cafe order across the UK, served in chains like Sainsbury's Cafe and independent brunch spots; combines British smoked salmon with the bagel format popularised through deli culture.",
+    "ingredients": [
+      { "item": "plain bagel", "quantity": 1, "unit": "bagel (90g)" },
+      { "item": "eggs, scrambled", "quantity": 2, "unit": "large" },
+      { "item": "smoked salmon", "quantity": 50, "unit": "g" },
+      { "item": "butter", "quantity": 5, "unit": "g" },
+      { "item": "black pepper and chives", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Slice and toast the bagel. Scramble the eggs gently in butter over low heat until just set. Pile the scrambled egg onto the bagel base, top with smoked salmon, season with pepper and chives, and close with the bagel top.",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 31,
+      "carbs_g": 47,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 19,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Sainsbury's Cafe scrambled egg and salmon bagel nutrition data"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["eggs", "fish", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "M&S (via Ocado)"],
+      "notes": "Smoked salmon, bagels and eggs are sold in every major UK supermarket; the combination is a common in-store cafe menu item."
+    },
+    "sources": [
+      { "title": "Carbs in Sainsbury's Cafe Scrambled Egg & Salmon On A Bagel", "url": "https://www.carbmanager.com/food-detail/md:4c6b50695bb9427de15fe2a5f2233951/scrambled-egg-salmon-on-a-bagel" },
+      { "title": "Smoked salmon & egg bagels - WW United Kingdom", "url": "https://www.weightwatchers.com/uk/recipe/smoked-salmon-egg-bagels/5dfba819ae07f40017ca9a08" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-016",
+    "name": "All-Butter Croissant with Jam",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A continental-style breakfast that has become a standard UK bakery and supermarket item; all-butter croissants from Tesco, Sainsbury's and independent bakeries are eaten daily across Britain, often with jam or alone with coffee.",
+    "ingredients": [
+      { "item": "all-butter croissant", "quantity": 1, "unit": "croissant (45g)" },
+      { "item": "strawberry jam", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Warm the croissant in the oven for 4-5 minutes at 180C if desired for a fresh-baked texture. Split slightly and spread with jam. Serve with tea or coffee.",
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 4,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugar_g": 11,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Tesco and Sainsbury's all-butter croissant nutrition panels"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons", "Waitrose"],
+      "notes": "All-butter croissants are baked fresh daily in the in-store bakery of every major UK supermarket and sold individually or in multi-packs."
+    },
+    "sources": [
+      { "title": "Calories in Tesco All Butter Croissant and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/tesco/all-butter-croissant/1-croissant" },
+      { "title": "Calories in Sainsbury's All Butter Croissant and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/sainsburys/all-butter-croissant/1-croissant" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-017",
+    "name": "Eggs Florentine on English Muffin",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A vegetarian brunch staple on UK cafe and pub menus, especially popular at weekend brunch spots in cities; a spinach-based variation of the classic eggs Benedict format using hollandaise sauce.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "muffin (60g)" },
+      { "item": "eggs, poached", "quantity": 2, "unit": "large" },
+      { "item": "spinach, wilted", "quantity": 80, "unit": "g" },
+      { "item": "hollandaise sauce", "quantity": 40, "unit": "g" },
+      { "item": "butter for wilting spinach", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Wilt the spinach in butter for 2 minutes and season. Toast the split muffin. Poach the eggs in simmering water for 3 minutes. Layer spinach and poached eggs on the muffin halves and spoon over warm hollandaise.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 21,
+      "carbs_g": 30,
+      "fiber_g": 4,
+      "sugar_g": 3,
+      "fat_g": 29,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Sainsbury's", "Waitrose", "Tesco", "M&S (via Ocado)"],
+      "notes": "Ready-made hollandaise sauce, English muffins, eggs and spinach are sold in every major UK supermarket; common on independent cafe and gastropub brunch menus."
+    },
+    "sources": [
+      { "title": "Eggs benedict Nutrition", "url": "https://www.snapcalorie.com/nutrition/eggs_benedict_nutrition.html" },
+      { "title": "English breakfast muffin Nutrition", "url": "https://www.snapcalorie.com/nutrition/english_breakfast_muffin_nutrition.html" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-018",
+    "name": "Shakshuka (Eggs Poached in Spiced Tomato Sauce)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A North African and Middle Eastern dish that has become a fixture on UK independent cafe brunch menus over the past decade; served at chains like Tesco Cafe and countless brunch restaurants as a vegetarian alternative to a fried breakfast.",
+    "ingredients": [
+      { "item": "tinned chopped tomatoes", "quantity": 200, "unit": "g" },
+      { "item": "red pepper, sliced", "quantity": 60, "unit": "g" },
+      { "item": "onion, sliced", "quantity": 50, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "cumin and paprika", "quantity": 2, "unit": "tsp" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "crusty bread", "quantity": 1, "unit": "slice (40g)" }
+    ],
+    "prepNotes": "Fry the onion and pepper in olive oil until soft, then add cumin and paprika and cook for 1 minute. Pour in the tomatoes and simmer for 8-10 minutes until thickened. Make two wells in the sauce, crack in the eggs, cover and cook for 5-6 minutes until the whites set. Serve straight from the pan with crusty bread.",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 18,
+      "carbs_g": 32,
+      "fiber_g": 6,
+      "sugar_g": 11,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "All ingredients are everyday supermarket staples; shakshuka is served ready-made at Tesco Cafe and is a common item on independent UK brunch menus."
+    },
+    "sources": [
+      { "title": "English breakfast shakshuka recipe - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/english-breakfast-shakshuka.html" },
+      { "title": "Shakshuka | Guest Recipes | Nigella Lawson", "url": "https://www.nigella.com/recipes/guests/tom-hunts-shakshuka" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-019",
+    "name": "Masala Omelette with Toast",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A British Asian breakfast favourite eaten widely in South Asian households across the UK, especially in winter served with chai; recipes appear on British Asian food sites and have been published by Nigella Lawson and HEART UK.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 3, "unit": "large" },
+      { "item": "onion, finely chopped", "quantity": 40, "unit": "g" },
+      { "item": "green chilli, finely chopped", "quantity": 1, "unit": "small" },
+      { "item": "tomato, chopped", "quantity": 50, "unit": "g" },
+      { "item": "turmeric and cumin", "quantity": 1, "unit": "tsp" },
+      { "item": "fresh coriander, chopped", "quantity": 1, "unit": "tbsp" },
+      { "item": "sunflower oil", "quantity": 10, "unit": "ml" },
+      { "item": "wholemeal toast", "quantity": 1, "unit": "slice (38g)" }
+    ],
+    "prepNotes": "Whisk the eggs with turmeric, cumin and a pinch of salt. Fry the onion, chilli and tomato in oil for 2-3 minutes until softened. Pour in the egg mixture and cook over medium heat until set on the base, then fold and finish cooking through. Scatter with coriander and serve with toast.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 22,
+      "carbs_g": 16,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "All ingredients are everyday supermarket staples in the fresh produce and spice aisles; a common home breakfast in British Asian households nationwide."
+    },
+    "sources": [
+      { "title": "Masala Omelette - HEART UK", "url": "https://www.heartuk.org.uk/tasty-recipes/recipe-detail/68-masala-omelette" },
+      { "title": "Masala Omelette | Nigella's Recipes | Nigella Lawson", "url": "https://www.nigella.com/recipes/masala-omelette" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-020",
+    "name": "Ackee and Saltfish with Fried Dumplings",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Jamaica's national dish and a well-established Caribbean-British breakfast eaten across UK Caribbean communities, particularly in cities with large Caribbean populations; tinned ackee is sold in UK Caribbean and Afro-Caribbean grocery sections.",
+    "ingredients": [
+      { "item": "tinned ackee, drained", "quantity": 100, "unit": "g" },
+      { "item": "saltfish (salt cod), soaked and flaked", "quantity": 80, "unit": "g" },
+      { "item": "onion, sliced", "quantity": 40, "unit": "g" },
+      { "item": "tomato, chopped", "quantity": 50, "unit": "g" },
+      { "item": "scotch bonnet pepper, finely chopped", "quantity": 1, "unit": "small piece" },
+      { "item": "sunflower oil", "quantity": 10, "unit": "ml" },
+      { "item": "fried dumpling (flour, water, baking powder)", "quantity": 1, "unit": "dumpling (70g)" }
+    ],
+    "prepNotes": "Soak the saltfish overnight or boil twice to remove excess salt, then flake. Fry the onion, tomato and scotch bonnet in oil until soft, add the flaked saltfish and cook for 3-4 minutes. Gently fold in the ackee and warm through without overstirring. Serve with a fried dumpling on the side.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 24,
+      "carbs_g": 38,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods and Grace Foods ackee nutrition data"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Asda", "Tesco", "Morrisons", "local Caribbean/Afro-Caribbean grocers"],
+      "notes": "Tinned ackee (Grace brand) and salt cod are sold in the world foods aisle of larger Asda, Tesco and Morrisons branches, and widely available at Caribbean grocers in cities with Caribbean communities."
+    },
+    "sources": [
+      { "title": "Ackee and Saltfish Recipe - Great British Chefs", "url": "https://www.greatbritishchefs.com/recipes/ackee-saltfish-recipe" },
+      { "title": "Ackee and Saltfish Recipe - Flawless Food", "url": "https://flawlessfood.co.uk/ackee-and-saltfish/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-021",
+    "name": "Welsh Breakfast with Cockles and Laverbread",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A regional Welsh breakfast tradition from the Gower Peninsula and Swansea area, combining Penclawdd cockles and laverbread (seaweed) with bacon on toast; documented by VisitWales and Welsh food writers as a distinctive coastal breakfast.",
+    "ingredients": [
+      { "item": "back bacon rashers, grilled", "quantity": 2, "unit": "rashers (60g)" },
+      { "item": "cockles, cooked", "quantity": 60, "unit": "g" },
+      { "item": "laverbread (seaweed puree)", "quantity": 50, "unit": "g" },
+      { "item": "wholemeal toast", "quantity": 1, "unit": "slice (38g)" },
+      { "item": "butter", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Grill the bacon until crisp. In the same pan, warm the laverbread with a knob of butter for 2-3 minutes, then add the cockles and heat through briefly. Pile the bacon, laverbread and cockles onto buttered toast and serve hot.",
+    "nutrition": {
+      "calories": 350,
+      "protein_g": 27,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sugar_g": 1,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "molluscs"]
+    },
+    "regionAvailability": {
+      "stores": ["Welsh farmers' markets", "Morrisons (Wales/South West)", "Tesco (Wales)"],
+      "notes": "Laverbread and fresh Penclawdd cockles are a Welsh regional speciality, traditionally bought from coastal markets in Swansea and the Gower; tinned laverbread is sold in some Welsh supermarket branches."
+    },
+    "sources": [
+      { "title": "Swansea breakfast recipe - VisitWales", "url": "https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes/swansea-breakfast-recipe" },
+      { "title": "Welsh Cockles And Laverbread - British Foodie", "url": "https://britishfoodie.co.uk/recipes/welsh-cockles-and-laverbread/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-022",
+    "name": "Smoked Haddock Kedgeree",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Victorian-era Anglo-Indian dish brought back by British colonials and absorbed into British breakfast and brunch culture; still served at country house hotels, Christmas breakfasts and recreated widely from recipes by chefs including James Martin.",
+    "ingredients": [
+      { "item": "smoked haddock", "quantity": 120, "unit": "g" },
+      { "item": "basmati rice, cooked", "quantity": 150, "unit": "g" },
+      { "item": "egg, hard-boiled", "quantity": 1, "unit": "large" },
+      { "item": "onion, finely chopped", "quantity": 40, "unit": "g" },
+      { "item": "curry powder", "quantity": 1, "unit": "tsp" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "fresh parsley, chopped", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Poach the smoked haddock in milk or water for 6-8 minutes until opaque, then flake, discarding skin and bones. Soften the onion in butter, stir in curry powder and cook for 1 minute. Fold in the cooked rice and flaked haddock and heat through. Top with halved hard-boiled egg and parsley to serve.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 33,
+      "carbs_g": 47,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Sainsbury's", "Waitrose", "Tesco", "Morrisons"],
+      "notes": "Smoked haddock is sold at the fish counter or chilled aisle of most large UK supermarkets; a traditional dish often served at hotel and country house breakfasts."
+    },
+    "sources": [
+      { "title": "Kedgeree - Wikipedia", "url": "https://en.wikipedia.org/wiki/Kedgeree" },
+      { "title": "Kedgeree - James Martin Chef", "url": "https://www.jamesmartinchef.co.uk/recipes/kedgeree/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-023",
+    "name": "Bircher Muesli with Apple and Yoghurt",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Swiss-origin overnight oat dish that has become a popular UK cafe breakfast, notably one of Pret A Manger's best-selling items, and is regularly featured by British Heart Foundation, Jamie Oliver and Gordon Ramsay as a wholesome breakfast.",
+    "ingredients": [
+      { "item": "porridge oats", "quantity": 50, "unit": "g" },
+      { "item": "apple, grated (skin on)", "quantity": 1, "unit": "small (100g)" },
+      { "item": "natural yoghurt", "quantity": 100, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 60, "unit": "ml" },
+      { "item": "mixed nuts, chopped", "quantity": 15, "unit": "g" },
+      { "item": "sultanas", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Combine the oats, grated apple, yoghurt, milk and sultanas in a bowl or jar and stir well. Cover and refrigerate overnight. In the morning, stir again and top with chopped nuts before serving cold.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 15,
+      "carbs_g": 58,
+      "fiber_g": 7,
+      "sugar_g": 30,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "Asda", "Aldi"],
+      "notes": "All ingredients are everyday supermarket staples; pre-made bircher muesli pots are also sold at Pret A Manger and in supermarket chiller aisles."
+    },
+    "sources": [
+      { "title": "Bircher muesli recipe - Heart Matters magazine - BHF", "url": "https://www.bhf.org.uk/informationsupport/support/healthy-living/healthy-eating/recipe-finder/bircher-muesli" },
+      { "title": "Healthy Bircher muesli recipe | Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/fruit/bircher-muesli/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-024",
+    "name": "Eggy Bread (British French Toast) with Berries",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Known in Britain as 'eggy bread', this is a long-standing home breakfast and childhood favourite, traditionally served savoury or, in cafes, sweet with fruit and syrup.",
+    "ingredients": [
+      { "item": "white or wholemeal bread", "quantity": 2, "unit": "slices (76g)" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "semi-skimmed milk", "quantity": 30, "unit": "ml" },
+      { "item": "butter for frying", "quantity": 10, "unit": "g" },
+      { "item": "mixed berries", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Whisk the eggs with the milk in a shallow dish. Dip each slice of bread in the mixture, coating both sides. Fry in butter over medium heat for 2-3 minutes per side until golden. Serve topped with mixed berries.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 19,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 9,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "All ingredients are everyday supermarket staples; a common home breakfast nationwide and a frequent UK cafe brunch menu item."
+    },
+    "sources": [
+      { "title": "French Toast {Step-by-Step Videos}", "url": "https://www.tamingtwins.com/french-toast/" },
+      { "title": "Indulgent French Toast with Berries - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/recipes/calorie-counted/french-toast-berries.htm" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-025",
+    "name": "Cottage Cheese Breakfast Bowl with Eggs and Tomatoes",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Cottage cheese has surged in UK popularity, with market spend up nearly 42% year-on-year, driven by high-protein social media trends; savoury cottage cheese breakfast bowls with egg are a widely shared format.",
+    "ingredients": [
+      { "item": "cottage cheese", "quantity": 150, "unit": "g" },
+      { "item": "eggs, soft-boiled", "quantity": 2, "unit": "large" },
+      { "item": "cherry tomatoes, halved", "quantity": 80, "unit": "g" },
+      { "item": "cucumber, sliced", "quantity": 50, "unit": "g" },
+      { "item": "black pepper and chives", "quantity": 1, "unit": "pinch" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Soft-boil the eggs for 6-7 minutes, then cool briefly and peel. Spoon the cottage cheese into a bowl and arrange the tomatoes, cucumber and halved eggs around it. Drizzle with olive oil and season with pepper and chives.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 30,
+      "carbs_g": 11,
+      "fiber_g": 2,
+      "sugar_g": 6,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose", "M&S (via Ocado)"],
+      "notes": "Cottage cheese sales have grown sharply across UK supermarkets; British brand Alterego launched in Sainsbury's nationwide in 2025 alongside long-standing options."
+    },
+    "sources": [
+      { "title": "The Cottage Cheese Boom: High-Protein Trends - DairyReporter", "url": "https://www.dairyreporter.com/Article/2026/01/16/the-cottage-cheese-boom-highprotein-trends-and-the-premium-brands-redefining-the-category/" },
+      { "title": "Viral High Protein Eggs and Cottage Cheese Breakfast Bowl", "url": "https://ohsweetbasil.com/viral-high-protein-eggs-and-cottage-cheese-breakfast-bowl-recipe/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-026",
+    "name": "Banana Oat Protein Pancakes",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Flourless banana-oat-egg pancakes have become a popular high-protein home breakfast in the UK, widely shared by fitness-focused recipe sites as a naturally sweetened alternative to standard pancakes.",
+    "ingredients": [
+      { "item": "banana, ripe", "quantity": 1, "unit": "medium (100g)" },
+      { "item": "porridge oats", "quantity": 40, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "ground cinnamon", "quantity": 1, "unit": "pinch" },
+      { "item": "sunflower oil for frying", "quantity": 5, "unit": "ml" },
+      { "item": "Greek yoghurt to serve", "quantity": 50, "unit": "g" }
+    ],
+    "prepNotes": "Blend the banana, oats, eggs and cinnamon until smooth. Heat a little oil in a non-stick pan over medium heat and pour in small rounds of batter. Cook for 2 minutes per side until golden and cooked through. Serve stacked with a spoonful of Greek yoghurt.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 21,
+      "carbs_g": 42,
+      "fiber_g": 6,
+      "sugar_g": 16,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "All ingredients are everyday supermarket staples; a common home meal-prep breakfast shared widely on UK fitness and recipe sites."
+    },
+    "sources": [
+      { "title": "3 Ingredient Banana Oat Pancakes (20g Protein) - Healthful Blondie", "url": "https://healthfulblondie.com/3-ingredient-pancakes/" },
+      { "title": "Healthy Banana Oat Pancakes - Simply Delicious", "url": "https://simply-delicious-food.com/easy-healthy-banana-oat-pancakes/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-027",
+    "name": "Fruit Scone with Butter (Cafe-style)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A traditional British bakery item eaten at breakfast or with morning tea; sold fresh in supermarket bakeries and coffee chains like Costa and Pret A Manger across the UK.",
+    "ingredients": [
+      { "item": "fruit scone", "quantity": 1, "unit": "scone (75g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "strawberry jam", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Split the scone in half. Spread each half with butter while the scone is fresh, then add jam. Serve with tea or coffee.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 5,
+      "carbs_g": 47,
+      "fiber_g": 2,
+      "sugar_g": 21,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Costa Coffee UK fruit scone nutrition data"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "Fresh fruit scones are baked daily in supermarket in-store bakeries and sold at coffee chains nationwide."
+    },
+    "sources": [
+      { "title": "Scone with jam and clotted cream Nutrition", "url": "https://www.snapcalorie.com/nutrition/scone_with_jam_and_clotted_cream_nutrition.html" },
+      { "title": "Mary Berry's Fruit Scones", "url": "https://www.mygorgeousrecipes.com/traditional-british-scones/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-028",
+    "name": "Quaker Oat So Simple Porridge Sachet (Original)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of the UK's best-selling instant breakfast products, found in workplace kitchens, student halls and home cupboards nationwide as the fastest possible hot breakfast.",
+    "ingredients": [
+      { "item": "Quaker Oat So Simple Original porridge sachet", "quantity": 27, "unit": "g (1 sachet)" },
+      { "item": "boiling water", "quantity": 200, "unit": "ml" }
+    ],
+    "prepNotes": "Empty the sachet into a bowl or mug. Stir in boiling water gradually to avoid lumps. Microwave for 1-2 minutes if a hotter, thicker porridge is preferred, stirring halfway through. Leave to stand for a minute before eating.",
+    "nutrition": {
+      "calories": 100,
+      "protein_g": 4,
+      "carbs_g": 18,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 2,
+      "method": "Calculated from Quaker UK manufacturer nutrition panel for Oat So Simple Original sachet"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons", "Iceland"],
+      "notes": "Sold in multi-packs in every major UK supermarket; a common workplace and student kitchen staple due to its speed of preparation."
+    },
+    "sources": [
+      { "title": "Oat So Simple Original Porridge Pot | Quaker UK", "url": "https://www.quaker.co.uk/products/breakfast-on-the-go/quaker-oat-so-simple-pots/original" },
+      { "title": "Calories in Quaker Oat So Simple Original Porridge Sachets", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-breakfast-cereals-to-be-cooked-oat-so-simple-original-porridge-sachets/K76tIQ-eQUKScINMpHLRVA" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-029",
+    "name": "Greek-Style Yoghurt with Honey Granola (Supermarket Pot)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely bought ready-made breakfast pot found in the chilled aisle of every major UK supermarket; Aldi's Specially Selected and Dairy Dream ranges are typical examples of this everyday grab-and-go format.",
+    "ingredients": [
+      { "item": "Greek-style yoghurt with honey granola pot", "quantity": 170, "unit": "g (1 pot)" }
+    ],
+    "prepNotes": "No preparation needed beyond opening the pot. Stir gently if granola has settled at the base or in a separate compartment before eating straight from the pot.",
+    "nutrition": {
+      "calories": 267,
+      "protein_g": 9,
+      "carbs_g": 33,
+      "fiber_g": 2,
+      "sugar_g": 24,
+      "fat_g": 10,
+      "method": "Calculated from Aldi Dairy Dream Greek Style Yogurt with Honey Granola manufacturer nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Aldi", "Tesco", "Sainsbury's", "Asda"],
+      "notes": "Sold in the chilled yoghurt aisle of every major UK supermarket; a common grab-and-go breakfast for commuters and lunchboxes."
+    },
+    "sources": [
+      { "title": "Calories in Aldi Dairy Dream Greek Style Yogurt with Honey Granola", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-yoghurt-dairy-dream-greek-style-yogurt-with-honey-granola-average-all-flavours/ofMUNpPKSUyBSgJ1DZMOPQ" },
+      { "title": "Calories in Specially Selected Blueberry & Granola Greek Style Vanilla Yogurt by Aldi", "url": "https://www.mynetdiary.com/food/calories-in-specially-selected-blueberry-granola-greek-style-vanilla-yogurt-by-aldi-pot-39261784-0.html" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-030",
+    "name": "Whey Protein Breakfast Smoothie with Berries and Oats",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A common fast breakfast for gym-goers and commuters across the UK, supported by a large market of UK protein brands such as Myprotein, Bulk and Arla making ready-to-blend or ready-to-drink versions widely available.",
+    "ingredients": [
+      { "item": "whey protein powder, vanilla", "quantity": 30, "unit": "g" },
+      { "item": "porridge oats", "quantity": 20, "unit": "g" },
+      { "item": "frozen mixed berries", "quantity": 100, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 200, "unit": "ml" },
+      { "item": "banana", "quantity": 1, "unit": "small (90g)" }
+    ],
+    "prepNotes": "Add all ingredients to a blender. Blend on high for 30-45 seconds until smooth and creamy. Pour into a glass or take-away cup and drink immediately.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 33,
+      "carbs_g": 56,
+      "fiber_g": 7,
+      "sugar_g": 30,
+      "fat_g": 8,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods and typical UK whey protein powder nutrition panels (Myprotein/Bulk)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Holland & Barrett"],
+      "notes": "Whey protein powders from Myprotein, Bulk and similar UK brands are sold online and in larger supermarkets and health stores; oats, milk, berries and bananas are everyday staples."
+    },
+    "sources": [
+      { "title": "Complete Breakfast Smoothie - Bulk UK", "url": "https://www.bulk.com/uk/products/complete-breakfast-protein-smoothie/bble-cbsm" },
+      { "title": "High-Protein Breakfast Smoothie With Skyr And Berries - Arla UK", "url": "https://www.arlafoods.co.uk/recipes/high-protein-breakfast-smoothie-with-skyr-and-berries/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-031",
+    "name": "Buttered Crumpets with Marmite",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A distinctly British savoury variation on the buttered crumpet, pairing the griddled bread with the UK's iconic yeast extract spread; a common alternative to sweet crumpet toppings in many households.",
+    "ingredients": [
+      { "item": "crumpets", "quantity": 2, "unit": "crumpets (80g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "Marmite", "quantity": 8, "unit": "g" }
+    ],
+    "prepNotes": "Toast the crumpets until golden on both sides. Spread with butter while warm so it melts into the holes, then add a thin layer of Marmite. Serve immediately.",
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 8,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 7,
+      "method": "Calculated from ingredient composition via Warburtons manufacturer nutrition panel, McCance and Widdowson's Composition of Foods, and Marmite nutrition label"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons", "Waitrose"],
+      "notes": "Crumpets and Marmite are both widely stocked British staples found in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Crumpets - Warburtons product page", "url": "https://www.warburtons.co.uk/products/crumpets/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-032",
+    "name": "Jacket Potato Breakfast Hash with Bacon and Egg",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A budget-friendly weekend breakfast built from leftover boiled or jacket potatoes, bacon and eggs, common in British households as a way to use up potatoes; a home-cooked variant of cafe breakfast hash.",
+    "ingredients": [
+      { "item": "potatoes, cooked and diced", "quantity": 200, "unit": "g" },
+      { "item": "back bacon rashers, diced", "quantity": 2, "unit": "rashers (60g)" },
+      { "item": "egg, fried", "quantity": 1, "unit": "large" },
+      { "item": "onion, diced", "quantity": 40, "unit": "g" },
+      { "item": "sunflower oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Heat the oil in a frying pan and fry the diced bacon and onion for 3-4 minutes. Add the diced cooked potatoes and fry for 8-10 minutes, turning occasionally, until golden and crisp in places. Push to one side, fry the egg in the same pan, and serve on top of the hash.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 22,
+      "carbs_g": 35,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons", "Iceland"],
+      "notes": "All ingredients are inexpensive, year-round staples in every UK supermarket; a popular budget breakfast for using up leftover potatoes."
+    },
+    "sources": [
+      { "title": "How to Make a Full Welsh Breakfast - HubPages", "url": "https://delishably.com/world-cuisine/full-welsh-breakfast" },
+      { "title": "Calories in Tesco Croissants - reference for UK potato/bacon nutrition benchmarking", "url": "https://www.weightlossresources.co.uk/calories-in-food/bakery-products/tesco-croissants.htm" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-033",
+    "name": "Special K with Semi-Skimmed Milk and Strawberries",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Special K is one of the UK's most recognisable cereal brands, marketed for decades as a lighter breakfast option and a regular feature in British supermarket cereal aisles and breakfast routines.",
+    "ingredients": [
+      { "item": "Special K cereal", "quantity": 40, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 150, "unit": "ml" },
+      { "item": "strawberries, sliced", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Pour the cereal into a bowl, add the milk and top with sliced strawberries. Serve immediately so the cereal stays crisp.",
+    "nutrition": {
+      "calories": 240,
+      "protein_g": 10,
+      "carbs_g": 41,
+      "fiber_g": 2,
+      "sugar_g": 14,
+      "fat_g": 3,
+      "method": "Calculated from Kellogg's Special K UK manufacturer nutrition panel and McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons", "Iceland"],
+      "notes": "Special K is sold in every major UK supermarket cereal aisle and is one of Kellogg's best-known UK products."
+    },
+    "sources": [
+      { "title": "Calories in Weetabix Bran Flakes and Nutrition Facts (UK cereal comparison)", "url": "https://www.fatsecret.co.uk/calories-nutrition/weetabix/bran-flakes/100g" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-034",
+    "name": "Marks & Spencer-style Breakfast Pot: Yoghurt, Oats and Compote",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Premium ready-made layered breakfast pots combining yoghurt, oats and fruit compote are a common commuter purchase from M&S Food and similar supermarket grab-and-go chiller sections across UK city centres and train stations.",
+    "ingredients": [
+      { "item": "natural yoghurt", "quantity": 120, "unit": "g" },
+      { "item": "porridge oats, toasted", "quantity": 30, "unit": "g" },
+      { "item": "mixed berry compote", "quantity": 50, "unit": "g" },
+      { "item": "honey", "quantity": 8, "unit": "g" }
+    ],
+    "prepNotes": "Layer the toasted oats, yoghurt and berry compote in a glass or pot, repeating to create stripes. Drizzle with honey on top. Best eaten straightaway or chilled for a few hours if prepared ahead.",
+    "nutrition": {
+      "calories": 310,
+      "protein_g": 12,
+      "carbs_g": 41,
+      "fiber_g": 4,
+      "sugar_g": 26,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against M&S Food breakfast pot nutrition ranges"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["M&S (via Ocado)", "Tesco", "Sainsbury's", "Waitrose"],
+      "notes": "Ready-made layered yoghurt and oat pots are sold in M&S Food, Tesco and Sainsbury's chiller aisles, especially in city-centre and travel-hub stores."
+    },
+    "sources": [
+      { "title": "Tesco trials new hot bakery options in breakfast meal deal line-up", "url": "https://bakeryinfo.co.uk/finished-goods/tesco-trials-new-hot-bakery-options-in-breakfast-meal-deal-line-up/719234.article" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-035",
+    "name": "Black Pudding and Egg on Toast",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Black pudding is a recognised British breakfast meat, particularly associated with the North of England, Scotland and the Bury market area; serving it simply with egg and toast is a common pared-down alternative to the full fry-up.",
+    "ingredients": [
+      { "item": "black pudding slices", "quantity": 3, "unit": "slices (90g)" },
+      { "item": "egg, fried", "quantity": 1, "unit": "large" },
+      { "item": "wholemeal toast", "quantity": 1, "unit": "slice (38g)" },
+      { "item": "sunflower oil for frying", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Fry the black pudding slices in a little oil for 2-3 minutes per side until crisp at the edges. Fry the egg in the same pan. Serve both on top of the toast.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 20,
+      "carbs_g": 22,
+      "fiber_g": 3,
+      "sugar_g": 1,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Black pudding is sold in the chilled meat aisle of most UK supermarkets; Bury black pudding and Macsween are well-known brands."
+    },
+    "sources": [
+      { "title": "What Is Black Pudding? Regional Variations - MasterClass", "url": "https://www.masterclass.com/articles/what-is-black-pudding" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-036",
+    "name": "Vegetarian Full English (Veggie Sausages, Beans, Eggs)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A meat-free version of the full English breakfast widely available on UK cafe menus and replicated at home using mainstream supermarket vegetarian sausage and bacon-alternative ranges from Linda McCartney's, Quorn and own-brand lines.",
+    "ingredients": [
+      { "item": "vegetarian sausages (e.g. Linda McCartney's)", "quantity": 2, "unit": "sausages (90g)" },
+      { "item": "eggs, fried", "quantity": 2, "unit": "large" },
+      { "item": "baked beans", "quantity": 100, "unit": "g" },
+      { "item": "grilled tomato", "quantity": 1, "unit": "whole (90g)" },
+      { "item": "mushrooms, fried", "quantity": 50, "unit": "g" },
+      { "item": "wholemeal toast", "quantity": 1, "unit": "slice (38g)" },
+      { "item": "sunflower oil for frying", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Grill or fry the vegetarian sausages according to pack instructions until browned. Fry the eggs, mushrooms and tomato in a little oil. Heat the beans separately and toast the bread. Plate all components together.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 30,
+      "carbs_g": 46,
+      "fiber_g": 11,
+      "sugar_g": 10,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods and Linda McCartney's manufacturer nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose", "Morrisons"],
+      "notes": "Vegetarian sausages from Linda McCartney's, Quorn and own-brand ranges are sold in every major UK supermarket chilled or frozen aisle."
+    },
+    "sources": [
+      { "title": "Full English breakfast Recipe, Calories & Nutrition Facts", "url": "https://www.checkyourfood.com/meals/meal/1124/full-english-breakfast" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-037",
+    "name": "Breakfast Burrito Wrap (UK Cafe-style)",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Breakfast wraps and burritos have become common on UK coffee chain and independent cafe menus (Pret, Greggs and others), adapting the American breakfast burrito format for UK grab-and-go culture.",
+    "ingredients": [
+      { "item": "flour tortilla wrap", "quantity": 1, "unit": "wrap (60g)" },
+      { "item": "eggs, scrambled", "quantity": 2, "unit": "large" },
+      { "item": "back bacon rashers, diced", "quantity": 2, "unit": "rashers (50g)" },
+      { "item": "cheese, grated", "quantity": 20, "unit": "g" },
+      { "item": "salsa or ketchup", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Scramble the eggs gently and fry the diced bacon until cooked through. Warm the tortilla wrap briefly in a dry pan. Fill with scrambled egg, bacon, grated cheese and salsa, then roll tightly and serve.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 28,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi"],
+      "notes": "Tortilla wraps, eggs, bacon and cheese are everyday supermarket staples; ready-made breakfast wraps are sold at Pret A Manger and similar UK cafe chains."
+    },
+    "sources": [
+      { "title": "Carbs in Mcdonald's Uk Breakfast Bacon & Egg Mcmuffin (reference for UK bacon/egg breakfast benchmarking)", "url": "https://www.carbmanager.com/food-detail/md:04ceb5649ef74aa18eaf7812205ef86f/breakfast-bacon-egg-mcmuffin" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-038",
+    "name": "Toast with Peanut Butter and Banana",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A simple, widely eaten British breakfast combining wholemeal toast with peanut butter, popularised further by fitness and nutrition content as an accessible protein-and-fibre breakfast using everyday supermarket staples.",
+    "ingredients": [
+      { "item": "wholemeal bread", "quantity": 2, "unit": "slices (76g)" },
+      { "item": "peanut butter", "quantity": 30, "unit": "g" },
+      { "item": "banana, sliced", "quantity": 1, "unit": "medium (100g)" }
+    ],
+    "prepNotes": "Toast the bread until golden. Spread each slice generously with peanut butter and top with sliced banana. Serve immediately.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 15,
+      "carbs_g": 52,
+      "fiber_g": 8,
+      "sugar_g": 17,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": ["gluten", "nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "Peanut butter, wholemeal bread and bananas are everyday staples sold in every UK supermarket, including own-brand options at budget retailers."
+    },
+    "sources": [
+      { "title": "The Nation's Favourite porridge recipe (BBC poll cookbook, reference for UK staple breakfast benchmarking)", "url": "https://www.food.com/recipe/the-nations-favourite-podgy-porridge-246818" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-039",
+    "name": "Bran Cereal with Greek Yoghurt and Mixed Seeds",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A higher-fibre cereal breakfast favoured by health-conscious UK consumers, combining a wheat bran cereal with Greek yoghurt and seeds instead of standard milk for added protein, in line with the wider UK high-protein breakfast trend.",
+    "ingredients": [
+      { "item": "bran flakes", "quantity": 35, "unit": "g" },
+      { "item": "Greek yoghurt", "quantity": 150, "unit": "g" },
+      { "item": "mixed seeds (pumpkin, sunflower)", "quantity": 15, "unit": "g" },
+      { "item": "honey", "quantity": 8, "unit": "g" }
+    ],
+    "prepNotes": "Layer the bran flakes and Greek yoghurt in a bowl. Scatter over the mixed seeds and drizzle with honey. Eat promptly so the flakes retain some crunch.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 20,
+      "carbs_g": 44,
+      "fiber_g": 8,
+      "sugar_g": 18,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods and Weetabix Bran Flakes nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "Bran flakes, Greek yoghurt and mixed seeds are all everyday staples sold in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Calories in Weetabix Bran Flakes and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/weetabix/bran-flakes/100g" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-040",
+    "name": "Lorne Sausage (Square Sausage) Roll",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Lorne sausage, also called square sausage, is a Scottish breakfast staple, served in a roll as a quick breakfast across Scotland and increasingly sold in supermarkets throughout the UK.",
+    "ingredients": [
+      { "item": "Lorne sausage (square sausage) slice", "quantity": 1, "unit": "slice (80g)" },
+      { "item": "white bread roll", "quantity": 1, "unit": "roll (85g)" },
+      { "item": "brown sauce", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Fry or grill the Lorne sausage slice for 3-4 minutes per side until cooked through and browned. Split the roll, add the sausage slice and a little brown sauce, and serve hot.",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 17,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Lorne sausage is widely sold fresh and frozen in Scottish supermarkets and is increasingly stocked in larger UK-wide chains."
+    },
+    "sources": [
+      { "title": "Full Scottish Breakfast - Authentic recipe", "url": "https://www.christinascucina.com/scottish-breakfast/" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-041",
+    "name": "Cornish Heavy Cake-Style Breakfast Bun with Butter",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A regional South West English breakfast bake, traditionally made with clotted cream and lard for a dense, slightly sweet bun, recognised as a Cornish breakfast and teatime bread eaten with butter or jam.",
+    "ingredients": [
+      { "item": "Cornish heavy cake (hevva cake)", "quantity": 1, "unit": "slice (80g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Slice the heavy cake if not already portioned. Warm gently in a low oven or toast lightly if preferred. Spread with butter while warm and serve.",
+    "nutrition": {
+      "calories": 310,
+      "protein_g": 5,
+      "carbs_g": 40,
+      "fiber_g": 1,
+      "sugar_g": 14,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, estimated from standard Cornish heavy cake recipes"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Cornish bakeries", "Waitrose (South West)", "Tesco (South West)"],
+      "notes": "Heavy cake is a Cornish regional speciality typically bought fresh from bakeries in Cornwall; not a nationwide supermarket staple but occasionally stocked in South West branches of larger chains."
+    },
+    "sources": [
+      { "title": "How to Make a Full Welsh Breakfast - HubPages (regional UK breakfast bread reference)", "url": "https://delishably.com/world-cuisine/full-welsh-breakfast" }
+    ]
+  },
+  {
+    "id": "uk-breakfast-042",
+    "name": "Budget Value Cereal with Skimmed Milk and Stewed Apple",
+    "country": "UK",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A low-cost everyday breakfast built from supermarket value-range cornflakes and skimmed milk, representing the budget end of UK breakfast spending alongside premium options like smoked salmon bagels; stewed apple adds fibre cheaply using own-brand tinned or fresh fruit.",
+    "ingredients": [
+      { "item": "value range cornflakes", "quantity": 40, "unit": "g" },
+      { "item": "skimmed milk", "quantity": 150, "unit": "ml" },
+      { "item": "stewed apple (no added sugar)", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Pour the cornflakes into a bowl and add the skimmed milk. Top with warm or cold stewed apple. Serve immediately so the cereal stays crisp.",
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 8,
+      "carbs_g": 47,
+      "fiber_g": 3,
+      "sugar_g": 16,
+      "fat_g": 1,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods and own-brand value cornflakes nutrition panels (Aldi/Lidl/Asda)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Aldi", "Lidl", "Asda", "Tesco", "Morrisons", "Iceland"],
+      "notes": "Value-range cornflakes and skimmed milk are among the cheapest breakfast staples sold in every UK supermarket, often under 50p per portion."
+    },
+    "sources": [
+      { "title": "Calories in Weetabix - Weight Loss Resources (UK cereal nutrition benchmarking)", "url": "https://www.weightlossresources.co.uk/calories-in-food/breakfast-cereals/weetabix.htm" }
+    ]
+  }
+]

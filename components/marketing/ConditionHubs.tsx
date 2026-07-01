@@ -44,7 +44,7 @@ const hubs = [
     arrow_color: "text-rose-600",
   },
   {
-    href: "/metabolic-syndrome",
+    href: "/learn/metabolic-syndrome",
     title: "Metabolic Syndrome",
     description:
       "Five interconnected risk factors — waist circumference, blood pressure, glucose, triglycerides, and HDL.",

@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "uk-snack-001",
+    "name": "Walkers Ready Salted Crisps (Single Packet)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Walkers is the dominant UK crisp brand and ready salted is its best-selling flavour, found in every supermarket, newsagent, pub and vending machine in the country; a lunchbox and pub-snack staple.",
+    "ingredients": [
+      { "item": "Walkers Ready Salted potato crisps", "quantity": 25, "unit": "g (1 standard packet)" }
+    ],
+    "prepNotes": "Open the packet and eat straight away. No preparation needed; usually paired with a sandwich or eaten alone between meals.",
+    "nutrition": {
+      "calories": 132,
+      "protein_g": 1.6,
+      "carbs_g": 13.4,
+      "fiber_g": 1.2,
+      "sugar_g": 0.2,
+      "fat_g": 8.4,
+      "method": "Calculated from Walkers product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods potato crisp values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Sold individually and in multipacks in every UK supermarket, corner shop and vending machine nationwide."
+    },
+    "sources": [
+      { "title": "Walkers crisps Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/walkers_crisps_nutrition.html" },
+      { "title": "Calories in Baked Ready Salted Crisps 25g Pack by Walkers", "url": "https://www.mynetdiary.com/food/calories-in-baked-ready-salted-crisps-25g-pack-by-walkers-pack-2120269-0.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-002",
+    "name": "McVitie's Digestive Biscuits (2 Biscuits with Tea)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "The digestive biscuit is one of Britain's best-selling biscuits and the classic accompaniment to a cup of tea; McVitie's is the market-leading brand found in nearly every household biscuit tin.",
+    "ingredients": [
+      { "item": "McVitie's Digestive biscuits", "quantity": 2, "unit": "biscuits (29g)" }
+    ],
+    "prepNotes": "Eat straight from the packet, typically dunked briefly in a hot cup of tea. No cooking required.",
+    "nutrition": {
+      "calories": 143,
+      "protein_g": 2,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sugar_g": 4.5,
+      "fat_g": 6.4,
+      "method": "Calculated from McVitie's product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods sweet biscuit values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "may contain milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl", "Waitrose"],
+      "notes": "Sold in every UK supermarket year-round; own-brand digestive equivalents are widely available as cheaper alternatives."
+    },
+    "sources": [
+      { "title": "Calories in McVities Digestives - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/calories-in-food/bakery-products/mcvities-digestives.htm" },
+      { "title": "The Original - McVitie's", "url": "https://mcvities.com/en-gb/original" }
+    ]
+  },
+  {
+    "id": "uk-snack-003",
+    "name": "Greek Yoghurt with Mixed Berries and Chia Seeds",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A widely recommended UK snack promoted across nutrition and wellness resources as a quick, satisfying option; Greek-style yoghurt with fresh or frozen berries is a common mid-morning or post-gym snack in British households.",
+    "ingredients": [
+      { "item": "Greek yoghurt (full fat or 0%)", "quantity": 170, "unit": "g" },
+      { "item": "mixed berries (strawberries, blueberries, raspberries)", "quantity": 80, "unit": "g" },
+      { "item": "chia seeds", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Spoon the yoghurt into a bowl or pot. Top with the berries and sprinkle over the chia seeds. Stir gently and eat immediately, or prepare the night before and let the chia seeds soften in the fridge.",
+    "nutrition": {
+      "calories": 215,
+      "protein_g": 19,
+      "carbs_g": 16,
+      "fiber_g": 6,
+      "sugar_g": 11,
+      "fat_g": 8,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Waitrose"],
+      "notes": "Greek-style yoghurt, fresh and frozen berries, and chia seeds are sold year-round in every major UK supermarket; frozen berries are a budget-friendly substitute for fresh."
+    },
+    "sources": [
+      { "title": "Greek yogurt & berries - WW UK", "url": "https://www.weightwatchers.com/uk/meal/greek-yogurt-and-berries/5625c0ab2ac6750e34a9ac69" },
+      { "title": "Greek yogurt with berries and seeds - Daisies & Pie", "url": "https://daisiesandpie.co.uk/greek-yogurt-with-berries-and-seeds/" }
+    ]
+  },
+  {
+    "id": "uk-snack-004",
+    "name": "Mini Babybel Original Cheese (2 Pieces)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Mini Babybel is a long-standing UK lunchbox and snack staple, recognisable by its red wax coating; sold individually wrapped for portability and a common feature of school packed lunches and office desk drawers.",
+    "ingredients": [
+      { "item": "Mini Babybel Original cheese", "quantity": 2, "unit": "pieces (40g)" }
+    ],
+    "prepNotes": "Peel back the wax coating and eat. No preparation required; keep refrigerated until ready to eat.",
+    "nutrition": {
+      "calories": 124,
+      "protein_g": 9.2,
+      "carbs_g": 0.4,
+      "fiber_g": 0,
+      "sugar_g": 0.4,
+      "fat_g": 9.6,
+      "method": "Calculated from Babybel product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods semi-hard cheese values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose", "Iceland"],
+      "notes": "Sold in multipacks of 6, 9 or 12 in every major UK supermarket, often in the chilled lunchbox-snack aisle."
+    },
+    "sources": [
+      { "title": "Mini Babybel Original Cheese Snack - Babybel", "url": "https://babybel.com/product/babybel-original-cheese/" },
+      { "title": "Mini Babybel Original Cheese 6 Pack, 120 G - Tesco Groceries", "url": "https://www.tesco.com/groceries/en-GB/products/253780736" }
+    ]
+  },
+  {
+    "id": "uk-snack-005",
+    "name": "Carrot Batons with Houmous Pot",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A widely sold supermarket grab-and-go snack pot, popular in office lunchboxes and family fridges as a vegetable-forward alternative to crisps; Tesco, Sainsbury's and other UK chains all sell their own carrot-and-houmous versions.",
+    "ingredients": [
+      { "item": "carrot batons", "quantity": 80, "unit": "g" },
+      { "item": "houmous", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "If making at home, peel and cut carrots into batons. Serve alongside a small pot of houmous for dipping. Pre-packaged versions are ready to eat straight from the fridge.",
+    "nutrition": {
+      "calories": 110,
+      "protein_g": 4,
+      "carbs_g": 10,
+      "fiber_g": 4.5,
+      "sugar_g": 5,
+      "fat_g": 6,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Tesco Carrot & Houmous product data"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "Pre-portioned carrot-and-houmous snack pots are sold in the chilled snacking aisle of most major UK supermarkets; easily made at home for less cost."
+    },
+    "sources": [
+      { "title": "Tesco Carrot & Houmous 100g - Tesco Groceries", "url": "https://www.tesco.com/groceries/en-GB/products/317423357" },
+      { "title": "Tesco Carrot & Houmous - Open Food Facts", "url": "https://world.openfoodfacts.org/product/5057753900335/tesco-carrot-houmous" }
+    ]
+  },
+  {
+    "id": "uk-snack-006",
+    "name": "Nature Valley Protein Peanut & Chocolate Bar",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A widely stocked cereal-bar-format protein snack found in the protein/sports nutrition aisle of UK supermarkets, popular with gym-goers and office workers wanting a portable higher-protein alternative to a standard chocolate bar.",
+    "ingredients": [
+      { "item": "Nature Valley Protein Peanut & Chocolate bar", "quantity": 40, "unit": "g (1 bar)" }
+    ],
+    "prepNotes": "Unwrap and eat directly from the packet; no preparation needed. Convenient for bags, desk drawers or gym kit.",
+    "nutrition": {
+      "calories": 196,
+      "protein_g": 10,
+      "carbs_g": 13,
+      "fiber_g": 5,
+      "sugar_g": 5,
+      "fat_g": 11.5,
+      "method": "Calculated from Nature Valley UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["peanuts", "milk", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Amazon UK"],
+      "notes": "Sold individually and in multipacks of 4 in the cereal bar and sports nutrition aisles of most major UK supermarkets."
+    },
+    "sources": [
+      { "title": "Protein Bar Peanut & Chocolate - Nature Valley UK", "url": "https://www.naturevalley.co.uk/product/protein-peanut-chocolate/" },
+      { "title": "Calories in Nature Valley Peanut & Chocolate Protein Bar", "url": "https://www.fatsecret.co.uk/calories-nutrition/nature-valley/peanut-chocolate-protein-bar/1-bar" }
+    ]
+  },
+  {
+    "id": "uk-snack-007",
+    "name": "KitKat 4 Finger Bar",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "One of the UK's most iconic chocolate bars, synonymous with the British tea break ('Have a break, have a KitKat'); sold everywhere from petrol stations to vending machines and a common after-meal treat.",
+    "ingredients": [
+      { "item": "KitKat 4 Finger milk chocolate wafer bar", "quantity": 42, "unit": "g (1 bar)" }
+    ],
+    "prepNotes": "Snap into individual fingers and eat. No preparation required; often enjoyed alongside a cup of tea or coffee.",
+    "nutrition": {
+      "calories": 218,
+      "protein_g": 2.6,
+      "carbs_g": 27,
+      "fiber_g": 0.8,
+      "sugar_g": 21,
+      "fat_g": 11,
+      "method": "Calculated from Nestle UK product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods chocolate confectionery values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["milk", "gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Co-op"],
+      "notes": "Sold nationwide in supermarkets, newsagents, vending machines and petrol stations; also available as 2-finger multipack format."
+    },
+    "sources": [
+      { "title": "KitKat 4 Finger: Calories, Nutrition and Health Benefits", "url": "https://nutriscan.app/calories-nutrition/kitkat-4-finger" },
+      { "title": "Candies, KIT KAT Wafer Bar nutrition facts", "url": "https://www.nutritionvalue.org/Candies%2C_KIT_KAT_Wafer_Bar_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-008",
+    "name": "Two Hard-Boiled Eggs",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A simple, traditional protein snack recommended by British Lion Eggs and widely eaten in the UK as a portable, no-fuss high-protein option; commonly batch-boiled at the start of the week for grab-and-go snacking.",
+    "ingredients": [
+      { "item": "eggs, hard-boiled", "quantity": 2, "unit": "large" }
+    ],
+    "prepNotes": "Place eggs in a pan of cold water, bring to the boil, then simmer for 8-10 minutes for a firm yolk. Cool under cold running water, peel, and store in the fridge for up to a week. Eat plain or with a pinch of salt.",
+    "nutrition": {
+      "calories": 156,
+      "protein_g": 13,
+      "carbs_g": 0.8,
+      "fiber_g": 0,
+      "sugar_g": 0.4,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl", "Waitrose"],
+      "notes": "British Lion-stamped eggs are sold in every UK supermarket; pre-boiled and peeled egg snack packs are also available in chilled aisles."
+    },
+    "sources": [
+      { "title": "Boiled egg nutrition - British Lion Eggs", "url": "https://www.egginfo.co.uk/ways-to-cook/boiled/nutrition" },
+      { "title": "Hard-Boiled Egg Nutrition Facts: Calories, Protein and More", "url": "https://www.healthline.com/nutrition/boiled-egg-nutrition" }
+    ]
+  },
+  {
+    "id": "uk-snack-009",
+    "name": "Cream Tea Scone with Jam and Clotted Cream",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A quintessential British afternoon tea tradition, especially associated with Devon and Cornwall; served in tearooms, cafes and National Trust properties across the country as a weekend or holiday treat.",
+    "ingredients": [
+      { "item": "plain scone", "quantity": 1, "unit": "medium (70g)" },
+      { "item": "strawberry jam", "quantity": 20, "unit": "g (1 tbsp)" },
+      { "item": "clotted cream", "quantity": 20, "unit": "g (1 tbsp)" }
+    ],
+    "prepNotes": "Split the scone in half. Spread each half with jam, then top with a generous spoonful of clotted cream (Cornish tradition: jam first; Devon tradition: cream first). Serve with a pot of tea.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 6,
+      "carbs_g": 45,
+      "fiber_g": 1.5,
+      "sugar_g": 18,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against published cream tea nutrition analyses"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose"],
+      "notes": "Fresh scones, jam and clotted cream are sold in every UK supermarket bakery aisle; cream teas are widely served in cafes, tearooms and National Trust/English Heritage sites, especially in the South West."
+    },
+    "sources": [
+      { "title": "How many calories in a Cream Tea? - Cream Tea Guide", "url": "https://creamteaguide.co.uk/2015/08/13/how-many-calories-in-a-cream-tea/" },
+      { "title": "Calories in Jam & Cream Scones by Sainsbury's", "url": "https://www.mynetdiary.com/food/calories-in-jam-cream-scones-by-sainsbury-s-scone-30904004-0.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-010",
+    "name": "Toasted Crumpets with Butter",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Crumpets are a traditional British teatime food, toasted until golden so butter melts into their characteristic holes; Warburtons is the leading UK brand and crumpets are a year-round household staple.",
+    "ingredients": [
+      { "item": "crumpets", "quantity": 2, "unit": "crumpets (40g each)" },
+      { "item": "salted butter", "quantity": 14, "unit": "g (1 tbsp)" }
+    ],
+    "prepNotes": "Toast the crumpets under a grill or in a toaster until golden and crisp at the edges. Spread immediately with butter while hot so it melts into the holes. Serve straight away.",
+    "nutrition": {
+      "calories": 270,
+      "protein_g": 7,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 1.5,
+      "fat_g": 10,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Warburtons crumpet product data"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Warburtons and supermarket own-brand crumpets are sold fresh in the bread aisle of every UK supermarket year-round."
+    },
+    "sources": [
+      { "title": "Crumpets - Warburtons", "url": "https://www.warburtons.co.uk/products/crumpets/" },
+      { "title": "Calories in Warburtons Crumpets - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/calories-in-food/bakery-products/warburtons-crumpets.htm" }
+    ]
+  },
+  {
+    "id": "uk-snack-011",
+    "name": "Mixed Nuts Snack Pack",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pre-portioned mixed nut packs are sold across UK supermarkets and recommended by the British Heart Foundation as a heart-healthy snack; popular for desks, gym bags and as a crisp alternative.",
+    "ingredients": [
+      { "item": "mixed nuts (almonds, cashews, walnuts, hazelnuts)", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Eat straight from the pack; no preparation needed. Good portioned into small pots in advance for grab-and-go snacking.",
+    "nutrition": {
+      "calories": 182,
+      "protein_g": 5.9,
+      "carbs_g": 6.3,
+      "fiber_g": 2.2,
+      "sugar_g": 1.5,
+      "fat_g": 16.1,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "low_carb", "mediterranean"],
+      "allergens": ["nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Waitrose"],
+      "notes": "Sold as snack-size 30g packs and in larger bags in the world foods/healthy snacking aisle of every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Are nuts good for you? The best nuts to eat - BHF", "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/are-nuts-good-for-you" },
+      { "title": "Calories in 30 g of Mixed Nuts and Nutrition Facts", "url": "https://foods.fatsecret.com/calories-nutrition/generic/mixed-nuts?portionid=52042&portionamount=30.000" }
+    ]
+  },
+  {
+    "id": "uk-snack-012",
+    "name": "Original Beef Jerky (Single Pack)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Jack Link's is the leading beef jerky brand stocked widely in UK supermarkets and petrol stations; jerky has grown rapidly in popularity in Britain as a high-protein, low-carb on-the-go snack.",
+    "ingredients": [
+      { "item": "Jack Link's Original beef jerky", "quantity": 25, "unit": "g (1 pack)" }
+    ],
+    "prepNotes": "Open the pack and eat directly; fully cooked and shelf-stable, requiring no preparation or refrigeration before opening.",
+    "nutrition": {
+      "calories": 71,
+      "protein_g": 9.4,
+      "carbs_g": 6.2,
+      "fiber_g": 0.3,
+      "sugar_g": 5,
+      "fat_g": 1,
+      "method": "Calculated from Jack Link's UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Amazon UK"],
+      "notes": "Sold as single 25g packs and multipack boxes of 12 in the UK snacking aisle of major supermarkets and online."
+    },
+    "sources": [
+      { "title": "Jack Link's Beef Jerky, Original Flavour - Amazon UK", "url": "https://www.amazon.co.uk/JACK-LINKS-Snacks-Jerky-Original/dp/B01FH6YHSW" },
+      { "title": "Calories in Original Beef Jerky 80g Pack by Jack Link's", "url": "https://www.mynetdiary.com/food/calories-in-original-beef-jerky-80g-pack-by-jack-link-s-pieces-37066440-0.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-013",
+    "name": "Natural Cottage Cheese Pot",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cottage cheese is a well-established British supermarket staple, sold by every major chain in its own dairy aisle, and increasingly promoted as a high-protein snack for sustained fullness between meals.",
+    "ingredients": [
+      { "item": "natural cottage cheese", "quantity": 150, "unit": "g (half a standard pot)" }
+    ],
+    "prepNotes": "Spoon straight from the pot into a bowl. Eat plain, or add a pinch of black pepper or a few cherry tomatoes for variety. No cooking required.",
+    "nutrition": {
+      "calories": 161,
+      "protein_g": 17,
+      "carbs_g": 7,
+      "fiber_g": 0,
+      "sugar_g": 7,
+      "fat_g": 7.5,
+      "method": "Calculated from Sainsbury's Natural British Cottage Cheese product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Sold in 250-300g pots in the chilled dairy aisle of every major UK supermarket; low-fat versions widely available alongside full-fat."
+    },
+    "sources": [
+      { "title": "Calories in Natural British Cottage Cheese by Sainsbury's", "url": "https://www.mynetdiary.com/food/calories-in-natural-british-cottage-cheese-by-sainsbury-s-pot-7190547-0.html" },
+      { "title": "Natural Cottage Cheese - Sainsbury's - Open Food Facts", "url": "https://world.openfoodfacts.org/product/01810325/natural-cottage-cheese-sainsbury-s" }
+    ]
+  },
+  {
+    "id": "uk-snack-014",
+    "name": "Nairn's Oatcakes with Peanut Butter",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Nairn's is Scotland's best-known oatcake brand and oatcakes are a traditional wholegrain snack across the UK; pairing them with peanut butter is a popular way to add protein and is widely recommended by UK nutrition bloggers.",
+    "ingredients": [
+      { "item": "Nairn's rough oatcakes", "quantity": 3, "unit": "oatcakes (36g)" },
+      { "item": "peanut butter", "quantity": 20, "unit": "g (1 tbsp)" }
+    ],
+    "prepNotes": "Spread the peanut butter evenly across each oatcake. Eat immediately, or pack in a container for an on-the-go snack within a few hours.",
+    "nutrition": {
+      "calories": 256,
+      "protein_g": 8.5,
+      "carbs_g": 19,
+      "fiber_g": 4.5,
+      "sugar_g": 1.5,
+      "fat_g": 16.5,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Nairn's product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "Nairn's oatcakes are sold nationwide in the biscuit/crackers aisle; smooth and crunchy peanut butter are supermarket staples in every UK chain."
+    },
+    "sources": [
+      { "title": "Nairn's oatcakes; our new favourite food - Dad Blog UK", "url": "https://dadbloguk.com/nairns-oatcakes-our-new-favourite-food/" },
+      { "title": "Calories in Nairn's Rough Oatcakes and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/nairns/rough-oatcakes/1-oatcake" }
+    ]
+  },
+  {
+    "id": "uk-snack-015",
+    "name": "Oat Flapjack Bar",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A traditional British baked bar made from oats, butter and golden syrup, sold in every UK supermarket bakery section and a common packed-lunch and bake-sale item nationwide.",
+    "ingredients": [
+      { "item": "oat flapjack bar", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Eat straight from the wrapper or homemade tin. If baking at home, press an oats-butter-golden syrup mixture into a tray, bake until golden, then cool and cut into bars.",
+    "nutrition": {
+      "calories": 255,
+      "protein_g": 3.5,
+      "carbs_g": 32,
+      "fiber_g": 2.5,
+      "sugar_g": 18,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against UK supermarket flapjack product data"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Greggs"],
+      "notes": "Sold in the bakery aisle of every UK supermarket and at bakery chains such as Greggs; homemade versions are a common school bake-sale item."
+    },
+    "sources": [
+      { "title": "British Flapjacks - The Daring Gourmet", "url": "https://www.daringgourmet.com/british-flapjacks/" },
+      { "title": "Flapjack bar Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/flapjack_bar_nutrition.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-016",
+    "name": "Soreen Sliced Malt Loaf (2 Slices)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Soreen is a household-name UK brand and malt loaf is a traditional British teatime bread, dense and naturally sweet; commonly eaten plain or spread with butter as an alternative to cake or chocolate bars.",
+    "ingredients": [
+      { "item": "Soreen sliced malt loaf", "quantity": 2, "unit": "slices (53g)" },
+      { "item": "salted butter", "quantity": 10, "unit": "g (optional, for spreading)" }
+    ],
+    "prepNotes": "Eat the slices as they are, or lightly spread with butter. Some prefer it toasted briefly under the grill for a few minutes.",
+    "nutrition": {
+      "calories": 232,
+      "protein_g": 4.5,
+      "carbs_g": 35,
+      "fiber_g": 2,
+      "sugar_g": 17,
+      "fat_g": 8,
+      "method": "Calculated from Soreen product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Co-op"],
+      "notes": "Soreen malt loaf is sold sliced and unsliced in the bread/bakery aisle of every major UK supermarket; also available as individually wrapped snack packs with butter."
+    },
+    "sources": [
+      { "title": "Calories in Soreen Sliced Malt Loaf and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/soreen/sliced-malt-loaf/1-slice" },
+      { "title": "Soreen Malt Loaf Snack Pack - Central Co-op", "url": "https://www.centralcoop.co.uk/food/products/5010043001082" }
+    ]
+  },
+  {
+    "id": "uk-snack-017",
+    "name": "Twiglets (Single Bag)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Twiglets are a distinctively British wheat-based, yeast-flavoured snack with a cult following, traditionally associated with Christmas party tables but sold as an everyday snack year-round.",
+    "ingredients": [
+      { "item": "Twiglets", "quantity": 25, "unit": "g (1 bag)" }
+    ],
+    "prepNotes": "Open the bag and eat directly; no preparation required.",
+    "nutrition": {
+      "calories": 97,
+      "protein_g": 3.2,
+      "carbs_g": 14,
+      "fiber_g": 2.5,
+      "sugar_g": 1,
+      "fat_g": 3,
+      "method": "Calculated from product nutrition panel via Nutridex UK food database, cross-checked against McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Co-op"],
+      "notes": "Sold in single snack bags and larger sharing bags year-round, with extra availability around Christmas in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Twiglets - nutrition - Nutridex", "url": "https://www.nutridex.org.uk/foods/1xyxeef/twiglets" },
+      { "title": "Calories in Twiglets Twiglets (25g)", "url": "https://www.fatsecret.co.uk/calories-nutrition/twiglets/twiglets-(25g)/1-pack" }
+    ]
+  },
+  {
+    "id": "uk-snack-018",
+    "name": "Whole Apple and a Handful of Almonds",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pairing a piece of whole fruit with a small handful of nuts is a widely recommended, simple snack combination in UK nutrition guidance, designed to combine fibre-rich fruit with protein and healthy fat from nuts.",
+    "ingredients": [
+      { "item": "apple", "quantity": 1, "unit": "medium (180g)" },
+      { "item": "whole almonds", "quantity": 20, "unit": "g (small handful)" }
+    ],
+    "prepNotes": "Wash the apple and eat whole, or slice if preferred. Eat the almonds alongside, either plain or lightly salted.",
+    "nutrition": {
+      "calories": 215,
+      "protein_g": 5.3,
+      "carbs_g": 26,
+      "fiber_g": 7,
+      "sugar_g": 19,
+      "fat_g": 10.5,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "mediterranean"],
+      "allergens": ["nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "Fresh apples and packets of whole almonds are sold year-round in every UK supermarket; British-grown apples (e.g. Gala, Cox) are widely available in autumn and winter."
+    },
+    "sources": [
+      { "title": "Calorie Counter - Fruit - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/calories/calorie_counter/fruit.htm" },
+      { "title": "Calories in Almonds 30g Pack by Sainsbury's", "url": "https://www.mynetdiary.com/food/calories-in-almonds-30g-pack-by-sainsbury-s-gram-31426997-0.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-019",
+    "name": "Greggs Sausage Roll",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Greggs is the UK's largest bakery chain and its sausage roll is a national institution, eaten as a mid-morning or lunchtime snack on high streets across Britain; frequently cited in national surveys as the country's favourite bakery item.",
+    "ingredients": [
+      { "item": "Greggs sausage roll", "quantity": 103, "unit": "g (1 roll)" }
+    ],
+    "prepNotes": "Bought ready to eat from the bakery counter, typically warm. No preparation needed; eaten on the go or with a hot drink.",
+    "nutrition": {
+      "calories": 328,
+      "protein_g": 9.3,
+      "carbs_g": 24,
+      "fiber_g": 1.5,
+      "sugar_g": 1,
+      "fat_g": 24,
+      "method": "Calculated from Greggs published nutrition information"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Greggs", "Tesco", "Asda"],
+      "notes": "Sold fresh and warm at Greggs bakeries nationwide, and as a chilled multipack in supermarket bakery aisles; a vegan sausage roll version is also widely available at Greggs."
+    },
+    "sources": [
+      { "title": "Greggs Sausage Roll Calories: Nutrition & Health Guide", "url": "https://weeklyreview.co.uk/business/greggs-sausage-roll-calories/" },
+      { "title": "Calories in Greggs Sausage Rolls and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/greggs/sausage-rolls/1-portion" }
+    ]
+  },
+  {
+    "id": "uk-snack-020",
+    "name": "Lightly Salted Popcorn (Single Bag)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Popcorn brands such as Butterkist, Propercorn and supermarket own-label ranges have made popcorn a mainstream British snacking-aisle staple, often marketed as a lighter alternative to crisps.",
+    "ingredients": [
+      { "item": "lightly salted popcorn", "quantity": 25, "unit": "g (1 bag)" }
+    ],
+    "prepNotes": "Eat straight from the bag; ready-popped and shelf-stable, no preparation needed.",
+    "nutrition": {
+      "calories": 119,
+      "protein_g": 2,
+      "carbs_g": 14,
+      "fiber_g": 2.5,
+      "sugar_g": 0.5,
+      "fat_g": 6.5,
+      "method": "Calculated from Butterkist UK product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Sold in single snack bags and sharing bags in the crisps and snacks aisle of every major UK supermarket and cinema."
+    },
+    "sources": [
+      { "title": "Calories in Butterkist Salted Popcorn and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/butterkist/salted-popcorn/1-bag" },
+      { "title": "Calories in Propercorn Lightly Sea Salted Popcorn", "url": "https://www.fatsecret.co.uk/calories-nutrition/propercorn/lightly-sea-salted-popcorn/1-bag" }
+    ]
+  },
+  {
+    "id": "uk-snack-021",
+    "name": "Cheestrings (Kids' Lunchbox, 2 Pieces)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cheestrings are one of the most recognisable UK children's lunchbox snacks, marketed for their stringy 'peel and pull' format; a near-universal feature of British primary school packed lunches alongside Babybel.",
+    "ingredients": [
+      { "item": "Cheestrings", "quantity": 2, "unit": "pieces (40g)" }
+    ],
+    "prepNotes": "Peel into strings and eat. No preparation required; keep refrigerated until packed into a lunchbox with a cool pack.",
+    "nutrition": {
+      "calories": 110,
+      "protein_g": 9.6,
+      "carbs_g": 0.6,
+      "fiber_g": 0,
+      "sugar_g": 0.6,
+      "fat_g": 8,
+      "method": "Calculated from Cheestrings UK product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods semi-hard cheese values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Sold in multipacks in the chilled kids' lunchbox aisle of every major UK supermarket; added vitamin D is a marketed feature."
+    },
+    "sources": [
+      { "title": "Babybel vs. Cheesestrings (Which is Best?) - Weigh School", "url": "https://weighschool.com/babybel-vs-cheesestrings/" },
+      { "title": "Mini Babybel Light Cheese 6 Pack - Tesco Groceries", "url": "https://www.tesco.com/shop/en-GB/products/253780811" }
+    ]
+  },
+  {
+    "id": "uk-snack-022",
+    "name": "Nairn's Fine Milled Oatcakes with Cheese",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Oatcakes topped with cheese are a classic British savoury snack, popular as a wheat-free alternative to crackers; Nairn's is the leading UK oatcake brand, found in almost every supermarket biscuit aisle.",
+    "ingredients": [
+      { "item": "Nairn's fine milled oatcakes", "quantity": 4, "unit": "oatcakes (36g)" },
+      { "item": "mature cheddar cheese", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Slice the cheddar thinly and place on top of each oatcake. Eat as is, or grill briefly until the cheese softens.",
+    "nutrition": {
+      "calories": 269,
+      "protein_g": 11,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sugar_g": 0.5,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Nairn's product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "Nairn's oatcakes and British cheddar are both sold nationwide in every UK supermarket; a budget-friendly savoury snack year-round."
+    },
+    "sources": [
+      { "title": "Calories in Nairn's Fine Milled Oatcakes and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/nairns/fine-milled-oatcakes/1-oatcake" },
+      { "title": "Are Oatcakes Healthy? - Oxford Origins", "url": "https://oxford-origins.com/blogs/learn/are-oatcakes-healthy-the-nutritional-benefits-and-considerations" }
+    ]
+  },
+  {
+    "id": "uk-snack-023",
+    "name": "Itsu Edamame Snack Pot",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Itsu, the UK Japanese-inspired food chain, popularised pre-podded edamame snack pots, now also sold in supermarket chilled aisles; reflects the growing UK appetite for East Asian-influenced light snacks.",
+    "ingredients": [
+      { "item": "Itsu edamame snack pot (sea salt)", "quantity": 70, "unit": "g (1 pot)" }
+    ],
+    "prepNotes": "Open the pot and eat the edamame beans directly from the pods, or shell first if preferred. Ready to eat chilled, no cooking required.",
+    "nutrition": {
+      "calories": 89,
+      "protein_g": 8,
+      "carbs_g": 4,
+      "fiber_g": 3.3,
+      "sugar_g": 1.8,
+      "fat_g": 3.9,
+      "method": "Calculated from Itsu UK product nutrition panel (scaled from 34g pot to 70g pot)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Waitrose"],
+      "notes": "Sold in the chilled snacking aisle of Tesco and Waitrose, and at Itsu stores nationwide; a higher-priced premium snack option compared to crisps."
+    },
+    "sources": [
+      { "title": "itsu edamame snack pot - itsu.com", "url": "https://www.itsu.com/grocery/products/chilled-and-to-go/edamame-snack-pot/" },
+      { "title": "Itsu Edamame Snack Pot 76g - Tesco Groceries", "url": "https://www.tesco.com/groceries/en-GB/products/317975697" }
+    ]
+  },
+  {
+    "id": "uk-snack-024",
+    "name": "Plain Rice Cakes with Cottage Cheese",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Plain rice cakes topped with a protein source are a common lighter British snack, often used as a lower-calorie cracker alternative; Kallo is a widely available UK rice cake brand.",
+    "ingredients": [
+      { "item": "plain rice cakes", "quantity": 2, "unit": "cakes (9g each)" },
+      { "item": "cottage cheese", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Spoon the cottage cheese evenly across both rice cakes. Add a twist of black pepper or a few sliced cherry tomatoes if liked. Eat immediately as rice cakes soften quickly once topped.",
+    "nutrition": {
+      "calories": 135,
+      "protein_g": 8,
+      "carbs_g": 16,
+      "fiber_g": 1,
+      "sugar_g": 3,
+      "fat_g": 3.5,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "Kallo and supermarket own-brand rice cakes are sold nationwide in the biscuit/crackers aisle; cottage cheese is a standard chilled dairy item in every UK supermarket."
+    },
+    "sources": [
+      { "title": "Calories in Kallo Lightly Salted Rice Cakes - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/calories-in-food/bakery-products/kallo-lightly-salted-rice-cakes.htm" },
+      { "title": "Are Rice Cakes Healthy? - Healthline", "url": "https://www.healthline.com/nutrition/are-rice-cakes-healthy" }
+    ]
+  },
+  {
+    "id": "uk-snack-025",
+    "name": "Pret a Manger Egg & Spinach Protein Pot",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pret a Manger's protein pots are a familiar sight on UK high streets and in office districts, marketed specifically as a low-carb, high-protein grab-and-go option for commuters and office workers.",
+    "ingredients": [
+      { "item": "Pret a Manger Egg & Spinach Protein Pot", "quantity": 1, "unit": "pot" }
+    ],
+    "prepNotes": "Bought ready to eat from a Pret a Manger store or delivery app; chilled and eaten with the provided fork, no preparation needed.",
+    "nutrition": {
+      "calories": 104,
+      "protein_g": 12,
+      "carbs_g": 3,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 5.3,
+      "method": "Calculated from Pret a Manger UK published nutrition information"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Pret a Manger"],
+      "notes": "Available at Pret a Manger stores and via delivery apps across UK towns and cities, particularly concentrated in London and major city centres; a premium-priced office snack."
+    },
+    "sources": [
+      { "title": "Calories in Veggie Menu Egg & Spinach Protein Pot by Pret a Manger UK", "url": "https://www.mynetdiary.com/food/calories-in-veggie-menu-egg-spinach-protein-pot-by-pret-a-manger-uk-serving-18371060-0.html" },
+      { "title": "Salads And Protein Pots Menu - Pret A Manger", "url": "https://www.pret.co.uk/en-GB/pret-delivers/menu/salads-and-protein-pots" }
+    ]
+  },
+  {
+    "id": "uk-snack-026",
+    "name": "Mini Pork Pie",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "The pork pie is a traditional British savoury snack, especially associated with Melton Mowbray in Leicestershire; mini versions are sold as individual snacks for picnics, packed lunches and pub bar snacks.",
+    "ingredients": [
+      { "item": "mini pork pie", "quantity": 65, "unit": "g" }
+    ],
+    "prepNotes": "Eaten cold straight from the packet, traditionally with a dab of English mustard or piccalilli on the side. No preparation needed.",
+    "nutrition": {
+      "calories": 255,
+      "protein_g": 7,
+      "carbs_g": 17,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 17.5,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, scaled from standard individual pork pie nutrition data"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Co-op"],
+      "notes": "Pork Farms and supermarket own-brand mini pork pies are sold in the chilled meats aisle of every major UK supermarket, often multipacked for lunchboxes and picnics."
+    },
+    "sources": [
+      { "title": "How Many Calories in a Pork Pie - Complete Nutrition", "url": "https://completenutrition.co.uk/blogs/calories/how-many-calories-in-a-pork-pie" },
+      { "title": "Calories in Pork pie, individual - CalorieKing UK", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-meat-dishes-pork-pie-individual/q7KaH2efSBysm-hvythBQg" }
+    ]
+  },
+  {
+    "id": "uk-snack-027",
+    "name": "Colin the Caterpillar Cake Slice",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Colin the Caterpillar is Marks & Spencer's best-known novelty birthday cake, a fixture of British children's parties and office celebrations since the late 1990s; widely imitated by other UK supermarkets.",
+    "ingredients": [
+      { "item": "Colin the Caterpillar chocolate cake", "quantity": 63, "unit": "g (1/10 slice)" }
+    ],
+    "prepNotes": "Bought ready to eat from the M&S bakery chiller; sliced and served at parties or as an occasional treat alongside tea or coffee.",
+    "nutrition": {
+      "calories": 283,
+      "protein_g": 3,
+      "carbs_g": 37,
+      "fiber_g": 1.5,
+      "sugar_g": 30,
+      "fat_g": 13,
+      "method": "Calculated from M&S Food published product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk", "eggs", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Marks & Spencer"],
+      "notes": "Sold exclusively at Marks & Spencer Food halls nationwide; a celebration cake rather than an everyday snack, but commonly sliced and eaten as one."
+    },
+    "sources": [
+      { "title": "Calories in M&S Food Colin The Caterpillar Cake and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/m-s-food/colin-the-caterpillar-cake/1-serving" },
+      { "title": "Calories in Marks & Spencer Colin The Caterpillar Cake", "url": "https://www.fatsecret.co.uk/calories-nutrition/marks-spencer/colin-the-caterpillar-cake/1-10-slice" }
+    ]
+  },
+  {
+    "id": "uk-snack-028",
+    "name": "McVitie's Jaffa Cakes (3 Cakes)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Jaffa Cakes are a uniquely British sponge-and-orange-jelly biscuit-cake, famous for the 'is it a biscuit or a cake' VAT tribunal case; a top-selling McVitie's product found in nearly every UK biscuit tin.",
+    "ingredients": [
+      { "item": "McVitie's Jaffa Cakes", "quantity": 3, "unit": "cakes (12g each)" }
+    ],
+    "prepNotes": "Eat straight from the packet; no preparation required. Often eaten in multiples alongside a cup of tea.",
+    "nutrition": {
+      "calories": 138,
+      "protein_g": 1.8,
+      "carbs_g": 26,
+      "fiber_g": 0.9,
+      "sugar_g": 19.5,
+      "fat_g": 3,
+      "method": "Calculated from McVitie's UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "eggs", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Sold nationwide in the biscuits aisle of every UK supermarket; Tesco and other retailers also sell own-brand equivalents at a lower price point."
+    },
+    "sources": [
+      { "title": "How Many Calories in a Jaffa Cake - Complete Nutrition", "url": "https://completenutrition.co.uk/blogs/calories/how-many-calories-in-a-jaffa-cake" },
+      { "title": "Calories in McVitie's Jaffa Cakes and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/mcvities/jaffa-cakes/1-cake" }
+    ]
+  },
+  {
+    "id": "uk-snack-029",
+    "name": "Innocent Super Smoothie",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Innocent is the dominant UK smoothie brand, with its distinctive bottles a familiar sight in supermarket chiller aisles since the early 2000s; a popular on-the-go fruit-based snack or breakfast addition.",
+    "ingredients": [
+      { "item": "Innocent Super Smoothie (360ml bottle)", "quantity": 360, "unit": "ml" }
+    ],
+    "prepNotes": "Shake the bottle before opening, then drink chilled. No preparation needed; best consumed within a few days of opening.",
+    "nutrition": {
+      "calories": 209,
+      "protein_g": 2.5,
+      "carbs_g": 47,
+      "fiber_g": 3.5,
+      "sugar_g": 42,
+      "fat_g": 0.7,
+      "method": "Calculated from Innocent UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose", "Co-op"],
+      "notes": "Sold in the chilled juice and smoothie aisle of every major UK supermarket; smaller 250ml bottles are also widely available."
+    },
+    "sources": [
+      { "title": "Calories in Innocent Super Smoothie Invigorate", "url": "https://freecaloriechart.uk/calories-in-innocent-super-smoothie-invigorate/" },
+      { "title": "Innocent Smoothies UK - Are They Healthy?", "url": "https://lose-weight-feel-great.co.uk/blogs/nutrition/innocent-smoothies-are-they-healthy-weight-loss-recipes-best-uk-alternatives-2026" }
+    ]
+  },
+  {
+    "id": "uk-snack-030",
+    "name": "Graze Cocoa & Vanilla Protein Flapjack",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Graze built its UK brand on letterbox-sized snack subscription boxes and is now sold widely in supermarkets; its protein flapjack range is positioned as a lower-sugar alternative to traditional cereal bars.",
+    "ingredients": [
+      { "item": "Graze Cocoa & Vanilla Protein Flapjack", "quantity": 53, "unit": "g (1 bar)" }
+    ],
+    "prepNotes": "Unwrap and eat directly; no preparation needed. Convenient for bags, desks or gym kit.",
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 8,
+      "carbs_g": 27,
+      "fiber_g": 3,
+      "sugar_g": 13,
+      "fat_g": 15,
+      "method": "Calculated from Graze UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda"],
+      "notes": "Sold individually in the snacking aisle of major UK supermarkets and via the Graze subscription box service."
+    },
+    "sources": [
+      { "title": "Graze Snack Box Cocoa & Vanilla Protein Flapjack 54g - Sainsbury's", "url": "https://mcgrocer.com/products/graze-snack-box-cocoa-vanilla-protein-flapjack-54g" },
+      { "title": "Cocoa Vanilla Protein Flapjack - Graze - Open Food Facts", "url": "https://world.openfoodfacts.org/product/5055958700965/cocoa-vanilla-protein-flapjack-graze" }
+    ]
+  },
+  {
+    "id": "uk-snack-031",
+    "name": "KP Original Salted Peanuts (Snack Pack)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "KP Nuts is one of the UK's longest-running snack brands and salted peanuts are a pub and bar-snack classic, also widely sold in supermarket multipacks for lunchboxes and desks.",
+    "ingredients": [
+      { "item": "KP Original Salted Peanuts", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Open the pack and eat directly; no preparation required.",
+    "nutrition": {
+      "calories": 184,
+      "protein_g": 7.5,
+      "carbs_g": 4.5,
+      "fiber_g": 2.5,
+      "sugar_g": 0.5,
+      "fat_g": 15.5,
+      "method": "Calculated from KP Nuts UK product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Co-op"],
+      "notes": "Sold as single snack packs and multipacks in every UK supermarket, corner shop, and pub bar-snack display nationwide."
+    },
+    "sources": [
+      { "title": "How many calories in KP Original Salted Peanuts 65g", "url": "https://www.fitatu.com/catalog/en/kp-original-salted-peanuts-65g--63401117" },
+      { "title": "Kp Original Salted Peanuts 250G - Tesco Groceries", "url": "https://www.tesco.com/groceries/en-GB/products/299577245" }
+    ]
+  },
+  {
+    "id": "uk-snack-032",
+    "name": "Tesco Finest Root Vegetable Crisps",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Hand-cooked root vegetable crisps (parsnip, beetroot, sweet potato) represent the premium end of the UK crisp market, commonly bought for dinner parties, cheese boards and as a 'posher' alternative to standard potato crisps.",
+    "ingredients": [
+      { "item": "Tesco Finest hand-cooked root vegetable crisps", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Open the bag and serve in a bowl, often alongside dips or a cheese board. No preparation required.",
+    "nutrition": {
+      "calories": 154,
+      "protein_g": 2,
+      "carbs_g": 16,
+      "fiber_g": 2.5,
+      "sugar_g": 4,
+      "fat_g": 9.9,
+      "method": "Calculated from Tesco Finest product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods root vegetable values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Waitrose", "Sainsbury's"],
+      "notes": "Sold as a premium-tier product in the crisps and snacks aisle of larger UK supermarkets; priced noticeably higher than standard potato crisps."
+    },
+    "sources": [
+      { "title": "Calories in Finest Hand Cooked Root Vegetable Crisps by Tesco", "url": "https://www.mynetdiary.com/food/calories-in-finest-hand-cooked-root-vegetable-crisps-by-tesco-gram-19583963-0.html" },
+      { "title": "Calories in Tesco Finest Root Vegetable Crisps and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/tesco-finest/root-vegetable-crisps/1-4-bag" }
+    ]
+  },
+  {
+    "id": "uk-snack-033",
+    "name": "Wotsits Really Cheesy Crisps (Single Bag)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Wotsits are a distinctively British puffed maize snack with an intense cheese flavour, a long-running Walkers brand and a favourite among children and at parties since the 1970s.",
+    "ingredients": [
+      { "item": "Wotsits Really Cheesy crisps", "quantity": 16.5, "unit": "g (1 small bag)" }
+    ],
+    "prepNotes": "Open the bag and eat directly; no preparation required.",
+    "nutrition": {
+      "calories": 82,
+      "protein_g": 1,
+      "carbs_g": 8.5,
+      "fiber_g": 0.5,
+      "sugar_g": 0.8,
+      "fat_g": 4.8,
+      "method": "Calculated from Walkers UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Sold in single bags and multipacks nationwide; a common feature of children's party food and lunchboxes."
+    },
+    "sources": [
+      { "title": "Calories in Wotsits Really Cheesy Flavoured Crisps by Walkers", "url": "https://www.mynetdiary.com/food/calories-in-wotsits-really-cheesy-flavoured-crisps-by-walkers-pack-36165367-0.html" },
+      { "title": "Calories in Cheesy Wotsits - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/calories-in-food/snacks/cheesy-wotsits.htm" }
+    ]
+  },
+  {
+    "id": "uk-snack-034",
+    "name": "Skips Prawn Cocktail Crisps (Single Bag)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Skips are a uniquely British, very light puffed potato-starch snack and one of the lowest-calorie crisp-aisle products; prawn cocktail flavour has been a nostalgic UK favourite since the 1970s.",
+    "ingredients": [
+      { "item": "Skips Prawn Cocktail crisps", "quantity": 16.5, "unit": "g (1 small bag)" }
+    ],
+    "prepNotes": "Open the bag and eat directly; no preparation required.",
+    "nutrition": {
+      "calories": 78,
+      "protein_g": 0.4,
+      "carbs_g": 9.5,
+      "fiber_g": 0.3,
+      "sugar_g": 0.5,
+      "fat_g": 4.6,
+      "method": "Calculated from Walkers UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Sold in single bags and multipacks nationwide; long-standing budget-friendly crisp-aisle staple."
+    },
+    "sources": [
+      { "title": "What Are The Healthiest Crisps? - Built for Athletes", "url": "https://builtforathletes.com/blogs/news/what-are-the-healthiest-crisps-8-low-calorie-low-fat-options" },
+      { "title": "easy cheesy skips - Eat This Much", "url": "https://www.eatthismuch.com/calories/easy-cheesy-skips-113182" }
+    ]
+  },
+  {
+    "id": "uk-snack-035",
+    "name": "KIND Dark Chocolate Nuts & Sea Salt Bar",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "KIND is a US import that has become widely available across UK supermarkets, marketed on its visible whole-nut content and shorter ingredient list compared to mainstream chocolate bars.",
+    "ingredients": [
+      { "item": "KIND Dark Chocolate Nuts & Sea Salt bar", "quantity": 40, "unit": "g (1 bar)" }
+    ],
+    "prepNotes": "Unwrap and eat directly; no preparation needed. A convenient bag or desk-drawer snack.",
+    "nutrition": {
+      "calories": 180,
+      "protein_g": 6,
+      "carbs_g": 16,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 14,
+      "method": "Calculated from KIND Snacks UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose"],
+      "notes": "Sold individually and in multipacks in the healthier snacking aisle of major UK supermarkets."
+    },
+    "sources": [
+      { "title": "Are KIND Bars Healthy? We Asked a Dietitian", "url": "https://www.eatthis.com/are-kind-bars-healthy/" },
+      { "title": "Product List page - Protein Bars - KIND Snacks UK", "url": "https://www.kindsnacks.co.uk/products/protein" }
+    ]
+  },
+  {
+    "id": "uk-snack-036",
+    "name": "Hot Cross Bun",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Hot cross buns are a traditional British Easter food now sold year-round in every UK supermarket bakery; a spiced, fruited bun eaten toasted with butter as an afternoon snack.",
+    "ingredients": [
+      { "item": "hot cross bun", "quantity": 70, "unit": "g (1 bun)" },
+      { "item": "salted butter", "quantity": 10, "unit": "g (for spreading, optional)" }
+    ],
+    "prepNotes": "Slice the bun in half and toast lightly under the grill or in a toaster. Spread with butter while warm and serve.",
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 6,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 14,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Tesco hot cross bun product data"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk", "may contain nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Sold in packs of 4-6 in the bakery aisle of every UK supermarket, traditionally around Easter but increasingly stocked all year."
+    },
+    "sources": [
+      { "title": "Calories in Tesco Hot Cross Buns and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/tesco/hot-cross-buns/1-bun" },
+      { "title": "Calories in Co-Op Hot Cross Bun and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/co-op/hot-cross-bun/1-bun" }
+    ]
+  },
+  {
+    "id": "uk-snack-037",
+    "name": "M&S Cheesy Cream Cheese Dip with Salted Breadsticks",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pre-packaged breadstick-and-dip pots are a common UK supermarket grab-and-go snack and party-food item; Marks & Spencer's version is a widely bought example sold in the food-to-go chiller.",
+    "ingredients": [
+      { "item": "M&S Cheesy Cream Cheese Dip with Salted Breadsticks", "quantity": 1, "unit": "pot" }
+    ],
+    "prepNotes": "Open the pot and dip the breadsticks into the cream cheese dip. Ready to eat straight from the fridge, no preparation needed.",
+    "nutrition": {
+      "calories": 364,
+      "protein_g": 12,
+      "carbs_g": 27,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 23.4,
+      "method": "Calculated from Marks & Spencer Food published product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Marks & Spencer", "Waitrose"],
+      "notes": "Sold in the food-to-go chiller of Marks & Spencer stores; a mid-priced grab-and-go snack option common in office districts."
+    },
+    "sources": [
+      { "title": "Calories in Cheesy Cream Cheese Dip with Salted Breadsticks by M&S", "url": "https://www.mynetdiary.com/food/calories-in-cheesy-cream-cheese-dip-with-salted-breadsticks-by-m-s-serving-48511148-0.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-038",
+    "name": "Frubes Strawberry Yoghurt Tube (Kids' Lunchbox, 2 Tubes)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Frubes is the UK and Ireland's leading squeezable kids' yoghurt tube brand, a near-universal feature of British primary school lunchboxes since the 1990s.",
+    "ingredients": [
+      { "item": "Frubes Strawberry yoghurt tubes", "quantity": 2, "unit": "tubes (37g each)" }
+    ],
+    "prepNotes": "Twist or cut off the top of each tube and squeeze the yoghurt out to eat. No preparation required; can be stored at room temperature for several hours in a lunchbox.",
+    "nutrition": {
+      "calories": 67,
+      "protein_g": 3,
+      "carbs_g": 10.5,
+      "fiber_g": 0,
+      "sugar_g": 9,
+      "fat_g": 1.4,
+      "method": "Calculated from Frubes UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Sold in multipacks of 9 in the chilled kids' yoghurt aisle of every major UK supermarket; suitable from age 3 upwards per pack guidance."
+    },
+    "sources": [
+      { "title": "Frubes Yoghurt Tubes for Kids - frubes.co.uk", "url": "https://www.frubes.co.uk/" },
+      { "title": "Frubes Strawberry Kids Yoghurt Tubes Multipack 9x37g - Tesco Groceries", "url": "https://www.tesco.com/groceries/en-GB/products/302328963" }
+    ]
+  },
+  {
+    "id": "uk-snack-039",
+    "name": "Aldi Skyr Vanilla Drinking Yoghurt",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Skyr, the strained Icelandic-style yoghurt, has become a fast-growing high-protein category in UK supermarkets, with budget chain Aldi among the retailers offering own-brand drinking versions aimed at gym-goers.",
+    "ingredients": [
+      { "item": "Aldi Skyr Vanilla drinking yoghurt", "quantity": 350, "unit": "ml (1 bottle)" }
+    ],
+    "prepNotes": "Shake the bottle and drink chilled, straight from the bottle or poured into a glass. No preparation needed.",
+    "nutrition": {
+      "calories": 272,
+      "protein_g": 20,
+      "carbs_g": 33,
+      "fiber_g": 0,
+      "sugar_g": 31,
+      "fat_g": 5.3,
+      "method": "Calculated from Aldi UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Aldi"],
+      "notes": "Sold in the chilled dairy aisle of Aldi stores nationwide as a budget-friendly high-protein drinking yoghurt; also available in strawberry and passionfruit flavours."
+    },
+    "sources": [
+      { "title": "Skyr Aldi - TikTok product discussion", "url": "https://www.tiktok.com/discover/skyr-aldi" },
+      { "title": "Calories in Aldi Isey Skyr and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/aldi/isey-skyr/100g" }
+    ]
+  },
+  {
+    "id": "uk-snack-040",
+    "name": "Banana with Peanut Butter",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A simple, widely recommended UK snack pairing fruit with a protein-and-fat source; commonly eaten pre- or post-exercise and a popular choice for energy between meals without relying on packaged snacks.",
+    "ingredients": [
+      { "item": "banana", "quantity": 1, "unit": "medium (120g)" },
+      { "item": "peanut butter", "quantity": 20, "unit": "g (1 tbsp)" }
+    ],
+    "prepNotes": "Peel the banana and either spread the peanut butter directly onto it or slice the banana and dip each piece into the peanut butter. Eat immediately.",
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 5.5,
+      "carbs_g": 30,
+      "fiber_g": 3.5,
+      "sugar_g": 16,
+      "fat_g": 10.5,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl", "Morrisons"],
+      "notes": "Bananas and peanut butter are sold year-round in every UK supermarket; one of the most budget-friendly snack options available."
+    },
+    "sources": [
+      { "title": "Apple vs. Banana Nutrition Facts - foodstruct.com", "url": "https://foodstruct.com/nutrition-comparison-text/apples-vs-bananas" },
+      { "title": "Calorie Counter - Fruit - Weight Loss Resources", "url": "https://www.weightlossresources.co.uk/calories/calorie_counter/fruit.htm" }
+    ]
+  },
+  {
+    "id": "uk-snack-041",
+    "name": "Cadbury Dairy Milk Bar (Standard 45g)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cadbury Dairy Milk is the UK's best-known and best-selling chocolate brand, a fixture of newsagent counters, supermarket checkouts and vending machines, and a default 'treat' bar for British shoppers.",
+    "ingredients": [
+      { "item": "Cadbury Dairy Milk chocolate bar", "quantity": 45, "unit": "g (1 bar)" }
+    ],
+    "prepNotes": "Unwrap and break into chunks to eat. No preparation required.",
+    "nutrition": {
+      "calories": 240,
+      "protein_g": 3.4,
+      "carbs_g": 26,
+      "fiber_g": 1,
+      "sugar_g": 26,
+      "fat_g": 13.5,
+      "method": "Calculated from Cadbury UK product nutrition panel, cross-checked against McCance and Widdowson's Composition of Foods milk chocolate values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["milk", "may contain nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Co-op", "Aldi"],
+      "notes": "Sold individually at checkouts and newsagents and in multipacks in every UK supermarket nationwide, alongside larger 110g sharing bars."
+    },
+    "sources": [
+      { "title": "Calories in Cadbury Dairy Milk Bar (45g) - Sainsbury's", "url": "https://www.sainsburys.co.uk/gol-ui/product/single-bar-chocolate/cadbury-dairy-milk-chocolate-45g" },
+      { "title": "Calories in Cadbury Dairy Milk Bar (45g) and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/cadbury/dairy-milk-bar-(36g)/1-bar" }
+    ]
+  },
+  {
+    "id": "uk-snack-042",
+    "name": "Marmite on Toast",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Marmite on toast is a distinctively British savoury snack built around the famous yeast-extract spread, eaten as a quick snack or light breakfast in households nationwide, often described as a love-it-or-hate-it national icon.",
+    "ingredients": [
+      { "item": "wholemeal bread", "quantity": 2, "unit": "slices (76g)" },
+      { "item": "Marmite yeast extract", "quantity": 8, "unit": "g (thin spread)" },
+      { "item": "salted butter", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Toast the bread until golden. Spread with a thin layer of butter, then add a thin layer of Marmite on top (a little goes a long way given its strong, salty flavour). Serve warm.",
+    "nutrition": {
+      "calories": 245,
+      "protein_g": 8,
+      "carbs_g": 30,
+      "fiber_g": 4.5,
+      "sugar_g": 2,
+      "fat_g": 10,
+      "method": "Calculated from ingredient composition via McCance and Widdowson's Composition of Foods, cross-checked against Marmite UK nutrition information"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": ["gluten", "milk", "may contain barley"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi", "Lidl"],
+      "notes": "Marmite, wholemeal bread and butter are sold in every UK supermarket nationwide; one of the most budget-friendly snacks available."
+    },
+    "sources": [
+      { "title": "Nutrition Information - Marmite UK", "url": "https://www.marmite.co.uk/nutrition-information.html" },
+      { "title": "Toast with marmite Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/toast_with_marmite_nutrition.html" }
+    ]
+  },
+  {
+    "id": "uk-snack-043",
+    "name": "Yop Strawberry Drinking Yoghurt",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Yop is a long-running Yoplait brand and one of the UK's best-known drinking yoghurts, a familiar chilled-aisle item especially popular with children and as a quick on-the-go snack.",
+    "ingredients": [
+      { "item": "Yop Strawberry drinking yoghurt", "quantity": 200, "unit": "g (1 bottle)" }
+    ],
+    "prepNotes": "Shake the bottle and drink chilled, straight from the bottle. No preparation needed.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 5,
+      "carbs_g": 26,
+      "fiber_g": 0,
+      "sugar_g": 25,
+      "fat_g": 3,
+      "method": "Calculated from Yoplait UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Aldi"],
+      "notes": "Sold in single 200g bottles and multipacks in the chilled dairy aisle of every major UK supermarket; a common kids' lunchbox and fridge staple."
+    },
+    "sources": [
+      { "title": "Calories in Yop Strawberry Yogurt Drink by Yoplait", "url": "https://www.mynetdiary.com/food/calories-in-yop-strawberry-yogurt-drink-by-yoplait-serving-11945371-0.html" },
+      { "title": "Yoplait Yop Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/yop-78984" }
+    ]
+  },
+  {
+    "id": "uk-snack-044",
+    "name": "Tesco Fruit and Nut Mix with Chocolate (Snack Pack)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pre-portioned fruit, nut and chocolate trail mix packs are widely sold in UK supermarkets as a balanced grab-and-go snack, positioned between a purely indulgent treat and a purely 'healthy' nut pack.",
+    "ingredients": [
+      { "item": "Tesco fruit and nut mix with chocolate", "quantity": 45, "unit": "g (1 portion)" }
+    ],
+    "prepNotes": "Open the pack and eat directly; no preparation required.",
+    "nutrition": {
+      "calories": 200,
+      "protein_g": 4.5,
+      "carbs_g": 19,
+      "fiber_g": 2,
+      "sugar_g": 13,
+      "fat_g": 11.5,
+      "method": "Calculated from Tesco UK product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["nuts", "milk", "may contain soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Sold as single snack-pack portions and larger sharing bags in the world foods/healthy snacking aisle of major UK supermarkets."
+    },
+    "sources": [
+      { "title": "Snack Pack Fruit And Nut Mix With Chocolate - Eat This Much", "url": "https://www.eatthismuch.com/calories/snack-pack-fruit-and-nut-mix-with-chocolate-141307" },
+      { "title": "Fruit and Nut Mix 500g - Grape Tree", "url": "https://www.grapetree.co.uk/fruit-and-nut-mix-500g" }
+    ]
+  },
+  {
+    "id": "uk-snack-045",
+    "name": "Tesco Cheese & Pickle Sandwich (Meal Deal Snack Portion)",
+    "country": "UK",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cheese and pickle (Branston-style) is one of the UK's classic sandwich fillings and a top-selling meal-deal sandwich at Tesco, Boots and other UK food-to-go counters; commonly bought as a between-meals snack rather than a full lunch.",
+    "ingredients": [
+      { "item": "Tesco Cheese & Pickle sandwich (pre-packaged)", "quantity": 1, "unit": "pack" }
+    ],
+    "prepNotes": "Bought ready to eat from a supermarket meal-deal chiller. No preparation required; eaten cold straight from the pack.",
+    "nutrition": {
+      "calories": 294,
+      "protein_g": 14,
+      "carbs_g": 30,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 14,
+      "method": "Calculated from Tesco UK published product nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "milk", "may contain mustard"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Boots", "Greggs"],
+      "notes": "Cheese and pickle sandwiches are sold pre-packaged in every UK supermarket meal-deal chiller and high-street food-to-go chain nationwide; also simple and cheaper to make at home."
+    },
+    "sources": [
+      { "title": "Calories in Fresh Food Tesco Cheese & Pickle Sandwich by Tesco", "url": "https://www.mynetdiary.com/food/calories-in-fresh-food-tesco-cheese-pickle-sandwich-by-tesco-serving-673731-0.html" },
+      { "title": "Tesco Cheese & Pickle Sandwich - Tesco Groceries", "url": "https://www.tesco.com/groceries/en-GB/products/300284515" }
+    ]
+  }
+]

@@ -1,0 +1,1655 @@
+[
+  {
+    "id": "au-snack-001",
+    "name": "Tim Tams (2 biscuits)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Arnott's Tim Tam, launched in 1964, is Australia's best-selling chocolate biscuit and a near-universal pantry item; eaten as an afternoon-tea treat or via the iconic 'Tim Tam Slam' with a hot drink.",
+    "ingredients": [
+      { "item": "Tim Tam original biscuits", "quantity": 2, "unit": "biscuits (44 g)" }
+    ],
+    "prepNotes": "Eat straight from the packet, ideally with tea or coffee. For the classic 'Tim Tam Slam', bite off two opposite corners and use the biscuit as a straw to sip a hot drink until the chocolate softens.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 2,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sugar_g": 17,
+      "fat_g": 11,
+      "method": "Calculated from Arnott's product nutrition panel (per biscuit values doubled) via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Available nationwide year-round in every supermarket biscuit aisle; frequently on promotional pricing."
+    },
+    "sources": [
+      { "title": "Calories in Arnott's Tim Tam Original Biscuit | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-biscuits-tim-tam-original-biscuit/DF5OhLQeQ22VUHemPCQaQA" },
+      { "title": "Tim Tam - Arnott's - Calories and Nutrition Facts Australia", "url": "https://fitia.app/en/calories-nutritional-information/tim-tam-arnotts-23044997/" }
+    ]
+  },
+  {
+    "id": "au-snack-002",
+    "name": "Vegemite on Vita-Weat Crackers",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Vegemite is one of Australia's most iconic pantry staples; spreading a thin layer on wholegrain crackers is a common light savoury snack found in homes, offices and school lunchboxes nationwide.",
+    "ingredients": [
+      { "item": "Vita-Weat multigrain crackers", "quantity": 6, "unit": "crackers (20 g)" },
+      { "item": "Vegemite", "quantity": 10, "unit": "g" },
+      { "item": "butter or margarine", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Spread a thin layer of butter or margarine on each cracker, then top with a thin smear of Vegemite. Vegemite is intensely salty and savoury, so a little goes a long way.",
+    "nutrition": {
+      "calories": 165,
+      "protein_g": 4,
+      "carbs_g": 17,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Vegemite and Vita-Weat are both Australian-made staples stocked in every supermarket, often in the same aisle."
+    },
+    "sources": [
+      { "title": "Vegemite | Definition, Ingredients, Nutrition & Australian Culture | Britannica", "url": "https://www.britannica.com/topic/Vegemite" },
+      { "title": "Arnott's Vita-Weat | A Deliciously Healthy way to lunch", "url": "https://www.arnotts.com/brands/vita-weat" }
+    ]
+  },
+  {
+    "id": "au-snack-003",
+    "name": "Anzac Biscuit",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A traditional oat, coconut and golden syrup biscuit linked to the Australian and New Zealand Army Corps of World War I, still baked at home and sold in cafes and supermarkets, especially around Anzac Day.",
+    "ingredients": [
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "rolled oats", "quantity": 15, "unit": "g" },
+      { "item": "desiccated coconut", "quantity": 10, "unit": "g" },
+      { "item": "brown sugar", "quantity": 12, "unit": "g" },
+      { "item": "butter", "quantity": 8, "unit": "g" },
+      { "item": "golden syrup", "quantity": 6, "unit": "g" }
+    ],
+    "prepNotes": "Combine flour, oats, coconut and sugar. Melt butter with golden syrup and a little bicarbonate of soda dissolved in hot water, then stir into the dry mix. Roll into a ball, flatten slightly and bake at 160°C for 15-18 minutes until golden.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugar_g": 9,
+      "fat_g": 7,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Sold pre-packaged year-round and home-baked widely; bakery and supermarket availability increases sharply around Anzac Day (25 April)."
+    },
+    "sources": [
+      { "title": "Anzac Biscuits - RecipeTin Eats", "url": "https://www.recipetineats.com/anzac-biscuits-golden-oatmeal-cookies/" },
+      { "title": "Healthy Anzac Biscuits - Cinnamon and Kale", "url": "https://www.cinnamonandkale.co.uk/healthy-anzac-biscuits/" }
+    ]
+  },
+  {
+    "id": "au-snack-004",
+    "name": "Lamington",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A vanilla sponge cake square dipped in chocolate icing and rolled in desiccated coconut, widely considered Australia's national cake and a fixture of school fundraisers, bakeries and cafes.",
+    "ingredients": [
+      { "item": "vanilla sponge cake", "quantity": 50, "unit": "g" },
+      { "item": "chocolate icing (cocoa, icing sugar, butter, milk)", "quantity": 20, "unit": "g" },
+      { "item": "desiccated coconut", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Cut sponge cake into squares. Dip each square into warm chocolate icing made from icing sugar, cocoa, melted butter and a little milk, then roll immediately in desiccated coconut until fully coated.",
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 3,
+      "carbs_g": 33,
+      "fiber_g": 2,
+      "sugar_g": 24,
+      "fat_g": 10,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sold individually wrapped in supermarket bakery sections and at independent bakeries nationwide; a common school fete and CWA stall item."
+    },
+    "sources": [
+      { "title": "Calories in Lamington | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-cakes-lamington/sovKZCxER7ymHweGcuqwQA" },
+      { "title": "Lamington Recipe | Australian Classic | Cooking with Nana Ling", "url": "https://www.cookingwithnanaling.com/lamington-recipe/" }
+    ]
+  },
+  {
+    "id": "au-snack-005",
+    "name": "Four'N Twenty Party Pies (3 pies)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Bite-sized meat pies from the iconic Four'N Twenty brand, a fixture at Australian birthday parties, school sausage sizzles and footy club canteens for decades, usually served with tomato sauce.",
+    "ingredients": [
+      { "item": "Four'N Twenty party pies", "quantity": 3, "unit": "mini pies (55 g each)" },
+      { "item": "tomato sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Bake from frozen at 200°C for around 20 minutes until golden and piping hot, or microwave according to packet directions if short on time. Serve with tomato sauce.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 19,
+      "method": "Calculated from Four'N Twenty product nutrition panel and tomato sauce composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soy", "may contain egg, sesame, milk"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold frozen in multi-packs at every major supermarket; a standard party-catering and canteen item nationwide."
+    },
+    "sources": [
+      { "title": "Party – Four'N Twenty", "url": "https://fourntwenty.com.au/collections/party" },
+      { "title": "Four'n twenty meat pie Nutrition", "url": "https://www.snapcalorie.com/nutrition/four_n_twenty_meat_pie_nutrition.html" }
+    ]
+  },
+  {
+    "id": "au-snack-006",
+    "name": "Beef Jerky (Australian-made, 30 g pack)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "High-protein dried beef snacks from Australian brands such as Jim's Jerky and Stockman's are common servo, supermarket and outdoor/hiking snacks, popular for their portability and long shelf life.",
+    "ingredients": [
+      { "item": "Australian beef jerky", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Ready to eat straight from the packet; no preparation required. Best stored in a cool, dry place once opened and consumed within a few days for optimal texture.",
+    "nutrition": {
+      "calories": 90,
+      "protein_g": 16,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sugar_g": 2,
+      "fat_g": 1,
+      "method": "Calculated from typical Australian beef jerky brand nutrition panels (Jim's Jerky, Stockman's) via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["may contain soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA", "local markets"],
+      "notes": "Widely available at supermarkets, servos (petrol stations) and outdoor stores across Australia; also sold via direct-to-consumer Australian brands online."
+    },
+    "sources": [
+      { "title": "Beef Jerky | Healthy Protein Snack | Jim's Jerky", "url": "https://www.jimsjerky.com.au/jerky/" },
+      { "title": "Healthy Beef Jerky Australia | Keto Jerky & Protein Snacks – Stockmans", "url": "https://www.stockmansbeefjerky.com/shop" }
+    ]
+  },
+  {
+    "id": "au-snack-007",
+    "name": "Chobani Greek Yoghurt with Mixed Berries",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Greek yoghurt pots with berries have become a default mid-morning or afternoon snack in Australian offices, gyms and lunchboxes as high-protein yoghurt brands like Chobani have grown rapidly in supermarket fridges.",
+    "ingredients": [
+      { "item": "Chobani Greek yoghurt, mixed berry", "quantity": 150, "unit": "g (1 tub)" }
+    ],
+    "prepNotes": "Eat straight from the tub, chilled. For extra texture, stir through a small handful of fresh berries or a sprinkle of chia seeds.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 11,
+      "carbs_g": 17,
+      "fiber_g": 0,
+      "sugar_g": 14,
+      "fat_g": 3,
+      "method": "Calculated from Chobani Australia product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Chobani and comparable Greek yoghurt brands (Aldi's own label, Five:AM) are stocked in the dairy fridge of every major supermarket nationwide."
+    },
+    "sources": [
+      { "title": "Strawberry - Chobani Australia", "url": "https://www.chobani.com.au/our-products/chobani-greek/pots/strawberry/" },
+      { "title": "Blueberry - Chobani Australia", "url": "https://www.chobani.com.au/our-products/chobani-greek/pots/blueberry/" }
+    ]
+  },
+  {
+    "id": "au-snack-008",
+    "name": "Arnott's Shapes BBQ Crackers (mini pack)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Shapes BBQ crackers are one of Arnott's most recognisable savoury biscuit lines, a long-running lunchbox and pantry staple in Australian households since the 1950s.",
+    "ingredients": [
+      { "item": "Arnott's Shapes BBQ crackers", "quantity": 25, "unit": "g (1 mini pack)" }
+    ],
+    "prepNotes": "Eat straight from the individually portioned mini pack; no preparation needed. Often paired with a small piece of cheese for a more filling snack.",
+    "nutrition": {
+      "calories": 123,
+      "protein_g": 2,
+      "carbs_g": 16,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 6,
+      "method": "Calculated from Arnott's product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in family-size boxes and individually wrapped lunchbox mini packs at every major supermarket nationwide."
+    },
+    "sources": [
+      { "title": "Arnotts Shapes Barbecue Cracker Biscuits 175g | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/485436/arnott-s-shapes-crackers-biscuits-biscuits-barbecue" },
+      { "title": "Calories in Arnott's Shapes Original Barbecue | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-crackers-shapes-original-barbecue/eA7nrqq3ThSZrLap_xzL7A" }
+    ]
+  },
+  {
+    "id": "au-snack-009",
+    "name": "Vita-Weat Crackers with Cottage Cheese",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A nutritionist-recommended pairing widely suggested in Australian healthy-eating guides, combining wholegrain Vita-Weat crackers with cottage cheese for a more filling, protein-rich version of cheese and crackers.",
+    "ingredients": [
+      { "item": "Vita-Weat 9 Grain crackers", "quantity": 4, "unit": "crackers (24 g)" },
+      { "item": "cottage cheese", "quantity": 100, "unit": "g" },
+      { "item": "cherry tomatoes", "quantity": 50, "unit": "g" }
+    ],
+    "prepNotes": "Top each cracker with a spoonful of cottage cheese and a halved cherry tomato. Season with cracked pepper if desired.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 15,
+      "carbs_g": 20,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 7,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are everyday supermarket staples available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Vita-Weat Combos - Mood Food Nutrition", "url": "https://moodfoodnutrition.com.au/recipe/vita-weat-combos/" },
+      { "title": "Arnott's Vita-Weat | A Deliciously Healthy way to lunch", "url": "https://www.arnotts.com/brands/vita-weat" }
+    ]
+  },
+  {
+    "id": "au-snack-010",
+    "name": "Carman's Classic Fruit & Nut Muesli Bar",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Carman's is one of Australia's leading muesli bar brands, with the Classic Fruit & Nut bar a staple in lunchboxes, office snack drawers and supermarket shelves across the country.",
+    "ingredients": [
+      { "item": "Carman's Classic Fruit & Nut Muesli Bar", "quantity": 1, "unit": "bar (35 g)" }
+    ],
+    "prepNotes": "Ready to eat straight from the wrapper; no preparation required. Convenient for lunchboxes, hiking or an on-the-go snack between meals.",
+    "nutrition": {
+      "calories": 196,
+      "protein_g": 4,
+      "carbs_g": 26,
+      "fiber_g": 3,
+      "sugar_g": 12,
+      "fat_g": 8,
+      "method": "Calculated from Carman's product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "nuts", "may contain soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in multipacks in the breakfast/snack aisle of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Classic Fruit & Nut Muesli Bars - Carman's Calories - Fitia Australia", "url": "https://fitia.app/calories-nutritional-information/classic-fruit-and-nut-muesli-bars-23008513/" },
+      { "title": "Carmans Classic Fruit & Nut Muesli Bars - 2.1/10", "url": "https://proteinscore.com.au/product/carmans-classic-fruit-nut-muesli-bars/" }
+    ]
+  },
+  {
+    "id": "au-snack-011",
+    "name": "Two Hard-Boiled Eggs",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Hard-boiled eggs are a longstanding, budget-friendly Australian lunchbox and snack staple promoted by Australian Eggs and widely used by parents, gym-goers and meal-preppers for their portability and protein content.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "salt and pepper", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Place eggs in a pot of cold water, bring to the boil, then simmer for 8-10 minutes for a firm yolk. Cool under cold running water, peel and season with a little salt and pepper before eating.",
+    "nutrition": {
+      "calories": 156,
+      "protein_g": 13,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugar_g": 1,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Eggs are available year-round at every supermarket and local market across Australia."
+    },
+    "sources": [
+      { "title": "Egg Recipes for Your Lunch Box - Australian Eggs", "url": "https://www.australianeggs.org.au/recipes-and-cooking/category/lunchboxes-and-snacks" },
+      { "title": "Back-to-School Healthy Lunchbox Planner for Parents - Australian Eggs", "url": "https://www.australianeggs.org.au/blog/back-to-school-healthy-lunchbox-planner-for-parents" }
+    ]
+  },
+  {
+    "id": "au-snack-012",
+    "name": "Mrs Mac's Mini Sausage Rolls (3 pieces)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Mrs Mac's is a well-known family-owned Australian bakery brand, and mini sausage rolls are a fixture of school lunchboxes, party platters and footy club canteens nationwide.",
+    "ingredients": [
+      { "item": "Mrs Mac's mini sausage rolls", "quantity": 3, "unit": "pieces (33 g each)" },
+      { "item": "tomato sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Bake from frozen at 200°C for around 15-18 minutes until golden and piping hot, or follow packet microwave directions for a faster option. Serve with tomato sauce.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 9,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from Mrs Mac's product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soy", "may contain egg, milk, sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Frozen multipacks stocked in the freezer aisle of every major Australian supermarket year-round."
+    },
+    "sources": [
+      { "title": "Mini Sausages Rolls - Mrs Mac's Calories - Fitia Australia", "url": "https://fitia.app/en/calories-nutritional-information/mini-sausages-rolls-mrs-macs-23033089/" },
+      { "title": "Giant Sausage Roll - Mrs Mac's", "url": "https://mrsmacs.com.au/our-products/single-serve-rolls/giant-sausage-roll/" }
+    ]
+  },
+  {
+    "id": "au-snack-013",
+    "name": "Bega Cheese and Water Cracker Snack Pack",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Bega is one of Australia's best-known dairy brands, and pre-portioned cheese-and-cracker snack packs from Bega and similar brands are a common grab-and-go option in supermarket fridges and lunchboxes.",
+    "ingredients": [
+      { "item": "Bega Colby cheese", "quantity": 25, "unit": "g" },
+      { "item": "water crackers", "quantity": 12, "unit": "g" }
+    ],
+    "prepNotes": "Open the pre-portioned pack and eat straight away; no preparation required. Best stored chilled until eaten.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 7,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "fat_g": 9,
+      "method": "Calculated from Bega product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA"],
+      "notes": "Sold in the dairy fridge aisle of most major supermarkets, often near other grab-and-go snack packs."
+    },
+    "sources": [
+      { "title": "Strong & Bitey Vintage Cheese & Crackers - Bega Calories - Fitia Australia", "url": "https://fitia.app/calories-nutritional-information/strong-and-bitey-vintage-cheese-and-crackers-F5vko9dd45/" },
+      { "title": "Snacking - Bega", "url": "https://bega.net.au/product-range/snacking.html" }
+    ]
+  },
+  {
+    "id": "au-snack-014",
+    "name": "Le Snak Tasty Cheese Dip and Crackers",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "An iconic Australian lunchbox snack made by Uncle Tobys, Le Snak's two-compartment cheese dip and cracker format has been a kids' favourite since the 1980s and remains a household name.",
+    "ingredients": [
+      { "item": "Le Snak tasty cheese dip and crackers", "quantity": 1, "unit": "pack (22 g)" }
+    ],
+    "prepNotes": "Peel back the foil lid and dunk the crackers directly into the cheese dip compartment; no preparation required.",
+    "nutrition": {
+      "calories": 85,
+      "protein_g": 2,
+      "carbs_g": 8,
+      "fiber_g": 0,
+      "sugar_g": 1,
+      "fat_g": 5,
+      "method": "Calculated from Uncle Tobys product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in multipacks in the lunchbox snack aisle of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Uncle Tobys Le Snak Tasty Cheese Dip & Crackers 6 pack | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/248207/uncle-tobys-le-snak-tasty-cheese-dip-crackers" },
+      { "title": "Calories in Uncle Tobys Le Snak Tasty Cheese | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-cheese-snacks-le-snak-tasty-cheese/y6F_Epe2SGWqAK3pJ3ObOg" }
+    ]
+  },
+  {
+    "id": "au-snack-015",
+    "name": "Mixed Nut and Dried Fruit Trail Mix",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A staple snack sold loose or pre-packaged at Australian supermarkets and specialty nut shops, popular with hikers, office workers and parents as a portable source of healthy fats, fibre and natural sweetness.",
+    "ingredients": [
+      { "item": "almonds", "quantity": 10, "unit": "g" },
+      { "item": "cashews", "quantity": 10, "unit": "g" },
+      { "item": "sultanas", "quantity": 10, "unit": "g" },
+      { "item": "pepitas (pumpkin seeds)", "quantity": 5, "unit": "g" },
+      { "item": "sunflower kernels", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Combine all ingredients in a small container or snap-lock bag. No cooking required; store in a cool, dry place or the fridge for freshness.",
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 6,
+      "carbs_g": 14,
+      "fiber_g": 3,
+      "sugar_g": 9,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["nuts", "seeds"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Available pre-packaged in the health food aisle, or bought loose by weight at independent nut and bulk food shops nationwide."
+    },
+    "sources": [
+      { "title": "Buy Healthy Trail Mix Online | The Nut Market", "url": "https://thenutmarket.com.au/products/healthy-trail-mix" },
+      { "title": "Trail mix - Wikipedia", "url": "https://en.wikipedia.org/wiki/Trail_mix" }
+    ]
+  },
+  {
+    "id": "au-snack-016",
+    "name": "Sakata Plain Rice Crackers",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Sakata rice crackers are a long-standing gluten-free Australian snack brand found in the lunchbox aisle of every major supermarket, popular for being lighter and crunchier than wheat-based crackers.",
+    "ingredients": [
+      { "item": "Sakata plain rice crackers", "quantity": 25, "unit": "g (14 crackers)" }
+    ],
+    "prepNotes": "Eat straight from the packet; no preparation required. Pairs well with hummus, avocado or cheese for a more filling snack.",
+    "nutrition": {
+      "calories": 99,
+      "protein_g": 2,
+      "carbs_g": 22,
+      "fiber_g": 1,
+      "sugar_g": 0,
+      "fat_g": 1,
+      "method": "Calculated from Sakata product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in the lunchbox/biscuit aisle of every major Australian supermarket year-round."
+    },
+    "sources": [
+      { "title": "Calories in Sakata Plain Rice Crackers | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-rice-crackers-plain-rice-crackers/ZI1cyTzSS52ND_YkM-gXTA" },
+      { "title": "Sakata Rice Crackers Plain 100g | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/41814/sakata-rice-crackers-plain" }
+    ]
+  },
+  {
+    "id": "au-snack-017",
+    "name": "Hummus with Carrot and Celery Sticks",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A widely recommended fresh-vegetable snack in Australian healthy-eating guides, combining chickpea hummus with crunchy raw vegetables; common in lunchboxes and at home as an easy afternoon snack.",
+    "ingredients": [
+      { "item": "hummus", "quantity": 60, "unit": "g" },
+      { "item": "carrot", "quantity": 80, "unit": "g, cut into sticks" },
+      { "item": "celery", "quantity": 60, "unit": "g, cut into sticks" }
+    ],
+    "prepNotes": "Cut carrot and celery into sticks. Serve alongside a small bowl of hummus for dipping. Keeps well in an airtight container for a few hours if prepped ahead.",
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 6,
+      "carbs_g": 16,
+      "fiber_g": 6,
+      "sugar_g": 7,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Hummus, carrots and celery are everyday supermarket staples available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Vegetable Sticks and Hummus Recipe I Healthy Made Tasty", "url": "https://healthymadetasty.com.au/recipes/vegetable-sticks-hummus/" },
+      { "title": "Crunchy, Gut-Friendly Snack: Carrot & Celery Sticks with Hummus", "url": "https://alternativehealthcareconcepts.com/crunchy-gut-friendly-snack-carrot-celery-sticks-with-hummus/" }
+    ]
+  },
+  {
+    "id": "au-snack-018",
+    "name": "Date, Almond and Cacao Bliss Balls (2 balls)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Bliss balls (also called protein balls or energy balls) are a hugely popular homemade and cafe-sold Australian snack, built on a base of dates and nuts and widely featured in Australian recipe sites and women's magazines.",
+    "ingredients": [
+      { "item": "medjool dates, pitted", "quantity": 40, "unit": "g" },
+      { "item": "almonds", "quantity": 20, "unit": "g" },
+      { "item": "desiccated coconut", "quantity": 10, "unit": "g" },
+      { "item": "cacao powder", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Blend dates, almonds and cacao powder in a food processor until the mixture sticks together. Roll into small balls and coat in desiccated coconut. Store in the fridge for up to a week or freeze for longer.",
+    "nutrition": {
+      "calories": 200,
+      "protein_g": 5,
+      "carbs_g": 24,
+      "fiber_g": 4,
+      "sugar_g": 18,
+      "fat_g": 10,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Ingredients are everyday supermarket staples; ready-made bliss balls are also widely sold in supermarket health food aisles and cafes."
+    },
+    "sources": [
+      { "title": "Bliss Balls Recipe | myfoodbook | Perfect protein snack", "url": "https://myfoodbook.com.au/recipes/show/jewel-bliss-balls" },
+      { "title": "12 protein and bliss ball recipes", "url": "https://womensweeklyfood.com.au/protein-and-bliss-balls-31634" }
+    ]
+  },
+  {
+    "id": "au-snack-019",
+    "name": "Cheezels Original Cheese Snacks",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cheezels are an iconic Australian corn-and-rice ring snack with a strong cheddar flavour, on the market since 1971 and a staple of lunchboxes, parties and movie nights nationwide.",
+    "ingredients": [
+      { "item": "Cheezels original cheese snacks", "quantity": 25, "unit": "g" }
+    ],
+    "prepNotes": "Eat straight from the bag or box; no preparation required. A classic party-bowl snack, often served alongside other savoury biscuits.",
+    "nutrition": {
+      "calories": 136,
+      "protein_g": 2,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sugar_g": 1,
+      "fat_g": 8,
+      "method": "Calculated from Snack Brands Australia product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in boxes and multipacks in the snack aisle of every major Australian supermarket year-round."
+    },
+    "sources": [
+      { "title": "Cheezels - Wikipedia", "url": "https://en.wikipedia.org/wiki/Cheezels" },
+      { "title": "Original Cheese Snacks - Cheezels Calories - Fitia Australia", "url": "https://fitia.app/calories-nutritional-information/original-cheese-snacks-cheezels-23001616/" }
+    ]
+  },
+  {
+    "id": "au-snack-020",
+    "name": "Banana and Vegemite Sandwich",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A classic Australian school-lunchbox combination pairing a savoury smear of Vegemite with soft banana on buttered bread; less common than the plain Vegemite sandwich but a well-known variation taught in Australian parenting and lunchbox guides.",
+    "ingredients": [
+      { "item": "wholegrain bread", "quantity": 2, "unit": "slices (60 g)" },
+      { "item": "Vegemite", "quantity": 5, "unit": "g" },
+      { "item": "butter or margarine", "quantity": 10, "unit": "g" },
+      { "item": "banana", "quantity": 100, "unit": "g, sliced" }
+    ],
+    "prepNotes": "Butter both slices of bread, then spread a thin layer of Vegemite on one slice. Layer sliced banana on top and close the sandwich. Cut into halves or quarters for younger children.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 48,
+      "fiber_g": 5,
+      "sugar_g": 16,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are everyday supermarket staples available nationwide year-round."
+    },
+    "sources": [
+      { "title": "What is a Vegemite Sandwich? (Variations)", "url": "https://ostrali.com/what-is-a-vegemite-sandwich/" },
+      { "title": "the ten snacks australians miss the most once they leave the country", "url": "https://www.timeout.com/australia/news/the-ten-snacks-australians-miss-the-most-once-they-leave-the-country-071625" }
+    ]
+  },
+  {
+    "id": "au-snack-021",
+    "name": "UP&GO Liquid Breakfast (Chocolate)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "UP&GO by Sanitarium is Australia's top-selling liquid breakfast/snack drink, commonly grabbed from the supermarket fridge or servo for a fast on-the-go option before school, work or the gym.",
+    "ingredients": [
+      { "item": "UP&GO liquid breakfast, chocolate", "quantity": 250, "unit": "ml" }
+    ],
+    "prepNotes": "Shake well and drink chilled straight from the carton; no preparation required. Best kept refrigerated until consumed.",
+    "nutrition": {
+      "calories": 198,
+      "protein_g": 9,
+      "carbs_g": 32,
+      "fiber_g": 3,
+      "sugar_g": 20,
+      "fat_g": 4,
+      "method": "Calculated from Sanitarium product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold chilled in the dairy fridge of every major supermarket and many service stations/convenience stores nationwide."
+    },
+    "sources": [
+      { "title": "Convenient and nutritious liquid breakfast - UP&GO", "url": "https://upandgo.com.au/" },
+      { "title": "Calories in Sanitarium Up & Go Liquid Breakfast, Choc Ice | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-flavoured-milk-uht-up-go-liquid-breakfast-choc-ice/r5iZhgg6R5aHoL-h516txw" }
+    ]
+  },
+  {
+    "id": "au-snack-022",
+    "name": "Cobs Natural Sea Salt Popcorn",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cobs, an Australian-founded popcorn brand established in 2004, is a leading 'better-for-you' wholegrain snack sold nationwide, popular in lunchboxes and as a lighter alternative to potato chips.",
+    "ingredients": [
+      { "item": "Cobs natural sea salt popcorn", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Eat straight from the snack pack; no preparation required. A lighter wholegrain alternative when reaching for something crunchy.",
+    "nutrition": {
+      "calories": 97,
+      "protein_g": 2,
+      "carbs_g": 13,
+      "fiber_g": 2,
+      "sugar_g": 0,
+      "fat_g": 4,
+      "method": "Calculated from Cobs product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in snack-size and share packs in the snack aisle of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Calories in Cobs Natural Sea Salt Popcorn | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-popcorn-natural-sea-salt-popcorn/0y2bHJwXRry3kNBEHKNDEQ" },
+      { "title": "Home - Cobs Popcorn", "url": "https://cobs.com.au/" }
+    ]
+  },
+  {
+    "id": "au-snack-023",
+    "name": "Apple with Peanut Butter",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A simple, widely recommended whole-food snack pairing in Australian dietary guidance, combining fresh apple with a natural source of protein and healthy fat from peanut butter; common in lunchboxes and as a quick home snack.",
+    "ingredients": [
+      { "item": "apple", "quantity": 150, "unit": "g (1 medium)" },
+      { "item": "peanut butter", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Slice the apple into wedges and serve with peanut butter for dipping, or spread the peanut butter directly onto the slices.",
+    "nutrition": {
+      "calories": 215,
+      "protein_g": 5,
+      "carbs_g": 26,
+      "fiber_g": 5,
+      "sugar_g": 18,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Apples and peanut butter are everyday supermarket staples available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Is Apple and Peanut Butter a Healthy Snack? - EcoWatch", "url": "https://www.ecowatch.com/apple-peanut-butter-healthy-snack-2639161857.html" },
+      { "title": "Are Apples and Peanut Butter a Nutritious Snack? - Healthline", "url": "https://www.healthline.com/nutrition/apple-and-peanut-butter" }
+    ]
+  },
+  {
+    "id": "au-snack-024",
+    "name": "Aussie Bodies Lo Carb Protein Bar",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Aussie Bodies is a well-known Australian sports nutrition brand, and its Lo Carb protein bars are widely sold at supermarkets, servos and gyms as a portable high-protein snack for active people.",
+    "ingredients": [
+      { "item": "Aussie Bodies Lo Carb protein bar", "quantity": 1, "unit": "bar (35 g)" }
+    ],
+    "prepNotes": "Ready to eat straight from the wrapper; no preparation required. Best stored at room temperature away from direct heat to keep the chocolate coating firm.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 13,
+      "carbs_g": 8,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 7,
+      "method": "Calculated from Aussie Bodies product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "low_carb"],
+      "allergens": ["dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA"],
+      "notes": "Widely stocked at supermarkets, servos and sports nutrition retailers nationwide, often near the checkout or protein bar section."
+    },
+    "sources": [
+      { "title": "Aussie Bodies Protein Bars | Sportys Health", "url": "https://www.sportyshealth.com.au/protein-supplements/bars/aussie-bodies/" },
+      { "title": "Honest Snacking | Aussie Bodies", "url": "https://aussiebodies.com/" }
+    ]
+  },
+  {
+    "id": "au-snack-025",
+    "name": "Arnott's Cruskits with Avocado",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cruskits are a long-running low-fat Australian crispbread brand, commonly topped with avocado, cottage cheese or hummus as a light snack recommended in Australian healthy-eating guides.",
+    "ingredients": [
+      { "item": "Arnott's Cruskits original crispbread", "quantity": 4, "unit": "crispbreads (20 g)" },
+      { "item": "avocado", "quantity": 60, "unit": "g" },
+      { "item": "lemon juice", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Mash the avocado with a squeeze of lemon juice, salt and pepper. Spread evenly across the crispbreads and serve immediately so they stay crisp.",
+    "nutrition": {
+      "calories": 165,
+      "protein_g": 3,
+      "carbs_g": 16,
+      "fiber_g": 5,
+      "sugar_g": 1,
+      "fat_g": 10,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Cruskits and avocado are everyday supermarket staples available nationwide year-round, though avocado prices fluctuate seasonally."
+    },
+    "sources": [
+      { "title": "Arnott's Cruskits Original Crispbreads 125g | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/36059/arnott-s-cruskits-original" },
+      { "title": "Calories in Arnott's Cruskits Original Crispbread Calcount Calorie Counter", "url": "https://www.caloriecounter.com.au/food/calories-in-arnotts-cruskits-original-crispbread/" }
+    ]
+  },
+  {
+    "id": "au-snack-026",
+    "name": "Beef Biltong",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Biltong, brought to Australia via South African and Zimbabwean communities, has grown into a mainstream high-protein snack sold at supermarkets, butchers and specialty biltong shops across major Australian cities.",
+    "ingredients": [
+      { "item": "beef biltong", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Ready to eat straight from the packet, sliced or torn into pieces; no preparation required. Best kept in an airtight container once opened.",
+    "nutrition": {
+      "calories": 95,
+      "protein_g": 17,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "fat_g": 2,
+      "method": "Calculated from typical Australian biltong brand nutrition panels via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA", "local markets"],
+      "notes": "Sold at larger supermarkets and widely available through specialty biltong and jerky retailers and butchers, especially in cities with South African communities."
+    },
+    "sources": [
+      { "title": "Grass-Fed Beef Biltong: The Clean Protein Snack, Explained – Aussie Biltong", "url": "https://aussiebiltong.com.au/blogs/the-biltong-journal/is-biltong-actually-healthy-nutritionist-breaks-down-the-surprising-benefits" },
+      { "title": "Biltong - The Better Snack for Entertaining in Australia — Protea Foods", "url": "https://www.proteafoods.com/biltong-blog/biltong-snack-for-entertaining" }
+    ]
+  },
+  {
+    "id": "au-snack-027",
+    "name": "Cocktail Frankfurts with Tomato Sauce",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cocktail frankfurts served warm with tomato sauce are a beloved fixture of Australian kids' birthday parties and family gatherings, simple enough to be a quick after-school snack too.",
+    "ingredients": [
+      { "item": "cocktail frankfurts", "quantity": 100, "unit": "g (about 6 small franks)" },
+      { "item": "tomato sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Simmer frankfurts gently in a pot of water for about 5 minutes until heated through, taking care not to overcook or the skins will split. Drain and serve with tomato sauce for dipping.",
+    "nutrition": {
+      "calories": 270,
+      "protein_g": 13,
+      "carbs_g": 8,
+      "fiber_g": 1,
+      "sugar_g": 4,
+      "fat_g": 19,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["may contain milk, soy, gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold chilled in the deli/processed meats aisle of every major Australian supermarket; a standard party-catering item nationwide."
+    },
+    "sources": [
+      { "title": "Cocktail Sausages (Mini Sausages) - Sweet Caramel Sunday", "url": "https://sweetcaramelsunday.com/cocktail-sausages/" },
+      { "title": "Calories in Primo Cocktail Frankfurts Cocktail Calcount Calorie Counter", "url": "https://www.caloriecounter.com.au/food/primo-cocktail-frankfurts-cocktail/" }
+    ]
+  },
+  {
+    "id": "au-snack-028",
+    "name": "Dim Sim (steamed)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "The dim sim, or 'dimmy', is a Westernised dumpling-style snack created in 1940s Melbourne by Chinese-Australian chef William Wing Young, now a beloved fixture of fish-and-chip shops, Asian takeaways and servos across the country.",
+    "ingredients": [
+      { "item": "dim sims (pork, cabbage, wrapper)", "quantity": 2, "unit": "pieces (75 g each)" },
+      { "item": "soy sauce", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Steam dim sims for about 15-20 minutes until the filling is piping hot and the wrapper is translucent (or deep-fry per shop style for a crisper version). Serve with soy sauce for dipping.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 10,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sold frozen in supermarkets, and fresh/steamed at fish-and-chip shops, Asian takeaways and milk bars nationwide, especially in Victoria where the dim sim originated."
+    },
+    "sources": [
+      { "title": "Dim Sim - The Chinese-Inspired Australian Snack", "url": "https://www.dimsim.com.au/" },
+      { "title": "The Dimmy: An Iconic Chinese Australian Snack - Lion Brand", "url": "https://lionbrand.com.au/blog/the-dimmy-an-iconic-chinese-australian-snack-3/" }
+    ]
+  },
+  {
+    "id": "au-snack-029",
+    "name": "Mandarin (1 whole, fresh)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Mandarins are one of the most common fresh-fruit lunchbox and snack items in Australia, especially abundant and cheap during the autumn-winter mandarin season from major growing regions like the Riverina and Riverland.",
+    "ingredients": [
+      { "item": "mandarin", "quantity": 100, "unit": "g (1 medium, peeled)" }
+    ],
+    "prepNotes": "Peel and eat fresh; no preparation required. A naturally portioned, easy-to-pack lunchbox snack.",
+    "nutrition": {
+      "calories": 47,
+      "protein_g": 1,
+      "carbs_g": 12,
+      "fiber_g": 2,
+      "sugar_g": 9,
+      "fat_g": 0,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Available year-round at all major supermarkets and greengrocers; peak season and best value is autumn through winter."
+    },
+    "sources": [
+      { "title": "Mandarin Orange: Nutrition Facts, Benefits, and Types - Healthline", "url": "https://www.healthline.com/nutrition/mandarin-orange" },
+      { "title": "Mandarin: vitamins and nutritional values of the citrus fruit", "url": "https://www.liebherr.com/en-us/refrigerators-freezers/freshmag/food-a-z/mandarin-8246305" }
+    ]
+  },
+  {
+    "id": "au-snack-030",
+    "name": "Smith's Original Crinkle Cut Chips (snack bag)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Smith's is one of Australia's most recognisable potato chip brands, with the Original Crinkle Cut variety a long-time favourite found in school lunchboxes, servos and pantries nationwide.",
+    "ingredients": [
+      { "item": "Smith's Original Crinkle Cut Chips", "quantity": 45, "unit": "g (1 snack bag)" }
+    ],
+    "prepNotes": "Eat straight from the snack bag; no preparation required.",
+    "nutrition": {
+      "calories": 241,
+      "protein_g": 3,
+      "carbs_g": 23,
+      "fiber_g": 2,
+      "sugar_g": 0,
+      "fat_g": 16,
+      "method": "Calculated from Smith's product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in single snack bags and multipacks at every major supermarket and most service stations nationwide."
+    },
+    "sources": [
+      { "title": "Original Chips | Crinkle Cut | Smith's Chips Australia", "url": "https://www.smiths-chips.com.au/products/crinkle-cut-chips/original-chips" },
+      { "title": "Calories in Smith's Plain Chips Snack Bag and Nutrition Facts", "url": "https://www.fatsecret.com.au/calories-nutrition/smiths/plain-chips-snack-bag/1-snack-bag" }
+    ]
+  },
+  {
+    "id": "au-snack-031",
+    "name": "Roasted Salted Peanuts (small handful)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Roasted salted peanuts are a classic Australian pub and servo snack and a pantry staple in their own right, grown extensively in Queensland and sold loose or pre-packaged in every supermarket.",
+    "ingredients": [
+      { "item": "roasted salted peanuts", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Eat straight from the packet or a small bowl; no preparation required.",
+    "nutrition": {
+      "calories": 180,
+      "protein_g": 7,
+      "carbs_g": 5,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Sold in bulk bags and portion-control packs at every major supermarket; also a common servo and bottle-shop checkout snack."
+    },
+    "sources": [
+      { "title": "Woolworths Peanuts Roasted & Salted 750g | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/185221/woolworths-peanuts-roasted-salted" },
+      { "title": "10 Of the healthiest service station snacks - GoodnessMe", "url": "https://goodnessme.com.au/articles/10-healthiest-service-station-snacks" }
+    ]
+  },
+  {
+    "id": "au-snack-032",
+    "name": "Smoked Salmon and Cream Cheese on Rice Crackers",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A premium snack pairing Tasmanian smoked salmon with cream cheese on rice crackers, popular as a quick protein-rich nibble at home gatherings and featured in Australian seafood-brand recipe content (Tassal).",
+    "ingredients": [
+      { "item": "rice crackers", "quantity": 25, "unit": "g (about 8 crackers)" },
+      { "item": "cream cheese", "quantity": 30, "unit": "g" },
+      { "item": "smoked salmon", "quantity": 40, "unit": "g" },
+      { "item": "dill or chives", "quantity": 2, "unit": "g, chopped" }
+    ],
+    "prepNotes": "Spread a thin layer of cream cheese over each rice cracker, top with a small piece of smoked salmon and finish with a sprinkle of fresh dill or chives.",
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 14,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free"],
+      "allergens": ["fish", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Tasmanian smoked salmon, cream cheese and rice crackers are sold at all major supermarkets; smoked salmon prices sit at the premium end of the snack spectrum."
+    },
+    "sources": [
+      { "title": "Cream Cheese Crackers with Smoked Salmon - Tassal Aussie Seafood", "url": "https://www.tassal.com.au/recipes/cream-cheese-crackers-with-smoked-salmon/" },
+      { "title": "Smoked Salmon Cream Cheese Crackers » Homemade Heather", "url": "https://homemadeheather.com/smoked-salmon-cream-cheese-crackers/" }
+    ]
+  },
+  {
+    "id": "au-snack-033",
+    "name": "Fruit Toast with Ricotta",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Fruit toast spread with ricotta is a common Australian cafe and home snack, combining the dried-fruit-studded loaf found in every supermarket bakery aisle with a creamy, higher-protein topping.",
+    "ingredients": [
+      { "item": "fruit toast bread", "quantity": 2, "unit": "slices (60 g)" },
+      { "item": "ricotta cheese", "quantity": 60, "unit": "g" },
+      { "item": "honey", "quantity": 10, "unit": "g" },
+      { "item": "cinnamon", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Toast the fruit bread slices until golden. Spread generously with ricotta, drizzle with honey and finish with a pinch of cinnamon.",
+    "nutrition": {
+      "calories": 290,
+      "protein_g": 10,
+      "carbs_g": 42,
+      "fiber_g": 3,
+      "sugar_g": 22,
+      "fat_g": 8,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Fruit toast loaves and ricotta are everyday supermarket staples available nationwide year-round; also a common cafe menu item."
+    },
+    "sources": [
+      { "title": "LiveLighter - Healthy Raisin Toast With Fruity Ricotta Topping Recipe", "url": "https://livelighter.com.au/recipe/240/raisin-toast-with-fruity-ricotta-topping" },
+      { "title": "Spiced ricotta fruit toast | CSIRO Total Wellbeing Diet", "url": "https://www.totalwellbeingdiet.com/au/recipes/healthy-breakfast-recipes/spiced-ricotta-fruit-toast/" }
+    ]
+  },
+  {
+    "id": "au-snack-034",
+    "name": "Zucchini and Cheese Savoury Muffin",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Savoury muffins loaded with grated zucchini, carrot and cheese are a widely shared Australian lunchbox recipe, popular with parents wanting to sneak extra vegetables into a school-friendly handheld snack.",
+    "ingredients": [
+      { "item": "self-raising flour", "quantity": 30, "unit": "g" },
+      { "item": "zucchini, grated", "quantity": 30, "unit": "g" },
+      { "item": "carrot, grated", "quantity": 20, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 20, "unit": "g" },
+      { "item": "egg", "quantity": 0.5, "unit": "large" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" },
+      { "item": "milk", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Combine grated vegetables and cheese with flour. Whisk egg, oil and milk together and fold through the dry mixture until just combined. Spoon into a muffin tin and bake at 180°C for 18-20 minutes until golden and cooked through.",
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 6,
+      "carbs_g": 16,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are everyday supermarket staples available nationwide year-round; commonly batch-baked and frozen for school lunchboxes."
+    },
+    "sources": [
+      { "title": "Zucchini cheese muffin slab - RecipeTin Eats", "url": "https://www.recipetineats.com/zucchini-cheese-muffin-slab/" },
+      { "title": "Cheese and Vegetable Lunchbox Muffins - Goodie Goodie Lunchbox", "url": "https://www.goodiegoodielunchbox.com.au/cheese-vegetable-lunchbox-muffins/" }
+    ]
+  },
+  {
+    "id": "au-snack-035",
+    "name": "Roasted Edamame Snack Pack",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Dry-roasted edamame snack packs have become a popular plant-protein snack on Australian supermarket shelves in recent years, marketed as a wholefood alternative to chips for office and lunchbox snacking.",
+    "ingredients": [
+      { "item": "dry roasted edamame", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Eat straight from the snack pack; no preparation required. Crunchy texture makes it a satisfying replacement for fried savoury snacks.",
+    "nutrition": {
+      "calories": 130,
+      "protein_g": 11,
+      "carbs_g": 8,
+      "fiber_g": 5,
+      "sugar_g": 1,
+      "fat_g": 6,
+      "method": "Calculated from typical Australian roasted edamame brand nutrition panels (DJ&A Nature's Protein, Hapi) via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles"],
+      "notes": "Sold in the health snack aisle of major supermarkets; range and availability is more limited at Aldi and IGA compared to Woolworths and Coles."
+    },
+    "sources": [
+      { "title": "DJ&A Natures Protein Roasted Edamame 50g | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/182853/dj-a-natures-protein-roasted-edamame" },
+      { "title": "Hapi Dry Roasted Edamame 100g | Woolworths", "url": "https://www.woolworths.com.au/shop/productdetails/803476/hapi-dry-roasted-edamame" }
+    ]
+  },
+  {
+    "id": "au-snack-036",
+    "name": "Cottage Cheese with Pineapple",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cottage cheese paired with tinned or fresh pineapple is a retro-but-enduring Australian snack and light lunch combination, valued for being simple, protein-rich and naturally sweet without added sugar.",
+    "ingredients": [
+      { "item": "cottage cheese", "quantity": 150, "unit": "g" },
+      { "item": "pineapple pieces (fresh or tinned in juice)", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Spoon cottage cheese into a bowl and top with drained pineapple pieces. If using tinned pineapple, choose one packed in natural juice rather than syrup.",
+    "nutrition": {
+      "calories": 175,
+      "protein_g": 19,
+      "carbs_g": 14,
+      "fiber_g": 1,
+      "sugar_g": 13,
+      "fat_g": 4,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Cottage cheese and pineapple are everyday supermarket staples available nationwide year-round, fresh pineapple is grown in Queensland."
+    },
+    "sources": [
+      { "title": "11 HEALTHY SNACKS APPROVED BY NUTRITIONISTS | Fitness First", "url": "https://www.fitnessfirst.com.au/get-there/11-healthy-snacks-approved-by-nutritionists/" },
+      { "title": "Vita-Weat Combos - Mood Food Nutrition", "url": "https://moodfoodnutrition.com.au/recipe/vita-weat-combos/" }
+    ]
+  },
+  {
+    "id": "au-snack-037",
+    "name": "Caramel Tim Tam Cheesecake-Style Slice (cafe treat)",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Tim Tam-based desserts, including no-bake cheesecake slices made from crushed Tim Tams, are a well-known home-baking trend in Australia, regularly featured in Australian Women's Weekly and taste.com.au recipe collections.",
+    "ingredients": [
+      { "item": "Tim Tam biscuits, crushed", "quantity": 30, "unit": "g" },
+      { "item": "cream cheese", "quantity": 40, "unit": "g" },
+      { "item": "thickened cream", "quantity": 20, "unit": "ml" },
+      { "item": "caster sugar", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Crush Tim Tams and press into the base of a small mould to set in the fridge. Beat cream cheese, cream and sugar until smooth, spoon over the base and refrigerate for at least 2 hours before serving in small slices.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 4,
+      "carbs_g": 22,
+      "fiber_g": 1,
+      "sugar_g": 16,
+      "fat_g": 19,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi"],
+      "notes": "A home-baked treat using everyday supermarket ingredients; also sold pre-made in some supermarket bakery and dessert sections."
+    },
+    "sources": [
+      { "title": "Tim Tam - Arnott's - Calories and Nutrition Facts Australia", "url": "https://fitia.app/en/calories-nutritional-information/tim-tam-arnotts-23044997/" },
+      { "title": "Calories in Arnott's Family Pack Tim Tam Biscuits Calcount Calorie Counter", "url": "https://www.caloriecounter.com.au/food/calories-in-arnotts-family-pack-tim-tam-biscuits/" }
+    ]
+  },
+  {
+    "id": "au-snack-038",
+    "name": "Dukkah with Olive Oil and Bread",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Dukkah, an Egyptian spiced nut-and-seed blend, was popularised in Australia in the 1990s by Melbourne food writer Greg Malouf and has since become a mainstream pantry item sold in jars at every major supermarket for dipping bread.",
+    "ingredients": [
+      { "item": "wholegrain sourdough bread", "quantity": 40, "unit": "g (1 slice)" },
+      { "item": "extra virgin olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "dukkah (nut and spice blend)", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Pour olive oil onto a small plate and sprinkle dukkah over the top. Tear bread into pieces and dip into the oil and dukkah mixture.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 6,
+      "carbs_g": 22,
+      "fiber_g": 3,
+      "sugar_g": 1,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "nuts", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Dukkah is sold in jars in the condiments aisle of major supermarkets and is a common offering at Australian farmers' markets and delicatessens."
+    },
+    "sources": [
+      { "title": "Dukkah from Down Under — Real Baking with Rose", "url": "https://www.realbakingwithrose.com/blog/2007/09/15/dukkah_from_down_under" },
+      { "title": "Greg Malouf - Wikipedia", "url": "https://en.wikipedia.org/wiki/Greg_Malouf" }
+    ]
+  },
+  {
+    "id": "au-snack-039",
+    "name": "Fairy Bread",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Fairy bread, made from buttered white bread covered in '100s and 1000s' sprinkles, has been a fixture of Australian children's birthday parties since the 1930s and remains instantly recognisable across the country.",
+    "ingredients": [
+      { "item": "white sandwich bread", "quantity": 1, "unit": "slice (30 g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "100s and 1000s sprinkles", "quantity": 8, "unit": "g" }
+    ],
+    "prepNotes": "Spread softened butter generously to the edges of the bread slice. Pour sprinkles over the buttered surface so they stick evenly, then cut into triangles to serve.",
+    "nutrition": {
+      "calories": 145,
+      "protein_g": 2,
+      "carbs_g": 20,
+      "fiber_g": 1,
+      "sugar_g": 10,
+      "fat_g": 6,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "White bread, butter and sprinkles are everyday supermarket staples available nationwide; fairy bread is an occasional party food rather than a daily snack."
+    },
+    "sources": [
+      { "title": "Fairy Bread (Classic Australian Party Recipe – 3 Ingredients)", "url": "https://www.cookingwithnanaling.com/fairy-bread-australia/" },
+      { "title": "Australian Fairy Bread Recipe | Wandercooks", "url": "https://www.wandercooks.com/australian-christmas-fairy-bread/" }
+    ]
+  },
+  {
+    "id": "au-snack-040",
+    "name": "Cadbury Caramello Koala",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Introduced in 1966, Caramello Koala is one of Australia's most recognisable small chocolate treats, with around 50 million sold each year and a regular presence at checkouts, school fundraisers and lunchboxes.",
+    "ingredients": [
+      { "item": "Cadbury Caramello Koala", "quantity": 15, "unit": "g (1 piece)" }
+    ],
+    "prepNotes": "Unwrap and eat; no preparation required.",
+    "nutrition": {
+      "calories": 75,
+      "protein_g": 1,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugar_g": 8,
+      "fat_g": 4,
+      "method": "Calculated from Cadbury Australia product nutrition panel via Australian Food Composition Database (NUTTAB/FSANZ) cross-reference"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold individually and in share packs at every major supermarket checkout aisle and convenience store nationwide."
+    },
+    "sources": [
+      { "title": "Caramello Koala - Wikipedia", "url": "https://en.wikipedia.org/wiki/Caramello_Koala" },
+      { "title": "Calories in Cadbury Dairy Milk Caramello Koala Bar | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-chocolates-dairy-milk-caramello-koala-bar/JsA9C0u6QiC5IdzIv7X1HQ" }
+    ]
+  },
+  {
+    "id": "au-snack-041",
+    "name": "Cheesymite Scroll",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "First introduced by Bakers Delight in 1994, the cheesymite scroll combines a soft bread spiral with Vegemite and melted cheese, and has since become a bakery-counter staple sold by chains and independent bakeries across Australia.",
+    "ingredients": [
+      { "item": "bread dough", "quantity": 80, "unit": "g" },
+      { "item": "Vegemite", "quantity": 5, "unit": "g" },
+      { "item": "butter", "quantity": 8, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Roll out bread dough into a rectangle, spread with softened butter and a thin layer of Vegemite, then sprinkle with grated cheese. Roll up tightly, slice into rounds and bake at 200°C for about 20 minutes until golden and the cheese is bubbling.",
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 12,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 10,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ), cross-checked against Coles Bakery Vegemite Scroll nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sold fresh at Bakers Delight and other bakery chains nationwide, and as a packaged item in supermarket bakery sections."
+    },
+    "sources": [
+      { "title": "Cheesymite scroll - Wikipedia", "url": "https://en.wikipedia.org/wiki/Cheesymite_scroll" },
+      { "title": "Cheesymite Scroll – Bakers Delight", "url": "https://www.bakersdelight.com.au/products/cheesymite-scroll/" }
+    ]
+  },
+  {
+    "id": "au-snack-042",
+    "name": "Dukkah with Olive Oil and Bread",
+    "country": "AU",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Dukkah, an Egyptian spiced nut-and-seed blend, was popularised in Australia by chef Greg Malouf at Melbourne's MoMo restaurant and by South Australian restaurateur Russell Jeavons, and is now a mainstream pantry item sold in jars at every major supermarket for dipping bread.",
+    "ingredients": [
+      { "item": "wholegrain sourdough bread", "quantity": 40, "unit": "g (1 slice)" },
+      { "item": "extra virgin olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "dukkah (nut and spice blend)", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Pour olive oil onto a small plate and sprinkle dukkah over the top. Tear bread into pieces and dip into the oil and dukkah mixture.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 6,
+      "carbs_g": 22,
+      "fiber_g": 3,
+      "sugar_g": 1,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "nuts", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Dukkah is sold in jars in the condiments aisle of major supermarkets and is a common offering at Australian farmers' markets and delicatessens."
+    },
+    "sources": [
+      { "title": "Dukkah from Down Under — Real Baking with Rose", "url": "https://www.realbakingwithrose.com/blog/2007/09/15/dukkah_from_down_under" },
+      { "title": "Greg Malouf - Wikipedia", "url": "https://en.wikipedia.org/wiki/Greg_Malouf" }
+    ]
+  }
+]

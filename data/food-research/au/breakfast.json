@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "au-breakfast-001",
+    "name": "Smashed Avocado on Sourdough with Feta",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "The defining Australian cafe breakfast, credited to Sydney restaurateur Bill Granger in the early 1990s and now ubiquitous on cafe menus nationwide.",
+    "ingredients": [
+      { "item": "sourdough bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "avocado", "quantity": 120, "unit": "g" },
+      { "item": "feta cheese", "quantity": 30, "unit": "g" },
+      { "item": "lemon juice", "quantity": 5, "unit": "ml" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" },
+      { "item": "chilli flakes", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Toast the sourdough. Mash avocado with lemon juice, salt and pepper, then spread thickly over toast. Crumble feta on top and finish with olive oil and a pinch of chilli flakes.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 13,
+      "carbs_g": 38,
+      "fiber_g": 9,
+      "sugar_g": 3,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Sourdough, avocado and feta available year-round at all major supermarkets; avocado prices fluctuate seasonally."
+    },
+    "sources": [
+      { "title": "Avocado Toast Defined: A Guide To The Australian Cafe Favorite", "url": "https://sprudge.com/avocado-toast-defined-a-guide-to-the-australian-cafe-favorite-66608.html" },
+      { "title": "Smashed Avocado on Toast with Pesto and Poached Eggs", "url": "https://cafecat.com.au/smashed-avocado-on-toast-with-pesto-and-poached-eggs/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-002",
+    "name": "Avocado, Poached Eggs and Spinach on Toast",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A protein-boosted variant of the classic avocado toast, widely served at Australian cafes and a staple weekend home breakfast.",
+    "ingredients": [
+      { "item": "wholegrain bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "avocado", "quantity": 100, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "baby spinach", "quantity": 40, "unit": "g" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" },
+      { "item": "white vinegar (for poaching)", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Wilt spinach briefly in a hot pan with a little olive oil. Poach eggs in simmering water with vinegar for 3 minutes. Toast bread, top with mashed avocado, wilted spinach and poached eggs. Season with black pepper.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 21,
+      "carbs_g": 34,
+      "fiber_g": 10,
+      "sugar_g": 3,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are everyday supermarket staples nationwide."
+    },
+    "sources": [
+      { "title": "Avocado on toast: 5 ways Recipe | myfoodbook", "url": "https://myfoodbook.com.au/recipes/show/avocado-on-toast-5-ways" },
+      { "title": "What you can expect from an Australian breakfast - KAYAK", "url": "https://www.kayak.com/news/australian-breakfast/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-003",
+    "name": "Weet-Bix with Milk",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Australia's number one breakfast cereal for generations, found in nearly half of Australian households; a wholegrain wheat biscuit cereal by Sanitarium.",
+    "ingredients": [
+      { "item": "Weet-Bix biscuits", "quantity": 2, "unit": "biscuits (30 g)" },
+      { "item": "full-cream milk", "quantity": 150, "unit": "ml" }
+    ],
+    "prepNotes": "Place Weet-Bix biscuits in a bowl and pour over cold milk. Let sit a minute to soften slightly before eating. Add sliced banana if desired.",
+    "nutrition": {
+      "calories": 200,
+      "protein_g": 9,
+      "carbs_g": 27,
+      "fiber_g": 4,
+      "sugar_g": 8,
+      "fat_g": 6,
+      "method": "Calculated from product nutrition panel (Sanitarium Weet-Bix) plus Australian Food Composition Database (NUTTAB/FSANZ) for milk"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Found in almost every Australian supermarket and corner store; one of the best-selling grocery items nationally."
+    },
+    "sources": [
+      { "title": "Weet-Bix™ is Australia's No.1 Breakfast Cereal", "url": "https://www.sanitarium.com/au/products/weet-bix/weet-bix/" },
+      { "title": "Calories in Sanitarium Weet-Bix, Original | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-breakfast-cereals-weet-bix-original/_T3fGXgjQ3-gFjSIAq4oNA" }
+    ]
+  },
+  {
+    "id": "au-breakfast-004",
+    "name": "Bacon and Egg Roll",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "An iconic Australian cafe and bakery staple, a tradie and weekend favourite found on nearly every cafe counter from Sydney to Perth.",
+    "ingredients": [
+      { "item": "soft white bread roll", "quantity": 1, "unit": "roll (90 g)" },
+      { "item": "bacon rashers", "quantity": 2, "unit": "rashers (50 g)" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "butter", "quantity": 5, "unit": "g" },
+      { "item": "tomato sauce (ketchup)", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Grill or pan-fry bacon until crisp. Fry the egg to preference. Split and lightly butter the roll, layer bacon and egg inside, and finish with tomato sauce.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 24,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 7,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Bacon, eggs and bread rolls are everyday staples nationwide; also sold ready-made at cafes, bakeries and milk bars."
+    },
+    "sources": [
+      { "title": "15 Of Sydney's Best Bacon And Egg Rolls To Get You Up In The Morning", "url": "https://www.theurbanlist.com/sydney/a-list/best-bacon-egg-rolls-sydney" },
+      { "title": "Bacon and Egg Roll recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/bacon-and-egg-roll" }
+    ]
+  },
+  {
+    "id": "au-breakfast-005",
+    "name": "Vegemite on Buttered Toast",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Considered Australia's national breakfast spread, a yeast-extract spread eaten thinly on toast in the vast majority of Australian households since 1922.",
+    "ingredients": [
+      { "item": "white or wholemeal bread", "quantity": 2, "unit": "slices (70 g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "Vegemite", "quantity": 6, "unit": "g (about 1 tsp)" }
+    ],
+    "prepNotes": "Toast the bread. Spread with butter while warm, then add a thin, even layer of Vegemite — a little goes a long way given its strong, salty flavour.",
+    "nutrition": {
+      "calories": 240,
+      "protein_g": 7,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 11,
+      "method": "Calculated from product nutrition panel (Bega Vegemite) plus Australian Food Composition Database (NUTTAB/FSANZ) for bread and butter"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Vegemite is sold in virtually every Australian grocery store and is a pantry staple nationwide."
+    },
+    "sources": [
+      { "title": "Vegemite on Toast: Australia's National Dish Revealed | Remitly", "url": "https://www.remitly.com/blog/lifestyle-culture/nationaldishes-vegemite-on-toast-australias-national-dish/" },
+      { "title": "vegemite on toast - TasteAtlas", "url": "https://tasteatlas.com/vegemite-on-toast" }
+    ]
+  },
+  {
+    "id": "au-breakfast-006",
+    "name": "Greek Yoghurt with Honey and Walnuts",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Reflects Australia's strong Greek migrant influence, especially in Melbourne, home to one of the largest Greek populations outside Greece; a simple yiaourti me meli breakfast adopted widely into Australian cafe culture.",
+    "ingredients": [
+      { "item": "Greek yoghurt (full-fat, plain)", "quantity": 200, "unit": "g" },
+      { "item": "honey", "quantity": 20, "unit": "g" },
+      { "item": "walnuts", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Spoon the Greek yoghurt into a bowl. Drizzle over the honey and scatter chopped walnuts on top. Serve immediately.",
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 14,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sugar_g": 21,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy", "tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Greek-style yoghurt brands (Jalna, Chobani, Five:AM) and walnuts are widely available in all major supermarkets."
+    },
+    "sources": [
+      { "title": "Still longing for a Greek breakfast | SBS Food", "url": "https://www.sbs.com.au/food/article/still-longing-for-a-greek-breakfast/tab9ljxlz" },
+      { "title": "Yiaourti Me Meli - Greek Yogurt, Honey and Nuts", "url": "https://toriavey.com/yiaourti-me-meli-greek-yogurt-honey-and-nuts/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-007",
+    "name": "The Big Breakfast (Eggs, Bacon, Sausage, Hash Brown, Mushroom and Tomato)",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A weekend cafe institution across Australia, served at venues from suburban diners to inner-city brunch spots, often called a 'big brekkie' or 'full Aussie breakfast'.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "bacon rashers", "quantity": 2, "unit": "rashers (50 g)" },
+      { "item": "beef or pork sausage", "quantity": 1, "unit": "sausage (60 g)" },
+      { "item": "hash brown", "quantity": 1, "unit": "piece (60 g)" },
+      { "item": "mushrooms", "quantity": 60, "unit": "g" },
+      { "item": "tomato", "quantity": 1, "unit": "small (90 g)" },
+      { "item": "sourdough toast", "quantity": 1, "unit": "slice (45 g)" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Grill bacon and sausage until cooked through. Pan-fry mushrooms and halved tomato in olive oil. Bake or fry the hash brown until golden. Fry or poach the eggs. Plate everything with a slice of toasted sourdough.",
+    "nutrition": {
+      "calories": 760,
+      "protein_g": 38,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 47,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "All components are common supermarket items; widely served pre-made at cafes nationwide as a weekend brunch order."
+    },
+    "sources": [
+      { "title": "Melbourne's Best Big Breakfasts | URBAN LIST MELBOURNE", "url": "https://www.theurbanlist.com/melbourne/a-list/melbourne-s-best-big-breakfasts" },
+      { "title": "Big breakfast options: 3 Delicious Choices | Flinders Lane Co", "url": "https://flinderslanecafe.com.au/blogs/news/big-breakfast-options-guide" }
+    ]
+  },
+  {
+    "id": "au-breakfast-008",
+    "name": "Acai Bowl with Granola and Banana",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A fixture of Bondi, Manly and Melbourne cafe culture, popularised by the surf and health-food scene before becoming a mainstream Australian brunch item.",
+    "ingredients": [
+      { "item": "frozen acai puree", "quantity": 100, "unit": "g" },
+      { "item": "frozen banana", "quantity": 80, "unit": "g" },
+      { "item": "milk or plant milk", "quantity": 60, "unit": "ml" },
+      { "item": "granola", "quantity": 40, "unit": "g" },
+      { "item": "fresh berries", "quantity": 50, "unit": "g" },
+      { "item": "coconut flakes", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Blend frozen acai puree, half the banana and milk until thick and smooth. Pour into a bowl. Top with granola, fresh berries, remaining banana slices and coconut flakes.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 8,
+      "carbs_g": 64,
+      "fiber_g": 8,
+      "sugar_g": 34,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Frozen acai puree packs are sold in the freezer aisle of major supermarkets and health food stores; widely served pre-made at cafes."
+    },
+    "sources": [
+      { "title": "How Acai Bowls Became a Breakfast Favourite in Melbourne", "url": "https://yohayo.com.au/blog/how-acai-bowls-became-a-breakfast-favourite/" },
+      { "title": "12 Best Açaí Bowls in Sydney for 2026", "url": "https://londonerinsydney.com/best-acai-bowls-in-sydney/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-009",
+    "name": "Ricotta Hotcakes with Banana and Honeycomb Butter",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "The signature dish of Sydney restaurateur Bill Granger's bills cafes since 1993, widely credited with helping define the modern Australian brunch and copied across cafe menus nationwide.",
+    "ingredients": [
+      { "item": "ricotta cheese", "quantity": 100, "unit": "g" },
+      { "item": "self-raising flour", "quantity": 60, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "milk", "quantity": 40, "unit": "ml" },
+      { "item": "banana", "quantity": 1, "unit": "medium (120 g)" },
+      { "item": "honeycomb butter (butter + honey)", "quantity": 20, "unit": "g" },
+      { "item": "maple syrup", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Whisk egg yolks, ricotta, flour and milk into a batter; fold through whisked egg whites. Cook spoonfuls in a buttered pan until golden on both sides. Stack with sliced banana, a dollop of honeycomb butter and a drizzle of maple syrup.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 22,
+      "carbs_g": 66,
+      "fiber_g": 3,
+      "sugar_g": 30,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Ricotta, flour and eggs are everyday supermarket staples; the dish is widely served ready-made at cafes including bills nationwide."
+    },
+    "sources": [
+      { "title": "Bill's Ricotta Hotcakes Recipe | Family-Friendly Recipes", "url": "https://fatmumslim.com.au/bills-ricotta-hotcakes/" },
+      { "title": "Ricotta Hotcakes with Honeycomb Butter by Bill Granger", "url": "http://leaveroomfordessert.com/ricotta-hotcakes-with-honeycomb-butter-by-bill-granger/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-010",
+    "name": "Corn Fritters with Avocado Salsa and Poached Egg",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A modern Australian brunch classic, popularised by chef Bill Granger and now a cafe-menu staple from Melbourne to Brisbane.",
+    "ingredients": [
+      { "item": "corn kernels", "quantity": 150, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large (1 for batter, 1 poached)" },
+      { "item": "plain flour", "quantity": 40, "unit": "g" },
+      { "item": "spring onion", "quantity": 15, "unit": "g" },
+      { "item": "avocado", "quantity": 80, "unit": "g" },
+      { "item": "tomato (diced, for salsa)", "quantity": 50, "unit": "g" },
+      { "item": "lime juice", "quantity": 5, "unit": "ml" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Mix corn, egg, flour and spring onion into a thick batter; pan-fry spoonfuls in olive oil until golden on both sides. Mash avocado with diced tomato and lime juice for the salsa. Poach the second egg. Stack fritters with salsa and top with the poached egg.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 18,
+      "carbs_g": 40,
+      "fiber_g": 7,
+      "sugar_g": 7,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Corn, eggs and avocado are everyday supermarket items available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Bill Granger's Corn Fritters with Avocado Salsa - RecipeTin Eats", "url": "https://www.recipetineats.com/bill-grangers-corn-fritters-avocado-salsa/" },
+      { "title": "Breakfast by Pillar Of Salt: Corn Fritters, Avocado Salsa and a Poached Egg", "url": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/breakfast-pillar-salt-corn-fritters-avocado-salsa-and-poached-egg" }
+    ]
+  },
+  {
+    "id": "au-breakfast-011",
+    "name": "Banh Mi Chao (Vietnamese-Australian Breakfast Skillet)",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Reflects Australia's large Vietnamese community; a deconstructed breakfast banh mi served as a sizzling skillet of pate, cold cuts and fried egg with crusty baguette, served at Vietnamese-Australian cafes in Melbourne and Sydney.",
+    "ingredients": [
+      { "item": "Vietnamese baguette (banh mi roll)", "quantity": 1, "unit": "roll (80 g)" },
+      { "item": "pork pate", "quantity": 20, "unit": "g" },
+      { "item": "Vietnamese pork cold cuts", "quantity": 40, "unit": "g" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "pickled carrot and daikon", "quantity": 40, "unit": "g" },
+      { "item": "coriander leaves", "quantity": 5, "unit": "g" },
+      { "item": "fish sauce", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Fry the egg sunny-side up in a small skillet. Warm pate and cold cuts briefly in the same pan with a dash of fish sauce. Serve everything sizzling in the skillet with pickled vegetables, coriander and the baguette on the side for dipping and scooping.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 22,
+      "carbs_g": 42,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Vietnamese bakeries and Asian grocers (common in Sydney's Cabramatta, Melbourne's Footscray and similar suburbs) stock baguettes, pate and cold cuts; basic ingredients also at major supermarkets."
+    },
+    "sources": [
+      { "title": "Five New Casual Lunchtime Vietnamese Spots in Melbourne | Broadsheet", "url": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/casual-vietnamese-lunch-spots" },
+      { "title": "K Cafe & Bar, Macquarie Park", "url": "https://kcafe.com.au/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-012",
+    "name": "Cappuccino and Almond Croissant",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Reflects strong Italian migrant influence on Australian cafe culture, especially in Melbourne (Lygon Street) where espresso bars and pastry cases are a daily breakfast ritual.",
+    "ingredients": [
+      { "item": "almond croissant", "quantity": 1, "unit": "pastry (90 g)" },
+      { "item": "full-cream milk (for cappuccino)", "quantity": 120, "unit": "ml" },
+      { "item": "espresso coffee", "quantity": 30, "unit": "ml" }
+    ],
+    "prepNotes": "Pull a shot of espresso and steam the milk to a light, airy foam for the cappuccino. Warm the almond croissant briefly if desired and serve alongside.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 11,
+      "carbs_g": 38,
+      "fiber_g": 3,
+      "sugar_g": 13,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten", "tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Italian-style espresso bars and bakeries selling almond croissants are common in every Australian city; croissants also sold frozen/par-baked at major supermarkets."
+    },
+    "sources": [
+      { "title": "Italian breakfast: cappuccino and cornetto - SpecialCoffee blog", "url": "https://specialcoffeeitaly.com/italian-breakfast-cappuccino-cornetto/" },
+      { "title": "The Complete Cappuccino Guide: History, Ratios & Italian vs Australian Style", "url": "https://coffeehero.com.au/blogs/news/complete-cappuccino-guide-history-ratios-styles" }
+    ]
+  },
+  {
+    "id": "au-breakfast-013",
+    "name": "Congee with Century Egg and Spring Onion",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A breakfast staple in Chinese-Australian communities, served at yum cha venues and Chinatown diners in Sydney, Melbourne and Brisbane.",
+    "ingredients": [
+      { "item": "cooked white rice congee (rice + water/stock)", "quantity": 350, "unit": "g" },
+      { "item": "century egg", "quantity": 1, "unit": "egg (40 g)" },
+      { "item": "shredded ginger", "quantity": 5, "unit": "g" },
+      { "item": "spring onion", "quantity": 10, "unit": "g" },
+      { "item": "sesame oil", "quantity": 5, "unit": "ml" },
+      { "item": "light soy sauce", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Simmer rice in stock or water for a long time until broken down into a thick porridge. Ladle into a bowl, top with sliced century egg, shredded ginger and spring onion, then finish with a drizzle of sesame oil and soy sauce.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 10,
+      "carbs_g": 52,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 8,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["eggs", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Century eggs and specialty Asian condiments are found at Asian grocers in most Australian cities; rice and soy sauce available at all major supermarkets."
+    },
+    "sources": [
+      { "title": "Asian Breakfasts | Asian Inspirations", "url": "https://asianinspirations.com.au/food-knowledge/asian-breakfasts/" },
+      { "title": "Early morning Chinese breakfast in Sydney - Tripadvisor forum", "url": "https://www.tripadvisor.com/ShowTopic-g255060-i122-k14182424-Early_morning_Chinese_breakfast_in_Sydney-Sydney_New_South_Wales.html" }
+    ]
+  },
+  {
+    "id": "au-breakfast-014",
+    "name": "Manakish Za'atar with Labneh",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A staple of Lebanese-Australian communities, especially in Sydney suburbs like Lakemba and Punchbowl, where bakeries sell fresh za'atar manakish each morning.",
+    "ingredients": [
+      { "item": "Lebanese flatbread dough", "quantity": 100, "unit": "g" },
+      { "item": "za'atar spice blend", "quantity": 10, "unit": "g" },
+      { "item": "olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "labneh", "quantity": 60, "unit": "g" },
+      { "item": "cucumber and tomato (side)", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Mix za'atar with olive oil to a paste and spread over rolled-out flatbread dough. Bake in a very hot oven for 6 to 8 minutes until the edges are golden and crisp. Serve warm with labneh and fresh cucumber and tomato on the side.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 13,
+      "carbs_g": 46,
+      "fiber_g": 4,
+      "sugar_g": 3,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Lebanese bakeries selling fresh manakish are common in Sydney and Melbourne suburbs with large Lebanese-Australian populations; za'atar and labneh also sold at major supermarkets' international aisles."
+    },
+    "sources": [
+      { "title": "Start Your Day Right with Authentic Lebanese Breakfast in Sydney", "url": "https://www.arabella.com.au/start-your-day-right-with-authentic-lebanese-breakfast-in-sydney/" },
+      { "title": "Al Fayhaa Bakery, Lakemba | Time Out Sydney", "url": "https://www.timeout.com/sydney/restaurants/al-fayhaa-bakery" }
+    ]
+  },
+  {
+    "id": "au-breakfast-015",
+    "name": "Sausage Roll (Breakfast/Brunch on the Go)",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A bakery and tuck-shop classic eaten by Australians at any time of day including breakfast, especially as a quick grab-and-go option from local bakeries.",
+    "ingredients": [
+      { "item": "puff pastry sausage roll (beef or pork)", "quantity": 1, "unit": "roll (120 g)" },
+      { "item": "tomato sauce (ketchup)", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Bake the sausage roll according to packet instructions, or buy fresh from a bakery, until the pastry is golden and flaky. Serve warm with tomato sauce for dipping.",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 11,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 26,
+      "method": "Calculated from product nutrition panels (Woolworths/Coles bakery sausage rolls) via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Sold fresh at almost every Australian bakery, service station and supermarket bakery section nationwide."
+    },
+    "sources": [
+      { "title": "Best Sausage Rolls in Sydney | Broadsheet", "url": "https://www.broadsheet.com.au/sydney/guides/best-sausage-rolls" },
+      { "title": "Sausage Rolls - RecipeTin Eats", "url": "https://www.recipetineats.com/special-pork-fennel-sausage-rolls/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-016",
+    "name": "Bacon, Egg and Cheese Breakfast Pie",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A breakfast-specific take on the iconic Australian meat pie, sold at bakeries as a morning alternative to the traditional savoury mince pie.",
+    "ingredients": [
+      { "item": "shortcrust and puff pastry pie shell", "quantity": 1, "unit": "pie (160 g)" },
+      { "item": "egg filling", "quantity": 80, "unit": "g" },
+      { "item": "bacon", "quantity": 30, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 20, "unit": "g" },
+      { "item": "diced onion", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Line a pie tin with shortcrust pastry and fill with whisked egg, cooked bacon pieces, diced onion and grated cheddar. Top with a puff pastry lid and bake at 200°C for about 25 minutes until golden. Best bought fresh from a bakery and eaten warm.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 20,
+      "carbs_g": 32,
+      "fiber_g": 1,
+      "sugar_g": 3,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["local markets", "Woolworths", "Coles"],
+      "notes": "Specialty bakeries sell breakfast-style pies (egg, bacon, cheese fillings) as a morning alternative to standard meat pies; classic meat pies are sold chilled or frozen at all major supermarkets."
+    },
+    "sources": [
+      { "title": "Breakfast Egg & Bacon Pie - Australian Bakery Cafe", "url": "https://australianbakerycafe.com/pies-sausage-rolls-c-65/breakfast-egg-bacon-pie-p-210.html" },
+      { "title": "Meat Pies, Sausage Rolls, Pasties", "url": "https://australianbakerycafe.com/pies-sausage-rolls-c-65/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-017",
+    "name": "Baked Beans on Toast",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A simple, budget-friendly breakfast found in most Australian households, with canned baked beans (especially Heinz) a pantry staple eaten on toast.",
+    "ingredients": [
+      { "item": "canned baked beans in tomato sauce", "quantity": 220, "unit": "g" },
+      { "item": "wholegrain bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Heat the baked beans in a saucepan or microwave until hot. Toast the bread and butter it. Pour the hot beans over the toast and serve immediately.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 17,
+      "carbs_g": 62,
+      "fiber_g": 12,
+      "sugar_g": 16,
+      "fat_g": 10,
+      "method": "Calculated from product nutrition panel (Heinz Baked Beans) plus Australian Food Composition Database (NUTTAB/FSANZ) for bread and butter"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Canned baked beans are an inexpensive pantry staple in nearly every Australian supermarket and household."
+    },
+    "sources": [
+      { "title": "What you can expect from an Australian breakfast - KAYAK", "url": "https://www.kayak.com/news/australian-breakfast/" },
+      { "title": "Avocado and baked beans on toast - Australian Avocados", "url": "https://australianavocados.com.au/recipes/avocado-and-baked-beans-on-toast/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-018",
+    "name": "Overnight Chia Pudding with Coconut and Mango",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A popular make-ahead breakfast in Australian health-food and cafe culture, frequently featured by Australian chia growers and wellness cafes in Sydney and Brisbane.",
+    "ingredients": [
+      { "item": "chia seeds", "quantity": 30, "unit": "g" },
+      { "item": "coconut milk", "quantity": 200, "unit": "ml" },
+      { "item": "mango (diced)", "quantity": 80, "unit": "g" },
+      { "item": "honey", "quantity": 10, "unit": "g" },
+      { "item": "shredded coconut", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Whisk chia seeds into coconut milk with honey and refrigerate overnight, stirring once after 30 minutes to prevent clumping. In the morning, top with diced mango and shredded coconut.",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 8,
+      "carbs_g": 32,
+      "fiber_g": 14,
+      "sugar_g": 18,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Chia seeds (many grown in North Queensland), canned coconut milk and mango are widely available year-round, though mango is best and cheapest in summer months."
+    },
+    "sources": [
+      { "title": "Overnight Chia Breakfast Pudding", "url": "https://happyhealthyyou.com.au/blogs/recipes/overnight-chia-breakfast-pudding" },
+      { "title": "Overnight Oats and Chia Seed Pudding - Sovereign Foods", "url": "https://sovereignfoods.com.au/blogs/recipe/overnight-oats-chia-pudding" }
+    ]
+  },
+  {
+    "id": "au-breakfast-019",
+    "name": "Crumpets with Honey Butter",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A traditional Australian breakfast and teatime favourite, with crumpets a pantry staple and honey butter a cafe-style upgrade seen on brunch menus in Hobart and Sydney.",
+    "ingredients": [
+      { "item": "crumpets", "quantity": 2, "unit": "crumpets (120 g)" },
+      { "item": "butter", "quantity": 20, "unit": "g" },
+      { "item": "honey", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Toast crumpets until golden and crisp on the outside with the holes puffed up. Whip softened butter with honey until light, then spread generously over the warm crumpets.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 7,
+      "carbs_g": 48,
+      "fiber_g": 2,
+      "sugar_g": 16,
+      "fat_g": 15,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Crumpets are a standard bread-aisle item in every Australian supermarket; honey butter is a simple home or cafe upgrade."
+    },
+    "sources": [
+      { "title": "Crumpets with homemade honey butter | Gourmet Traveller", "url": "https://www.gourmettraveller.com.au/recipe/chefs-recipes/crumpets-with-homemade-honey-butter-9127/" },
+      { "title": "Crumpets with whipped brown butter and honey | SBS Food", "url": "https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/crumpets-whipped-brown-butter-honey/yblc3eo18" }
+    ]
+  },
+  {
+    "id": "au-breakfast-020",
+    "name": "Toasted Banana Bread with Ricotta",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A near-universal item on Australian cafe counters, typically served toasted with butter or ricotta and honey as a casual breakfast or with-coffee order.",
+    "ingredients": [
+      { "item": "banana bread", "quantity": 1, "unit": "slice (90 g)" },
+      { "item": "ricotta cheese", "quantity": 40, "unit": "g" },
+      { "item": "honey", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Toast the banana bread slice lightly under a grill or in a sandwich press until warm and slightly crisp at the edges. Top with a generous dollop of ricotta and a drizzle of honey.",
+    "nutrition": {
+      "calories": 400,
+      "protein_g": 9,
+      "carbs_g": 52,
+      "fiber_g": 2,
+      "sugar_g": 30,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Banana bread is sold pre-made at every Australian cafe and in the bakery aisle of major supermarkets nationwide."
+    },
+    "sources": [
+      { "title": "Café-Style Banana Bread | Close Encounters of the Cooking Kind", "url": "https://closeencountersofthecookingkind.wordpress.com/2015/01/26/cafe-style-banana-bread/" },
+      { "title": "6 Places to go Bananas for Banana Bread in Sydney", "url": "https://spoonuniversity.com/school/uc-berkeley/6-places-to-go-bananas-for-banana-bread-in-sydney/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-021",
+    "name": "Bircher Muesli with Apple, Yoghurt and Toasted Almonds",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A make-ahead cafe and home breakfast across Australia; oats soaked overnight in juice and yoghurt with grated apple, a European import that has become a standard cafe-fridge item nationwide.",
+    "ingredients": [
+      { "item": "rolled oats", "quantity": 50, "unit": "g" },
+      { "item": "apple juice", "quantity": 80, "unit": "ml" },
+      { "item": "Greek yoghurt", "quantity": 100, "unit": "g" },
+      { "item": "grated apple", "quantity": 80, "unit": "g" },
+      { "item": "toasted almonds (chopped)", "quantity": 15, "unit": "g" },
+      { "item": "cinnamon", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Combine oats, apple juice, yoghurt, grated apple and cinnamon in a jar or bowl. Cover and refrigerate overnight to soften the oats. In the morning, stir and top with toasted chopped almonds before serving.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 54,
+      "fiber_g": 7,
+      "sugar_g": 28,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "tree nuts", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Oats, juice, yoghurt and almonds are everyday supermarket staples nationwide; pre-made bircher muesli tubs are also sold in cafe fridges and supermarket chiller aisles."
+    },
+    "sources": [
+      { "title": "Easy Bircher Muesli Recipe | Cooking with Nana Ling", "url": "https://www.cookingwithnanaling.com/bircher-muesli/" },
+      { "title": "Toasted Muesli Recipe - CONFIDENT in the KITCHEN", "url": "https://confidentinthekitchen.com/2018/02/22/toasted-muesli/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-022",
+    "name": "Protein Pancakes with Greek Yoghurt and Berries",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A modern high-protein cafe alternative to buttermilk pancakes, offered at chains such as The Pancake Parlour and widely made at home using Australian protein-pancake mixes from brands like Macro Mike and VPA.",
+    "ingredients": [
+      { "item": "protein pancake mix (whey-based)", "quantity": 60, "unit": "g" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "milk", "quantity": 100, "unit": "ml" },
+      { "item": "Greek yoghurt", "quantity": 80, "unit": "g" },
+      { "item": "mixed berries", "quantity": 80, "unit": "g" },
+      { "item": "maple syrup", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Whisk the protein pancake mix with egg and milk into a smooth batter. Cook spoonfuls in a non-stick pan over medium heat until golden on both sides. Stack and top with Greek yoghurt, mixed berries and a light drizzle of maple syrup.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 34,
+      "carbs_g": 46,
+      "fiber_g": 5,
+      "sugar_g": 20,
+      "fat_g": 13,
+      "method": "Calculated from product nutrition panel (Macro Mike/VPA protein pancake mix) plus Australian Food Composition Database (NUTTAB/FSANZ) for egg, milk, yoghurt and berries"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Protein pancake mixes from Macro Mike, VPA and Bulk Nutrients are sold at Woolworths, Coles and online sports-nutrition retailers; The Pancake Parlour offers a ready-made protein pancake option on its cafe menu."
+    },
+    "sources": [
+      { "title": "Our Menu — The Pancake Parlour", "url": "https://www.pancakeparlour.com.au/menu" },
+      { "title": "Easy Protein Pancakes Recipe - VPA Australia", "url": "https://www.vpa.com.au/blogs/recipes/protein-pancake-recipe" }
+    ]
+  },
+  {
+    "id": "au-breakfast-023",
+    "name": "Turkish Eggs (Cilbir) with Garlic Yoghurt and Chilli Butter",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Turkish-Australian brunch dish that has become a fixture on inner-city cafe menus across Sydney, Melbourne and Perth, reflecting the broader Middle Eastern and Mediterranean influence on modern Australian brunch food.",
+    "ingredients": [
+      { "item": "Greek yoghurt", "quantity": 150, "unit": "g" },
+      { "item": "garlic clove (crushed)", "quantity": 1, "unit": "clove" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "butter", "quantity": 20, "unit": "g" },
+      { "item": "chilli flakes (Turkish pul biber if available)", "quantity": 2, "unit": "g" },
+      { "item": "sourdough bread", "quantity": 1, "unit": "slice (45 g)" },
+      { "item": "white vinegar (for poaching)", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Stir crushed garlic through Greek yoghurt and bring to room temperature; spread over a plate. Poach eggs in simmering water with vinegar for about 3 minutes. Melt butter in a small pan with chilli flakes until foaming and fragrant. Nestle poached eggs on the yoghurt, spoon over the hot chilli butter, and serve with toasted sourdough for dipping.",
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 23,
+      "carbs_g": 22,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Greek yoghurt, eggs and butter are everyday supermarket staples; Turkish chilli flakes (pul biber) are sold at Middle Eastern grocers and some Coles/Woolworths international aisles, with standard chilli flakes a suitable substitute."
+    },
+    "sources": [
+      { "title": "Turkish Eggs (Cilbir) - Cafe Delites", "url": "https://cafedelites.com/turkish-eggs-cilbir/" },
+      { "title": "Turkish Cilbir - Australian Eggs", "url": "https://www.australianeggs.org.au/recipes-and-cooking/cilbir" }
+    ]
+  },
+  {
+    "id": "au-breakfast-024",
+    "name": "Shakshuka with Feta and Crusty Bread",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Middle Eastern egg-and-tomato dish that has become a staple weekend brunch order at Australian cafes, popularised by venues such as Shuk in Sydney's Bondi and Chatswood and widely featured on Melbourne brunch menus.",
+    "ingredients": [
+      { "item": "canned crushed tomatoes", "quantity": 250, "unit": "g" },
+      { "item": "capsicum (diced)", "quantity": 50, "unit": "g" },
+      { "item": "onion (diced)", "quantity": 40, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "feta cheese", "quantity": 30, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "ground cumin and paprika", "quantity": 3, "unit": "g" },
+      { "item": "crusty sourdough bread", "quantity": 1, "unit": "slice (45 g)" }
+    ],
+    "prepNotes": "Saute onion and capsicum in olive oil until soft, then add cumin and paprika and cook briefly. Pour in crushed tomatoes and simmer for 8 to 10 minutes until thickened. Make two wells in the sauce, crack in the eggs, cover and cook until whites are just set. Crumble feta over the top and serve with crusty bread for scooping.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 21,
+      "carbs_g": 30,
+      "fiber_g": 6,
+      "sugar_g": 12,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Canned tomatoes, capsicum, onion, eggs and feta are everyday supermarket staples nationwide; the dish is widely served ready-made at Middle Eastern-influenced cafes in every major Australian city."
+    },
+    "sources": [
+      { "title": "A Recipe for Shuk Cafe's Shakshuka, Bondi | Broadsheet", "url": "https://www.broadsheet.com.au/sydney/food-and-drink/article/recipe-shuks-shakshuka" },
+      { "title": "The 16 Best Shakshuka in Melbourne | Melbourne10", "url": "https://melbourne10.com/shakshuka/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-025",
+    "name": "Nutri-Grain with Milk",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of Australia's most recognised breakfast cereals since 1976, known for its malty 'block and hole' wheat-corn-oat biscuits and long-running 'Iron Man food' marketing aimed at active households.",
+    "ingredients": [
+      { "item": "Nutri-Grain cereal", "quantity": 45, "unit": "g" },
+      { "item": "full-cream milk", "quantity": 150, "unit": "ml" }
+    ],
+    "prepNotes": "Pour Nutri-Grain into a bowl and top with cold milk. Eat immediately while the biscuits still have some crunch, or let sit briefly to soften to preference.",
+    "nutrition": {
+      "calories": 270,
+      "protein_g": 11,
+      "carbs_g": 42,
+      "fiber_g": 4,
+      "sugar_g": 14,
+      "fat_g": 6,
+      "method": "Calculated from product nutrition panel (Kellogg's Nutri-Grain) plus Australian Food Composition Database (NUTTAB/FSANZ) for milk"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sold in the cereal aisle of every major Australian supermarket; one of the longest-running cereal brands in the country."
+    },
+    "sources": [
+      { "title": "Nutri-Grain Is Australia's Best Cereal", "url": "https://www.buzzfeed.com/jemimaskelley/nutrigrain-best-cereal-in-australia" },
+      { "title": "Kellogg's® Nutri-Grain® cereal | Kellogg's Australia", "url": "https://www.kelloggs.com.au/en_AU/products/nutri-grain-product.html" }
+    ]
+  },
+  {
+    "id": "au-breakfast-026",
+    "name": "Cottage Cheese on Rye with Tomato and Cracked Pepper",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A protein-forward, budget-friendly breakfast that has grown in popularity in Australian cafes and home kitchens as cottage cheese has seen a resurgence as a high-protein staple.",
+    "ingredients": [
+      { "item": "rye bread", "quantity": 2, "unit": "slices (80 g)" },
+      { "item": "cottage cheese", "quantity": 150, "unit": "g" },
+      { "item": "tomato (sliced)", "quantity": 80, "unit": "g" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" },
+      { "item": "cracked black pepper", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Toast the rye bread. Spread a generous layer of cottage cheese over each slice. Top with sliced tomato, a drizzle of olive oil and a good crack of black pepper.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 26,
+      "carbs_g": 36,
+      "fiber_g": 6,
+      "sugar_g": 6,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Cottage cheese, rye bread and tomatoes are everyday supermarket staples available nationwide year-round."
+    },
+    "sources": [
+      { "title": "Scrambled Egg and Salmon Bagels Recipe - Australian Eggs", "url": "https://www.australianeggs.org.au/recipes-and-cooking/scrambled-egg-and-salmon-bagels" },
+      { "title": "High Protein Overnight Oats - Nourished by Nic", "url": "https://nourishedbynic.com/high-protein-overnight-oats/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-027",
+    "name": "Smoked Salmon and Scrambled Egg Bagel",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A staple cafe brunch order across Australian cities, combining soft scrambled eggs, cream cheese and smoked salmon on a toasted bagel, listed on weekend brunch menus from Sydney to Hobart.",
+    "ingredients": [
+      { "item": "bagel", "quantity": 1, "unit": "bagel (95 g)" },
+      { "item": "cream cheese", "quantity": 30, "unit": "g" },
+      { "item": "smoked salmon", "quantity": 60, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "butter (for scrambling)", "quantity": 5, "unit": "g" },
+      { "item": "chives", "quantity": 3, "unit": "g" }
+    ],
+    "prepNotes": "Split and toast the bagel. Gently scramble the eggs in butter over low heat until just set and creamy. Spread cream cheese on the bagel base, layer with smoked salmon and the scrambled egg, then scatter chives and close with the bagel top.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 32,
+      "carbs_g": 42,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["eggs", "dairy", "gluten", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Bagels, cream cheese and smoked salmon (notably Tasmanian-farmed) are sold at all major supermarkets; smoked salmon prices are higher than other proteins but the product is widely available."
+    },
+    "sources": [
+      { "title": "Breakfast Egg and Salmon Bagels | myfoodbook with Australian Eggs", "url": "https://myfoodbook.com.au/recipes/show/breakfast-egg-and-salmon-bagels" },
+      { "title": "Smoked Salmon Brunch Bagel - Tassal FoodService", "url": "https://tassalfoodservice.com.au/recipes/smoked-salmon-brunch-bagel/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-028",
+    "name": "High-Protein Overnight Oats with Whey and Peanut Butter",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A staple make-ahead breakfast in Australia's gym and active-lifestyle culture, with recipes and protein powder pairings widely promoted by Australian sports-nutrition brands such as Bulk Nutrients and Optimum Nutrition.",
+    "ingredients": [
+      { "item": "rolled oats", "quantity": 50, "unit": "g" },
+      { "item": "milk", "quantity": 150, "unit": "ml" },
+      { "item": "vanilla whey protein powder", "quantity": 30, "unit": "g" },
+      { "item": "peanut butter", "quantity": 15, "unit": "g" },
+      { "item": "banana (sliced)", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Stir oats, milk and whey protein powder together in a jar until well combined. Cover and refrigerate overnight. In the morning, top with a dollop of peanut butter and sliced banana before eating.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 36,
+      "carbs_g": 52,
+      "fiber_g": 7,
+      "sugar_g": 18,
+      "fat_g": 14,
+      "method": "Calculated from product nutrition panel (whey protein powder) plus Australian Food Composition Database (NUTTAB/FSANZ) for oats, milk, peanut butter and banana"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Oats, milk, peanut butter and banana are everyday supermarket staples; whey protein powder is sold at supermarkets, chemists and specialty sports-nutrition retailers nationwide."
+    },
+    "sources": [
+      { "title": "High Protein Overnight Oats | Bulk Nutrients Recipe", "url": "https://www.bulknutrients.com.au/blog/recipes/high-protein-overnight-oats" },
+      { "title": "High Protein Overnight Oats | Optimum Nutrition AU", "url": "https://www.optimumnutrition.com/en-au/recipes/meals/high-protein-overnight-oats" }
+    ]
+  },
+  {
+    "id": "au-breakfast-029",
+    "name": "UP&GO Liquid Breakfast",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Australia's number one liquid breakfast by sales, a Sanitarium product launched as a convenient on-the-go alternative to a bowl of cereal, consumed especially by commuters, students and shift workers short on time.",
+    "ingredients": [
+      { "item": "UP&GO liquid breakfast (banana or original flavour)", "quantity": 250, "unit": "ml" }
+    ],
+    "prepNotes": "Shake well and drink straight from the carton or pour into a glass. No preparation required; best kept refrigerated and consumed within the use-by window once opened.",
+    "nutrition": {
+      "calories": 215,
+      "protein_g": 9,
+      "carbs_g": 30,
+      "fiber_g": 3,
+      "sugar_g": 21,
+      "fat_g": 5,
+      "method": "Calculated from product nutrition panel (Sanitarium UP&GO Original)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Sold in multipacks in the fridge aisle of virtually every Australian supermarket and most service stations and convenience stores; dairy-free, no-added-sugar and protein-added variants are also available."
+    },
+    "sources": [
+      { "title": "Convenient and nutritious liquid breakfast - UP&GO", "url": "https://upandgo.com.au/" },
+      { "title": "Liquid breakfasts: up and going strong - Food & Drink Business", "url": "https://www.foodanddrinkbusiness.com.au/news/liquid-breakfasts-up-and-going-strong" }
+    ]
+  },
+  {
+    "id": "au-breakfast-030",
+    "name": "Dim Sims from the Local Bakery",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "An Australian-Chinese takeaway staple sold from early morning at suburban bakeries and fish-and-chip shops, especially popular as an early breakfast for shift workers and tradies in Melbourne and Sydney suburbs with bakeries opening at 4am.",
+    "ingredients": [
+      { "item": "steamed pork and cabbage dim sims", "quantity": 3, "unit": "dim sims (180 g)" },
+      { "item": "soy sauce", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Steam or deep-fry the dim sims according to bakery or packet instructions until piping hot through the centre. Serve with soy sauce for dipping.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 14,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["local markets", "Woolworths", "Coles"],
+      "notes": "Sold fresh from early-opening suburban bakeries and fish-and-chip shops nationwide, and as frozen packs in the supermarket freezer aisle."
+    },
+    "sources": [
+      { "title": "Dim Sims - Brentcorp Foodservice & Bulk Barn", "url": "https://www.brentcorp.com.au/product-category/fast-food-take-away-food/dim-sims/" },
+      { "title": "Undiscovered great dim sim place - Prosper Dim Sim and Bakery, Campsie - Tripadvisor", "url": "https://www.tripadvisor.com.au/ShowUserReviews-g2019250-d11773823-r433845040-Prosper_Dim_Sim_and_Bakery-Campsie_Canterbury_Greater_Sydney_New_South_Wales.html" }
+    ]
+  },
+  {
+    "id": "au-breakfast-031",
+    "name": "Breakfast Burrito with Scrambled Eggs, Bacon and Avocado",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Mexican-influenced brunch item that has become a regular fixture on Australian cafe menus in cities like Sydney, Melbourne, Perth and Canberra, often loaded with eggs, bacon, hash brown, cheese and avocado.",
+    "ingredients": [
+      { "item": "flour tortilla (large)", "quantity": 1, "unit": "tortilla (70 g)" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "bacon (diced)", "quantity": 40, "unit": "g" },
+      { "item": "avocado", "quantity": 60, "unit": "g" },
+      { "item": "cheddar cheese (grated)", "quantity": 25, "unit": "g" },
+      { "item": "tomato salsa", "quantity": 30, "unit": "g" },
+      { "item": "butter (for scrambling)", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Fry diced bacon until crisp, then scramble the eggs in the same pan with a little butter. Warm the tortilla. Layer scrambled egg, bacon, grated cheese, mashed avocado and salsa down the centre, then roll up tightly and serve.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 30,
+      "carbs_g": 34,
+      "fiber_g": 6,
+      "sugar_g": 3,
+      "fat_g": 33,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Tortillas, eggs, bacon, avocado and cheese are everyday supermarket staples nationwide; the dish is widely served ready-made at cafes with a Mexican or American brunch influence."
+    },
+    "sources": [
+      { "title": "THE 10 BEST Burritos in Sydney (Updated June 2026) - Tripadvisor", "url": "https://www.tripadvisor.com/Restaurants-g255060-zfd10878-Sydney_New_South_Wales-Burrito.html" },
+      { "title": "The best breakfast and brunch spots in Canberra | Australian Traveller", "url": "https://www.australiantraveller.com/act/canberra/best-breakfast-and-brunch-canberra/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-032",
+    "name": "Cornetto con Crema and Espresso",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A classic Italian-Australian breakfast served at Italian-heritage cafes and pasticcerias such as Brunetti on Melbourne's Lygon Street, where a custard-filled cornetto and a short black or espresso has been a daily ritual since the precinct's postwar Italian migrant boom.",
+    "ingredients": [
+      { "item": "cornetto (custard-filled Italian croissant)", "quantity": 1, "unit": "pastry (85 g)" },
+      { "item": "espresso coffee", "quantity": 30, "unit": "ml" }
+    ],
+    "prepNotes": "Pull a single or double shot of espresso. Warm the cornetto slightly if desired and serve alongside the coffee, eating it the traditional way standing at the counter or seated with a short black.",
+    "nutrition": {
+      "calories": 310,
+      "protein_g": 6,
+      "carbs_g": 34,
+      "fiber_g": 1,
+      "sugar_g": 14,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["local markets", "Woolworths", "Coles"],
+      "notes": "Italian pasticcerias and cafes selling fresh cornetti are concentrated in Melbourne's Carlton/Lygon Street and similar Italian-heritage precincts in other cities; frozen or par-baked croissants are sold at major supermarkets as a home alternative."
+    },
+    "sources": [
+      { "title": "Brunetti Classico - Lygon Street Cafe", "url": "https://brunetticlassico.com.au/carlton/" },
+      { "title": "Italian breakfast: cappuccino and cornetto - SpecialCoffee blog", "url": "https://specialcoffeeitaly.com/italian-breakfast-cappuccino-cornetto/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-033",
+    "name": "Spanakopita-Style Spinach and Feta Filo Roll",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A savoury Greek-Australian breakfast pastry sold at Greek bakeries in Melbourne suburbs like Oakleigh and Northcote, eaten as a portable morning option alongside coffee, reflecting the strength of Melbourne's Greek community.",
+    "ingredients": [
+      { "item": "filo pastry spanakopita roll (spinach and feta filling)", "quantity": 1, "unit": "roll (150 g)" },
+      { "item": "lemon wedge", "quantity": 1, "unit": "wedge" }
+    ],
+    "prepNotes": "Warm the spanakopita roll in the oven at 180°C for about 10 minutes until the filo is crisp and golden, or buy fresh from a Greek bakery and eat warm. Serve with a wedge of lemon to squeeze over.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 13,
+      "carbs_g": 28,
+      "fiber_g": 3,
+      "sugar_g": 2,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["local markets", "Woolworths", "Coles"],
+      "notes": "Greek bakeries selling fresh spanakopita are concentrated in Melbourne suburbs with large Greek-Australian populations such as Oakleigh and Northcote; frozen spanakopita rolls and triangles are also sold at major supermarkets."
+    },
+    "sources": [
+      { "title": "Still longing for a Greek breakfast | SBS Food", "url": "https://www.sbs.com.au/food/article/still-longing-for-a-greek-breakfast/tab9ljxlz" },
+      { "title": "Yiaourti Me Meli - Greek Yogurt, Honey and Nuts", "url": "https://toriavey.com/yiaourti-me-meli-greek-yogurt-honey-and-nuts/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-034",
+    "name": "Bacon and Egg McMuffin-Style Breakfast Muffin",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A fast-food and bakery-cafe breakfast format eaten widely by commuters across Australia, built on a toasted English muffin with egg, bacon and cheese, popularised nationally by McDonald's Australia's Bacon & Egg McMuffin and echoed in bakery-cafe versions at chains like Muffin Break.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "muffin (60 g)" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "bacon rasher", "quantity": 1, "unit": "rasher (25 g)" },
+      { "item": "cheddar cheese slice", "quantity": 20, "unit": "g" },
+      { "item": "butter", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Toast the split English muffin and spread lightly with butter. Fry or grill the bacon until crisp, and fry the egg in a round mould to fit the muffin. Layer bacon, egg and cheese between the muffin halves and serve warm.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 22,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 19,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "English muffins, bacon, eggs and cheese slices are everyday supermarket staples nationwide; the assembled version is sold ready-made at McDonald's, Hungry Jack's, Muffin Break and most bakery cafes."
+    },
+    "sources": [
+      { "title": "Bacon & Egg McMuffin Morning Brekkie | McDonald's AU", "url": "https://www.mcdonalds.com/au/en-au/menu/breakfast/bacon-egg-mcmuffin.html" },
+      { "title": "Bacon & Egg Roll - Muffin Break Australia", "url": "https://muffinbreak.com.au/our-menu/bacon-egg-roll-2/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-035",
+    "name": "Vegemite and Apricot Jam Toast",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A distinctly Australian sweet-and-savoury toast combination that regularly surprises overseas visitors, with Vegemite and apricot jam together on buttered toast a genuine household habit rather than an internet myth.",
+    "ingredients": [
+      { "item": "white or wholemeal bread", "quantity": 2, "unit": "slices (70 g)" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "Vegemite", "quantity": 5, "unit": "g" },
+      { "item": "apricot jam", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Toast the bread and spread with butter while warm. Spread a thin layer of Vegemite on one half of each slice and a thin layer of apricot jam on the other half, or swirl the two together, before eating.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 7,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 13,
+      "fat_g": 11,
+      "method": "Calculated from product nutrition panel (Bega Vegemite, jam) plus Australian Food Composition Database (NUTTAB/FSANZ) for bread and butter"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Vegemite, jam, bread and butter are everyday pantry staples in nearly every Australian household and supermarket nationwide."
+    },
+    "sources": [
+      { "title": "Aussies Swear By Vegemite And Jam Toast - BuzzFeed", "url": "https://www.buzzfeed.com/juliawilling/i-tried-vegemite-and-jam-today" },
+      { "title": "Vegemite on Toast: Australia's National Dish Revealed | Remitly", "url": "https://www.remitly.com/blog/lifestyle-culture/nationaldishes-vegemite-on-toast-australias-national-dish/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-036",
+    "name": "Peanut Butter and Banana Protein Smoothie Bowl",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A thick, spoonable smoothie bowl popular at health-focused Australian cafes and a common home breakfast in gym and active-lifestyle circles, combining frozen banana, peanut butter and protein for a substantial morning meal.",
+    "ingredients": [
+      { "item": "frozen banana", "quantity": 120, "unit": "g" },
+      { "item": "Greek yoghurt", "quantity": 100, "unit": "g" },
+      { "item": "milk", "quantity": 60, "unit": "ml" },
+      { "item": "peanut butter", "quantity": 20, "unit": "g" },
+      { "item": "vanilla whey protein powder", "quantity": 15, "unit": "g" },
+      { "item": "granola (topping)", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Blend frozen banana, Greek yoghurt, milk, peanut butter and protein powder until thick and smooth, adding a splash more milk only if needed to blend. Pour into a bowl and top with granola and a drizzle of extra peanut butter.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 30,
+      "carbs_g": 48,
+      "fiber_g": 6,
+      "sugar_g": 26,
+      "fat_g": 18,
+      "method": "Calculated from product nutrition panel (whey protein powder) plus Australian Food Composition Database (NUTTAB/FSANZ) for banana, yoghurt, milk, peanut butter and granola"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Banana, yoghurt, milk, peanut butter and granola are everyday supermarket staples; whey protein powder is widely sold at supermarkets and sports-nutrition retailers nationwide."
+    },
+    "sources": [
+      { "title": "Peanut Butter Protein Smoothie Bowl - I Heart Vegetables", "url": "https://iheartvegetables.com/peanut-butter-protein-smoothie-bowl/" },
+      { "title": "High-Protein Smoothie Bowl | Mob", "url": "https://www.mob.co.uk/recipes/high-protein-breakfast-smoothie" }
+    ]
+  },
+  {
+    "id": "au-breakfast-037",
+    "name": "Blueberry Muffin and Flat White (Grab-and-Go)",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of the most common commuter breakfasts in Australia, bought from cafes, bakeries and service stations on the way to work, pairing a bakery muffin with a flat white, the espresso-and-milk style Australia is internationally known for.",
+    "ingredients": [
+      { "item": "blueberry muffin", "quantity": 1, "unit": "muffin (110 g)" },
+      { "item": "full-cream milk (for flat white)", "quantity": 150, "unit": "ml" },
+      { "item": "espresso coffee", "quantity": 30, "unit": "ml" }
+    ],
+    "prepNotes": "Pull a shot of espresso and steam milk to a smooth, velvety microfoam for the flat white. Buy the muffin fresh from the cafe counter or bakery and eat alongside the coffee.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 10,
+      "carbs_g": 58,
+      "fiber_g": 2,
+      "sugar_g": 32,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Bakery muffins and flat whites are sold at virtually every Australian cafe, service station and supermarket bakery counter nationwide."
+    },
+    "sources": [
+      { "title": "Food Trends 101: Grab n Go Breakfast Meals | Ordermentum", "url": "https://www.ordermentum.com/blog/food-trends-101-grab-n-go-breakfast-meals" },
+      { "title": "50 Perth Breakfasts To Tick Off In 2026 | URBAN LIST PERTH", "url": "https://www.theurbanlist.com/perth/a-list/best-breakfast-perth" }
+    ]
+  },
+  {
+    "id": "au-breakfast-038",
+    "name": "Toasted Sourdough with Peanut Butter and Banana",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A simple, budget-friendly home breakfast eaten across Australian households, pairing wholesome pantry staples and a regular feature on cafe all-day breakfast and kids' menus.",
+    "ingredients": [
+      { "item": "sourdough bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "peanut butter", "quantity": 30, "unit": "g" },
+      { "item": "banana (sliced)", "quantity": 100, "unit": "g" },
+      { "item": "honey", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Toast the sourdough until golden. Spread generously with peanut butter while still warm, top with sliced banana and finish with a light drizzle of honey.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 15,
+      "carbs_g": 58,
+      "fiber_g": 7,
+      "sugar_g": 22,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sourdough, peanut butter and bananas are everyday supermarket staples available nationwide year-round at low cost."
+    },
+    "sources": [
+      { "title": "26 Best Grab-and-Go Breakfast Foods", "url": "https://www.eatthis.com/healthy-grab-and-go-breakfast-foods/" },
+      { "title": "What you can expect from an Australian breakfast - KAYAK", "url": "https://www.kayak.com/news/australian-breakfast/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-039",
+    "name": "Budget Home-Brand Cornflakes with Milk and Sliced Banana",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A no-fuss, low-cost breakfast found in budget-conscious Australian households, built on a supermarket home-brand cornflakes box and a banana, reflecting the everyday end of Australia's breakfast cereal culture rather than premium muesli or protein products.",
+    "ingredients": [
+      { "item": "home-brand cornflakes", "quantity": 40, "unit": "g" },
+      { "item": "full-cream milk", "quantity": 150, "unit": "ml" },
+      { "item": "banana (sliced)", "quantity": 100, "unit": "g" }
+    ],
+    "prepNotes": "Pour cornflakes into a bowl, top with sliced banana and pour over cold milk. Eat immediately while the cornflakes are still crisp.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 9,
+      "carbs_g": 50,
+      "fiber_g": 3,
+      "sugar_g": 18,
+      "fat_g": 5,
+      "method": "Calculated from product nutrition panel (Woolworths/Coles home-brand cornflakes) plus Australian Food Composition Database (NUTTAB/FSANZ) for milk and banana"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Home-brand cornflakes (Woolworths 'Essentials', Coles 'Coles' brand, Aldi) are among the cheapest breakfast cereals available, found in every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Kids News: Aussie breakfast cereals ranked best to worst | KidsNews", "url": "https://www.kidsnews.com.au/explainers/nutrigrain-allbran-weetbix-coco-pops-dietitians-rank-cereals/news-story/345db9189ae090ba195114ecbd36ed62" },
+      { "title": "Calories in Sanitarium Weet-Bix, Original | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-breakfast-cereals-weet-bix-original/_T3fGXgjQ3-gFjSIAq4oNA" }
+    ]
+  },
+  {
+    "id": "au-breakfast-040",
+    "name": "Premium Eggs Benedict with Smoked Ham and Hollandaise",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A premium weekend brunch order at upmarket Australian cafes nationwide, featuring poached eggs, smoked ham and hollandaise on a toasted English muffin, a long-standing menu fixture at high-end brunch venues in Sydney, Melbourne and Brisbane.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "muffin (60 g)" },
+      { "item": "smoked leg ham", "quantity": 50, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large (poached)" },
+      { "item": "butter (for hollandaise)", "quantity": 30, "unit": "g" },
+      { "item": "egg yolk (for hollandaise)", "quantity": 1, "unit": "yolk" },
+      { "item": "lemon juice", "quantity": 5, "unit": "ml" },
+      { "item": "white vinegar (for poaching)", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Split and toast the English muffin. Warm the smoked ham in a pan. Poach the eggs in simmering water with vinegar for 3 minutes. Whisk egg yolk with lemon juice over a gentle heat, then slowly whisk in melted butter to form a smooth hollandaise. Stack muffin, ham and poached eggs, then spoon over the hollandaise.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 28,
+      "carbs_g": 26,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 38,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "English muffins, smoked ham and eggs are everyday supermarket staples; the assembled dish with fresh hollandaise is a premium-priced cafe order rather than a typical home-cooked breakfast."
+    },
+    "sources": [
+      { "title": "Sydney's best brunch spots - Tourism Australia", "url": "https://www.australia.com/en-us/places/sydney-and-surrounds/best-breakfast-and-brunch-spots.html" },
+      { "title": "30 Best Breakfast In Sydney To Visit 2026 Guide", "url": "https://londonerinsydney.com/best-breakfast-in-sydney/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-041",
+    "name": "Masala Dosa with Sambar and Coconut Chutney",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A South Indian breakfast staple served at dedicated dosa restaurants and South Indian vegetarian venues across Melbourne (Dosa Hut, Masala Dosa, Sri Ananda Bhavan) and other Australian cities with large Indian communities, eaten as a savoury fermented-batter crepe filled with spiced potato.",
+    "ingredients": [
+      { "item": "dosa batter (rice and urad dal)", "quantity": 120, "unit": "g" },
+      { "item": "spiced potato filling (potato, onion, mustard seed, turmeric)", "quantity": 100, "unit": "g" },
+      { "item": "vegetable oil (for cooking)", "quantity": 10, "unit": "ml" },
+      { "item": "sambar (lentil and vegetable stew)", "quantity": 150, "unit": "ml" },
+      { "item": "coconut chutney", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Spread fermented dosa batter thinly on a hot, lightly oiled griddle and cook until crisp and golden. Spoon the spiced potato filling onto one half and fold the dosa over. Serve immediately with hot sambar and coconut chutney on the side for dipping.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 11,
+      "carbs_g": 64,
+      "fiber_g": 8,
+      "sugar_g": 6,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["local markets", "Woolworths", "Coles"],
+      "notes": "Dedicated South Indian restaurants serving fresh dosa, idli and sambar are concentrated in Melbourne suburbs such as Cranbourne, Dandenong and Narre Warren and inner-city Sydney; dosa batter, sambar powder and coconut chutney ingredients are sold at Indian grocers and increasingly at major supermarkets' international aisles."
+    },
+    "sources": [
+      { "title": "Masala Dosa - Cranbourne West | Best Dosa in Melbourne", "url": "https://www.masaladosa.com.au/" },
+      { "title": "Sri Ananda Bhavan Narre Warren | Indian Food & South Indian Thali", "url": "https://www.anandabhavan.com.au/" }
+    ]
+  },
+  {
+    "id": "au-breakfast-042",
+    "name": "Servo Breakfast Pie with Hash Brown",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A common early-morning breakfast for tradies, truck drivers and road-trippers, bought hot from the pie warmer at a service station alongside a hash brown, a fixture of Australian servo food culture at chains such as BP's Wild Bean Cafe and Caltex.",
+    "ingredients": [
+      { "item": "servo meat pie (beef)", "quantity": 1, "unit": "pie (175 g)" },
+      { "item": "hash brown", "quantity": 1, "unit": "piece (60 g)" },
+      { "item": "tomato sauce (ketchup)", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Buy a hot meat pie and hash brown straight from the service station pie warmer and hot food cabinet. Add tomato sauce to taste and eat while still hot, typically on the go or at a roadside stop.",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 17,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 7,
+      "fat_g": 36,
+      "method": "Calculated from product nutrition panels (servo/supermarket meat pie and hash brown) via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["local markets", "Woolworths", "Coles"],
+      "notes": "Sold hot from pie warmers at virtually every Australian service station nationwide (BP Wild Bean Cafe, Caltex, Shell), as well as bakeries and supermarket hot-food counters."
+    },
+    "sources": [
+      { "title": "Pies & Sausage Rolls | BP Wild Bean Cafes", "url": "https://www.bp.com/en_au/australia/home/products-services/food-drink/wild-bean-cafes/menu/pies-sausage-rolls.html" },
+      { "title": "Servo Gas Station Meat Pie | TikTok", "url": "https://www.tiktok.com/discover/servo-gas-station-meat-pie" }
+    ]
+  },
+  {
+    "id": "au-breakfast-043",
+    "name": "Tradie's Breakfast Wrap (Egg, Bacon, Cheese and BBQ Sauce)",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A hearty, portable breakfast favoured by tradespeople and shift workers, sold at bakeries, cafes and bakery chains as a wrap version of the classic bacon-and-egg roll, easy to eat one-handed on a job site or commute.",
+    "ingredients": [
+      { "item": "large flour wrap", "quantity": 1, "unit": "wrap (75 g)" },
+      { "item": "egg", "quantity": 2, "unit": "large" },
+      { "item": "bacon rashers", "quantity": 2, "unit": "rashers (50 g)" },
+      { "item": "cheddar cheese (grated)", "quantity": 25, "unit": "g" },
+      { "item": "BBQ sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Scramble or fry the eggs and cook the bacon until crisp. Warm the wrap briefly on a sandwich press or dry pan. Layer egg, bacon, grated cheese and BBQ sauce down the centre, then roll tightly and wrap in paper to eat on the go.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 32,
+      "carbs_g": 32,
+      "fiber_g": 2,
+      "sugar_g": 6,
+      "fat_g": 29,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Wraps, eggs, bacon and cheese are everyday supermarket staples nationwide; the assembled wrap is widely sold ready-made at bakeries, service stations and cafes catering to tradespeople and commuters."
+    },
+    "sources": [
+      { "title": "Seven Next-Level Brekkie Rolls to Get in Sydney - Concrete Playground", "url": "https://concreteplayground.com/sydney/best-of/next-level-brekkie-rolls" },
+      { "title": "Egg and Bacon Roll Recipe – Bakers Delight", "url": "https://www.bakersdelight.com.au/blogs/recipes/breakfast-roll" }
+    ]
+  },
+  {
+    "id": "au-breakfast-044",
+    "name": "Quinoa, Poached Egg and Roast Pumpkin Breakfast Bowl",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A premium savoury breakfast bowl found on modern Australian cafe menus, especially in Sydney and Melbourne wellness-focused venues, reflecting the shift toward grain bowls and vegetable-forward brunch options alongside traditional avocado toast.",
+    "ingredients": [
+      { "item": "cooked quinoa", "quantity": 120, "unit": "g" },
+      { "item": "roast pumpkin", "quantity": 100, "unit": "g" },
+      { "item": "baby spinach", "quantity": 30, "unit": "g" },
+      { "item": "eggs", "quantity": 2, "unit": "large (poached)" },
+      { "item": "feta cheese", "quantity": 25, "unit": "g" },
+      { "item": "pumpkin seeds", "quantity": 10, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "white vinegar (for poaching)", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Roast pumpkin cubes in olive oil at 200°C for about 20 minutes until tender and caramelised. Warm the cooked quinoa and toss through baby spinach so it wilts slightly. Poach the eggs in simmering water with vinegar for 3 minutes. Assemble quinoa and pumpkin in a bowl, top with poached eggs, crumbled feta and pumpkin seeds.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 24,
+      "carbs_g": 40,
+      "fiber_g": 8,
+      "sugar_g": 6,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Quinoa, pumpkin, spinach, eggs and feta are everyday supermarket staples nationwide; the assembled dish is more typically a premium-priced cafe order than a quick home breakfast."
+    },
+    "sources": [
+      { "title": "30 Best Breakfast In Sydney To Visit 2026 Guide", "url": "https://londonerinsydney.com/best-breakfast-in-sydney/" },
+      { "title": "The 25 Best Cafés in Australia | 2026 Guide", "url": "https://www.timeout.com/australia/restaurants/best-cafes-in-australia" }
+    ]
+  },
+  {
+    "id": "au-breakfast-045",
+    "name": "Instant Quick Oats with Brown Sugar and Milk",
+    "country": "AU",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A fast, inexpensive everyday breakfast in Australian households, made from sachets or a bulk box of instant quick oats, popular for its short cooking time on busy school and work mornings.",
+    "ingredients": [
+      { "item": "instant quick oats", "quantity": 40, "unit": "g" },
+      { "item": "water or milk", "quantity": 180, "unit": "ml" },
+      { "item": "brown sugar", "quantity": 8, "unit": "g" },
+      { "item": "full-cream milk (to serve)", "quantity": 50, "unit": "ml" }
+    ],
+    "prepNotes": "Combine oats with water or milk in a microwave-safe bowl and microwave for 2 to 3 minutes, stirring halfway, until thick and creamy. Stir through brown sugar and top with a splash of cold milk before serving.",
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 9,
+      "carbs_g": 42,
+      "fiber_g": 5,
+      "sugar_g": 11,
+      "fat_g": 6,
+      "method": "Calculated from product nutrition panel (home-brand instant quick oats) plus Australian Food Composition Database (NUTTAB/FSANZ) for milk and sugar"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Instant quick oats (home-brand and Uncle Tobys) are among the cheapest breakfast staples in every Australian supermarket, sold in bulk boxes or individual sachets."
+    },
+    "sources": [
+      { "title": "Frugal toasted muesli recipe", "url": "https://www.frugalandthriving.com.au/toasted-muesli/" },
+      { "title": "Kids News: Aussie breakfast cereals ranked best to worst | KidsNews", "url": "https://www.kidsnews.com.au/explainers/nutrigrain-allbran-weetbix-coco-pops-dietitians-rank-cereals/news-story/345db9189ae090ba195114ecbd36ed62" }
+    ]
+  }
+]

@@ -3,6 +3,7 @@ import { StatGrid } from "@/components/content/StatGrid";
 import { KeyInsight } from "@/components/content/KeyInsight";
 import { FAQItem } from "@/components/content/FAQItem";
 import { RelatedArticles } from "@/components/content/RelatedArticles";
+import { SchemaFAQ } from "@/components/content/SchemaFAQ";
 
 export const metadata = {
   title: "What Is Prediabetes? Understanding Your Numbers and Your Options",
@@ -41,7 +42,7 @@ Blood sugar regulation exists on a spectrum, not as a simple on/off switch. Pred
 Some people have one pattern; some have both. Both can show up in the HbA1c range of **5.7–6.4%** (NIH, 2025), which measures the average percentage of hemoglobin in your blood that has glucose attached to it — a snapshot of roughly the past two to three months of blood sugar levels.
 
 <KeyInsight type="important">
-**Prediabetes does not automatically progress to type 2 diabetes.** The annual rate of progression from prediabetes to T2DM is approximately 5–10%, and a meaningful proportion of people with prediabetes actually return to normal glucose levels over time — a process called regression to normoglycemia (JCEM, 2025). The direction your numbers move depends heavily on the choices and circumstances that influence insulin sensitivity, several of which are genuinely modifiable.
+**Prediabetes does not automatically progress to type 2 diabetes.** The annual rate of progression from prediabetes to T2DM is approximately 5–10%, and a meaningful proportion of people with prediabetes actually return to normal glucose levels over time — a process called regression to normoglycemia (Tabák et al., 2012). The direction your numbers move depends heavily on the choices and circumstances that influence insulin sensitivity, several of which are genuinely modifiable.
 </KeyInsight>
 
 ---
@@ -114,9 +115,9 @@ The DPP findings have since been replicated in multiple countries and population
 
 The 150-minute weekly target from the DPP is the same recommendation you will find in major clinical guidelines. "Moderate intensity" means activity where you can talk but singing would be difficult — brisk walking, cycling on flat ground, swimming at a steady pace, dancing. You do not need a gym membership or specialized equipment.
 
-Breaking it into smaller chunks works. Three 10-minute walks spread through the day produce measurable glycemic benefits. A short 10–15 minute walk **after eating** has been shown to blunt the blood sugar rise that typically follows a meal more effectively than a single longer walk taken at a different time of day (Amer et al., 2024).
+Breaking it into smaller chunks works. Three 10-minute walks spread through the day produce measurable glycemic benefits. A short 10–15 minute walk **after eating** has been shown to blunt the blood sugar rise that typically follows a meal more effectively than a single longer walk taken at a different time of day (Colberg et al., 2016).
 
-Resistance training — bodyweight exercises, resistance bands, or weight training — also improves insulin sensitivity through different mechanisms than aerobic activity, and combining both types produces better results than either alone (Amer et al., 2024).
+Resistance training — bodyweight exercises, resistance bands, or weight training — also improves insulin sensitivity through different mechanisms than aerobic activity, and combining both types produces better results than either alone (Colberg et al., 2016).
 
 ### Food: Reducing the Blood Sugar Load Without Obsessing Over Perfection
 
@@ -145,10 +146,10 @@ Understanding the mechanism can help make exercise feel less abstract and more m
 
 Normally, insulin acts as a "key" that unlocks muscle cells, allowing glucose to enter from the bloodstream. In prediabetes, the locks are stiff — the cells are insulin resistant, meaning it takes more insulin than usual to achieve the same glucose uptake. This is the core problem.
 
-Exercise bypasses the lock entirely. During physical activity, muscle contractions trigger a protein called **GLUT4** to move from inside the cell to the cell membrane. GLUT4 is a glucose transporter — when it is on the surface, glucose from the bloodstream flows into the muscle cell without needing insulin at all. This is called **non-insulin-dependent glucose uptake**, and it happens even in cells that have become insulin resistant (PMC, 2021).
+Exercise bypasses the lock entirely. During physical activity, muscle contractions trigger a protein called **GLUT4** to move from inside the cell to the cell membrane. GLUT4 is a glucose transporter — when it is on the surface, glucose from the bloodstream flows into the muscle cell without needing insulin at all. This is called **non-insulin-dependent glucose uptake**, and it happens even in cells that have become insulin resistant (Richter & Hargreaves, 2013).
 
 <KeyInsight type="action">
-**A single bout of exercise lowers blood sugar for hours afterward — regardless of how insulin-sensitive your cells currently are.** You do not have to "fix" insulin resistance before exercise starts working. Beyond the acute effect, regular exercise over weeks and months triggers adaptations that improve long-term insulin sensitivity through increased muscle mass, upregulation of GLUT4 expression, and improvements in mitochondrial function (PMC, 2021).
+**A single bout of exercise lowers blood sugar for hours afterward — regardless of how insulin-sensitive your cells currently are.** You do not have to "fix" insulin resistance before exercise starts working. Beyond the acute effect, regular exercise over weeks and months triggers adaptations that improve long-term insulin sensitivity through increased muscle mass, upregulation of GLUT4 expression, and improvements in mitochondrial function (Richter & Hargreaves, 2013).
 </KeyInsight>
 
 ---
@@ -164,29 +165,52 @@ Exercise bypasses the lock entirely. During physical activity, muscle contractio
 
 ---
 
+<SchemaFAQ items={[
+  {
+    question: "If I have prediabetes, will I definitely develop type 2 diabetes?",
+    answer: "No. The annual rate of progression from prediabetes to type 2 diabetes is roughly 5–10%, and a significant proportion of people with prediabetes return to normal blood sugar levels over time. The landmark DPP study found that lifestyle intervention reduced the incidence of type 2 diabetes by 58% in people with confirmed impaired glucose tolerance."
+  },
+  {
+    question: "Can I reverse prediabetes?",
+    answer: "Regression to normoglycaemia — meaning blood sugar returns to the normal range — is documented and occurs in a meaningful percentage of people with prediabetes. Lifestyle changes can move numbers in a favourable direction and in many cases bring them back below diagnostic thresholds."
+  },
+  {
+    question: "How quickly can lifestyle changes affect my HbA1c?",
+    answer: "HbA1c reflects roughly three months of blood sugar exposure, so changes in behaviour typically take at least three months to show up in the number. In the DPP and subsequent studies, meaningful reductions in HbA1c were observed within three to six months of consistent lifestyle changes. Fasting glucose can change more quickly — sometimes within weeks."
+  },
+  {
+    question: "Do I need to cut out all carbohydrates?",
+    answer: "No. What consistently shows benefit is reducing refined carbohydrates and replacing them with fibre-rich whole foods — vegetables, legumes, whole grains, and fruit — which produce slower, more moderate blood sugar responses. Extremely low-carbohydrate diets can reduce blood sugar short-term, but long-term adherence is a significant challenge."
+  },
+  {
+    question: "Approximately how many US adults have prediabetes?",
+    answer: "Approximately 96 million US adults — more than one in three — have prediabetes. The majority are unaware because the condition typically produces no symptoms. Routine screening is important, particularly for adults over 35 who are overweight or have other risk factors."
+  }
+]} />
+
 ## Frequently Asked Questions
 
 <FAQItem question="If I have prediabetes, will I definitely develop type 2 diabetes?">
 
-No. The annual rate of progression from prediabetes to type 2 diabetes is roughly 5–10%, and a significant proportion of people with prediabetes return to normal blood sugar levels over time (JCEM, 2025). Progression is not inevitable. The landmark DPP study found that lifestyle intervention reduced the incidence of type 2 diabetes by 58% in people with confirmed impaired glucose tolerance — people who were, by definition, in the prediabetes range (Knowler et al., 2002).
+No. The annual rate of progression from prediabetes to type 2 diabetes is roughly 5–10%, and a significant proportion of people with prediabetes return to normal blood sugar levels over time (Tabák et al., 2012). Progression is not inevitable. The landmark DPP study found that lifestyle intervention reduced the incidence of type 2 diabetes by 58% in people with confirmed impaired glucose tolerance — people who were, by definition, in the prediabetes range (Knowler et al., 2002).
 
 </FAQItem>
 
 <FAQItem question="Can I reverse prediabetes?">
 
-The term "reversal" is medically imprecise, but regression to normoglycemia — meaning blood sugar returns to the normal range — is documented and occurs in a meaningful percentage of people with prediabetes (JCEM, 2025). What the evidence supports is that lifestyle changes can move numbers in a favorable direction, and in many cases bring them back below diagnostic thresholds. Whether that is best described as "reversing" prediabetes or "managing glucose levels back into the normal range" is largely a semantic question.
+The term "reversal" is medically imprecise, but regression to normoglycemia — meaning blood sugar returns to the normal range — is documented and occurs in a meaningful percentage of people with prediabetes (Tabák et al., 2012). What the evidence supports is that lifestyle changes can move numbers in a favorable direction, and in many cases bring them back below diagnostic thresholds. Whether that is best described as "reversing" prediabetes or "managing glucose levels back into the normal range" is largely a semantic question.
 
 </FAQItem>
 
 <FAQItem question="How quickly can lifestyle changes affect my HbA1c?">
 
-HbA1c reflects roughly three months of blood sugar exposure, so changes in behavior typically take at least three months to show up in the number. In the DPP and subsequent studies, meaningful reductions in HbA1c and fasting glucose were observed within three to six months of consistent lifestyle changes (Knowler et al., 2002; Amer et al., 2024). Fasting glucose can change more quickly — sometimes within weeks — because it is more sensitive to day-to-day habits.
+HbA1c reflects roughly three months of blood sugar exposure, so changes in behavior typically take at least three months to show up in the number. In the DPP and subsequent studies, meaningful reductions in HbA1c and fasting glucose were observed within three to six months of consistent lifestyle changes (Knowler et al., 2002; Colberg et al., 2016). Fasting glucose can change more quickly — sometimes within weeks — because it is more sensitive to day-to-day habits.
 
 </FAQItem>
 
 <FAQItem question="Do I need to cut out all carbohydrates?">
 
-No. The evidence does not support complete carbohydrate elimination as necessary or superior for most people with prediabetes. What consistently shows benefit is reducing refined carbohydrates (white flour, added sugars, sugary beverages) and replacing them with fiber-rich whole foods — vegetables, legumes, whole grains, and fruit — which produce slower, more moderate blood sugar responses. Extremely low-carbohydrate diets can reduce blood sugar in the short term, but long-term adherence is a significant challenge, and outcomes are similar to other approaches when adherence is matched (JCEM, 2025).
+No. The evidence does not support complete carbohydrate elimination as necessary or superior for most people with prediabetes. What consistently shows benefit is reducing refined carbohydrates (white flour, added sugars, sugary beverages) and replacing them with fiber-rich whole foods — vegetables, legumes, whole grains, and fruit — which produce slower, more moderate blood sugar responses. Extremely low-carbohydrate diets can reduce blood sugar in the short term, but long-term adherence is a significant challenge, and outcomes are similar to other approaches when adherence is matched (Tabák et al., 2012).
 
 </FAQItem>
 
@@ -201,10 +225,10 @@ According to current estimates, approximately **96 million US adults** — more 
 ## Sources
 
 1. Knowler, W.C. et al. / Diabetes Prevention Program Research Group (2002). Reduction in the Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin. *New England Journal of Medicine*, 346(6), 393–403.
-2. National Institutes of Health / NIDDK (2025). Prediabetes & Insulin Resistance. Retrieved from https://www.niddk.nih.gov/
-3. Journal of Clinical Endocrinology & Metabolism (2025). Progression from prediabetes to type 2 diabetes: risk factors, rates, and reversibility.
-4. Amer, M. et al. (2024). Exercise modalities and glycemic control in prediabetes: a systematic review and meta-analysis. *Diabetes Care.*
-5. PMC / PubMed Central (2021). Mechanisms by which exercise improves insulin sensitivity and glucose metabolism.
+2. National Institutes of Health / NIDDK (2024). Prediabetes & Insulin Resistance. *National Institute of Diabetes and Digestive and Kidney Diseases.* niddk.nih.gov
+3. Tabák, A.G. et al. (2012). Prediabetes: a high-risk state for diabetes development. *The Lancet*, 379(9833), 2279–2290.
+4. Colberg, S.R. et al. (2016). Physical activity/exercise and diabetes: a position statement of the American Diabetes Association. *Diabetes Care*, 39(11), 2065–2079.
+5. Richter, E.A. & Hargreaves, M. (2013). Exercise, GLUT4, and skeletal muscle glucose uptake. *Physiological Reviews*, 93(3), 993–1017.
 
 ---
 

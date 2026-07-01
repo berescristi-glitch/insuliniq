@@ -1,0 +1,1649 @@
+[
+  {
+    "id": "us-breakfast-001",
+    "name": "Egg McMuffin (McDonald's)",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "McDonald's flagship breakfast sandwich, introduced in 1971 and still one of the most-ordered fast-food breakfast items in America; a household name for grab-and-go morning meals.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "whole" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "Canadian bacon", "quantity": 1, "unit": "slice" },
+      { "item": "American cheese", "quantity": 1, "unit": "slice" },
+      { "item": "butter", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Toast a split English muffin with butter. Cook a cracked egg in a round mold until set, warm the Canadian bacon, then layer bacon, cheese, and egg between the muffin halves. Ready in under 10 minutes; this is also the basis of countless homemade copycat versions.",
+    "nutrition": {
+      "calories": 310,
+      "protein_g": 17,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 12,
+      "method": "Published nutrition panel, McDonald's USA (verified against USDA FoodData Central for component foods)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger", "Safeway"],
+      "notes": "Sold at McDonald's restaurants nationwide; English muffins, Canadian bacon, and American cheese for a homemade version are available at every major US supermarket."
+    },
+    "sources": [
+      { "title": "Egg McMuffin: Calories & Nutrition | McDonald's", "url": "https://www.mcdonalds.com/us/en-us/product/egg-mcmuffin.html" },
+      { "title": "Nutrition Facts and Calories for McDONALD'S, Egg McMUFFIN", "url": "https://nutrifox.com/nutrition/mcdonalds-egg-mcmuffin" }
+    ]
+  },
+  {
+    "id": "us-breakfast-002",
+    "name": "Starbucks Bacon, Gouda & Egg Sandwich",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of Starbucks' best-selling hot breakfast sandwiches, ordered alongside coffee by millions of US commuters as a quick on-the-way-to-work breakfast.",
+    "ingredients": [
+      { "item": "artisan roll", "quantity": 1, "unit": "whole" },
+      { "item": "egg and Parmesan frittata patty", "quantity": 1, "unit": "patty" },
+      { "item": "applewood-smoked bacon", "quantity": 2, "unit": "slices" },
+      { "item": "Gouda cheese", "quantity": 1, "unit": "slice" }
+    ],
+    "prepNotes": "This is a chain menu item assembled and warmed in-store; for a homemade version, bake an egg-Parmesan frittata patty, layer it on a toasted roll with smoked bacon and sliced Gouda, and warm under a broiler until the cheese melts.",
+    "nutrition": {
+      "calories": 370,
+      "protein_g": 18,
+      "carbs_g": 33,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 19,
+      "method": "Published nutrition panel, Starbucks USA menu"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Target", "Kroger", "Safeway", "Walmart"],
+      "notes": "Sold at Starbucks locations nationwide, including in-store cafes inside Target stores."
+    },
+    "sources": [
+      { "title": "Bacon, Gouda & Egg Sandwich: Nutrition | Starbucks", "url": "https://www.starbucks.com/menu/product/369/single/nutrition" },
+      { "title": "Calories in Starbucks Bacon, Gouda & Egg Sandwich", "url": "https://www.myfooddiary.com/foods/5141357/starbucks-bacon-gouda-and-egg-sandwich" }
+    ]
+  },
+  {
+    "id": "us-breakfast-003",
+    "name": "Dunkin' Bacon, Egg & Cheese Wake-Up Wrap",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Dunkin's compact Wake-Up Wrap is a staple grab-and-go item across its US drive-thru locations, popular with commuters who want something smaller and cheaper than a full sandwich.",
+    "ingredients": [
+      { "item": "flour tortilla", "quantity": 1, "unit": "small" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "bacon", "quantity": 2, "unit": "slices" },
+      { "item": "American cheese", "quantity": 0.5, "unit": "slice" }
+    ],
+    "prepNotes": "Chain item: scrambled egg, crisped bacon, and a small portion of American cheese are rolled into a soft 6-inch flour tortilla and griddled until warm. Easy to replicate at home in about 5 minutes using a nonstick skillet.",
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 11,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 13,
+      "method": "Published nutrition panel, Dunkin' USA menu"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger"],
+      "notes": "Sold at Dunkin' locations nationwide; tortillas, eggs, bacon, and cheese for a homemade version are basic items at any US grocery store."
+    },
+    "sources": [
+      { "title": "Dunkin Donuts Egg & Cheese Wake-Up Wrap Nutrition Facts", "url": "https://fastfoodnutrition.org/dunkin-donuts/egg-cheese-wake-up-wrap" },
+      { "title": "Calories in Wake-up Wrap Bacon Egg and Cheese by Dunkin' Donuts", "url": "https://www.mynetdiary.com/food/calories-in-wake-up-wrap-bacon-egg-and-cheese-by-dunkin-donuts-wrap-32433921-0.html" }
+    ]
+  },
+  {
+    "id": "us-breakfast-004",
+    "name": "Diner-Style Two Eggs, Bacon, Hash Browns and Toast",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "The quintessential American diner breakfast plate, found on nearly every diner and greasy-spoon menu nationwide since the mid-20th century; the benchmark 'classic American breakfast.'",
+    "ingredients": [
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "bacon", "quantity": 3, "unit": "slices" },
+      { "item": "hash browns", "quantity": 1, "unit": "cup" },
+      { "item": "white toast", "quantity": 2, "unit": "slices" },
+      { "item": "butter", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Fry eggs in butter to preference (over-easy is classic diner style). Cook bacon until crisp and pan-fry shredded hash browns until golden. Toast bread and butter while everything is hot. Plate together; this is the diner standard nationwide, with only minor regional variation in starch (grits in the South, home fries in the Northeast).",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 28,
+      "carbs_g": 47,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 39,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Aldi", "Costco"],
+      "notes": "All ingredients are everyday staples sold at every US grocery chain; this exact plate is also on nearly every diner menu in the country (Denny's, Waffle House, IHOP, local diners)."
+    },
+    "sources": [
+      { "title": "10 Classic Diner Breakfast Meals You Must Try", "url": "https://retrokitchenrevival.com/classic-diner-breakfast-meals-to-try/" },
+      { "title": "What Is a Classic American Breakfast? The 2026 Guide", "url": "https://eathealthy365.com/a-definitive-guide-to-the-classic-american-breakfast/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-005",
+    "name": "Biscuits and Sausage Gravy",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Southern American breakfast classic dating to the 19th century, when it began as an inexpensive, filling meal for farming and mill-working families; still a staple on Southern diner and home breakfast tables today.",
+    "ingredients": [
+      { "item": "buttermilk biscuit", "quantity": 1, "unit": "whole (3-inch)" },
+      { "item": "ground pork breakfast sausage", "quantity": 2, "unit": "oz" },
+      { "item": "all-purpose flour", "quantity": 1, "unit": "tbsp" },
+      { "item": "whole milk", "quantity": 0.5, "unit": "cup" },
+      { "item": "black pepper", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Brown the sausage in a skillet, then sprinkle in flour and stir to form a roux with the drippings. Gradually whisk in milk and simmer until thickened into a creamy gravy, seasoning generously with black pepper. Split a warm biscuit and ladle the gravy over the top.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 16,
+      "carbs_g": 41,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Aldi", "Safeway"],
+      "notes": "Biscuit mix, breakfast sausage, and milk are sold at every US grocery store; especially popular and widely available across the South and Midwest, including at Cracker Barrel and Bojangles chains."
+    },
+    "sources": [
+      { "title": "Biscuits and gravy - Wikipedia", "url": "https://en.wikipedia.org/wiki/Biscuits_and_gravy" },
+      { "title": "Biscuits and Sausage Gravy Recipe: How to Make It", "url": "https://www.tasteofhome.com/recipes/biscuits-and-sausage-gravy/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-006",
+    "name": "Chorizo, Egg and Potato Breakfast Burrito",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A Tex-Mex breakfast staple across the Southwest and increasingly nationwide, sold at taquerias, gas stations, and chains alike; rooted in Mexican-American border cuisine.",
+    "ingredients": [
+      { "item": "flour tortilla (burrito-size)", "quantity": 1, "unit": "whole" },
+      { "item": "Mexican chorizo", "quantity": 2, "unit": "oz" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "russet potato, diced and roasted", "quantity": 0.5, "unit": "cup" },
+      { "item": "shredded cheddar-jack cheese", "quantity": 0.25, "unit": "cup" },
+      { "item": "salsa", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Brown chorizo in a skillet, breaking it up, then scramble in the eggs until just set. Roast or pan-fry diced potatoes separately until crisp. Warm the tortilla, layer chorizo-egg, potatoes, cheese, and salsa down the center, fold, and roll tightly burrito-style.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 30,
+      "carbs_g": 45,
+      "fiber_g": 4,
+      "sugar_g": 3,
+      "fat_g": 36,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Aldi"],
+      "notes": "Mexican chorizo and burrito-size tortillas are stocked nationwide, with the widest fresh selection in the Southwest, Texas, and California; common at regional chains like Whataburger and local taquerias."
+    },
+    "sources": [
+      { "title": "Chorizo-Potato Breakfast Burritos | Food Network", "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/chorizo-potato-breakfast-burritos-5496770.amp" },
+      { "title": "Crispy Potato and Chorizo Breakfast Burritos", "url": "https://www.simplyscratch.com/crispy-potato-and-chorizo-breakfast-burritos/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-007",
+    "name": "New York Bagel with Lox and Cream Cheese",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "An iconic New York City Jewish-deli breakfast dating back to early-20th-century immigrant communities; now sold at bagel shops and delis across the country as a weekend brunch classic.",
+    "ingredients": [
+      { "item": "plain bagel", "quantity": 1, "unit": "whole (large, NYC-style)" },
+      { "item": "cream cheese", "quantity": 2, "unit": "oz" },
+      { "item": "smoked salmon (lox)", "quantity": 2, "unit": "oz" },
+      { "item": "red onion, thinly sliced", "quantity": 2, "unit": "tbsp" },
+      { "item": "capers", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Slice the bagel in half and toast lightly if desired. Spread both halves generously with cream cheese, layer smoked salmon over one half, and top with thin red onion and capers before closing or serving open-faced.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 23,
+      "carbs_g": 56,
+      "fiber_g": 3,
+      "sugar_g": 6,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Kroger", "Costco"],
+      "notes": "Most widely available and authentic in the Northeast (NYC, Long Island, New Jersey delis), but bagels, cream cheese, and packaged smoked salmon are sold nationwide at Whole Foods, Trader Joe's, and most major grocery chains."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Manhattan Bagel Nova Lox & Cream Cheese Bagel", "url": "https://www.myfooddiary.com/foods/7396942/manhattan-bagel-nova-lox-cream-cheese-bagel" },
+      { "title": "Bagel with lox and cream cheese Nutrition", "url": "https://www.snapcalorie.com/nutrition/bagel_with_lox_and_cream_cheese_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-breakfast-008",
+    "name": "High-Protein Overnight Oats with Greek Yogurt and Berries",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A defining dish of the meal-prep and high-protein breakfast trend that grew rapidly on US social media and fitness blogs over the past decade, valued for being make-ahead and portable.",
+    "ingredients": [
+      { "item": "rolled oats", "quantity": 0.5, "unit": "cup" },
+      { "item": "plain Greek yogurt", "quantity": 0.5, "unit": "cup" },
+      { "item": "milk", "quantity": 0.33, "unit": "cup" },
+      { "item": "chia seeds", "quantity": 1, "unit": "tbsp" },
+      { "item": "mixed berries", "quantity": 0.5, "unit": "cup" },
+      { "item": "honey", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Stir oats, Greek yogurt, milk, chia seeds, and honey together in a jar or container. Cover and refrigerate overnight (at least 6 hours). Top with mixed berries before eating; keeps well in the fridge for up to 4-5 days, making it easy to batch for the week.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 24,
+      "carbs_g": 52,
+      "fiber_g": 9,
+      "sugar_g": 19,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Trader Joe's", "Whole Foods", "Aldi"],
+      "notes": "All ingredients are widely stocked nationwide year-round; Greek yogurt and chia seeds are available at every major US grocery chain including budget retailers like Aldi."
+    },
+    "sources": [
+      { "title": "High Protein Overnight Oats | 47 Grams Protein", "url": "https://autumnellenutrition.com/high-protein-overnight-oats-47-grams-protein/" },
+      { "title": "Protein Overnight Oats (Base Recipe)", "url": "https://therealfooddietitians.com/protein-overnight-oats/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-009",
+    "name": "Starbucks Bacon & Gruyère Sous Vide Egg Bites",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Sous vide egg bites became a viral Starbucks menu item and a widely copied meal-prep format after launching in 2017, prized for being portable, high-protein, and low-carb.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "cottage cheese", "quantity": 0.25, "unit": "cup" },
+      { "item": "Gruyère cheese, shredded", "quantity": 2, "unit": "tbsp" },
+      { "item": "bacon, cooked and chopped", "quantity": 1, "unit": "slice" }
+    ],
+    "prepNotes": "Blend eggs and cottage cheese until smooth, then stir in shredded Gruyère and chopped cooked bacon. Pour into silicone muffin molds and bake in a water bath (sous vide style) at 300°F for about 30 minutes until set. Two bites per serving, just like the Starbucks packaging.",
+    "nutrition": {
+      "calories": 310,
+      "protein_g": 19,
+      "carbs_g": 9,
+      "fiber_g": 0,
+      "sugar_g": 2,
+      "fat_g": 22,
+      "method": "Published nutrition panel, Starbucks USA menu"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Target", "Kroger", "Whole Foods", "Costco"],
+      "notes": "Sold ready-made at Starbucks nationwide and in the refrigerated grab-and-go section of many grocery stores; ingredients to make a homemade version are basic supermarket staples."
+    },
+    "sources": [
+      { "title": "Bacon & Gruyère Egg Bites: Nutrition | Starbucks", "url": "https://www.starbucks.com/menu/product/2122116/single/nutrition" },
+      { "title": "Carbs in Starbucks Sous Vide Egg Bites: Bacon & Gruyere", "url": "https://www.carbmanager.com/food-detail/md:6151259b6e99d73e0e5cbb4ec3e6601d/sous-vide-egg-bites-bacon-gruyere" }
+    ]
+  },
+  {
+    "id": "us-breakfast-010",
+    "name": "Greek Yogurt Bowl with Granola and Mixed Berries",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely eaten breakfast across the US, especially popular for its convenience and protein content; a staple of cafes, gyms-adjacent meal culture, and home breakfasts alike.",
+    "ingredients": [
+      { "item": "plain Greek yogurt", "quantity": 1, "unit": "cup" },
+      { "item": "granola", "quantity": 0.33, "unit": "cup" },
+      { "item": "mixed berries", "quantity": 0.75, "unit": "cup" },
+      { "item": "almond butter", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Spoon Greek yogurt into a bowl, top with fresh mixed berries and granola, and finish with a small drizzle of almond butter. Ready in under 5 minutes with no cooking required, making it one of the fastest high-protein breakfasts available.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 28,
+      "carbs_g": 53,
+      "fiber_g": 7,
+      "sugar_g": 28,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Trader Joe's", "Whole Foods", "Kroger", "Target", "Aldi", "Safeway"],
+      "notes": "Greek yogurt, granola, and berries (fresh or frozen) are stocked at every major US grocery chain nationwide year-round."
+    },
+    "sources": [
+      { "title": "High Protein Greek Yogurt Breakfast Bowls", "url": "https://masonfit.com/greek-yogurt-breakfast-bowls/" },
+      { "title": "Greek Yogurt Bowl with Granola and Mixed Berries calories & nutrition", "url": "https://www.arise-app.com/dish/Greek-Yogurt-Bowl-with-Granola-and-Mixed-Berries" }
+    ]
+  },
+  {
+    "id": "us-breakfast-011",
+    "name": "Buttermilk Pancakes with Butter and Maple Syrup",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A defining American weekend breakfast, served at diners and chains like IHOP and at home nationwide; closely tied to American food identity since the early 20th century.",
+    "ingredients": [
+      { "item": "buttermilk pancakes (from scratch or mix)", "quantity": 3, "unit": "whole (4-inch)" },
+      { "item": "butter", "quantity": 1, "unit": "tbsp" },
+      { "item": "maple syrup", "quantity": 3, "unit": "tbsp" }
+    ],
+    "prepNotes": "Whisk flour, sugar, baking powder, baking soda, and salt, then stir in buttermilk, egg, and melted butter until just combined. Cook on a hot griddle until bubbles form and edges look dry, then flip. Stack three pancakes and finish with butter and warm maple syrup.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 8,
+      "carbs_g": 75,
+      "fiber_g": 2,
+      "sugar_g": 32,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Aldi", "Target"],
+      "notes": "Pancake mix, butter, and maple syrup are sold nationwide at every grocery chain; this exact dish is on the menu at IHOP, Denny's, Waffle House, and most diners coast to coast."
+    },
+    "sources": [
+      { "title": "Best IHOP Buttermilk Pancake Copycat Recipe", "url": "https://www.joshuaweissman.com/recipes/best-ihop-pancakes-recipe" },
+      { "title": "Nutrition Facts for Conagra Brands - IHOP Buttermilk Pancakes", "url": "https://tools.myfooddata.com/nutrition-facts/756716/wt1" }
+    ]
+  },
+  {
+    "id": "us-breakfast-012",
+    "name": "Cheerios with Milk and Banana",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of the best-selling ready-to-eat cereals in the US since 1941; a default quick breakfast in American households, especially for children and busy mornings.",
+    "ingredients": [
+      { "item": "Cheerios cereal", "quantity": 1, "unit": "cup" },
+      { "item": "milk", "quantity": 0.75, "unit": "cup" },
+      { "item": "banana, sliced", "quantity": 0.5, "unit": "whole" }
+    ],
+    "prepNotes": "Pour Cheerios into a bowl, top with sliced banana, and add cold milk. One of the fastest breakfasts available, ready in under 2 minutes with no cooking.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 9,
+      "carbs_g": 38,
+      "fiber_g": 4,
+      "sugar_g": 13,
+      "fat_g": 3,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Kroger", "Target", "Aldi", "Safeway"],
+      "notes": "Cheerios, milk, and bananas are basic staples carried at every US grocery store nationwide year-round."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Cheerios - Cheerios Cereal", "url": "https://tools.myfooddata.com/nutrition-facts/1456252/wt1" },
+      { "title": "Are Cheerios Healthy? Nutrients, Flavors, and More", "url": "https://www.healthline.com/nutrition/are-cheerios-healthy" }
+    ]
+  },
+  {
+    "id": "us-breakfast-013",
+    "name": "Loco Moco (Hawaiian Rice, Burger Patty, Egg and Gravy)",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A beloved Hawaiian comfort food created in 1949 at the Lincoln Grill in Hilo, Hawaii; commonly eaten for breakfast or brunch across the Hawaiian Islands and at Hawaiian-style restaurants on the mainland.",
+    "ingredients": [
+      { "item": "white rice, cooked", "quantity": 1, "unit": "cup" },
+      { "item": "ground beef patty", "quantity": 4, "unit": "oz" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "brown gravy", "quantity": 0.33, "unit": "cup" }
+    ],
+    "prepNotes": "Pan-fry a seasoned beef patty to preference, then fry an egg sunny-side up in the same pan. Spoon hot white rice into a bowl, top with the patty, then the egg, and ladle warm brown gravy generously over everything.",
+    "nutrition": {
+      "calories": 680,
+      "protein_g": 35,
+      "carbs_g": 58,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 33,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Safeway", "Costco", "Walmart", "Target"],
+      "notes": "A signature dish of Hawaii, sold widely at plate-lunch counters across the islands; ground beef, rice, eggs, and gravy mix for a mainland version are available at any US grocery store."
+    },
+    "sources": [
+      { "title": "Loco Moco Recipe — A Classic Local Hawaii Comfort Food", "url": "https://onohawaiianrecipes.com/recipes/loco-moco/" },
+      { "title": "SPAM® Loco Moco | SPAM® Recipes", "url": "https://www.spam.com/recipes/spam-loco-moco" }
+    ]
+  },
+  {
+    "id": "us-breakfast-014",
+    "name": "Cheese Grits with Sausage and Fried Egg",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A soul food and Southern breakfast staple, with grits as a foundational Southern US grain dish served alongside eggs and sausage in homes and soul food restaurants throughout the South.",
+    "ingredients": [
+      { "item": "grits, dry", "quantity": 0.25, "unit": "cup" },
+      { "item": "cheddar cheese, shredded", "quantity": 0.25, "unit": "cup" },
+      { "item": "butter", "quantity": 1, "unit": "tbsp" },
+      { "item": "pork breakfast sausage patty", "quantity": 2, "unit": "oz" },
+      { "item": "egg", "quantity": 1, "unit": "large" }
+    ],
+    "prepNotes": "Cook grits in water or milk according to package directions until creamy, then stir in butter and shredded cheddar until melted. Pan-fry a sausage patty and fry an egg separately, then plate grits with the sausage and egg on top.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 25,
+      "carbs_g": 33,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Aldi", "Safeway"],
+      "notes": "Grits are sold nationwide but most popular and deeply rooted in the South; this exact combination is common on soul food and Southern diner breakfast menus."
+    },
+    "sources": [
+      { "title": "Rustic Sausage & Grits Egg Skillet", "url": "https://lifeloveandgoodfood.com/rustic-sausage-grits-egg-skillet/" },
+      { "title": "35 Southern Breakfast Recipes and Southern Breakfast Casseroles", "url": "https://www.tasteofhome.com/collection/southern-breakfasts-thatll-fill-you-up/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-015",
+    "name": "Chilaquiles Rojos with Fried Eggs",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A traditional Mexican breakfast dish widely eaten in Mexican-American households and at Mexican restaurants across the US, especially in the Southwest, Texas, and California.",
+    "ingredients": [
+      { "item": "corn tortilla chips", "quantity": 1.5, "unit": "cup" },
+      { "item": "red salsa (salsa roja)", "quantity": 0.5, "unit": "cup" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "queso fresco, crumbled", "quantity": 2, "unit": "tbsp" },
+      { "item": "crema or sour cream", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Simmer red salsa in a skillet, then toss in tortilla chips and stir gently until softened but not mushy, about 2 minutes. Fry eggs separately and place on top of the chilaquiles, then finish with crumbled queso fresco and a drizzle of crema.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 21,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 4,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Aldi"],
+      "notes": "Corn tortilla chips, salsa, and queso fresco are stocked nationwide, with the widest fresh selection in the Southwest, Texas, and California where this dish is most traditional."
+    },
+    "sources": [
+      { "title": "Chilaquiles with Fried Eggs Recipe (Roja)", "url": "https://www.acozykitchen.com/chilaquiles" },
+      { "title": "Chilaquiles - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chilaquiles" }
+    ]
+  },
+  {
+    "id": "us-breakfast-016",
+    "name": "Avocado Toast with Poached Egg",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A defining brunch-menu and cafe dish of the 2010s-2020s in the US, rooted in West Coast cafe culture and now a fixture at coffee shops and home breakfast tables nationwide.",
+    "ingredients": [
+      { "item": "whole-grain bread", "quantity": 1, "unit": "slice" },
+      { "item": "avocado", "quantity": 0.5, "unit": "whole" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "lemon juice", "quantity": 1, "unit": "tsp" },
+      { "item": "red pepper flakes", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Toast the bread, then mash avocado with lemon juice, salt, and pepper and spread over the toast. Poach or fry the egg and place on top, finishing with a pinch of red pepper flakes. Ready in about 10 minutes.",
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 11,
+      "carbs_g": 20,
+      "fiber_g": 8,
+      "sugar_g": 2,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Walmart", "Kroger", "Target"],
+      "notes": "Avocados and whole-grain bread are available nationwide year-round; especially associated with West Coast cafe and brunch culture in California and the Pacific Northwest."
+    },
+    "sources": [
+      { "title": "Avocado Toast with Egg (4 Easy Ways) - Skinnytaste", "url": "https://www.skinnytaste.com/avocado-toast-with-sunny-side-egg/" },
+      { "title": "Avocado toast with egg Nutrition", "url": "https://www.snapcalorie.com/nutrition/avocado_toast_with_egg_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-breakfast-017",
+    "name": "Savory Cottage Cheese Bowl with Eggs and Avocado",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Cottage cheese had a major viral resurgence on US social media in the early 2020s as a high-protein breakfast base; this savory version became one of the most-shared formats among meal-prep and fitness-focused eaters.",
+    "ingredients": [
+      { "item": "cottage cheese", "quantity": 1, "unit": "cup" },
+      { "item": "hard-boiled eggs", "quantity": 2, "unit": "whole" },
+      { "item": "avocado", "quantity": 0.5, "unit": "whole" },
+      { "item": "cherry tomatoes, halved", "quantity": 0.5, "unit": "cup" },
+      { "item": "black pepper and chili flakes", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Spoon cottage cheese into a bowl. Slice hard-boiled eggs and avocado and arrange over the top along with halved cherry tomatoes. Season with black pepper and a pinch of chili flakes. No cooking beyond boiling the eggs ahead of time, making this fast to assemble.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 36,
+      "carbs_g": 17,
+      "fiber_g": 7,
+      "sugar_g": 6,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Trader Joe's", "Whole Foods", "Kroger", "Aldi"],
+      "notes": "Cottage cheese, eggs, and avocado are stocked nationwide at every grocery chain; cottage cheese is sold in both small and bulk Costco-size tubs."
+    },
+    "sources": [
+      { "title": "Viral High Protein Eggs and Cottage Cheese Breakfast Bowl", "url": "https://ohsweetbasil.com/viral-high-protein-eggs-and-cottage-cheese-breakfast-bowl-recipe/" },
+      { "title": "Savory Cottage Cheese Bowl (Easy High Protein Breakfast) - Skinnytaste", "url": "https://www.skinnytaste.com/savory-cottage-cheese-bowl/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-018",
+    "name": "Quaker Maple & Brown Sugar Instant Oatmeal Packet",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of the most widely purchased packaged breakfast foods in America; instant oatmeal packets are a budget, pantry-staple breakfast for millions of US households and workplaces.",
+    "ingredients": [
+      { "item": "Quaker Instant Oatmeal, Maple & Brown Sugar packet", "quantity": 1, "unit": "packet (43g)" },
+      { "item": "hot water", "quantity": 0.75, "unit": "cup" }
+    ],
+    "prepNotes": "Empty the packet into a bowl, stir in hot water, and let sit for 1-2 minutes until thickened. Can also be microwaved for about 1 minute. One of the fastest and cheapest hot breakfasts available in the US.",
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 4,
+      "carbs_g": 33,
+      "fiber_g": 3,
+      "sugar_g": 12,
+      "fat_g": 2,
+      "method": "Published nutrition panel, Quaker Oats USA"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "dairy_free"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Kroger", "Target", "Aldi", "Safeway"],
+      "notes": "Sold nationwide at every grocery store, often in bulk multipacks at Costco and Walmart; among the most affordable packaged breakfast options in the US."
+    },
+    "sources": [
+      { "title": "Quaker® Instant Oatmeal - Maple and Brown Sugar | Quaker Oats", "url": "https://www.quakeroats.com/products/hot-cereals/instant-oatmeal/maple-and-brown-sugar" },
+      { "title": "Calories in Instant Oatmeal Flavor Variety Maple & Brown Sugar by Quaker", "url": "https://www.mynetdiary.com/food/calories-in-instant-oatmeal-flavor-variety-maple-brown-sugar-by-quaker-packet-26909672-0.html" }
+    ]
+  },
+  {
+    "id": "us-breakfast-019",
+    "name": "Sausage, Egg and Cheese Hash Brown Breakfast Casserole",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely made weekend and holiday-morning dish across the US, popular for potlucks, family gatherings, and meal prep because it bakes in one dish and reheats well for several days.",
+    "ingredients": [
+      { "item": "frozen shredded hash browns", "quantity": 0.5, "unit": "cup" },
+      { "item": "ground pork breakfast sausage", "quantity": 2, "unit": "oz" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "milk", "quantity": 0.25, "unit": "cup" },
+      { "item": "shredded cheddar cheese", "quantity": 0.33, "unit": "cup" }
+    ],
+    "prepNotes": "Brown the sausage and press hash browns into the bottom of a greased baking dish. Whisk eggs with milk, pour over the hash browns and sausage, top with shredded cheddar, and bake at 375°F for about 35-40 minutes until set and lightly golden. Cuts into squares that reheat well for several days.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 24,
+      "carbs_g": 18,
+      "fiber_g": 1,
+      "sugar_g": 3,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Aldi", "Safeway", "Costco"],
+      "notes": "Frozen hash browns, breakfast sausage, eggs, and cheese are sold nationwide at every grocery chain; a common make-ahead dish for holidays and weekend brunches across the country."
+    },
+    "sources": [
+      { "title": "Cheesy Hash Brown Sausage Breakfast Casserole - Oh Sweet Basil", "url": "https://ohsweetbasil.com/cheesy-sausage-hash-brown-breakfast-casserole-recipe/" },
+      { "title": "Easy Hash Brown Breakfast Casserole - Eat Yourself Skinny", "url": "https://www.eatyourselfskinny.com/easy-hash-brown-breakfast-casserole/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-020",
+    "name": "Premier Protein Chocolate Shake",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of the best-selling ready-to-drink protein shakes in the US, widely used as a grab-and-go breakfast by commuters, gym-goers, and anyone wanting a fast high-protein option from convenience stores and supermarkets.",
+    "ingredients": [
+      { "item": "Premier Protein Chocolate shake (bottled)", "quantity": 11, "unit": "fl oz" }
+    ],
+    "prepNotes": "No preparation required: shake the bottle and drink. Often paired with a piece of fruit for added fiber when used as a full breakfast.",
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 30,
+      "carbs_g": 4,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 3,
+      "method": "Published nutrition panel, Premier Nutrition Corporation"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Target", "Kroger", "Safeway", "Aldi"],
+      "notes": "Sold nationwide in multipacks at every major US retailer, gas stations, and pharmacies; one of the most widely available bottled protein shakes in the country."
+    },
+    "sources": [
+      { "title": "Chocolate Protein Shake | 30g Protein | Premier Protein", "url": "https://www.premierprotein.com/products/chocolate-protein-shake" },
+      { "title": "Nutrition Facts for Premier Nutrition - Premier Protein, High Protein Shake", "url": "https://tools.myfooddata.com/nutrition-facts/553605/wt1" }
+    ]
+  },
+  {
+    "id": "us-breakfast-021",
+    "name": "Classic French Toast with Berries and Maple Syrup",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A long-standing American weekend breakfast and brunch staple, served at diners and homes nationwide, typically made from thick-cut bread soaked in an egg-milk custard and griddled.",
+    "ingredients": [
+      { "item": "thick-cut bread (challah or Texas toast)", "quantity": 2, "unit": "slices" },
+      { "item": "eggs", "quantity": 1, "unit": "large" },
+      { "item": "milk", "quantity": 0.25, "unit": "cup" },
+      { "item": "vanilla extract", "quantity": 0.25, "unit": "tsp" },
+      { "item": "maple syrup", "quantity": 2, "unit": "tbsp" },
+      { "item": "mixed berries", "quantity": 0.5, "unit": "cup" }
+    ],
+    "prepNotes": "Whisk egg, milk, and vanilla in a shallow dish. Soak each bread slice briefly on both sides, then griddle in butter until golden on each side. Top with fresh berries and warm maple syrup.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 13,
+      "carbs_g": 62,
+      "fiber_g": 4,
+      "sugar_g": 28,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Aldi", "Target"],
+      "notes": "Bread, eggs, milk, and maple syrup are nationwide staples; French toast is a standard menu item at diners, IHOP, and Waffle House across the country."
+    },
+    "sources": [
+      { "title": "Easy French Toast Recipe - Tastes Better From Scratch", "url": "https://tastesbetterfromscratch.com/classic-french-toast/" },
+      { "title": "Homemade french toast Nutrition", "url": "https://www.snapcalorie.com/nutrition/homemade_french_toast_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-breakfast-022",
+    "name": "Eggs Benedict with Hollandaise Sauce",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A classic American brunch dish with roots in late-19th-century New York City; a fixture on weekend brunch menus at restaurants and hotels across the country.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "whole" },
+      { "item": "Canadian bacon", "quantity": 2, "unit": "slices" },
+      { "item": "eggs (for poaching)", "quantity": 2, "unit": "large" },
+      { "item": "egg yolks (for hollandaise)", "quantity": 2, "unit": "large" },
+      { "item": "butter, melted", "quantity": 4, "unit": "tbsp" },
+      { "item": "lemon juice", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Toast split English muffin halves and warm Canadian bacon in a skillet. Poach the eggs in simmering water with a splash of vinegar for about 3 minutes. Blend egg yolks and lemon juice, then slowly drizzle in melted butter while blending to make hollandaise. Assemble muffin, bacon, poached egg, and a generous spoon of hollandaise.",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 24,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 44,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Kroger", "Safeway", "Walmart"],
+      "notes": "A standard weekend brunch menu item at restaurants nationwide; English muffins, Canadian bacon, and eggs for a homemade version are sold at every US grocery store."
+    },
+    "sources": [
+      { "title": "Eggs Benedict with Easy Hollandaise Sauce - Vikalinka", "url": "https://vikalinka.com/eggs-benedict-easy-hollandaise-sauce/" },
+      { "title": "Classic Eggs Benedict - Self Proclaimed Foodie", "url": "https://selfproclaimedfoodie.com/classic-eggs-benedict/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-023",
+    "name": "Egg and Cheese Breakfast Quesadilla",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely eaten quick breakfast across the US, especially common in Mexican-American households and as a fast-casual menu item (Taco Bell, Taco Cabana); a popular family weekday breakfast.",
+    "ingredients": [
+      { "item": "flour tortilla (8-inch)", "quantity": 1, "unit": "whole" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "shredded Mexican cheese blend", "quantity": 0.25, "unit": "cup" },
+      { "item": "salsa", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Scramble the eggs in a skillet until just set. Lay the tortilla flat, sprinkle half with cheese, spoon scrambled eggs on top, fold in half, and griddle until the cheese melts and the tortilla turns golden. Serve with salsa on the side.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 22,
+      "carbs_g": 28,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Aldi"],
+      "notes": "Tortillas, eggs, and Mexican cheese blends are nationwide staples; especially common in the Southwest, Texas, and California where this dish has deep roots."
+    },
+    "sources": [
+      { "title": "Cheesy Egg Quesadillas Recipe: How to Make It", "url": "https://www.tasteofhome.com/recipes/cheesy-egg-quesadillas/" },
+      { "title": "Scrambled Egg & Cheese Breakfast Quesadilla | Laura Fuentes", "url": "https://www.laurafuentes.com/scrambled-egg-cheese-breakfast-quesadilla/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-024",
+    "name": "Cinnabon Classic Cinnamon Roll",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "An iconic American mall and airport bakery treat since Cinnabon's founding in 1985; widely eaten as an indulgent breakfast or breakfast treat, especially while traveling.",
+    "ingredients": [
+      { "item": "Cinnabon Classic Roll", "quantity": 1, "unit": "whole (241g)" }
+    ],
+    "prepNotes": "A bakery item served warm with cream cheese frosting, typically purchased fresh from a Cinnabon location at malls, airports, and travel stops rather than made at home.",
+    "nutrition": {
+      "calories": 880,
+      "protein_g": 15,
+      "carbs_g": 127,
+      "fiber_g": 3,
+      "sugar_g": 58,
+      "fat_g": 36,
+      "method": "Published nutrition panel, Cinnabon USA"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger"],
+      "notes": "Sold fresh at Cinnabon locations in malls, airports, and travel plazas nationwide; smaller grocery-store versions (e.g. Pillsbury cinnamon rolls) are sold at every US supermarket."
+    },
+    "sources": [
+      { "title": "Cinnamon Roll: Classic Cinnamon Bun - Cinnabon", "url": "https://www.cinnabon.com/menu/cinnamon-rolls/classic-roll" },
+      { "title": "Calories in Cinnabon Classic Roll and Nutrition Facts", "url": "https://foods.fatsecret.com/calories-nutrition/cinnabon/classic-roll" }
+    ]
+  },
+  {
+    "id": "us-breakfast-025",
+    "name": "Peanut Butter Banana Smoothie with Spinach",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely made grab-and-go breakfast in the US, especially common among busy parents and fitness-focused eaters who blend greens into a fruit smoothie for a fast portable meal.",
+    "ingredients": [
+      { "item": "frozen banana", "quantity": 1, "unit": "whole" },
+      { "item": "baby spinach", "quantity": 1, "unit": "cup" },
+      { "item": "peanut butter", "quantity": 1, "unit": "tbsp" },
+      { "item": "vanilla protein powder", "quantity": 1, "unit": "scoop" },
+      { "item": "milk", "quantity": 1, "unit": "cup" }
+    ],
+    "prepNotes": "Add all ingredients to a blender and blend until smooth, about 1 minute. Pour into a portable cup; ready in under 5 minutes with no cooking required, making it a popular before-work or before-school option.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 31,
+      "carbs_g": 38,
+      "fiber_g": 6,
+      "sugar_g": 20,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Trader Joe's", "Whole Foods", "Kroger"],
+      "notes": "Bananas, spinach, peanut butter, and protein powder are sold nationwide at every major grocery chain year-round."
+    },
+    "sources": [
+      { "title": "Banana Spinach Smoothie (Protein) - Real Food Whole Life", "url": "https://realfoodwholelife.com/recipes/banana-spinach-smoothie/" },
+      { "title": "Peanut Butter Banana Protein Smoothie (with spinach!) - The Natural Nurturer", "url": "https://thenaturalnurturer.com/peanut-butter-banana-spinach-smoothie/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-026",
+    "name": "Turkey Bacon, Egg White and Spinach Breakfast Sandwich",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely made lighter-format breakfast sandwich popular in US meal-prep and fitness culture, also mirrored by chain options like Starbucks' turkey bacon egg white sandwich.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "whole" },
+      { "item": "turkey bacon", "quantity": 2, "unit": "slices" },
+      { "item": "egg whites", "quantity": 0.5, "unit": "cup" },
+      { "item": "baby spinach", "quantity": 0.25, "unit": "cup" },
+      { "item": "provolone cheese", "quantity": 1, "unit": "slice" }
+    ],
+    "prepNotes": "Cook turkey bacon in a skillet until crisp. Pour egg whites into a small ramekin or skillet, scramble with spinach until set, and toast the English muffin. Layer turkey bacon, egg whites, and provolone between the muffin halves; these freeze and reheat well for meal prep.",
+    "nutrition": {
+      "calories": 290,
+      "protein_g": 28,
+      "carbs_g": 27,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Trader Joe's", "Whole Foods", "Kroger", "Target"],
+      "notes": "Turkey bacon, liquid egg whites, and English muffins are sold nationwide at every major grocery chain; common in the refrigerated meal-prep and protein-focused sections."
+    },
+    "sources": [
+      { "title": "Easy and Healthy Turkey Bacon, Egg, and Spinach Breakfast Sandwich", "url": "https://ourfarmerhouse.com/easy-turkey-bacon-egg-white-and-spinach-breakfast-sandwich/" },
+      { "title": "Turkey Bacon Egg White Breakfast Sandwiches - onebalancedlife.com", "url": "https://onebalancedlife.com/turkey-bacon-egg-white-breakfast-sandwiches/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-027",
+    "name": "Shrimp and Cheese Grits",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A signature Lowcountry and Southern brunch dish, originating with coastal South Carolina and Georgia fishing communities, now served at brunch spots and Southern-style restaurants nationwide.",
+    "ingredients": [
+      { "item": "grits, dry", "quantity": 0.25, "unit": "cup" },
+      { "item": "cheddar cheese, shredded", "quantity": 0.25, "unit": "cup" },
+      { "item": "shrimp, peeled and deveined", "quantity": 4, "unit": "oz" },
+      { "item": "bacon, chopped", "quantity": 1, "unit": "slice" },
+      { "item": "garlic, minced", "quantity": 1, "unit": "clove" },
+      { "item": "butter", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Cook grits according to package directions and stir in cheddar until melted. Render chopped bacon in a skillet, add garlic and shrimp, and saute until shrimp turn pink, about 3-4 minutes. Spoon shrimp and bacon over the cheesy grits to serve.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 34,
+      "carbs_g": 32,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian", "gluten_free"],
+      "allergens": ["shellfish", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Whole Foods", "Costco"],
+      "notes": "Grits, shrimp, and cheese are sold nationwide, with shrimp and grits most traditional and widely available in the coastal South (South Carolina, Georgia, Louisiana)."
+    },
+    "sources": [
+      { "title": "Southern Shrimp & Grits (A Family Favorite Comfort Food Classic!)", "url": "https://bakeitwithlove.com/southern-shrimp-and-grits/" },
+      { "title": "Easy Shrimp and Grits - Bowl of Delicious", "url": "https://www.bowlofdelicious.com/easy-classic-shrimp-and-grits/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-028",
+    "name": "Acai Smoothie Bowl with Granola and Fruit",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Açaí bowls surged in popularity across US juice bars, cafes, and surf-town breakfast spots over the past decade, with the trend's popularity reportedly growing over 250% in five years.",
+    "ingredients": [
+      { "item": "frozen acai puree packet", "quantity": 3.5, "unit": "oz" },
+      { "item": "frozen banana", "quantity": 1, "unit": "whole" },
+      { "item": "unsweetened almond milk", "quantity": 0.5, "unit": "cup" },
+      { "item": "granola", "quantity": 0.25, "unit": "cup" },
+      { "item": "fresh berries", "quantity": 0.5, "unit": "cup" },
+      { "item": "unsweetened coconut flakes", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Blend the acai puree, frozen banana, and almond milk until thick and smooth, using as little liquid as possible to keep a spoonable consistency. Pour into a bowl and top with granola, fresh berries, and coconut flakes.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 7,
+      "carbs_g": 68,
+      "fiber_g": 10,
+      "sugar_g": 30,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegan", "vegetarian", "dairy_free"],
+      "allergens": ["tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Walmart", "Costco"],
+      "notes": "Frozen acai puree packets are sold nationwide at Whole Foods, Trader Joe's, and Costco; the bowl format is most associated with juice bars and cafes in California, Florida, and Hawaii."
+    },
+    "sources": [
+      { "title": "20 Acai Bowl Recipes: Superfood Detox Breakfasts - Dr. Axe", "url": "https://draxe.com/nutrition/acai-bowl/" },
+      { "title": "Best Acai Bowl Recipe | Get Inspired Everyday!", "url": "https://getinspiredeveryday.com/food/kauai-acai-smoothie-breakfast-bowls/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-029",
+    "name": "Bacon and Egg Breakfast Tacos (Texas-Style)",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A morning staple across Central and South Texas, especially Austin and San Antonio, sold at taquerias and breakfast taco stands and increasingly popular nationwide as a portable breakfast.",
+    "ingredients": [
+      { "item": "flour tortillas (6-inch)", "quantity": 2, "unit": "whole" },
+      { "item": "bacon", "quantity": 2, "unit": "slices" },
+      { "item": "eggs, scrambled", "quantity": 2, "unit": "large" },
+      { "item": "shredded cheddar cheese", "quantity": 2, "unit": "tbsp" },
+      { "item": "salsa", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Cook bacon until crisp, then scramble eggs in the same skillet using a bit of the bacon fat. Warm tortillas on a dry skillet or comal, then fill each with scrambled egg, bacon, and cheese, topping with salsa before folding to eat.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 24,
+      "carbs_g": 32,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Aldi"],
+      "notes": "Most traditional and widely sold in Texas (Austin, San Antonio) at dedicated breakfast taco stands; ingredients are basic staples available at any US grocery store."
+    },
+    "sources": [
+      { "title": "Texas Breakfast Tacos - House of Yumm", "url": "https://houseofyumm.com/breakfast-tacos/" },
+      { "title": "Austin-Style Breakfast Taco Recipe with Bacon, Egg, & Avocado", "url": "https://camillestyles.com/food/recipes/breakfast/breakfast-taco-recipe/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-030",
+    "name": "English Muffin with Peanut Butter and Banana",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A simple, budget-friendly breakfast common in American households, valued for being fast, inexpensive, and shelf-stable with pantry staples most families already keep on hand.",
+    "ingredients": [
+      { "item": "English muffin", "quantity": 1, "unit": "whole" },
+      { "item": "peanut butter", "quantity": 2, "unit": "tbsp" },
+      { "item": "banana, sliced", "quantity": 1, "unit": "whole" }
+    ],
+    "prepNotes": "Toast the split English muffin, spread each half with peanut butter, and top with banana slices. Ready in under 5 minutes with no special equipment.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 12,
+      "carbs_g": 52,
+      "fiber_g": 7,
+      "sugar_g": 18,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Kroger", "Target", "Aldi", "Safeway"],
+      "notes": "English muffins, peanut butter, and bananas are inexpensive staples sold at every US grocery store nationwide year-round, including budget retailers like Aldi."
+    },
+    "sources": [
+      { "title": "Peanut Butter and Banana English Muffin - Professional Nutrition Consulting", "url": "https://www.pronutritionconsulting.com/the-recipe-book/peanut-butter-and-banana-english-muffin/" },
+      { "title": "Peanut butter and berry English muffins | Mayo Clinic Diet", "url": "https://diet.mayoclinic.org/us/motivational-tips/recipe-collections/quick-breakfasts/peanut-butter-and-berry-english-muffins/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-031",
+    "name": "McDonald's Sausage, Egg & Cheese McGriddles",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely recognized McDonald's breakfast sandwich since 2003, known for its distinctive maple-flavored griddle cakes in place of a bun; a frequently ordered item in the chain's US breakfast lineup.",
+    "ingredients": [
+      { "item": "maple-flavored griddle cakes", "quantity": 2, "unit": "whole" },
+      { "item": "sausage patty", "quantity": 1, "unit": "patty" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "American cheese", "quantity": 1, "unit": "slice" }
+    ],
+    "prepNotes": "Chain item: a folded egg, sausage patty, and American cheese are sandwiched between two soft griddle cakes infused with maple flavoring, griddled to order. Best replicated at home using small pancakes in place of the griddle cakes.",
+    "nutrition": {
+      "calories": 550,
+      "protein_g": 20,
+      "carbs_g": 45,
+      "fiber_g": 2,
+      "sugar_g": 6,
+      "fat_g": 32,
+      "method": "Published nutrition panel, McDonald's USA"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger"],
+      "notes": "Sold at McDonald's restaurants nationwide; a defining example of the sweet-savory combination common in American fast-food breakfasts."
+    },
+    "sources": [
+      { "title": "Sausage, Egg & Cheese McGriddles Breakfast Sandwich | McDonald's", "url": "https://www.mcdonalds.com/us/en-us/product/sausage-egg-cheese-mcgriddles.html" },
+      { "title": "McDonald's Sausage, Egg & Cheese McGriddles Nutrition Facts", "url": "https://fastfoodnutrition.org/mcdonalds/sausage-egg-cheese-mcgriddles" }
+    ]
+  },
+  {
+    "id": "us-breakfast-032",
+    "name": "Huevos Rancheros",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A classic Mexican ranch breakfast ('rancher's eggs') widely eaten in Mexican-American households and Mexican restaurants across the US, especially the Southwest and California.",
+    "ingredients": [
+      { "item": "corn tortillas", "quantity": 2, "unit": "whole" },
+      { "item": "refried beans", "quantity": 0.5, "unit": "cup" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "ranchero salsa (tomato, chile, onion)", "quantity": 0.5, "unit": "cup" },
+      { "item": "queso fresco, crumbled", "quantity": 2, "unit": "tbsp" },
+      { "item": "avocado, sliced", "quantity": 0.25, "unit": "whole" }
+    ],
+    "prepNotes": "Lightly fry corn tortillas in a small amount of oil until just pliable, then warm refried beans separately. Fry or poach the eggs and simmer the ranchero salsa. Layer tortillas with beans, top with eggs, ladle warm salsa over the top, and finish with queso fresco and avocado.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 21,
+      "carbs_g": 40,
+      "fiber_g": 11,
+      "sugar_g": 5,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Aldi"],
+      "notes": "Corn tortillas, refried beans, and salsa ingredients are sold nationwide; most traditional and widely available in the Southwest, Texas, and California."
+    },
+    "sources": [
+      { "title": "Huevos rancheros - Wikipedia", "url": "https://en.wikipedia.org/wiki/Huevos_rancheros" },
+      { "title": "Huevos Rancheros Recipe (Authentic Mexican Breakfast)", "url": "https://muybuenoblog.com/huevos-rancheros/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-033",
+    "name": "Smoked Salmon Avocado Toast with Capers",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A popular cafe and brunch dish across the US, especially associated with West Coast and Pacific Northwest cafe culture where fresh and smoked salmon are widely available.",
+    "ingredients": [
+      { "item": "sourdough bread", "quantity": 1, "unit": "slice" },
+      { "item": "avocado", "quantity": 0.5, "unit": "whole" },
+      { "item": "smoked salmon", "quantity": 2, "unit": "oz" },
+      { "item": "capers", "quantity": 1, "unit": "tsp" },
+      { "item": "lemon juice", "quantity": 1, "unit": "tsp" },
+      { "item": "fresh dill", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Toast the sourdough, then mash avocado with lemon juice and a pinch of salt and spread over the toast. Lay smoked salmon over the avocado and finish with capers and fresh dill. Ready in under 10 minutes with no cooking required.",
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 17,
+      "carbs_g": 22,
+      "fiber_g": 7,
+      "sugar_g": 2,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Trader Joe's", "Costco", "Safeway"],
+      "notes": "Smoked salmon and sourdough are sold nationwide; especially associated with Pacific Northwest and West Coast brunch culture (Seattle, Portland, San Francisco) where wild salmon is a regional specialty."
+    },
+    "sources": [
+      { "title": "Smoked Salmon Avocado Toast - Girl Gone Gourmet", "url": "https://www.girlgonegourmet.com/smoked-salmon-avocado-toast/" },
+      { "title": "Sesame Smoked Salmon Avocado Toast | Nourishing Meals", "url": "https://nourishingmeals.com/recipes/sesame-smoked-salmon-avocado-toast" }
+    ]
+  },
+  {
+    "id": "us-breakfast-034",
+    "name": "Eggo Buttermilk Waffles with Butter and Syrup",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "Eggo waffles have been a defining frozen breakfast food in American households since their introduction in 1953, a default quick breakfast for kids and busy families pulled straight from the freezer.",
+    "ingredients": [
+      { "item": "Eggo Buttermilk frozen waffles", "quantity": 2, "unit": "whole" },
+      { "item": "butter", "quantity": 1, "unit": "tbsp" },
+      { "item": "maple syrup", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Toast frozen waffles directly from the freezer until golden and crisp, about 2-3 minutes. Top with butter and warm maple syrup. One of the fastest hot breakfasts available in the US, ready in under 5 minutes.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 5,
+      "carbs_g": 58,
+      "fiber_g": 1,
+      "sugar_g": 30,
+      "fat_g": 14,
+      "method": "Published nutrition panel, Kellogg's USA, with added butter and syrup calculated via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Kroger", "Target", "Aldi", "Safeway"],
+      "notes": "Sold in the frozen aisle at every major US grocery chain nationwide, one of the most recognized frozen breakfast brands in the country."
+    },
+    "sources": [
+      { "title": "Eggo® Buttermilk Waffles | Leggomyeggo", "url": "https://www.leggomyeggo.com/en_US/products/waffles/classic/eggo-buttermilk-waffles.html" },
+      { "title": "Eggo® Buttermilk Waffles - SmartLabel", "url": "https://smartlabel.kelloggs.com/Product/Index/00038000402906" }
+    ]
+  },
+  {
+    "id": "us-breakfast-035",
+    "name": "RXBAR Chocolate Sea Salt Protein Bar",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely sold whole-food protein bar marketed on its short ingredient list, commonly grabbed by US commuters and gym-goers as a fast on-the-go breakfast.",
+    "ingredients": [
+      { "item": "RXBAR Chocolate Sea Salt bar", "quantity": 1, "unit": "bar (52g)" }
+    ],
+    "prepNotes": "No preparation required: unwrap and eat. Made from dates, egg whites, almonds, cashews, and dark chocolate; often paired with a piece of fruit or coffee for a more complete breakfast.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 12,
+      "carbs_g": 23,
+      "fiber_g": 5,
+      "sugar_g": 13,
+      "fat_g": 9,
+      "method": "Published nutrition panel, RXBAR USA"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["eggs", "tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Costco", "Target", "Kroger", "Whole Foods", "Trader Joe's"],
+      "notes": "Sold nationwide in multipacks at every major US retailer and most convenience stores and gas stations."
+    },
+    "sources": [
+      { "title": "Chocolate Sea Salt Protein Bars (12 Count) | RXBAR", "url": "https://shop.rxbar.com/shop/chocolate-sea-salt-box-of-12-bars.html" },
+      { "title": "Are RXBars Healthy? Here's What a Dietitian Wants You To Know", "url": "https://www.eatthis.com/are-rxbars-healthy/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-036",
+    "name": "Costco Kirkland Bakery Blueberry Muffin",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "An iconic oversized bakery item sold at Costco food courts and bakery sections nationwide, well known among American shoppers for its large size and indulgent, treat-style breakfast appeal.",
+    "ingredients": [
+      { "item": "Costco bakery blueberry muffin", "quantity": 1, "unit": "whole" }
+    ],
+    "prepNotes": "A bakery item purchased ready-to-eat from the Costco bakery case; typically shared or split given its large size, though commonly eaten whole as a single indulgent breakfast.",
+    "nutrition": {
+      "calories": 570,
+      "protein_g": 8,
+      "carbs_g": 84,
+      "fiber_g": 2,
+      "sugar_g": 48,
+      "fat_g": 22,
+      "method": "Published nutrition panel, Costco Wholesale bakery"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Costco"],
+      "notes": "Sold exclusively at Costco bakery counters nationwide; a well-known bulk-warehouse bakery item across the US."
+    },
+    "sources": [
+      { "title": "Costco Blueberry Muffin Nutrition Facts & Calories", "url": "https://www.inlivo.com/nutrition/bakery---breakfast-and-desserts/muffins/costco-blueberry-muffin" },
+      { "title": "Costco Muffins Review (Price, Flavors, Calories, more!)", "url": "https://summeryule.com/costco-muffins/" }
+    ]
+  },
+  {
+    "id": "us-breakfast-037",
+    "name": "Vegetable and Cheddar Omelette",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A standard home-cooked and diner breakfast across the US, valued for being a fast way to use up fresh vegetables alongside eggs; a common weekday and weekend dish nationwide.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 3, "unit": "large" },
+      { "item": "bell pepper, diced", "quantity": 0.25, "unit": "cup" },
+      { "item": "spinach", "quantity": 0.5, "unit": "cup" },
+      { "item": "tomato, diced", "quantity": 0.25, "unit": "cup" },
+      { "item": "shredded cheddar cheese", "quantity": 0.33, "unit": "cup" },
+      { "item": "butter", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Saute bell pepper, spinach, and tomato in butter until just softened. Whisk eggs and pour into the pan, swirling to coat evenly, then sprinkle cheese and vegetables over half. Once mostly set, fold the omelette in half and cook another minute until the cheese melts.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 26,
+      "carbs_g": 7,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Aldi", "Target", "Costco"],
+      "notes": "Eggs, vegetables, and cheese are nationwide everyday staples sold at every US grocery store; a standard diner and home breakfast across the country."
+    },
+    "sources": [
+      { "title": "Cheese and vegetable omelette recipe | Safefood", "url": "https://www.safefood.net/recipes/breakfast/cheese-and-vegetable-omelette" },
+      { "title": "Vegetable Omelet | University of Maryland Extension", "url": "https://extension.umd.edu/programs/family-consumer-sciences/snap-ed/eat-smart/recipes/vegetable-omelet" }
+    ]
+  },
+  {
+    "id": "us-breakfast-038",
+    "name": "Leftover Pizza for Breakfast",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A widely recognized American breakfast habit, especially among college students and young adults, where cold or reheated pizza from the night before is eaten in place of a traditional morning meal.",
+    "ingredients": [
+      { "item": "leftover pepperoni pizza", "quantity": 2, "unit": "slices (large)" }
+    ],
+    "prepNotes": "Eat cold straight from the fridge, or reheat in a skillet over medium-low heat for a few minutes to re-crisp the crust and re-melt the cheese; a toaster oven also works well and avoids a soggy crust.",
+    "nutrition": {
+      "calories": 570,
+      "protein_g": 26,
+      "carbs_g": 64,
+      "fiber_g": 3,
+      "sugar_g": 6,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Safeway", "Costco"],
+      "notes": "A widely recognized informal American breakfast habit rather than a packaged product; pizza itself is available nationwide from delivery chains, frozen aisles, and local pizzerias."
+    },
+    "sources": [
+      { "title": "Leftover Pizza for Breakfast? Creative Ideas & Recipes That Work", "url": "https://madeinnewyorkpizza.com/blog/start-your-day-right-our-creative-leftover-pizza-recipes/" },
+      { "title": "Healthy Breakfast: Leftover Pizza vs. Doughnut", "url": "https://www.fitday.com/fitness-articles/nutrition/healthy-eating/healthy-breakfast-leftover-pizza-vs-doughnut.html" }
+    ]
+  },
+  {
+    "id": "us-breakfast-039",
+    "name": "Plain Bagel with Cream Cheese",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "One of the most common quick breakfasts in the US, sold at bagel shops, delis, coffee chains, and grocery store bakeries nationwide as a simple, inexpensive grab-and-go option.",
+    "ingredients": [
+      { "item": "plain bagel", "quantity": 1, "unit": "whole (medium)" },
+      { "item": "cream cheese", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Slice the bagel in half, toast if desired, and spread each half with cream cheese. Ready in under 5 minutes with no cooking equipment beyond a toaster.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 13,
+      "carbs_g": 54,
+      "fiber_g": 2,
+      "sugar_g": 7,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Aldi", "Safeway", "Costco"],
+      "notes": "Bagels and cream cheese are nationwide staples sold at every grocery store, bagel shop, and most coffee chains including Dunkin' and Einstein Bros."
+    },
+    "sources": [
+      { "title": "Bagel with plain cream cheese Nutrition", "url": "https://www.snapcalorie.com/nutrition/bagel_with_plain_cream_cheese_nutrition.html" },
+      { "title": "Will My Day Be a Nutritional Train Wreck If I Start It with a Bagel and Cream Cheese?", "url": "https://melmagazine.com/en-us/story/how-many-calories-in-a-bagel-with-cream-cheese" }
+    ]
+  },
+  {
+    "id": "us-breakfast-040",
+    "name": "Turkey Sausage Links with Scrambled Eggs and Fruit",
+    "country": "US",
+    "mealType": "breakfast",
+    "servings": 1,
+    "popularityContext": "A common lighter alternative to a traditional pork-sausage breakfast plate, widely chosen across the US by people looking for a familiar diner-style breakfast with a leaner protein.",
+    "ingredients": [
+      { "item": "turkey breakfast sausage links", "quantity": 3, "unit": "links" },
+      { "item": "eggs", "quantity": 2, "unit": "large" },
+      { "item": "butter", "quantity": 1, "unit": "tsp" },
+      { "item": "mixed fresh fruit (melon, berries, grapes)", "quantity": 0.75, "unit": "cup" }
+    ],
+    "prepNotes": "Pan-fry turkey sausage links until browned and cooked through, about 6-8 minutes. Scramble eggs in butter in a separate pan until just set. Plate with a side of fresh mixed fruit in place of toast or potatoes for a lighter version of the classic diner plate.",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 29,
+      "carbs_g": 15,
+      "fiber_g": 2,
+      "sugar_g": 10,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via USDA FoodData Central"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Trader Joe's", "Safeway", "Target"],
+      "notes": "Turkey breakfast sausage links, eggs, and fresh fruit are sold nationwide at every major US grocery chain year-round."
+    },
+    "sources": [
+      { "title": "Calories in Turkey Sausage Breakfast Links (Mild) and Nutrition Facts", "url": "https://www.fatsecret.com/calories-nutrition/usda/turkey-sausage-breakfast-links-(mild)" },
+      { "title": "Turkey sausage patty Nutrition", "url": "https://www.snapcalorie.com/nutrition/turkey_sausage_patty_nutrition.html" }
+    ]
+  }
+]

@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.84",
+    "@anthropic-ai/sdk": "^0.104.2",
+    "ai": "^6.0.206",
     "@lemonsqueezy/lemonsqueezy.js": "^4.0.0",
     "@mdx-js/loader": "^3.1.1",
     "@mdx-js/react": "^3.1.1",

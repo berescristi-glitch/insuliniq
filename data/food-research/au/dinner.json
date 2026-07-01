@@ -1,0 +1,1899 @@
+[
+  {
+    "id": "au-dinner-001",
+    "name": "Roast Lamb with Potatoes, Pumpkin and Greens",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Widely regarded as Australia's unofficial national dish, the Sunday roast lamb leg with roasted potatoes, pumpkin and gravy is a long-standing weekly family tradition rooted in British colonial cooking, and remains one of the most-cooked weekend dinners in Australian homes.",
+    "ingredients": [
+      { "item": "roast lamb leg (lean, trimmed)", "quantity": 150, "unit": "g" },
+      { "item": "potatoes, roasted", "quantity": 180, "unit": "g" },
+      { "item": "pumpkin, roasted", "quantity": 120, "unit": "g" },
+      { "item": "green beans or broccolini, steamed", "quantity": 80, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "gravy (from pan juices)", "quantity": 40, "unit": "ml" },
+      { "item": "garlic and rosemary", "quantity": 1, "unit": "tsp, chopped" }
+    ],
+    "prepNotes": "Rub the lamb leg with olive oil, garlic and rosemary, sear at 220C for 20 minutes, then roast at 180C until cooked to preference (about 20 minutes per 500g for medium). Parboil potato and pumpkin chunks briefly, then roast in a separate tray with oil until golden. Steam the greens and make a simple gravy from the lamb pan juices.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 36,
+      "carbs_g": 42,
+      "fiber_g": 7,
+      "sugar_g": 6,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) values for roast lamb, potato, pumpkin and green vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Lamb leg, potatoes, pumpkin and greens are sold fresh year-round at all major Australian supermarkets and butchers."
+    },
+    "sources": [
+      { "title": "Classic Australian Sunday Roast Lamb - Traditional Australia Recipe", "url": "https://world.food/recipes/australia/roast-lamb" },
+      { "title": "Australia's National Dish. Sunday Roast Leg of Lamb.", "url": "https://thepaddingtonfoodie.com/2013/03/25/australias-national-dish-sunday-roast-leg-of-lamb-scented-with-lemon-garlic-and-rosemary/" }
+    ]
+  },
+  {
+    "id": "au-dinner-002",
+    "name": "BBQ Sausages (Snags) with Salad and Bread Roll",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The 'sausage sizzle' is one of Australia's most recognisable food traditions, popularised at Bunnings hardware stores, school fundraisers and backyard barbecues since the 1970s, and remains a staple casual weeknight and weekend dinner nationwide.",
+    "ingredients": [
+      { "item": "beef or pork BBQ sausages (snags)", "quantity": 2, "unit": "sausages (150 g)" },
+      { "item": "white bread roll", "quantity": 1, "unit": "roll (60 g)" },
+      { "item": "garden salad (lettuce, tomato, cucumber, capsicum)", "quantity": 150, "unit": "g" },
+      { "item": "grilled onion", "quantity": 40, "unit": "g" },
+      { "item": "tomato sauce", "quantity": 15, "unit": "g" },
+      { "item": "olive oil dressing", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Grill the sausages on a barbecue hotplate over medium heat, turning regularly, until browned and cooked through (about 12-15 minutes). Grill the sliced onion alongside until soft and caramelised. Toss the salad vegetables with olive oil and serve everything with a bread roll and tomato sauce.",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 27,
+      "carbs_g": 40,
+      "fiber_g": 5,
+      "sugar_g": 10,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef sausages, bread roll and garden salad"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sausages, bread rolls and salad vegetables are everyday staples in all major Australian supermarkets and butcheries."
+    },
+    "sources": [
+      { "title": "Barbecue Snags | Traditional Cooked Sausage From Australia | TasteAtlas", "url": "https://www.tasteatlas.com/barbecue-snags" },
+      { "title": "Barbecue Snags: A Delicious Australian Tradition", "url": "https://ostrali.com/barbecue-snags/" }
+    ]
+  },
+  {
+    "id": "au-dinner-003",
+    "name": "Grilled Steak with Mashed Potato, Carrots and Beans (Meat and Three Veg)",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The 'meat and three veg' formula -- a portion of meat with mashed or boiled potato and two cooked vegetables -- has British colonial roots and remained the default Australian home dinner for generations; it is still commonly cooked across the country today.",
+    "ingredients": [
+      { "item": "grilled beef steak (rump or scotch fillet)", "quantity": 150, "unit": "g" },
+      { "item": "potato, mashed with a little butter and milk", "quantity": 180, "unit": "g" },
+      { "item": "carrots, boiled", "quantity": 80, "unit": "g" },
+      { "item": "green beans, boiled", "quantity": 80, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "beef gravy", "quantity": 40, "unit": "ml" }
+    ],
+    "prepNotes": "Season the steak and grill or pan-fry to preference, then rest for 5 minutes before slicing. Boil and mash the potato with butter and a splash of milk. Boil the carrots and beans until just tender. Serve all together with a simple beef gravy.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 40,
+      "carbs_g": 38,
+      "fiber_g": 7,
+      "sugar_g": 7,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef steak, potato and vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Steak, potatoes and vegetables are everyday staples available fresh nationwide year-round."
+    },
+    "sources": [
+      { "title": "What Gran got right about meat and three veg | Cancer Council NSW", "url": "https://www.cancercouncil.com.au/news/what-gran-got-right-about-meat-and-three-veg/" },
+      { "title": "Classic Meat and 3 Veg Meals - Home-Cooked Recipes", "url": "https://theorganisedhousewife.com.au/category/recipes/dinner-recipes/meat-and-3-veg/" }
+    ]
+  },
+  {
+    "id": "au-dinner-004",
+    "name": "Roast Chicken with Pumpkin, Sage and Greens",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A modern Australian weeknight tray-bake favourite, combining roast chicken with roasted pumpkin and steamed greens; widely featured across Australian food blogs and recipe sites as an easy one-tray family dinner.",
+    "ingredients": [
+      { "item": "chicken thigh fillets, skin-on", "quantity": 180, "unit": "g" },
+      { "item": "pumpkin, cut into chunks", "quantity": 150, "unit": "g" },
+      { "item": "red onion, wedges", "quantity": 50, "unit": "g" },
+      { "item": "broccolini or green beans, steamed", "quantity": 80, "unit": "g" },
+      { "item": "olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "fresh sage and garlic", "quantity": 1, "unit": "tbsp, chopped" }
+    ],
+    "prepNotes": "Toss chicken, pumpkin and onion with olive oil, sage, garlic, salt and pepper on a tray. Roast at 200C for about 35-40 minutes until the chicken skin is golden and the pumpkin is tender. Steam the greens separately and serve alongside.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 26,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 29,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken thigh, pumpkin and vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Chicken thigh, pumpkin and greens are sold fresh year-round at all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "Roast Chicken with Pumpkin, Sage and Red Onion - Nourish Everyday", "url": "https://nourisheveryday.com/roast-chicken-with-pumpkin-sage-and-red-onion/" },
+      { "title": "Roast Pumpkin, Chicken & Supergreen Salad Recipe | HelloFresh", "url": "https://www.hellofresh.com.au/recipes/chicken-roast-pumpkin-and-supergreen-salad-bowl-675f85f38210a9d71a68b9d9" }
+    ]
+  },
+  {
+    "id": "au-dinner-005",
+    "name": "Beef Mince Lettuce Cups (San Choy Bow style)",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "An Asian-Australian fusion dish that has become a popular weeknight family dinner across Australia, promoted by Australian Beef and widely cooked at home as a lighter, fresh alternative to heavier mince dishes.",
+    "ingredients": [
+      { "item": "lean beef mince", "quantity": 150, "unit": "g" },
+      { "item": "cos or iceberg lettuce cups", "quantity": 4, "unit": "leaves (100 g)" },
+      { "item": "red capsicum, diced", "quantity": 40, "unit": "g" },
+      { "item": "red onion, diced", "quantity": 30, "unit": "g" },
+      { "item": "carrot, grated", "quantity": 30, "unit": "g" },
+      { "item": "soy sauce", "quantity": 15, "unit": "ml" },
+      { "item": "fish sauce and lime juice", "quantity": 10, "unit": "ml" },
+      { "item": "mint and coriander leaves", "quantity": 1, "unit": "small handful" }
+    ],
+    "prepNotes": "Brown the beef mince in a hot wok, breaking up lumps. Add capsicum, onion and carrot, stir-fry for 2-3 minutes. Season with soy sauce, fish sauce and lime juice. Spoon the mixture into lettuce cups and top with fresh mint, coriander and a squeeze of extra lime.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 34,
+      "carbs_g": 12,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef mince, vegetables and Asian seasonings"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["fish", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Beef mince, lettuce and Asian sauces are available year-round in all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "Beef mince lettuce cups | Australian Beef - Recipes, Cooking Tips and More", "url": "https://www.australianbeef.com.au/recipes/beef-mince-lettuce-cups/" },
+      { "title": "Beef San Choy Bow - Andy Cooks", "url": "https://www.andy-cooks.com/blogs/recipes/beef-san-choy-bow" }
+    ]
+  },
+  {
+    "id": "au-dinner-006",
+    "name": "Honey Soy Chicken Skewers with Asian Salad",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Honey soy chicken skewers are a regular feature on Woolworths' and Coles' recipe hubs and a popular quick weeknight dinner, reflecting the strong everyday influence of Asian-Australian flavours on home cooking.",
+    "ingredients": [
+      { "item": "chicken breast or thigh, cubed", "quantity": 180, "unit": "g" },
+      { "item": "honey", "quantity": 15, "unit": "g" },
+      { "item": "soy sauce", "quantity": 15, "unit": "ml" },
+      { "item": "garlic, minced", "quantity": 1, "unit": "clove" },
+      { "item": "mixed Asian slaw (cabbage, carrot, capsicum)", "quantity": 150, "unit": "g" },
+      { "item": "sesame oil and rice vinegar dressing", "quantity": 15, "unit": "ml" },
+      { "item": "sesame seeds", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Marinate chicken cubes in honey, soy sauce and garlic for 15-30 minutes, then thread onto skewers. Grill or pan-fry the skewers, turning until cooked through and lightly caramelised. Toss the slaw with sesame oil and rice vinegar, sprinkle with sesame seeds, and serve with the skewers.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 42,
+      "carbs_g": 22,
+      "fiber_g": 4,
+      "sugar_g": 14,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken, honey-soy marinade and slaw"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["soy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Chicken, honey, soy sauce and slaw vegetables are widely available year-round; pre-cut slaw mixes are common in the fresh produce aisle."
+    },
+    "sources": [
+      { "title": "Honey Soy Chicken Kebabs With Asian Salad & Sesame Rice Recipe | Woolworths", "url": "https://www.woolworths.com.au/shop/recipes/honey-soy-chicken-kebabs-with-asian-salad-and-sesame-rice" },
+      { "title": "Easy Chicken Skewers Recipe | Woolworths", "url": "https://www.woolworths.com.au/shop/recipes/easy-chicken-skewers" }
+    ]
+  },
+  {
+    "id": "au-dinner-007",
+    "name": "Curried Sausages with Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A retro Australian comfort dinner built on Keen's curry powder, curried sausages have been a regular family dinner across the country for decades, especially as a winter weeknight meal.",
+    "ingredients": [
+      { "item": "beef sausages, sliced", "quantity": 150, "unit": "g" },
+      { "item": "curry powder", "quantity": 10, "unit": "g" },
+      { "item": "onion, diced", "quantity": 50, "unit": "g" },
+      { "item": "carrot, diced", "quantity": 50, "unit": "g" },
+      { "item": "beef stock", "quantity": 200, "unit": "ml" },
+      { "item": "cornflour (to thicken)", "quantity": 10, "unit": "g" },
+      { "item": "cooked white rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Brown the sliced sausages with onion and carrot in a large pan. Stir in curry powder and cook for 1 minute, then add stock and simmer for 15 minutes until vegetables are tender. Thicken with a cornflour slurry and serve over steamed rice.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 24,
+      "carbs_g": 56,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef sausages, curry sauce and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Sausages, curry powder (commonly Keen's brand) and rice are pantry staples found in every Australian supermarket."
+    },
+    "sources": [
+      { "title": "Keens Curried Sausages - The Cooking Collective", "url": "https://www.thecookingcollective.com.au/easy-curried-sausages/" },
+      { "title": "Curried Sausages Recipe | Wandercooks", "url": "https://www.wandercooks.com/best-ever-australian-curried-sausages/" }
+    ]
+  },
+  {
+    "id": "au-dinner-008",
+    "name": "Greek-Style Grilled Lamb Salad with Feta and Tzatziki",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Reflecting Australia's large Greek-Australian community (concentrated especially in Melbourne), grilled lamb salad with feta, olives and tzatziki is a common modern Australian dinner drawing directly on Greek-Australian home cooking.",
+    "ingredients": [
+      { "item": "lamb backstrap or leg steak, grilled", "quantity": 150, "unit": "g" },
+      { "item": "mixed salad leaves, tomato, cucumber, red onion", "quantity": 150, "unit": "g" },
+      { "item": "feta cheese", "quantity": 40, "unit": "g" },
+      { "item": "kalamata olives", "quantity": 20, "unit": "g" },
+      { "item": "tzatziki (yoghurt, cucumber, garlic)", "quantity": 40, "unit": "g" },
+      { "item": "olive oil and lemon juice dressing", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Marinate the lamb briefly in olive oil, lemon and oregano, then grill to preference and rest before slicing. Toss the salad vegetables with olive oil and lemon juice. Plate the salad, top with sliced lamb, crumbled feta and olives, and serve with a dollop of tzatziki.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 38,
+      "carbs_g": 10,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for lamb, feta, olives and tzatziki"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb", "mediterranean"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Lamb, feta and Greek-style yoghurt are widely available in supermarkets and Greek delicatessens, especially strong in Melbourne and Sydney."
+    },
+    "sources": [
+      { "title": "Greek Lamb Salad with Tzatziki - The Cooking Collective", "url": "https://www.thecookingcollective.com.au/greek-lamb-salad-with-tzatziki/" },
+      { "title": "Grilled Aussie lamb salad | Aussie Beef & Lamb", "url": "https://www.aussiebeefandlamb.com/archived-recipes/grilled-aussie-lamb-salad/" }
+    ]
+  },
+  {
+    "id": "au-dinner-009",
+    "name": "Lamb Sausages with Pea and Buttermilk Mash",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A variation on the classic Australian bangers and mash, using lamb sausages and a pea-flecked mash; featured on Australian Women's Weekly Food as a popular home-style dinner.",
+    "ingredients": [
+      { "item": "lamb sausages", "quantity": 150, "unit": "g" },
+      { "item": "potato, mashed", "quantity": 200, "unit": "g" },
+      { "item": "frozen peas", "quantity": 60, "unit": "g" },
+      { "item": "buttermilk or milk", "quantity": 30, "unit": "ml" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "onion gravy", "quantity": 50, "unit": "ml" }
+    ],
+    "prepNotes": "Pan-fry the lamb sausages over medium heat until browned and cooked through. Boil potato and peas together until tender, then mash with buttermilk and butter. Serve the sausages over the pea mash with onion gravy.",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 26,
+      "carbs_g": 46,
+      "fiber_g": 7,
+      "sugar_g": 7,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for lamb sausages, potato, peas and gravy"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Lamb sausages, potatoes and frozen peas are everyday staples in all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "Lamb sausages with pea mash | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipe/dinner/lamb-sausages-with-pea-mash-10787/" }
+    ]
+  },
+  {
+    "id": "au-dinner-010",
+    "name": "Chicken Parmigiana with Chips and Salad",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The chicken parmigiana ('parma') is one of the most ordered pub meals in Australia, an Italian-Australian adaptation of chicken parmigiana topped with ham, napoli sauce and cheese, served with chips and salad as the standard pub-dinner format nationwide.",
+    "ingredients": [
+      { "item": "chicken breast schnitzel, crumbed", "quantity": 180, "unit": "g" },
+      { "item": "napoli (tomato) sauce", "quantity": 60, "unit": "g" },
+      { "item": "ham", "quantity": 20, "unit": "g" },
+      { "item": "mozzarella cheese", "quantity": 40, "unit": "g" },
+      { "item": "oven-baked chips (fries)", "quantity": 150, "unit": "g" },
+      { "item": "side salad", "quantity": 80, "unit": "g" },
+      { "item": "vegetable oil for frying", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Pan-fry or oven-bake the crumbed chicken schnitzel until golden and cooked through. Top with napoli sauce, a slice of ham and mozzarella, then grill or bake until the cheese melts. Serve with oven-baked chips and a side salad.",
+    "nutrition": {
+      "calories": 780,
+      "protein_g": 48,
+      "carbs_g": 58,
+      "fiber_g": 5,
+      "sugar_g": 7,
+      "fat_g": 36,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for crumbed chicken, cheese, ham, chips and salad"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "A standard pub-menu dish nationwide; all components (crumbed chicken, napoli sauce, cheese, frozen chips) are sold in every major supermarket for home versions."
+    },
+    "sources": [
+      { "title": "Traditional Australian Dinner Foods: The Definitive Guide", "url": "https://flavor365.com/what-do-people-eat-for-dinner-in-australia-answered/" }
+    ]
+  },
+  {
+    "id": "au-dinner-011",
+    "name": "Spaghetti Bolognese (Spag Bol)",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Spaghetti bolognese, affectionately shortened to 'spag bol', was named Australia's favourite home-cooked recipe in a 2019 Good Food Guide survey and has been a household staple since Italian migrants popularised it in the late 1930s, evolving into a distinctly Australian version of the dish.",
+    "ingredients": [
+      { "item": "lean beef mince", "quantity": 150, "unit": "g" },
+      { "item": "spaghetti, dry", "quantity": 85, "unit": "g" },
+      { "item": "tomato passata", "quantity": 200, "unit": "g" },
+      { "item": "onion, diced", "quantity": 50, "unit": "g" },
+      { "item": "carrot, diced", "quantity": 40, "unit": "g" },
+      { "item": "garlic", "quantity": 2, "unit": "cloves" },
+      { "item": "parmesan cheese, grated", "quantity": 15, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Saute onion, carrot and garlic in olive oil until softened. Add beef mince and brown well, then stir in passata and simmer for 20-25 minutes until thickened. Cook spaghetti in boiling water until al dente, drain, and toss through the sauce. Serve topped with grated parmesan.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 38,
+      "carbs_g": 64,
+      "fiber_g": 6,
+      "sugar_g": 10,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef mince, pasta, tomato sauce and parmesan"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "One of the most-cooked weeknight dinners nationwide; mince, pasta and passata are everyday staples in every Australian supermarket."
+    },
+    "sources": [
+      { "title": "'Spag Bol': How Australians adopted a classic Italian recipe and made it their own | SBS Italian", "url": "https://www.sbs.com.au/language/italian/en/article/spag-bol-how-australians-adopted-a-classic-italian-recipe-and-made-it-their-own/9ogvr96ea" },
+      { "title": "Spag Bol | Traditional Pasta From Australia | TasteAtlas", "url": "https://www.tasteatlas.com/spag-bol" }
+    ]
+  },
+  {
+    "id": "au-dinner-012",
+    "name": "Chicken Cashew Stir-Fry",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A home-style take on Chinese-Australian takeaway, chicken cashew stir-fry is a fast, popular weeknight dinner widely shared by Australian recipe sites as a quicker, fresher alternative to takeaway.",
+    "ingredients": [
+      { "item": "chicken breast, sliced", "quantity": 150, "unit": "g" },
+      { "item": "cashews", "quantity": 25, "unit": "g" },
+      { "item": "broccoli, capsicum and snow peas, mixed", "quantity": 180, "unit": "g" },
+      { "item": "garlic and ginger", "quantity": 1, "unit": "tbsp, minced" },
+      { "item": "soy sauce and oyster sauce", "quantity": 25, "unit": "ml" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Heat oil in a wok over high heat and stir-fry the chicken until just cooked, then set aside. Stir-fry the vegetables with garlic and ginger for 2-3 minutes until just tender. Return the chicken to the wok, add the cashews and sauces, and toss to combine. Serve over steamed rice.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 40,
+      "carbs_g": 52,
+      "fiber_g": 5,
+      "sugar_g": 7,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken, vegetables, cashews and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["soy", "tree_nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Chicken, stir-fry vegetable mixes, cashews and Asian sauces are widely available year-round in every Australian supermarket."
+    },
+    "sources": [
+      { "title": "Chicken Cashew Stir Fry | The Cooking Collective", "url": "https://www.thecookingcollective.com.au/chicken-and-cashew-stir-fry-2/" },
+      { "title": "9 Most Popular Home Cooked Chinese Dishes in Australia | Lee Kum Kee", "url": "https://au.lkk.com/en/cooking-stories/most-popular-chinese-dishes" }
+    ]
+  },
+  {
+    "id": "au-dinner-013",
+    "name": "Thai Red Curry Chicken with Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Thai red curry chicken is a widely cooked Australian weeknight dinner, promoted by major supermarket recipe hubs such as Coles for its speed and family appeal, reflecting Thai cuisine's strong everyday presence in Australian home cooking.",
+    "ingredients": [
+      { "item": "chicken thigh, sliced", "quantity": 150, "unit": "g" },
+      { "item": "Thai red curry paste", "quantity": 30, "unit": "g" },
+      { "item": "coconut milk", "quantity": 150, "unit": "ml" },
+      { "item": "capsicum and green beans, mixed", "quantity": 120, "unit": "g" },
+      { "item": "fish sauce", "quantity": 10, "unit": "ml" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" },
+      { "item": "thai basil leaves", "quantity": 1, "unit": "small handful" }
+    ],
+    "prepNotes": "Fry the curry paste in a hot pan for 1 minute to release the aromatics. Add chicken and cook until browned, then pour in coconut milk and simmer for 10 minutes. Add the vegetables and cook until just tender, season with fish sauce. Serve over steamed rice with fresh Thai basil.",
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 36,
+      "carbs_g": 50,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken thigh, coconut milk, curry paste and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Thai curry paste and coconut milk are everyday pantry staples stocked in the Asian foods aisle of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Simple Thai Red Curry Chicken Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/red-chicken-curry" },
+      { "title": "A Thai red curry with chicken is the ideal winter warmer - Better Homes & Gardens Australia", "url": "https://www.bhg.com.au/recipe/chicken/thai-red-curry/" }
+    ]
+  },
+  {
+    "id": "au-dinner-014",
+    "name": "Vietnamese Beef Pho (Pho Bo)",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Pho is one of the most widely eaten Vietnamese-Australian dishes nationwide, available in suburban noodle bars and cooked at home; SBS Food notes it as one of Vietnam's 'greatest culinary gifts to Australia' alongside rice paper rolls and banh mi.",
+    "ingredients": [
+      { "item": "beef eye fillet or rump, thinly sliced", "quantity": 120, "unit": "g" },
+      { "item": "flat rice noodles", "quantity": 100, "unit": "g" },
+      { "item": "beef stock (star anise, cinnamon, ginger-infused)", "quantity": 400, "unit": "ml" },
+      { "item": "bean sprouts", "quantity": 50, "unit": "g" },
+      { "item": "spring onion and coriander", "quantity": 1, "unit": "small handful" },
+      { "item": "fish sauce and lime", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Simmer the stock with star anise, cinnamon and ginger for at least 30 minutes to infuse (or use a quick aromatic shortcut stock). Cook rice noodles according to packet directions and place in a bowl. Top with raw thinly sliced beef, then ladle over the hot stock so it cooks the beef. Finish with bean sprouts, spring onion, coriander, fish sauce and lime.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 32,
+      "carbs_g": 56,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef, rice noodles and aromatic stock"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Rice noodles, fish sauce and pho spices are stocked in the Asian foods aisle of major supermarkets; fresh pho is also widely available at Vietnamese noodle bars nationwide."
+    },
+    "sources": [
+      { "title": "Vietnamese Pho recipe - RecipeTin Eats", "url": "https://www.recipetineats.com/vietnamese-pho-recipe/" },
+      { "title": "Vietnam's greatest culinary gifts to Australia | SBS Food", "url": "https://www.sbs.com.au/food/article/vietnams-greatest-culinary-gifts-to-australia/z7vbbuilw" }
+    ]
+  },
+  {
+    "id": "au-dinner-015",
+    "name": "Vietnamese Rice Paper Rolls with Prawns",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Rice paper rolls (goi cuon) are a Vietnamese-Australian staple so popular they have spawned national chains such as Roll'd, and are commonly assembled at home as a light fresh dinner or share platter.",
+    "ingredients": [
+      { "item": "rice paper sheets", "quantity": 4, "unit": "sheets (20 g each)" },
+      { "item": "cooked prawns, halved", "quantity": 120, "unit": "g" },
+      { "item": "rice vermicelli noodles, cooked", "quantity": 60, "unit": "g" },
+      { "item": "lettuce, carrot, cucumber, mint and coriander", "quantity": 150, "unit": "g" },
+      { "item": "peanut hoisin dipping sauce", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Dip each rice paper sheet briefly in warm water until just pliable. Lay flat and fill with lettuce, noodles, herbs, carrot, cucumber and a few prawn halves. Roll tightly, folding in the ends. Serve with peanut hoisin dipping sauce.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 24,
+      "carbs_g": 54,
+      "fiber_g": 4,
+      "sugar_g": 8,
+      "fat_g": 7,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for prawns, rice paper, noodles and vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free", "pescatarian"],
+      "allergens": ["shellfish", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Rice paper, vermicelli and cooked prawns are sold in major supermarkets nationwide; fresh herbs are best sourced from greengrocers or Asian grocers for full flavour."
+    },
+    "sources": [
+      { "title": "20 fresh fillings for rice paper rolls | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/quick-and-easy/rice-paper-rolls-31330/" },
+      { "title": "Vietnamese Rice Paper Rolls - RecipeTin Eats", "url": "https://www.recipetineats.com/vietnamese-rice-paper-rolls-spring-rolls/" }
+    ]
+  },
+  {
+    "id": "au-dinner-016",
+    "name": "Lebanese Chicken Shish Tawook with Garlic Sauce and Salad",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Shish tawook is a staple of the large Lebanese-Australian community, especially in Western Sydney where charcoal chicken and Lebanese restaurants are everyday dinner destinations, and the dish is also widely cooked at home using yoghurt-based marinades.",
+    "ingredients": [
+      { "item": "chicken thigh, cubed", "quantity": 180, "unit": "g" },
+      { "item": "natural yoghurt", "quantity": 50, "unit": "g" },
+      { "item": "garlic, lemon juice and paprika", "quantity": 1, "unit": "tbsp, mixed" },
+      { "item": "garlic toum (garlic sauce)", "quantity": 30, "unit": "g" },
+      { "item": "Lebanese bread", "quantity": 1, "unit": "piece (60 g)" },
+      { "item": "tomato, cucumber and parsley salad", "quantity": 120, "unit": "g" }
+    ],
+    "prepNotes": "Marinate chicken cubes in yoghurt, garlic, lemon juice and paprika for at least 30 minutes (overnight is best). Thread onto skewers and grill or barbecue, turning until charred and cooked through. Serve with Lebanese bread, garlic toum sauce and a fresh tomato-cucumber-parsley salad.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 42,
+      "carbs_g": 32,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken thigh, yoghurt marinade, bread and salad"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["halal"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA", "local markets"],
+      "notes": "Lebanese bread, yoghurt and garlic sauce are stocked in major supermarkets; the strongest fresh selection and charcoal chicken shops are concentrated in Western Sydney and Melbourne's Lebanese-Australian communities."
+    },
+    "sources": [
+      { "title": "Shish Tawook (Authentic Lebanese Recipe) - Alphafoodie", "url": "https://www.alphafoodie.com/middle-eastern-chicken-shish-tawook-recipe/" },
+      { "title": "Charcoal Chicken & Lebanese Restaurant Takeaway | La Mono", "url": "https://www.lamono.com.au/" }
+    ]
+  },
+  {
+    "id": "au-dinner-017",
+    "name": "Beer-Battered Fish and Chips with Salad",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Fish and chips is a long-standing Australian dinner institution, traditionally bought from a local fish and chip shop on a Friday night and also commonly cooked at home in a lighter oven-baked form.",
+    "ingredients": [
+      { "item": "white fish fillets (flathead or barramundi)", "quantity": 150, "unit": "g" },
+      { "item": "potatoes, cut into chips", "quantity": 200, "unit": "g" },
+      { "item": "plain flour and beer batter", "quantity": 60, "unit": "g" },
+      { "item": "vegetable oil for baking/frying", "quantity": 20, "unit": "ml" },
+      { "item": "side salad or steamed greens", "quantity": 100, "unit": "g" },
+      { "item": "lemon wedge and tartare sauce", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Cut potatoes into chips, toss in oil and bake at 220C for 25-30 minutes until golden, turning halfway. Dip fish fillets in a light beer batter and pan-fry or oven-bake until golden and cooked through. Serve with chips, a side salad, lemon wedge and tartare sauce.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 36,
+      "carbs_g": 62,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for white fish, potato chips and batter"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "fish", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Fresh and frozen white fish and potatoes are available nationwide; fish and chip shops are common in every Australian town and suburb."
+    },
+    "sources": [
+      { "title": "Fish and chips recipes: 11 delicious ideas | SBS Food", "url": "https://www.sbs.com.au/food/article/fish-and-chips-recipes/5tc7r8fat" },
+      { "title": "Oven Baked Fish and Chips - Recipes - Matt Moran", "url": "https://mattmoran.com.au/recipes/oven-baked-fish-and-chips/" }
+    ]
+  },
+  {
+    "id": "au-dinner-018",
+    "name": "Baked Salmon with Lemon, Caper Yoghurt Sauce and Greens",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Baked salmon with a simple lemon and herb sauce is a widely cooked Australian midweek dinner, reflecting the country's strong fresh-fish culture and the popularity of Tasmanian-farmed salmon in supermarkets nationwide.",
+    "ingredients": [
+      { "item": "salmon fillet", "quantity": 150, "unit": "g" },
+      { "item": "natural yoghurt", "quantity": 40, "unit": "g" },
+      { "item": "capers and lemon zest", "quantity": 10, "unit": "g" },
+      { "item": "broccolini or asparagus, steamed", "quantity": 120, "unit": "g" },
+      { "item": "baby potatoes, boiled", "quantity": 150, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Place the salmon fillet on a lined tray, drizzle with olive oil and season, then bake at 200C for 12-15 minutes until just cooked through. Mix yoghurt with capers, lemon zest and a little olive oil for the sauce. Boil the potatoes and steam the greens, then serve everything together with a dollop of the caper yoghurt sauce.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 36,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for salmon, yoghurt sauce, potato and greens"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free", "mediterranean"],
+      "allergens": ["fish", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Fresh and frozen salmon fillets are sold year-round in every major supermarket, with Tasmanian salmon widely available nationwide."
+    },
+    "sources": [
+      { "title": "Flaky Oven Baked Salmon with Sauce: How to cook the perfect Salmon", "url": "https://www.iga.com.au/recipes/dinner/salmon-lemon-caper-sauce/" },
+      { "title": "16 beautiful baked salmon recipes | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/dinner/baked-salmon-recipes-30336/" }
+    ]
+  },
+  {
+    "id": "au-dinner-019",
+    "name": "Honey Soy Salmon with Sesame Greens and Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Honey soy salmon is a popular modern Australian weeknight dinner blending the country's strong fresh-salmon supply with Asian-Australian flavour profiles, frequently featured on supermarket and meal-kit recipe pages.",
+    "ingredients": [
+      { "item": "salmon fillet", "quantity": 150, "unit": "g" },
+      { "item": "honey", "quantity": 15, "unit": "g" },
+      { "item": "soy sauce", "quantity": 15, "unit": "ml" },
+      { "item": "garlic, minced", "quantity": 1, "unit": "clove" },
+      { "item": "broccoli and bok choy, steamed", "quantity": 150, "unit": "g" },
+      { "item": "sesame seeds", "quantity": 5, "unit": "g" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Whisk together honey, soy sauce and garlic. Pan-sear the salmon skin-side down until crisp, flip, then add the honey soy glaze and cook for a further 3-4 minutes, basting until sticky. Steam the broccoli and bok choy, sprinkle the salmon with sesame seeds and serve over rice.",
+    "nutrition": {
+      "calories": 600,
+      "protein_g": 37,
+      "carbs_g": 60,
+      "fiber_g": 4,
+      "sugar_g": 14,
+      "fat_g": 21,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for salmon, honey-soy glaze, greens and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "dairy_free"],
+      "allergens": ["fish", "soy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Salmon, soy sauce, honey and Asian greens are widely available year-round in all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "Best salmon recipes for all seasons", "url": "https://www.gourmettraveller.com.au/recipe-collections/best-salmon-recipes/" },
+      { "title": "25 beautiful baked salmon dishes to enjoy", "url": "https://www.womensweeklyfood.com.au/baking/baked-salmon-recipes-31852/" }
+    ]
+  },
+  {
+    "id": "au-dinner-020",
+    "name": "Lamb Salad Bowl with Pumpkin, Beetroot and Feta",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A grilled lamb salad bowl combining roasted pumpkin, beetroot and feta is a widely featured modern Australian dinner across recipe sites such as McCormick Australia, reflecting the popularity of lamb-based warm salads as a satisfying lighter dinner.",
+    "ingredients": [
+      { "item": "lamb backstrap, grilled and sliced", "quantity": 150, "unit": "g" },
+      { "item": "pumpkin, roasted", "quantity": 100, "unit": "g" },
+      { "item": "beetroot, roasted or canned", "quantity": 60, "unit": "g" },
+      { "item": "mixed salad leaves and rocket", "quantity": 80, "unit": "g" },
+      { "item": "feta cheese", "quantity": 30, "unit": "g" },
+      { "item": "olive oil and balsamic dressing", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Roast pumpkin chunks at 200C for 25-30 minutes until tender. Season and grill the lamb backstrap to preference, then rest and slice. Arrange salad leaves, roasted pumpkin and beetroot in a bowl, top with sliced lamb and crumbled feta, and finish with an olive oil and balsamic dressing.",
+    "nutrition": {
+      "calories": 500,
+      "protein_g": 36,
+      "carbs_g": 22,
+      "fiber_g": 5,
+      "sugar_g": 10,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for lamb, pumpkin, beetroot and feta"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Lamb backstrap, pumpkin, beetroot and feta are available fresh year-round in all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "Lamb Salad with Pumpkin & Beetroot | Salad Recipe | McCormick Australia", "url": "https://www.mccormick.com.au/recipes/lamb/lamb-salad" },
+      { "title": "Grilled Aussie lamb salad | Aussie Beef & Lamb", "url": "https://www.aussiebeefandlamb.com/archived-recipes/grilled-aussie-lamb-salad/" }
+    ]
+  },
+  {
+    "id": "au-dinner-021",
+    "name": "Creamy Garlic Prawn Pasta",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Garlic prawns are a widely cooked Australian dinner reflecting the country's strong prawn-fishing industry, with creamy garlic prawn pasta a popular midweek version promoted by Australian Prawns and major recipe sites such as RecipeTin Eats.",
+    "ingredients": [
+      { "item": "raw prawns, peeled", "quantity": 180, "unit": "g" },
+      { "item": "fettuccine or spaghetti, dry", "quantity": 85, "unit": "g" },
+      { "item": "garlic, minced", "quantity": 2, "unit": "cloves" },
+      { "item": "cream", "quantity": 60, "unit": "ml" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "parsley and lemon zest", "quantity": 1, "unit": "tbsp" }
+    ],
+    "prepNotes": "Cook the pasta in boiling water until al dente, then drain, reserving a little pasta water. Melt butter in a pan, saute garlic until fragrant, then add prawns and cook for 2-3 minutes until just pink. Pour in cream and simmer briefly to thicken slightly, then toss through the pasta with parsley and lemon zest.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 36,
+      "carbs_g": 62,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for prawns, pasta, cream and butter"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["shellfish", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Fresh and frozen Australian prawns are widely available nationwide, especially abundant around Christmas time; pasta, cream and butter are everyday pantry staples."
+    },
+    "sources": [
+      { "title": "Garlic prawn pasta - Australian Prawns", "url": "https://australianprawns.com.au/recipes/garlic-prawn-pasta/" },
+      { "title": "Creamy Garlic Prawns (Shrimp) - RecipeTin Eats", "url": "https://www.recipetineats.com/creamy-garlic-prawns-shrimp/" }
+    ]
+  },
+  {
+    "id": "au-dinner-022",
+    "name": "Chicken and Broccoli Lasagne",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Lasagne is a widely cooked Italian-Australian family dinner, with chicken-and-vegetable variations popular as a way to use shredded chicken and add extra vegetables to a classic baked pasta dish.",
+    "ingredients": [
+      { "item": "lasagne sheets", "quantity": 70, "unit": "g" },
+      { "item": "cooked chicken breast, shredded", "quantity": 120, "unit": "g" },
+      { "item": "broccoli, chopped", "quantity": 100, "unit": "g" },
+      { "item": "white sauce (milk, flour, butter)", "quantity": 150, "unit": "ml" },
+      { "item": "mozzarella and parmesan cheese", "quantity": 50, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" }
+    ],
+    "prepNotes": "Make a simple white sauce by cooking butter and flour together, then whisking in milk until thickened; stir through garlic. Layer lasagne sheets, shredded chicken, broccoli and white sauce in a dish, repeating layers. Top with cheese and bake at 180C for 30-35 minutes until golden and bubbling.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 42,
+      "carbs_g": 48,
+      "fiber_g": 4,
+      "sugar_g": 7,
+      "fat_g": 27,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken, pasta sheets, broccoli and cheese sauce"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Lasagne sheets, chicken and cheese are everyday staples available year-round in all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "One-pan Chicken and Broccoli Lasagne | Simple Home Edit", "url": "https://simplehomeedit.com/recipe/one-pan-chicken-and-broccoli-lasagne/" }
+    ]
+  },
+  {
+    "id": "au-dinner-023",
+    "name": "Vegetarian Chickpea and Vegetable Curry with Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A pantry-friendly vegetarian curry built on canned chickpeas, coconut milk and curry paste, widely promoted by Coles as a quick, affordable weeknight dinner and a staple of Australian vegetarian home cooking.",
+    "ingredients": [
+      { "item": "chickpeas, canned, drained", "quantity": 200, "unit": "g" },
+      { "item": "coconut milk", "quantity": 150, "unit": "ml" },
+      { "item": "curry paste (korma or mild curry)", "quantity": 30, "unit": "g" },
+      { "item": "mixed vegetables (carrot, cauliflower, spinach)", "quantity": 180, "unit": "g" },
+      { "item": "onion and garlic", "quantity": 50, "unit": "g" },
+      { "item": "steamed basmati rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Saute onion and garlic until softened, then add curry paste and cook for 1 minute. Stir in coconut milk and bring to a simmer. Add chickpeas and vegetables, and cook for 12-15 minutes until the vegetables are tender. Serve over steamed basmati rice.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 18,
+      "carbs_g": 76,
+      "fiber_g": 12,
+      "sugar_g": 9,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chickpeas, coconut milk, vegetables and rice"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Canned chickpeas, coconut milk and curry paste are everyday pantry staples stocked in every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Vegetarian Chickpea Curry Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/vegetarian-chickpea-curry" },
+      { "title": "Vegetable Curry - RecipeTin Eats", "url": "https://www.recipetineats.com/vegetable-curry/" }
+    ]
+  },
+  {
+    "id": "au-dinner-024",
+    "name": "Slow Cooker Beef Casserole with Mash",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Slow-cooked beef casserole is a long-standing Australian winter comfort dinner, commonly made in a slow cooker for an easy hands-off family meal, featured widely on Australian Women's Weekly Food and other home-cooking sites.",
+    "ingredients": [
+      { "item": "beef chuck steak, diced", "quantity": 160, "unit": "g" },
+      { "item": "carrot and celery, diced", "quantity": 100, "unit": "g" },
+      { "item": "beef stock and tomato paste", "quantity": 200, "unit": "ml" },
+      { "item": "onion and garlic", "quantity": 50, "unit": "g" },
+      { "item": "potato, mashed", "quantity": 180, "unit": "g" },
+      { "item": "plain flour (to thicken)", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Brown the beef in a pan, then transfer to a slow cooker with carrot, celery, onion, garlic, stock and tomato paste. Cook on low for 6-8 hours until the beef is tender, thickening with a flour slurry near the end if needed. Serve over mashed potato.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 38,
+      "carbs_g": 38,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef chuck, root vegetables and potato"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Casserole beef cuts, root vegetables and potatoes are everyday staples sold year-round in every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Slow cooked beef casserole | Honest to Goodness Australia", "url": "https://goodness.com.au/slow-cooked-beef-casserole/" },
+      { "title": "Traditional beef casserole | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipe/dinner/traditional-beef-casserole-12683/" }
+    ]
+  },
+  {
+    "id": "au-dinner-025",
+    "name": "Butter Chicken with Rice and Naan",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Butter chicken is one of the most popular home-cooked Indian-Australian dinners nationwide, reflecting Australia's strong embrace of Indian cuisine across Sydney, Melbourne, Brisbane and beyond, and is widely cooked from jarred or homemade sauce on weeknights.",
+    "ingredients": [
+      { "item": "chicken thigh, cubed", "quantity": 170, "unit": "g" },
+      { "item": "butter chicken sauce (tomato, cream, butter, spices)", "quantity": 180, "unit": "g" },
+      { "item": "natural yoghurt (for marinade)", "quantity": 30, "unit": "g" },
+      { "item": "steamed basmati rice", "quantity": 150, "unit": "g" },
+      { "item": "naan bread", "quantity": 1, "unit": "piece (70 g)" },
+      { "item": "coriander leaves", "quantity": 1, "unit": "small handful" }
+    ],
+    "prepNotes": "Marinate the chicken in yoghurt and spices for at least 20 minutes, then sear until lightly browned. Add the butter chicken sauce and simmer for 15-20 minutes until the chicken is cooked through and the sauce has thickened. Serve over rice with naan bread and fresh coriander.",
+    "nutrition": {
+      "calories": 720,
+      "protein_g": 40,
+      "carbs_g": 70,
+      "fiber_g": 4,
+      "sugar_g": 10,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken thigh, butter chicken sauce, rice and naan"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Jarred butter chicken sauce, naan bread and basmati rice are everyday staples in every major Australian supermarket; fresh from Indian restaurants nationwide."
+    },
+    "sources": [
+      { "title": "Australia's Love Affair With Butter Chicken - Starts at 60", "url": "https://startsat60.com/media/australias-love-affair-with-butter-chicken-and-an-easy-recipe-to-make-it-at-home" },
+      { "title": "Butter Chicken - RecipeTin Eats", "url": "https://www.recipetineats.com/butter-chicken/" }
+    ]
+  },
+  {
+    "id": "au-dinner-026",
+    "name": "Nasi Goreng (Indonesian Fried Rice) with Egg",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Nasi goreng reflects Australia's strong Indonesian-Australian culinary links and is a widely cooked home dinner, featured on major recipe sites such as Coles, Better Homes & Gardens Australia and RecipeTin Eats.",
+    "ingredients": [
+      { "item": "day-old cooked rice", "quantity": 200, "unit": "g" },
+      { "item": "chicken breast or prawns, diced", "quantity": 120, "unit": "g" },
+      { "item": "egg, fried", "quantity": 1, "unit": "large" },
+      { "item": "kecap manis (sweet soy sauce)", "quantity": 20, "unit": "ml" },
+      { "item": "garlic, shallot and chilli", "quantity": 1, "unit": "tbsp, minced" },
+      { "item": "peas and carrot, diced", "quantity": 60, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Heat oil in a wok and stir-fry garlic, shallot and chilli until fragrant. Add chicken or prawns and cook through, then add the cold day-old rice, peas and carrot, stirring well to break up clumps. Stir in kecap manis and toss until evenly coated and slightly crisp. Top with a fried egg to serve.",
+    "nutrition": {
+      "calories": 600,
+      "protein_g": 36,
+      "carbs_g": 64,
+      "fiber_g": 4,
+      "sugar_g": 8,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for rice, chicken, egg and kecap manis"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["eggs", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Kecap manis and Asian aromatics are stocked in the international foods aisle of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Nasi Goreng Recipe (Indonesian Fried Rice) | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/nasi-goreng" },
+      { "title": "Nasi Goreng (Indonesian Fried Rice) - RecipeTin Eats", "url": "https://www.recipetineats.com/nasi-goreng-indonesian-fried-rice/" }
+    ]
+  },
+  {
+    "id": "au-dinner-027",
+    "name": "BBQ Pork Chops with Apple Sauce and Brussels Sprouts",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Pork chops with apple sauce are a classic Australian dinner combination featured on Better Homes & Gardens Australia, pairing barbecued or pan-fried pork with a traditional fruit accompaniment and roasted vegetables.",
+    "ingredients": [
+      { "item": "pork loin chop", "quantity": 180, "unit": "g" },
+      { "item": "apple sauce (unsweetened)", "quantity": 50, "unit": "g" },
+      { "item": "brussels sprouts, halved and roasted", "quantity": 120, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "wholegrain mustard", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Season the pork chop and grill or barbecue over medium-high heat for 4-5 minutes per side until cooked through and rested. Toss brussels sprouts in olive oil and roast at 200C for 20 minutes until caramelised. Serve the chop with apple sauce and a smear of wholegrain mustard alongside the roasted sprouts.",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 38,
+      "carbs_g": 18,
+      "fiber_g": 5,
+      "sugar_g": 12,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for pork loin, apple sauce and brussels sprouts"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Pork loin chops, apple sauce and brussels sprouts are widely available year-round in all major Australian supermarkets."
+    },
+    "sources": [
+      { "title": "BBQ pork chops with apple sauce and Brussels sprouts - Better Homes & Gardens Australia", "url": "https://www.bhg.com.au/recipe/tv-recipes/bbq-pork-chops/" }
+    ]
+  },
+  {
+    "id": "au-dinner-028",
+    "name": "Teriyaki Salmon with Bok Choy and Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Teriyaki salmon reflects Japanese-Australian influence on everyday home cooking and is a popular quick weeknight dinner, with mirin and soy sauce readily available at major Australian supermarkets and Asian grocers.",
+    "ingredients": [
+      { "item": "salmon fillet", "quantity": 150, "unit": "g" },
+      { "item": "soy sauce, mirin and sake", "quantity": 40, "unit": "ml" },
+      { "item": "brown sugar", "quantity": 10, "unit": "g" },
+      { "item": "bok choy, steamed", "quantity": 120, "unit": "g" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" },
+      { "item": "sesame seeds", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Combine soy sauce, mirin, sake and brown sugar to make the teriyaki glaze. Pan-sear the salmon skin-side down until crisp, flip, then add the glaze and simmer for 3-4 minutes, basting until thick and glossy. Steam the bok choy and serve everything with rice, sprinkled with sesame seeds.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 36,
+      "carbs_g": 58,
+      "fiber_g": 3,
+      "sugar_g": 12,
+      "fat_g": 19,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for salmon, teriyaki glaze, bok choy and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "dairy_free"],
+      "allergens": ["fish", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Salmon, mirin, sake and soy sauce are available year-round in major Australian supermarkets, with the widest sauce range at Asian grocers."
+    },
+    "sources": [
+      { "title": "Teriyaki Salmon with Bok Choy One Pan Dinner (VIDEO) - Vikalinka", "url": "https://vikalinka.com/salmon-teriyaki-with-bok-choy-one-pan-dinner/" },
+      { "title": "Teriyaki Salmon Noodles - RecipeTin Eats", "url": "https://www.recipetineats.com/teriyaki-salmon-noodles/" }
+    ]
+  },
+  {
+    "id": "au-dinner-029",
+    "name": "Homemade Meat Pie with Mashed Potato and Peas",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The meat pie is one of Australia's most iconic comfort foods, found in bakeries, sports stadiums and home kitchens nationwide; a homemade family-style meat pie with mash and peas turns the classic takeaway pie into a sit-down dinner.",
+    "ingredients": [
+      { "item": "beef mince (pie filling)", "quantity": 150, "unit": "g" },
+      { "item": "puff pastry sheets", "quantity": 80, "unit": "g" },
+      { "item": "beef gravy", "quantity": 60, "unit": "ml" },
+      { "item": "onion and carrot, diced", "quantity": 60, "unit": "g" },
+      { "item": "potato, mashed", "quantity": 150, "unit": "g" },
+      { "item": "peas", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Brown beef mince with onion and carrot, then stir through gravy and simmer until thick. Line a pie dish with pastry, add the filling, top with another pastry layer and crimp the edges. Bake at 200C for 25-30 minutes until golden. Serve with mashed potato and peas.",
+    "nutrition": {
+      "calories": 680,
+      "protein_g": 30,
+      "carbs_g": 56,
+      "fiber_g": 6,
+      "sugar_g": 6,
+      "fat_g": 36,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef mince, puff pastry, potato and peas"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Pie filling mince, frozen puff pastry and gravy are everyday staples in every Australian supermarket; ready-made meat pies are also sold in bakeries and supermarket freezers nationwide."
+    },
+    "sources": [
+      { "title": "Family Meat Pie - RecipeTin Eats", "url": "https://www.recipetineats.com/family-meat-pie/" },
+      { "title": "Meat Pies and Sausage Rolls: Comfort Food the Australian Way - hachibeh", "url": "https://www.hachibeh.com.au/meat-pies-and-sausage-rolls-comfort-food-the-australian-way/" }
+    ]
+  },
+  {
+    "id": "au-dinner-030",
+    "name": "Hearty Vegetable and Lentil Soup",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A hearty lentil and vegetable soup is a long-standing budget-friendly Australian dinner, featured by the Australian Women's Weekly as a comforting cold-weather staple built on root vegetables and red lentils.",
+    "ingredients": [
+      { "item": "red lentils, dried", "quantity": 80, "unit": "g" },
+      { "item": "carrot, celery and onion, diced", "quantity": 150, "unit": "g" },
+      { "item": "vegetable stock", "quantity": 400, "unit": "ml" },
+      { "item": "canned tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "crusty bread", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Saute the onion, carrot and celery in olive oil until softened. Add lentils, canned tomatoes and stock, then bring to a boil and simmer for 25-30 minutes until the lentils are tender and the soup has thickened. Season to taste and serve with crusty bread.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 20,
+      "carbs_g": 62,
+      "fiber_g": 14,
+      "sugar_g": 9,
+      "fat_g": 9,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for red lentils, vegetables and stock"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Dried lentils, canned tomatoes and stock are inexpensive pantry staples found in every Australian supermarket, making this a popular budget dinner."
+    },
+    "sources": [
+      { "title": "Hearty Vegetable and Lentil Soup", "url": "https://www.food.com/amp/recipe/hearty-vegetable-and-lentil-soup-240985" },
+      { "title": "Curried Lentil & Vegetable Soup - Wholesome by Sarah", "url": "https://wholesomebysarah.com.au/recipes/curried-lentil-amp-vegetable-soup" }
+    ]
+  },
+  {
+    "id": "au-dinner-031",
+    "name": "Chicken Schnitzel with Chips and Coleslaw",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Chicken schnitzel is one of the most ordered pub and home-cooked dinners in Australia, often served plain (without parmigiana toppings) alongside chips and coleslaw as a simple weeknight family favourite.",
+    "ingredients": [
+      { "item": "chicken breast schnitzel, crumbed", "quantity": 180, "unit": "g" },
+      { "item": "oven-baked chips", "quantity": 150, "unit": "g" },
+      { "item": "coleslaw (cabbage, carrot, mayo)", "quantity": 100, "unit": "g" },
+      { "item": "lemon wedge", "quantity": 1, "unit": "wedge" },
+      { "item": "vegetable oil for cooking", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Pan-fry or oven-bake the crumbed chicken schnitzel until golden and cooked through, turning once. Bake the chips at 220C until crisp and golden. Serve the schnitzel with chips, a scoop of coleslaw and a lemon wedge.",
+    "nutrition": {
+      "calories": 700,
+      "protein_g": 46,
+      "carbs_g": 56,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for crumbed chicken, chips and coleslaw"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Crumbed chicken schnitzel, frozen chips and coleslaw mix are everyday staples sold in every Australian supermarket."
+    },
+    "sources": [
+      { "title": "Traditional Australian Dinner Foods: The Definitive Guide", "url": "https://flavor365.com/what-do-people-eat-for-dinner-in-australia-answered/" }
+    ]
+  },
+  {
+    "id": "au-dinner-032",
+    "name": "Char-Grilled Lamb Chops with Roast Vegetables",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Lamb chops on the barbecue are a quintessential Australian backyard dinner, commonly paired with roasted root vegetables; lamb remains a defining protein of Australian home cooking thanks to the country's major lamb-producing industry.",
+    "ingredients": [
+      { "item": "lamb loin chops", "quantity": 200, "unit": "g" },
+      { "item": "potato and sweet potato, roasted", "quantity": 180, "unit": "g" },
+      { "item": "zucchini and capsicum, grilled", "quantity": 100, "unit": "g" },
+      { "item": "olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "garlic and rosemary", "quantity": 1, "unit": "tbsp, chopped" },
+      { "item": "mint sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Marinate the lamb chops briefly in olive oil, garlic and rosemary, then barbecue or grill over high heat for 3-4 minutes per side. Roast the potato and sweet potato chunks at 200C for 30-35 minutes, and grill the zucchini and capsicum alongside the lamb. Serve with mint sauce.",
+    "nutrition": {
+      "calories": 600,
+      "protein_g": 40,
+      "carbs_g": 40,
+      "fiber_g": 7,
+      "sugar_g": 8,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for lamb chops and roasted vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Lamb chops and root vegetables are widely available year-round at all major Australian supermarkets and butchers."
+    },
+    "sources": [
+      { "title": "Find the Best Lamb Recipes Online | Australian Lamb", "url": "https://www.australianlamb.com.au/recipes/" }
+    ]
+  },
+  {
+    "id": "au-dinner-033",
+    "name": "Sweet and Sour Pork with Steamed Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Sweet and sour pork is one of the most familiar Chinese-Australian restaurant dishes nationwide, alongside lemon chicken and Mongolian beef, and is also widely cooked at home using lighter pan-fried methods rather than deep-frying.",
+    "ingredients": [
+      { "item": "pork neck or loin, diced", "quantity": 160, "unit": "g" },
+      { "item": "cornflour (for light coating)", "quantity": 20, "unit": "g" },
+      { "item": "pineapple chunks", "quantity": 80, "unit": "g" },
+      { "item": "capsicum and onion, diced", "quantity": 120, "unit": "g" },
+      { "item": "tomato sauce, vinegar and sugar (sweet and sour sauce)", "quantity": 60, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Toss the pork lightly in cornflour and pan-fry in batches until golden and just cooked, then set aside. Stir-fry the capsicum and onion for 2-3 minutes, then add pineapple and the sweet and sour sauce, simmering until glossy. Return the pork to the pan and toss to coat. Serve over steamed rice.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 33,
+      "carbs_g": 72,
+      "fiber_g": 4,
+      "sugar_g": 20,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for pork, sweet and sour sauce, vegetables and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Pork, tinned pineapple and stir-fry vegetables are everyday staples in every Australian supermarket; fresh from Chinese-Australian restaurants and takeaways nationwide."
+    },
+    "sources": [
+      { "title": "Sweet and Sour Pork - best ever! - RecipeTin Eats", "url": "https://www.recipetineats.com/sweet-and-sour-pork/" },
+      { "title": "Easy Sweet and Sour Pork - Oh So Busy Mum", "url": "https://www.ohsobusymum.com.au/easy-sweet-and-sour-pork/" }
+    ]
+  },
+  {
+    "id": "au-dinner-034",
+    "name": "Mongolian Beef with Hokkien Noodles",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Mongolian beef with hokkien noodles is a widely cooked Chinese-Australian weeknight stir-fry, featured by Australian Women's Weekly Food and meal-kit services such as HelloFresh as a fast one-pan dinner using lean beef strips.",
+    "ingredients": [
+      { "item": "beef rump or sirloin, thinly sliced", "quantity": 160, "unit": "g" },
+      { "item": "hokkien noodles, fresh", "quantity": 150, "unit": "g" },
+      { "item": "soy sauce, brown sugar and garlic (Mongolian sauce)", "quantity": 50, "unit": "ml" },
+      { "item": "spring onion and capsicum, sliced", "quantity": 100, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "sesame seeds", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Loosen the hokkien noodles in boiling water for 1-2 minutes, then drain. Stir-fry the beef in hot oil in batches until browned, then set aside. Stir-fry the capsicum and spring onion briefly, add the sauce and bring to a simmer, then return the beef and noodles to the pan and toss to coat. Sprinkle with sesame seeds to serve.",
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 38,
+      "carbs_g": 64,
+      "fiber_g": 4,
+      "sugar_g": 14,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef, hokkien noodles and stir-fry sauce"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Beef strips, fresh hokkien noodles and stir-fry sauces are everyday staples stocked in the fridge and Asian foods aisle of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "How to make Mongolian beef with hokkien noodles | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipes/mongolian-beef-with-noodles-32260" },
+      { "title": "Spicy Beef Hokkien Noodles - RecipeTin Eats", "url": "https://www.recipetineats.com/spicy-beef-hokkien-noodles/" }
+    ]
+  },
+  {
+    "id": "au-dinner-035",
+    "name": "Lemon Chicken with Steamed Rice and Greens",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Lemon chicken is a beloved Chinese-Australian restaurant staple, with the dish so popular in suburban Chinese restaurants nationwide that lighter pan-fried home versions are now widely shared on Australian food sites such as RecipeTin Eats.",
+    "ingredients": [
+      { "item": "chicken breast, sliced", "quantity": 170, "unit": "g" },
+      { "item": "cornflour (for light coating)", "quantity": 20, "unit": "g" },
+      { "item": "lemon juice, sugar and chicken stock (lemon sauce)", "quantity": 80, "unit": "ml" },
+      { "item": "garlic, minced", "quantity": 1, "unit": "clove" },
+      { "item": "steamed broccoli and bok choy", "quantity": 120, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Toss the chicken lightly in cornflour and pan-fry until golden and cooked through. Simmer lemon juice, sugar, stock and garlic in a small pan until slightly thickened into a glossy sauce. Pour the sauce over the chicken and toss to coat. Serve with steamed rice and greens.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 40,
+      "carbs_g": 64,
+      "fiber_g": 4,
+      "sugar_g": 12,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken breast, lemon sauce, rice and greens"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Chicken breast, lemons and Asian greens are everyday staples in every Australian supermarket; the dish is a fixture on Chinese-Australian restaurant and takeaway menus nationwide."
+    },
+    "sources": [
+      { "title": "Crispy Chinese Lemon Chicken - RecipeTin Eats", "url": "https://www.recipetineats.com/crispy-chinese-lemon-chicken/" },
+      { "title": "A Lemon Chicken Recipe From an Australian Chinese Restaurant | Broadsheet", "url": "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-when-life-gives-you-lemons-make-lemon-chicken" }
+    ]
+  },
+  {
+    "id": "au-dinner-036",
+    "name": "Lamb Souvlaki Wrap with Tzatziki and Greek Salad",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Souvlaki is a defining dish of Australia's large Greek-Australian community, sold at suburban Greek takeaways and milk bars nationwide and just as commonly skewered and grilled at home using a classic olive oil, lemon and oregano marinade.",
+    "ingredients": [
+      { "item": "lamb leg or shoulder, cubed", "quantity": 160, "unit": "g" },
+      { "item": "olive oil, lemon juice, garlic and oregano (marinade)", "quantity": 20, "unit": "ml" },
+      { "item": "pita or Greek flatbread", "quantity": 1, "unit": "piece (70 g)" },
+      { "item": "tzatziki (yoghurt, cucumber, garlic)", "quantity": 40, "unit": "g" },
+      { "item": "tomato, cucumber, red onion and olives (Greek salad)", "quantity": 120, "unit": "g" }
+    ],
+    "prepNotes": "Marinate the lamb cubes in olive oil, lemon juice, garlic and oregano for at least 30 minutes. Thread onto skewers and grill or barbecue, turning until charred and cooked to preference. Warm the flatbread, then fill with the lamb, tzatziki and Greek salad, or serve everything separately on a plate.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 38,
+      "carbs_g": 38,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for lamb, flatbread, tzatziki and Greek salad"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["mediterranean"],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA", "local markets"],
+      "notes": "Lamb, pita and tzatziki are stocked in every major supermarket; the widest fresh range and souvlaki shops are concentrated in Melbourne and Sydney's Greek-Australian communities."
+    },
+    "sources": [
+      { "title": "Lamb Souvlaki | Australian Lamb - Recipes, Cooking Tips and More", "url": "https://www.australianlamb.com.au/recipes/lamb-souvlaki/" },
+      { "title": "Souvlaki - Bec's Table", "url": "https://becs-table.com.au/souvlaki/" }
+    ]
+  },
+  {
+    "id": "au-dinner-037",
+    "name": "Chicken Cacciatore with Crusty Bread",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Chicken cacciatore is a long-standing Italian-Australian family dinner, reflecting the strong Italian migrant influence on Australian home cooking since the mid-20th century, and remains a popular rustic braise on sites like RecipeTin Eats and Australian Women's Weekly Food.",
+    "ingredients": [
+      { "item": "chicken thigh, bone-in or fillets", "quantity": 180, "unit": "g" },
+      { "item": "canned crushed tomatoes", "quantity": 200, "unit": "g" },
+      { "item": "capsicum, mushroom and onion, sliced", "quantity": 130, "unit": "g" },
+      { "item": "olives, pitted", "quantity": 20, "unit": "g" },
+      { "item": "garlic and dried oregano", "quantity": 1, "unit": "tbsp" },
+      { "item": "olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "crusty bread", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Brown the chicken in olive oil in a heavy pan, then set aside. Saute the onion, capsicum and mushroom until softened, then add garlic, crushed tomatoes and oregano. Return the chicken to the pan, cover and simmer for 25-30 minutes until tender. Stir through olives in the last few minutes and serve with crusty bread.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 30,
+      "fiber_g": 6,
+      "sugar_g": 9,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chicken thigh, tomato sauce, vegetables and bread"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free", "mediterranean"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Chicken thigh, canned tomatoes and olives are everyday staples in every Australian supermarket, with the strongest fresh produce and bread selection at Italian-Australian delis and local markets."
+    },
+    "sources": [
+      { "title": "Chicken Cacciatore (Italian chicken stew) - RecipeTin Eats", "url": "https://www.recipetineats.com/chicken-cacciatore-italian-chicken-stew/" },
+      { "title": "How to make a perfectly rustic chicken cacciatore | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipe/dinner/chicken-cacciatore-11272/" }
+    ]
+  },
+  {
+    "id": "au-dinner-038",
+    "name": "Grilled Kangaroo Steak with Sweet Potato and Steamed Greens",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Kangaroo steak is a uniquely Australian native-meat dinner, very lean and widely sold in supermarket butchery sections nationwide; it features on SBS Food's The Cook Up with Adam Liaw and specialist sites like K-Roo as a quick, modern Australian protein.",
+    "ingredients": [
+      { "item": "kangaroo fillet or steak", "quantity": 150, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "sweet potato, roasted", "quantity": 180, "unit": "g" },
+      { "item": "broccoli, steamed", "quantity": 120, "unit": "g" },
+      { "item": "native pepper or rosemary and garlic", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Bring the kangaroo steak to room temperature and pat dry. Season with garlic, rosemary or native pepper, then pan-fry or grill over high heat for 2-3 minutes per side for medium-rare -- kangaroo is very lean and toughens quickly if overcooked. Rest for 5 minutes before slicing. Serve with roasted sweet potato and steamed broccoli.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 42,
+      "carbs_g": 32,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for kangaroo meat, sweet potato and broccoli"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Kangaroo meat is sold in the butchery section of most Woolworths and Coles stores and at independent butchers nationwide as a lean, native Australian protein."
+    },
+    "sources": [
+      { "title": "Kangaroo steak, native herbs and onion gravy recipe | SBS The Cook Up with Adam Liaw", "url": "https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/kangaroo-steak-native-herbs-and-onion-gravy/1skmzmq46" },
+      { "title": "Grilled Kangaroo Steak with Roasted Sweet Potatoes and Steamed Broccoli", "url": "https://mealpractice.com/recipes/grilled-kangaroo-steak-with-roasted-sweet-potatoes-and-steamed-broccoli-IQfnALOrkG" }
+    ]
+  },
+  {
+    "id": "au-dinner-039",
+    "name": "Pan-Fried Barramundi with Lemon Butter and Greens",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Barramundi is one of Australia's most popular native fish for home cooking, prized for its mild flavour and crisp skin when pan-fried; it features regularly on Gourmet Traveller and Coles recipe pages as an everyday seafood dinner.",
+    "ingredients": [
+      { "item": "barramundi fillet, skin-on", "quantity": 170, "unit": "g" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "lemon juice and zest", "quantity": 1, "unit": "tbsp" },
+      { "item": "asparagus or green beans, steamed", "quantity": 120, "unit": "g" },
+      { "item": "baby potatoes, boiled", "quantity": 150, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Pat the barramundi fillet dry and season. Pan-fry skin-side down in a hot pan for 4-5 minutes until crisp, then flip and cook a further 2-3 minutes until just cooked through. Remove the fish, add butter and lemon juice to the pan and swirl to make a quick sauce. Serve with boiled baby potatoes and steamed greens, spooning over the lemon butter.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 38,
+      "carbs_g": 30,
+      "fiber_g": 5,
+      "sugar_g": 3,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for barramundi, butter, potato and green vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free"],
+      "allergens": ["fish", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Fresh and frozen barramundi fillets are sold year-round in every major Australian supermarket and fish market, with farmed barramundi widely available nationwide."
+    },
+    "sources": [
+      { "title": "Best barramundi recipes to cook in 2026 - Gourmet Traveller", "url": "https://www.gourmettraveller.com.au/recipe-collections/barramundi-recipes-18428/" },
+      { "title": "Curtis Stone's Pan-Fried Barramundi with Asparagus and Miso recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/pan-fried-barramundi-with-asparagus-and-miso" }
+    ]
+  },
+  {
+    "id": "au-dinner-040",
+    "name": "Tuna Mornay Pasta Bake",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Tuna mornay is a long-standing budget-friendly Australian family dinner built on canned tuna, pasta and a cheese bechamel sauce, featured by Australian Women's Weekly Food and Coles as a generations-old weeknight comfort bake.",
+    "ingredients": [
+      { "item": "canned tuna in spring water, drained", "quantity": 185, "unit": "g" },
+      { "item": "pasta (macaroni or shells), dry", "quantity": 75, "unit": "g" },
+      { "item": "milk", "quantity": 150, "unit": "ml" },
+      { "item": "butter and flour (for white sauce)", "quantity": 25, "unit": "g" },
+      { "item": "frozen peas and corn", "quantity": 80, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 40, "unit": "g" }
+    ],
+    "prepNotes": "Cook the pasta in boiling water until al dente, then drain. Melt butter in a saucepan, stir in flour to form a paste, then gradually whisk in milk until smooth and thickened. Fold in the tuna, peas, corn and cooked pasta, then transfer to a baking dish, top with cheese and bake at 180C for 20 minutes until golden.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 42,
+      "carbs_g": 58,
+      "fiber_g": 5,
+      "sugar_g": 8,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for canned tuna, pasta, white sauce and cheese"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Canned tuna, pasta, milk and cheese are inexpensive everyday pantry staples in every Australian supermarket, making this one of the cheapest dinners on this list."
+    },
+    "sources": [
+      { "title": "Tuna mornay recipe | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipe/dinner/tuna-mornay-7413/" },
+      { "title": "Tuna Mornay Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/tuna-mornay" }
+    ]
+  },
+  {
+    "id": "au-dinner-041",
+    "name": "Salmon Poke Bowl with Edamame and Brown Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Poke bowls have become a popular modern Australian dinner format in capital cities, with sushi-grade salmon a favoured local variation on the traditional Hawaiian tuna poke; the Heart Foundation and several Australian food blogs feature home versions as a quick, satisfying bowl meal.",
+    "ingredients": [
+      { "item": "sushi-grade salmon, cubed", "quantity": 150, "unit": "g" },
+      { "item": "cooked brown rice", "quantity": 150, "unit": "g" },
+      { "item": "edamame beans, shelled", "quantity": 60, "unit": "g" },
+      { "item": "cucumber, carrot and avocado", "quantity": 150, "unit": "g" },
+      { "item": "soy sauce, sesame oil and rice vinegar (marinade)", "quantity": 25, "unit": "ml" },
+      { "item": "sesame seeds", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Toss the cubed salmon in soy sauce, sesame oil and rice vinegar and set aside to marinate for 5-10 minutes. Spoon the brown rice into a bowl and top with the marinated salmon, edamame, cucumber, carrot and avocado. Sprinkle with sesame seeds to serve.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 36,
+      "carbs_g": 50,
+      "fiber_g": 9,
+      "sugar_g": 5,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for salmon, brown rice, edamame and vegetables"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "dairy_free", "gluten_free"],
+      "allergens": ["fish", "soy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sushi-grade salmon, edamame and poke bowl ingredients are sold at major supermarket seafood counters and fishmongers in metro areas; poke bowl cafes are now common in Sydney, Melbourne and Brisbane."
+    },
+    "sources": [
+      { "title": "Salmon poke bowl | Heart Foundation", "url": "https://www.heartfoundation.org.au/recipes/salmon-poke-bowl" },
+      { "title": "Salmon Poke Bowl - The Organised Housewife", "url": "https://theorganisedhousewife.com.au/recipes/salmon-poke-bowl/" }
+    ]
+  },
+  {
+    "id": "au-dinner-042",
+    "name": "Lamb and Spinach Gozleme",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Gozleme is a beloved Turkish-Australian street food found at weekend markets nationwide, and the spiced lamb and spinach filling is one of the most popular versions cooked at home using store-bought flatbread sheets, as shared by Coles and Australian Women's Weekly Food.",
+    "ingredients": [
+      { "item": "lamb mince", "quantity": 130, "unit": "g" },
+      { "item": "Turkish flatbread or gozleme dough sheets", "quantity": 100, "unit": "g" },
+      { "item": "spinach, chopped", "quantity": 80, "unit": "g" },
+      { "item": "feta cheese", "quantity": 40, "unit": "g" },
+      { "item": "onion, cumin and paprika", "quantity": 50, "unit": "g" },
+      { "item": "olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "lemon wedge and yoghurt", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Brown the lamb mince with onion, cumin and paprika until cooked through, then stir in spinach until just wilted and remove from heat. Spread the mixture and crumbled feta over half a flatbread sheet, fold over and press the edges to seal. Cook in a dry pan over medium heat for 2-3 minutes per side until golden and crisp. Slice and serve with yoghurt and a lemon wedge.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 32,
+      "carbs_g": 42,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 29,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for lamb mince, flatbread, spinach and feta"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "IGA", "local markets"],
+      "notes": "Gozleme dough sheets, feta and lamb mince are stocked in major supermarkets; freshly made gozleme is also a fixture at weekend markets across Australia."
+    },
+    "sources": [
+      { "title": "Turkish Gozleme Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/easy-gozleme-recipe" },
+      { "title": "Lamb and spinach gozleme | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipe/baking/lamb-and-spinach-gozleme-18710/" }
+    ]
+  },
+  {
+    "id": "au-dinner-043",
+    "name": "Falafel and Roasted Vegetable Bowl with Hummus and Tahini",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Falafel bowls reflect the strong Middle Eastern influence on Australian vegetarian eating, with nourish-bowl style versions combining falafel, roasted vegetables and hummus widely shared by Australian health-food blogs such as Healthy Made Tasty as a filling plant-based dinner.",
+    "ingredients": [
+      { "item": "falafel (chickpea-based), baked", "quantity": 6, "unit": "pieces (180 g)" },
+      { "item": "pumpkin and zucchini, roasted", "quantity": 150, "unit": "g" },
+      { "item": "hummus", "quantity": 60, "unit": "g" },
+      { "item": "mixed salad leaves and tomato", "quantity": 80, "unit": "g" },
+      { "item": "natural yoghurt and tahini sauce", "quantity": 40, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Roast the pumpkin and zucchini with olive oil at 200C for 20-25 minutes until tender. Bake or pan-fry the falafel until golden and warmed through. Spread hummus over the base of a bowl, then arrange the salad leaves, roasted vegetables and falafel on top. Finish with a drizzle of yoghurt-tahini sauce.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 20,
+      "carbs_g": 56,
+      "fiber_g": 14,
+      "sugar_g": 9,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for chickpea falafel, roasted vegetables, hummus and tahini"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "mediterranean"],
+      "allergens": ["sesame", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Pre-made falafel, hummus and tahini are everyday staples stocked in the fresh and international foods aisles of every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Falafel and Roasted Veg Nourish Bowl Recipe | Healthy Made Tasty", "url": "https://healthymadetasty.com.au/recipes/falafel-and-roasted-veg-nourish-bowl/" },
+      { "title": "Easy Loaded Mediterranean Falafel Bowl | The Mediterranean Dish", "url": "https://www.themediterraneandish.com/falafel-bowl-recipe/" }
+    ]
+  },
+  {
+    "id": "au-dinner-044",
+    "name": "Beef and Black Bean Stir-Fry with Rice",
+    "country": "AU",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Beef in black bean sauce is another long-running Chinese-Australian restaurant favourite alongside lemon chicken and Mongolian beef, and is commonly recreated at home with jarred black bean sauce as a fast, vegetable-packed midweek dinner.",
+    "ingredients": [
+      { "item": "beef strips (rump or blade)", "quantity": 160, "unit": "g" },
+      { "item": "black bean sauce", "quantity": 50, "unit": "g" },
+      { "item": "broccoli, capsicum and onion, sliced", "quantity": 180, "unit": "g" },
+      { "item": "garlic and ginger", "quantity": 1, "unit": "tbsp, minced" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "steamed jasmine rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Heat oil in a wok over high heat and stir-fry the beef in batches until browned, then set aside. Stir-fry the garlic, ginger and vegetables for 2-3 minutes until just tender. Return the beef to the wok, add the black bean sauce and toss everything together for 1-2 minutes until well coated and heated through. Serve over steamed rice.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 38,
+      "carbs_g": 56,
+      "fiber_g": 5,
+      "sugar_g": 7,
+      "fat_g": 20,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ) for beef, black bean sauce, vegetables and rice"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Beef stir-fry strips, jarred black bean sauce and stir-fry vegetables are everyday staples in every major Australian supermarket."
+    },
+    "sources": [
+      { "title": "Sweet and sour pork is comfortingly delicious like a lot of Chinese Australian dishes are like Lemon Chicken, Beef in Black Bean or Mongolian Lamb", "url": "https://www.notquitenigella.com/2016/03/29/sweet-sour-pork-recipe/" },
+      { "title": "9 Most Popular Home Cooked Chinese Dishes in Australia | Lee Kum Kee", "url": "https://au.lkk.com/en/cooking-stories/most-popular-chinese-dishes" }
+    ]
+  }
+]

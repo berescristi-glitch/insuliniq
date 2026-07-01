@@ -1,0 +1,3691 @@
+[
+    {
+        "id":  "us-dinner-001",
+        "name":  "Sheet-Pan Chicken and Vegetables",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A staple of American weeknight meal-prep and home-cooking culture, popularized by food blogs and lifestyle magazines as the easiest one-pan dinner; chicken thighs/breast roasted with vegetables on a single tray is one of the most-searched \u0027easy dinner\u0027 formats in the US.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless, skinless chicken breast or thighs",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "broccoli florets",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "carrots, sliced",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "red bell pepper, sliced",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  3,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "garlic powder, paprika, salt, pepper",
+                                "quantity":  1,
+                                "unit":  "tbsp total"
+                            }
+                        ],
+        "prepNotes":  "Toss chicken and vegetables separately with olive oil and seasoning. Spread on a parchment-lined sheet pan, keeping chicken from touching vegetables so they roast evenly. Bake at 425Â°F for 22-25 minutes, flipping halfway, until chicken reaches 165Â°F internal temperature.",
+        "nutrition":  {
+                          "calories":  370,
+                          "protein_g":  28,
+                          "carbs_g":  24,
+                          "fiber_g":  6,
+                          "sugar_g":  8,
+                          "fat_g":  20,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free",
+                                          "low_carb"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Target",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Costco"
+                                              ],
+                                   "notes":  "All ingredients are basic produce and poultry available nationwide year-round."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Sheet Pan Chicken and Vegetables â€” VA Nutrition Service recipe with nutrition panel",
+                            "url":  "https://www.nutrition.va.gov/NUTRITION/docs/Recipes/MainDishes/Sheet-Pan-Chicken-and-VegetablesAUG21.pdf"
+                        },
+                        {
+                            "title":  "Sheet Pan Chicken and Vegetables | One-Pan Dinner Rules",
+                            "url":  "https://kitchprep.com/sheet-pan-chicken-and-vegetables/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-002",
+        "name":  "Classic Beef Meatloaf with Mashed Potatoes",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "One of the most enduring American comfort-food dinners, rooted in mid-20th-century home cooking; ground beef meatloaf with a ketchup or tomato glaze remains a top-searched weeknight and Sunday-dinner recipe across US food media (Food Network, Budget Bytes).",
+        "ingredients":  [
+                            {
+                                "item":  "ground beef, 85% lean",
+                                "quantity":  2,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "breadcrumbs",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "eggs",
+                                "quantity":  2,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "onion, diced",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "ketchup",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "russet potatoes",
+                                "quantity":  2,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "milk and butter for mashing",
+                                "quantity":  0.5,
+                                "unit":  "cup + 4 tbsp"
+                            }
+                        ],
+        "prepNotes":  "Mix beef, breadcrumbs, eggs, onion, and half the ketchup; shape into a loaf in a baking dish and top with remaining ketchup. Bake at 350Â°F for 55-60 minutes until internal temp reaches 160Â°F. Boil potatoes until fork-tender, then mash with butter and milk.",
+        "nutrition":  {
+                          "calories":  480,
+                          "protein_g":  31,
+                          "carbs_g":  32,
+                          "fiber_g":  3,
+                          "sugar_g":  8,
+                          "fat_g":  24,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "eggs",
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Classic pantry staples available at every mainstream US grocery chain."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Classic Meatloaf Recipe | Food Network Kitchen",
+                            "url":  "https://www.foodnetwork.com/recipes/food-network-kitchen/classic-meatloaf-5484735"
+                        },
+                        {
+                            "title":  "Classic Homemade Meatloaf Recipe - Budget Bytes",
+                            "url":  "https://www.budgetbytes.com/classic-homemade-meatloaf/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-003",
+        "name":  "Beef Pot Roast with Carrots and Potatoes",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "A traditional American Sunday-dinner dish dating back generations, made by slow-braising a beef chuck roast with root vegetables; remains a staple of family cooking, especially in colder months, and is widely featured by USDA-affiliated and mainstream recipe sources.",
+        "ingredients":  [
+                            {
+                                "item":  "beef chuck roast",
+                                "quantity":  3,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "carrots, chunked",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "potatoes, quartered",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "onion, quartered",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "beef broth",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Sear the chuck roast on all sides in a Dutch oven with olive oil. Add broth, onion, carrots, and potatoes around the roast. Cover and braise at 300Â°F for 3-3.5 hours until the meat is fork-tender, then shred and serve with the vegetables and pan juices.",
+        "nutrition":  {
+                          "calories":  430,
+                          "protein_g":  38,
+                          "carbs_g":  22,
+                          "fiber_g":  4,
+                          "sugar_g":  5,
+                          "fat_g":  20,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Costco",
+                                                  "Kroger",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Chuck roast and root vegetables are widely available nationwide, especially in fall/winter."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Beef and Vegetable Pot Roast | Celebrate Your Plate",
+                            "url":  "https://celebrateyourplate.org/recipes/beef-and-vegetable-pot-roast"
+                        },
+                        {
+                            "title":  "Beef Pot Roast with Vegetables calories \u0026 nutrition - Arise App",
+                            "url":  "https://www.arise-app.com/dish/Beef-Pot-Roast-with-Vegetables"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-004",
+        "name":  "Lighter Chicken Pot Pie Casserole",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Chicken pot pie is a long-standing American comfort dish; the casserole-style version with a single top crust or biscuit topping (rather than a full double crust) is a common home-cook adaptation widely published by food and nutrition sites as a more practical weeknight format.",
+        "ingredients":  [
+                            {
+                                "item":  "cooked chicken breast, shredded",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "frozen mixed vegetables (peas, carrots, corn)",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "chicken broth",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "milk",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "flour",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "refrigerated biscuit dough",
+                                "quantity":  1,
+                                "unit":  "can (8 biscuits)"
+                            }
+                        ],
+        "prepNotes":  "Make a roux with flour and a little butter, whisk in broth and milk until thickened into a gravy. Stir in chicken and vegetables, pour into a casserole dish, and top with biscuit rounds. Bake at 375Â°F for 20-25 minutes until biscuits are golden and filling is bubbling.",
+        "nutrition":  {
+                          "calories":  371,
+                          "protein_g":  26,
+                          "carbs_g":  34,
+                          "fiber_g":  4,
+                          "sugar_g":  6,
+                          "fat_g":  14,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Target",
+                                                  "Aldi",
+                                                  "Safeway"
+                                              ],
+                                   "notes":  "Refrigerated biscuit dough and frozen vegetable mixes are nationwide staples."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Healthy Chicken Pot Pie Casserole {Low Cal} - Skinny Fitalicious",
+                            "url":  "https://skinnyfitalicious.com/healthy-chicken-pot-pie-casserole/"
+                        },
+                        {
+                            "title":  "Classic Chicken Pot Pie Recipe - Pillsbury.com",
+                            "url":  "https://www.pillsbury.com/recipes/classic-chicken-pot-pie/1401d418-ac0b-4b50-ad09-c6f1243fb992"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-005",
+        "name":  "Tuna Noodle Casserole",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "A mid-century American pantry classic built on canned tuna, egg noodles, and a creamy sauce, traditionally topped with crushed crackers or breadcrumbs; remains a nostalgic, budget-friendly weeknight dinner across the US, including in school nutrition program recipe banks.",
+        "ingredients":  [
+                            {
+                                "item":  "egg noodles",
+                                "quantity":  8,
+                                "unit":  "oz"
+                            },
+                            {
+                                "item":  "canned tuna in water, drained",
+                                "quantity":  2,
+                                "unit":  "cans (5 oz each)"
+                            },
+                            {
+                                "item":  "frozen peas",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "condensed cream of mushroom soup",
+                                "quantity":  1,
+                                "unit":  "can (10.5 oz)"
+                            },
+                            {
+                                "item":  "milk",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "shredded cheddar cheese",
+                                "quantity":  0.75,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "breadcrumbs for topping",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Boil egg noodles until just tender and drain. Mix with tuna, peas, soup, milk, and half the cheese in a casserole dish. Top with remaining cheese and breadcrumbs, then bake at 375Â°F for 20-25 minutes until bubbling and golden on top.",
+        "nutrition":  {
+                          "calories":  377,
+                          "protein_g":  24,
+                          "carbs_g":  38,
+                          "fiber_g":  3,
+                          "sugar_g":  5,
+                          "fat_g":  14,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "pescatarian"
+                                      ],
+                     "allergens":  [
+                                       "fish",
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Pantry-staple canned and dry goods available nationwide; a classic budget dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Tuna Noodle Casserole â€“ School Nutrition Association",
+                            "url":  "https://schoolnutrition.org/recipe/tuna-noodle-casserole/"
+                        },
+                        {
+                            "title":  "Carbs in Tuna noodle casserole | Carb Manager",
+                            "url":  "https://www.carbmanager.com/food-detail/cc:bc350462e77ceea4fd0f3be731fefb55/tuna-noodle-casserole"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-006",
+        "name":  "Sheet-Pan Garlic Salmon with Broccoli and Rice",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A widely adopted modern American weeknight dinner that pairs roasted salmon with broccoli and rice; reflects the rise of fish-forward, high-protein home cooking promoted across recipe blogs and nutrition-focused meal-prep content.",
+        "ingredients":  [
+                            {
+                                "item":  "salmon fillets",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "broccoli florets",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "garlic, minced",
+                                "quantity":  4,
+                                "unit":  "cloves"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  3,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "lemon",
+                                "quantity":  1,
+                                "unit":  "whole"
+                            },
+                            {
+                                "item":  "cooked white rice",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            }
+                        ],
+        "prepNotes":  "Toss broccoli with half the olive oil and garlic on a sheet pan and roast at 425Â°F for 8 minutes. Add salmon fillets brushed with remaining oil, garlic, and lemon juice; roast together for another 10-12 minutes until salmon is just opaque. Serve over cooked rice.",
+        "nutrition":  {
+                          "calories":  480,
+                          "protein_g":  36,
+                          "carbs_g":  38,
+                          "fiber_g":  5,
+                          "sugar_g":  3,
+                          "fat_g":  19,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "pescatarian",
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "fish"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Whole Foods",
+                                                  "Trader Joe\u0027s",
+                                                  "Costco",
+                                                  "Kroger",
+                                                  "Walmart"
+                                              ],
+                                   "notes":  "Fresh or frozen salmon fillets are widely available nationwide; frozen salmon at Trader Joe\u0027s/Costco offers a budget-friendly option."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Garlic Sheet Pan Salmon and Broccoli (Easy Weeknight Dinner)",
+                            "url":  "https://thenaturalnurturer.com/one-sheet-roasted-garlic-salmon-broccoli/"
+                        },
+                        {
+                            "title":  "Salmon Rice Bowls ~ Barley \u0026 Sage",
+                            "url":  "https://www.barleyandsage.com/salmon-rice-bowls/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-007",
+        "name":  "Turkey Chili with Beans",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Turkey chili is a common American leaner alternative to traditional beef chili, widely cooked for weeknight dinners, game-day gatherings, and meal prep; recognized by US government nutrition programs and mainstream food blogs alike.",
+        "ingredients":  [
+                            {
+                                "item":  "ground turkey, 93% lean",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "kidney beans, canned, drained",
+                                "quantity":  2,
+                                "unit":  "cans (15 oz each)"
+                            },
+                            {
+                                "item":  "diced tomatoes, canned",
+                                "quantity":  1,
+                                "unit":  "can (28 oz)"
+                            },
+                            {
+                                "item":  "onion, diced",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "bell pepper, diced",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "chili powder and cumin",
+                                "quantity":  2,
+                                "unit":  "tbsp total"
+                            }
+                        ],
+        "prepNotes":  "Brown ground turkey with onion and bell pepper in a large pot. Stir in diced tomatoes, beans, chili powder, and cumin. Simmer uncovered for 25-30 minutes, stirring occasionally, until thickened.",
+        "nutrition":  {
+                          "calories":  345,
+                          "protein_g":  24,
+                          "carbs_g":  40,
+                          "fiber_g":  12,
+                          "sugar_g":  9,
+                          "fat_g":  9,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Canned beans and tomatoes plus ground turkey are inexpensive, nationwide pantry staples."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Turkey Chili with Beans and Corn â€” VA Nutrition Service",
+                            "url":  "https://www.nutrition.va.gov/docs/Recipes/MainDishes/TurkeyChiliwithBeansandCornMay2021.pdf"
+                        },
+                        {
+                            "title":  "Healthy Turkey Chili - Downshiftology",
+                            "url":  "https://downshiftology.com/recipes/turkey-chili/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-008",
+        "name":  "Homemade Pepperoni Pizza",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Pizza is one of the most consumed dinner foods in the US, whether homemade, delivered, or frozen; pepperoni is consistently the top-selling pizza topping nationally, and homemade pizza night is a common Friday-dinner tradition in American households.",
+        "ingredients":  [
+                            {
+                                "item":  "pizza dough",
+                                "quantity":  1,
+                                "unit":  "lb (1 ball)"
+                            },
+                            {
+                                "item":  "pizza sauce",
+                                "quantity":  0.75,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "mozzarella cheese, shredded",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "pepperoni slices",
+                                "quantity":  3,
+                                "unit":  "oz"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  1,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Stretch dough onto a floured pizza pan or stone. Spread sauce, then top with mozzarella and pepperoni slices. Bake at 475Â°F for 12-15 minutes until the crust is golden and cheese is bubbling. Cut into 8 slices (2 per serving).",
+        "nutrition":  {
+                          "calories":  600,
+                          "protein_g":  26,
+                          "carbs_g":  64,
+                          "fiber_g":  3,
+                          "sugar_g":  6,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Trader Joe\u0027s",
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Whole Foods",
+                                                  "Aldi",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Refrigerated pizza dough, sauce, and pepperoni are available at virtually every US grocery chain; Trader Joe\u0027s fresh dough balls are especially popular for homemade pizza night."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Calories in Homemade Pizza - Nutritionix",
+                            "url":  "https://www.nutritionix.com/i/nutritionix/homemade-pizza-1-slice-0.13-of-12-pizza/58cc08ef3b464f03554e3595"
+                        },
+                        {
+                            "title":  "Nutrition Facts for Pepperoni Pizza",
+                            "url":  "https://tools.myfooddata.com/nutrition-facts/173295/wt1"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-009",
+        "name":  "KFC-Style Fried Chicken Dinner (2-Piece with Sides)",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  1,
+        "popularityContext":  "Fried chicken is a foundational American takeout dinner, with KFC\u0027s bucket meals and 2-piece combos among the most recognized fast-food dinner orders nationwide, especially for family or weekend takeout nights.",
+        "ingredients":  [
+                            {
+                                "item":  "KFC Original Recipe fried chicken (breast and thigh)",
+                                "quantity":  2,
+                                "unit":  "pieces"
+                            },
+                            {
+                                "item":  "mashed potatoes with gravy",
+                                "quantity":  1,
+                                "unit":  "side (about 0.75 cup)"
+                            },
+                            {
+                                "item":  "coleslaw",
+                                "quantity":  1,
+                                "unit":  "side (about 0.5 cup)"
+                            },
+                            {
+                                "item":  "dinner biscuit",
+                                "quantity":  1,
+                                "unit":  "biscuit"
+                            }
+                        ],
+        "prepNotes":  "This is a restaurant/takeout combo, not a home recipe â€” ordered as a 2-piece combo meal with two sides and a biscuit. Nutrition reflects KFC\u0027s published values for Original Recipe chicken plus standard sides.",
+        "nutrition":  {
+                          "calories":  899,
+                          "protein_g":  43,
+                          "carbs_g":  69,
+                          "fiber_g":  5,
+                          "sugar_g":  10,
+                          "fat_g":  47,
+                          "method":  "Compiled from KFC published nutrition facts (kfc.com/nutrition) cross-checked with Nutritionix restaurant database"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "ultra-processed",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy",
+                                       "eggs"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "KFC (nationwide quick-service chain)"
+                                              ],
+                                   "notes":  "Available at KFC locations nationwide; comparable fried chicken combos also sold at Popeyes, Church\u0027s, and supermarket deli counters (Walmart, Kroger)."
+                               },
+        "sources":  [
+                        {
+                            "title":  "KFCÂ® Nutrition Calculator \u0026 Facts",
+                            "url":  "https://www.kfc.com/nutrition"
+                        },
+                        {
+                            "title":  "Calories in 2-piece Combo by Kfc and Nutrition Facts",
+                            "url":  "https://www.mynetdiary.com/food/calories-in-2-piece-combo-by-kfc-serving-36563422-0.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-010",
+        "name":  "Panda Express Orange Chicken with Fried Rice",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  1,
+        "popularityContext":  "Orange chicken from Panda Express is the best-known Chinese-American takeout dinner item in the US, regularly cited as the chain\u0027s top-selling dish; a common weeknight takeout order paired with fried or steamed rice.",
+        "ingredients":  [
+                            {
+                                "item":  "Panda Express Orange Chicken",
+                                "quantity":  1,
+                                "unit":  "entree serving (5.92 oz)"
+                            },
+                            {
+                                "item":  "Panda Express Fried Rice",
+                                "quantity":  1,
+                                "unit":  "side serving (8 oz)"
+                            }
+                        ],
+        "prepNotes":  "This is a restaurant/takeout order, not a home recipe. Orange chicken is breaded fried chicken tossed in a sweet-savory citrus glaze; commonly ordered as an entree plus a side of fried or steamed rice at Panda Express locations nationwide.",
+        "nutrition":  {
+                          "calories":  940,
+                          "protein_g":  35,
+                          "carbs_g":  105,
+                          "fiber_g":  4,
+                          "sugar_g":  21,
+                          "fat_g":  38,
+                          "method":  "Compiled from Panda Express published nutrition facts cross-checked with fastfoodnutrition.org"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "ultra-processed",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "soy",
+                                       "eggs"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Panda Express (nationwide quick-service chain)"
+                                              ],
+                                   "notes":  "Available at Panda Express locations nationwide, typically in malls, food courts, and standalone restaurants."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Panda Express Orange Chicken Nutrition Facts",
+                            "url":  "https://fastfoodnutrition.org/panda-express/orange-chicken"
+                        },
+                        {
+                            "title":  "Calories in The Original Orange Chicken by Panda Express and Nutrition Facts",
+                            "url":  "https://www.mynetdiary.com/food/calories-in-the-original-orange-chicken-by-panda-express-serving-23640356-0.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-011",
+        "name":  "Ground Beef Taco Bowl",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Taco bowls are a widely eaten Tex-Mex/Mexican-American dinner format, popular for being customizable and quick; common in home cooking and casual restaurant chains like Chipotle and Qdoba, reflecting the deep popularity of Tex-Mex flavors in everyday American meals.",
+        "ingredients":  [
+                            {
+                                "item":  "ground beef, 85% lean",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "taco seasoning",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "cooked white or brown rice",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "black beans, canned, drained",
+                                "quantity":  1,
+                                "unit":  "can (15 oz)"
+                            },
+                            {
+                                "item":  "romaine lettuce, shredded",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded cheddar cheese",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "salsa and sour cream",
+                                "quantity":  0.5,
+                                "unit":  "cup each"
+                            }
+                        ],
+        "prepNotes":  "Brown ground beef in a skillet, drain excess fat, and stir in taco seasoning with a splash of water. Layer rice, black beans, lettuce, and beef in bowls, then top with cheese, salsa, and sour cream.",
+        "nutrition":  {
+                          "calories":  590,
+                          "protein_g":  38,
+                          "carbs_g":  48,
+                          "fiber_g":  9,
+                          "sugar_g":  4,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free"
+                                      ],
+                     "allergens":  [
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Target",
+                                                  "Safeway",
+                                                  "Costco"
+                                              ],
+                                   "notes":  "All ingredients are mainstream nationwide grocery staples; a budget-friendly, customizable family dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Ground Beef Taco Bowls - Eat With Clarity",
+                            "url":  "https://eatwithclarity.com/ground-beef-taco-bowls/"
+                        },
+                        {
+                            "title":  "Easy Taco Rice Bowls with Ground Beef - Grace Like Rain Blog",
+                            "url":  "https://www.gracelikerainblog.com/easy-taco-rice-bowls/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-012",
+        "name":  "Spaghetti and Meatballs",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "An Italian-American classic and one of the most-cooked family dinners in the US, built on spaghetti tossed in marinara with beef-and-pork meatballs; a staple of red-sauce Italian-American restaurants and home kitchens alike since the early 20th century.",
+        "ingredients":  [
+                            {
+                                "item":  "spaghetti",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "ground beef",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "breadcrumbs",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "egg",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "grated parmesan",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "marinara sauce",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            }
+                        ],
+        "prepNotes":  "Mix ground beef, breadcrumbs, egg, and half the parmesan; roll into meatballs. Brown meatballs in a skillet, then simmer in marinara sauce for 15-20 minutes until cooked through. Boil spaghetti until al dente and serve topped with meatballs, sauce, and remaining parmesan.",
+        "nutrition":  {
+                          "calories":  590,
+                          "protein_g":  30,
+                          "carbs_g":  64,
+                          "fiber_g":  5,
+                          "sugar_g":  9,
+                          "fat_g":  25,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "eggs",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Pasta, ground beef, and jarred marinara are nationwide staples; Trader Joe\u0027s offers a popular budget-friendly marinara and pre-formed meatball option."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Spaghetti and meatballs nutrition facts and analysis",
+                            "url":  "https://www.nutritionvalue.org/Spaghetti_and_meatballs_598700_nutritional_value.html"
+                        },
+                        {
+                            "title":  "Spaghetti and Meatballs calories \u0026 nutrition - Arise App",
+                            "url":  "https://www.arise-app.com/dish/Spaghetti-and-Meatballs"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-013",
+        "name":  "Homemade Cheeseburger with Side Salad",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "The cheeseburger is one of the most iconic American dinner foods, eaten at home on the grill or stovetop as well as at every fast-food and diner chain nationwide; a backyard cookout and weeknight staple across all regions.",
+        "ingredients":  [
+                            {
+                                "item":  "ground beef, 80% lean",
+                                "quantity":  1.33,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "burger buns",
+                                "quantity":  4,
+                                "unit":  "buns"
+                            },
+                            {
+                                "item":  "cheddar cheese slices",
+                                "quantity":  4,
+                                "unit":  "slices"
+                            },
+                            {
+                                "item":  "lettuce, tomato, onion",
+                                "quantity":  1,
+                                "unit":  "cup total"
+                            },
+                            {
+                                "item":  "mixed greens for side salad",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "olive oil and vinegar dressing",
+                                "quantity":  4,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Form ground beef into 4 patties, season with salt and pepper, and grill or pan-sear 3-4 minutes per side, adding cheese in the last minute to melt. Assemble on buns with lettuce, tomato, and onion. Serve with a side salad of mixed greens and a light vinaigrette instead of fries for a more balanced plate.",
+        "nutrition":  {
+                          "calories":  560,
+                          "protein_g":  35,
+                          "carbs_g":  34,
+                          "fiber_g":  4,
+                          "sugar_g":  6,
+                          "fat_g":  30,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Costco",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Ground beef, buns, and cheese are available at every mainstream US grocery store; a common backyard grilling staple."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Carbs in Cheeseburger on a bun, third pound, with tomato, lettuce, pickle, onion, mustard | Carb Manager",
+                            "url":  "https://www.carbmanager.com/food-detail/cc:710ae159b2fcb7f32c4cd79936f9ed00/cheeseburger-on-a-bun-third-pound-with-tomato-lettuce-pickle-onion-mustard"
+                        },
+                        {
+                            "title":  "Calories in Homemade Cheeseburger with lettuce, tomato, and pickles - SparkRecipes",
+                            "url":  "https://recipes.sparkpeople.com/recipe-calories.asp?recipe=160394"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-014",
+        "name":  "Grilled Sirloin Steak with Baked Potato and Vegetables",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Steak with a baked potato is a quintessential American steakhouse dinner, replicated at home for special occasions and weekend cooking; reflects the cultural prominence of beef and the classic \u0027meat and potatoes\u0027 meal format in the US.",
+        "ingredients":  [
+                            {
+                                "item":  "sirloin steak",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "russet potatoes",
+                                "quantity":  4,
+                                "unit":  "medium"
+                            },
+                            {
+                                "item":  "green beans or broccoli",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "butter",
+                                "quantity":  3,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "salt, pepper, garlic powder",
+                                "quantity":  1,
+                                "unit":  "tbsp total"
+                            }
+                        ],
+        "prepNotes":  "Pierce potatoes and bake at 425Â°F for 45-50 minutes until tender. Season steaks with salt, pepper, and garlic powder, then grill or pan-sear 4-5 minutes per side for medium doneness; let rest 5 minutes before slicing. Steam or roast green beans or broccoli and serve alongside with butter on the potato.",
+        "nutrition":  {
+                          "calories":  600,
+                          "protein_g":  42,
+                          "carbs_g":  45,
+                          "fiber_g":  7,
+                          "sugar_g":  4,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free"
+                                      ],
+                     "allergens":  [
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Costco",
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Safeway",
+                                                  "Whole Foods"
+                                              ],
+                                   "notes":  "Sirloin steak and potatoes are available nationwide; Costco is a popular source for value-priced steak cuts."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Grilled Sirloin Steak with Baked Potatoes and Grilled Vegetables - Teresa\u0027s Recipes",
+                            "url":  "https://teresasrecipes.com/recipe/grilled-sirloin-steak-with-baked-potatoes-and-grilled-vegetables"
+                        },
+                        {
+                            "title":  "Steak Dinner with Baked Potato and Vegetables calories \u0026 nutrition - Arise App",
+                            "url":  "https://www.arise-app.com/dish/Steak-Dinner-with-Baked-Potato-and-Vegetables"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-015",
+        "name":  "BBQ Pulled Pork Sandwich with Coleslaw",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Pulled pork is a defining American barbecue dish, especially in Southern and Carolina-style barbecue traditions, typically slow-cooked, shredded, tossed in BBQ sauce, and piled on a bun with coleslaw; a staple at cookouts, BBQ joints, and casual home dinners nationwide.",
+        "ingredients":  [
+                            {
+                                "item":  "pork shoulder (pork butt)",
+                                "quantity":  3,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "BBQ sauce",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "hamburger buns",
+                                "quantity":  6,
+                                "unit":  "buns"
+                            },
+                            {
+                                "item":  "coleslaw mix (cabbage and carrot)",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "mayonnaise-based coleslaw dressing",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Slow-cook the pork shoulder (slow cooker or oven at 300Â°F) for 6-8 hours until it shreds easily with a fork. Shred the meat and toss with BBQ sauce. Toss coleslaw mix with dressing. Pile pulled pork onto buns and top with a scoop of coleslaw.",
+        "nutrition":  {
+                          "calories":  470,
+                          "protein_g":  32,
+                          "carbs_g":  45,
+                          "fiber_g":  3,
+                          "sugar_g":  16,
+                          "fat_g":  18,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "eggs"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Costco",
+                                                  "Kroger",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Pork shoulder and bottled BBQ sauce are widely available nationwide; especially popular in Southern and Midwestern grocery meat departments."
+                               },
+        "sources":  [
+                        {
+                            "title":  "BBQ Pulled Pork Sandwiches with Homemade Coleslaw - A Sassy Spoon",
+                            "url":  "https://asassyspoon.com/pulled-pork-sandwiches/"
+                        },
+                        {
+                            "title":  "Pulled Pork Sandwich with BBQ Sauce and Coleslaw Recipe | Amanda Freitag | Food Network",
+                            "url":  "https://www.foodnetwork.com/recipes/amanda-freitag/pulled-pork-sandwich-with-bbq-sauce-and-coleslaw-2820418"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-016",
+        "name":  "Grilled BBQ Chicken Thighs with Corn and Coleslaw",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A classic American backyard cookout dinner â€” bone-in chicken thighs basted with BBQ sauce on the grill, served with corn on the cob and coleslaw; one of the most common warm-weather grilling meals across the US.",
+        "ingredients":  [
+                            {
+                                "item":  "bone-in, skin-on chicken thighs",
+                                "quantity":  2,
+                                "unit":  "lbs (8 thighs)"
+                            },
+                            {
+                                "item":  "BBQ sauce",
+                                "quantity":  0.75,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "corn on the cob",
+                                "quantity":  4,
+                                "unit":  "ears"
+                            },
+                            {
+                                "item":  "coleslaw mix with dressing",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "butter for corn",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Grill chicken thighs over medium heat for 30-35 minutes, turning occasionally and basting with BBQ sauce in the last 10 minutes, until internal temp reaches 165Â°F. Grill or boil corn until tender and brush with butter. Serve with a side of coleslaw.",
+        "nutrition":  {
+                          "calories":  540,
+                          "protein_g":  38,
+                          "carbs_g":  38,
+                          "fiber_g":  5,
+                          "sugar_g":  18,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Aldi",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Chicken thighs, corn, and coleslaw mix are nationwide grocery staples, especially in summer grilling season."
+                               },
+        "sources":  [
+                        {
+                            "title":  "BBQ Chicken Thighs - Hey Grill, Hey",
+                            "url":  "https://heygrillhey.com/bbq-chicken-thighs/"
+                        },
+                        {
+                            "title":  "Grilled BBQ Chicken - Spend with Pennies",
+                            "url":  "https://www.spendwithpennies.com/grilled-bbq-chicken/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-017",
+        "name":  "Soul Food Smothered Pork Chops with Collard Greens",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A staple Southern soul food dinner â€” pork chops seared and braised in a savory onion gravy, traditionally served with collard greens; a generations-old dish rooted in African American Southern cooking traditions and still widely cooked across the South and beyond.",
+        "ingredients":  [
+                            {
+                                "item":  "bone-in pork chops",
+                                "quantity":  4,
+                                "unit":  "chops (about 6 oz each)"
+                            },
+                            {
+                                "item":  "onion, sliced",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "flour",
+                                "quantity":  0.25,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "chicken broth",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "collard greens, chopped",
+                                "quantity":  6,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "smoked turkey or ham hock for greens",
+                                "quantity":  4,
+                                "unit":  "oz"
+                            }
+                        ],
+        "prepNotes":  "Season and lightly dredge pork chops in flour, then brown in a skillet on both sides and set aside. SautÃ© onions in the same pan, sprinkle in remaining flour, then whisk in broth to form a gravy; return chops to the pan and simmer covered for 25-30 minutes until tender. Separately simmer collard greens with smoked turkey or ham hock for 45-60 minutes until tender.",
+        "nutrition":  {
+                          "calories":  480,
+                          "protein_g":  41,
+                          "carbs_g":  18,
+                          "fiber_g":  5,
+                          "sugar_g":  4,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "local Southern grocers"
+                                              ],
+                                   "notes":  "Pork chops and collard greens are sold nationwide; smoked turkey necks/ham hocks and fresh collards are especially common in Southern-region supermarkets."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Southern Soul Food Smothered Pork Chops - StaySnatched",
+                            "url":  "https://www.staysnatched.com/smothered-pork-chops/"
+                        },
+                        {
+                            "title":  "Southern Smothered Pork Chops and Rice - Cooks with Soul",
+                            "url":  "https://cookswithsoul.com/southern-smothered-pork-chops/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-018",
+        "name":  "Cajun Shrimp and Cheddar Grits",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Shrimp and grits is a defining Lowcountry/Cajun-Creole Southern dish, originating in coastal Carolina and Louisiana cooking; sautÃ©ed Cajun-spiced shrimp served over creamy cheddar grits is a widely recognized regional specialty served in home kitchens and Southern restaurants alike.",
+        "ingredients":  [
+                            {
+                                "item":  "shrimp, peeled and deveined",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "stone-ground grits",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "chicken broth and water for grits",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded cheddar cheese",
+                                "quantity":  0.75,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "Cajun seasoning",
+                                "quantity":  1.5,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "butter and olive oil",
+                                "quantity":  3,
+                                "unit":  "tbsp total"
+                            }
+                        ],
+        "prepNotes":  "Simmer grits in broth and water for 20-25 minutes, stirring often, then stir in cheddar and butter until creamy. Season shrimp generously with Cajun seasoning and sautÃ© in olive oil over high heat for 2-3 minutes per side until just pink and cooked through. Spoon shrimp over the cheesy grits to serve.",
+        "nutrition":  {
+                          "calories":  460,
+                          "protein_g":  32,
+                          "carbs_g":  35,
+                          "fiber_g":  2,
+                          "sugar_g":  1,
+                          "fat_g":  21,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "pescatarian"
+                                      ],
+                     "allergens":  [
+                                       "shellfish",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Whole Foods",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Frozen shrimp and grits are nationwide staples; stone-ground grits are especially prevalent in Southern-region supermarkets but sold nationally."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Cajun Shrimp and Grits (Cheesy Grits) - Will Cook For Smiles",
+                            "url":  "https://www.willcookforsmiles.com/cajun-shrimp-and-grits/"
+                        },
+                        {
+                            "title":  "Calories in Cajun Shrimp and Cheddar Grits by Home Chef and Nutrition Facts",
+                            "url":  "https://www.mynetdiary.com/food/calories-in-cajun-shrimp-and-cheddar-grits-by-home-chef-serving-26135584-0.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-019",
+        "name":  "Chicken and Sausage Jambalaya",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Jambalaya is a foundational Louisiana Creole/Cajun one-pot rice dish combining chicken, smoked sausage, and the Cajun \u0027holy trinity\u0027 of onion, celery, and bell pepper; widely cooked across the South and nationally recognized as a defining Louisiana comfort food.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken thighs, cubed",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "andouille or smoked sausage, sliced",
+                                "quantity":  0.75,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "long-grain rice",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "onion, celery, bell pepper, diced",
+                                "quantity":  2,
+                                "unit":  "cups total"
+                            },
+                            {
+                                "item":  "diced tomatoes, canned",
+                                "quantity":  1,
+                                "unit":  "can (14.5 oz)"
+                            },
+                            {
+                                "item":  "chicken broth",
+                                "quantity":  2.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "Cajun seasoning",
+                                "quantity":  1.5,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Brown sausage and chicken in a large pot, then remove and set aside. SautÃ© onion, celery, and bell pepper in the same pot until softened. Stir in rice, tomatoes, broth, Cajun seasoning, and the browned meats; bring to a boil, then cover and simmer 20-25 minutes until rice is tender and liquid is absorbed.",
+        "nutrition":  {
+                          "calories":  530,
+                          "protein_g":  33,
+                          "carbs_g":  48,
+                          "fiber_g":  3,
+                          "sugar_g":  5,
+                          "fat_g":  22,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Safeway",
+                                                  "Aldi",
+                                                  "local Cajun/Creole grocers"
+                                              ],
+                                   "notes":  "Andouille sausage and Cajun seasoning blends are available nationwide; especially abundant in Louisiana and Gulf Coast-region supermarkets."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Easy Chicken, Sausage \u0026 Shrimp Jambalaya | foodiecrush.com",
+                            "url":  "https://www.foodiecrush.com/chicken-sausage-and-shrimp-jambalaya/"
+                        },
+                        {
+                            "title":  "Cajun Chicken and Sausage Jambalaya (GF) - Well Fed Baker",
+                            "url":  "https://wellfedbaker.com/cajun-chicken-and-sausage-jambalaya/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-020",
+        "name":  "Hawaiian Huli Huli Chicken Plate Lunch",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Huli huli chicken is a Hawaiian grilled chicken dish glazed in a sweet soy-ginger-pineapple sauce, traditionally served as a \u0027plate lunch\u0027 with two scoops of rice and a scoop of macaroni salad; a defining dish of Hawaii\u0027s local food culture, also found at mainland Hawaiian-style restaurants.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken thighs",
+                                "quantity":  2,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "soy sauce, ketchup, brown sugar, ginger, garlic for marinade",
+                                "quantity":  1,
+                                "unit":  "cup total"
+                            },
+                            {
+                                "item":  "cooked white rice",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "macaroni salad (elbow macaroni, mayonnaise, carrot)",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            }
+                        ],
+        "prepNotes":  "Marinate chicken thighs in the soy-ketchup-ginger mixture for at least 1 hour. Grill over medium heat for 6-8 minutes per side, basting with extra marinade (boiled separately for food safety) until caramelized and cooked through. Serve plate-lunch style with two scoops of rice and a scoop of macaroni salad.",
+        "nutrition":  {
+                          "calories":  700,
+                          "protein_g":  38,
+                          "carbs_g":  70,
+                          "fiber_g":  2,
+                          "sugar_g":  16,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "soy",
+                                       "eggs",
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Safeway",
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "local Hawaiian/Asian grocers"
+                                              ],
+                                   "notes":  "Core ingredients are nationwide staples; this plate-lunch format is most authentically found in Hawaii and West Coast Hawaiian-style restaurant chains, but is widely home-cooked across the US."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Hawaiian Huli Huli Chicken - Cooking For My Soul",
+                            "url":  "https://cookingformysoul.com/huli-huli-chicken/"
+                        },
+                        {
+                            "title":  "The Plate Lunch (Huli Huli Chicken and Mac Salad) - The Buslife Kitchen",
+                            "url":  "https://thebuslifekitchen.com/plate-lunch/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-021",
+        "name":  "Beef and Broccoli Stir-Fry",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Beef and broccoli is one of the most ordered Chinese-American takeout dinner dishes nationwide and an equally common home stir-fry; thin-sliced beef and broccoli in a savory soy-based sauce over rice is a weeknight staple for both restaurant and home cooking.",
+        "ingredients":  [
+                            {
+                                "item":  "flank steak, thinly sliced",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "broccoli florets",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "soy sauce",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "garlic and ginger, minced",
+                                "quantity":  2,
+                                "unit":  "tbsp total"
+                            },
+                            {
+                                "item":  "cornstarch",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "cooked white rice",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "vegetable oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Toss sliced beef with a little soy sauce and cornstarch. Stir-fry beef in hot oil in batches until browned, then remove. Stir-fry broccoli with garlic and ginger until crisp-tender, then return beef to the pan with remaining soy sauce and a splash of water, tossing until glazed. Serve over rice.",
+        "nutrition":  {
+                          "calories":  520,
+                          "protein_g":  34,
+                          "carbs_g":  50,
+                          "fiber_g":  4,
+                          "sugar_g":  4,
+                          "fat_g":  18,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "soy",
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Flank steak, broccoli, and soy sauce are nationwide staples; a common home alternative to Chinese-American takeout."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Beef and Broccoli Stir Fry (Low Carb + High Protein) - ForgetSugar",
+                            "url":  "https://forgetsugarfriday.com/beef-and-broccoli-stir-fry/"
+                        },
+                        {
+                            "title":  "Beef and broccoli stir fry Nutrition - SnapCalorie",
+                            "url":  "https://www.snapcalorie.com/nutrition/beef_and_broccoli_stir_fry_nutrition.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-022",
+        "name":  "Chicken Fajitas with Peppers and Onions",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Fajitas are a Tex-Mex restaurant and home-cooking staple across the US, featuring sizzling sliced chicken (or steak) with bell peppers and onions served with warm tortillas; a top menu item at Tex-Mex chains and a common customizable family dinner.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken breast, sliced",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "bell peppers, sliced (mixed colors)",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "onion, sliced",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "fajita seasoning (chili powder, cumin, paprika)",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "flour tortillas",
+                                "quantity":  8,
+                                "unit":  "small (6-inch)"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Toss chicken with half the seasoning and sear in a hot skillet for 5-6 minutes until cooked through; remove and set aside. SautÃ© peppers and onion in the same skillet with remaining seasoning until charred at the edges and tender-crisp. Return chicken to the pan to combine, then serve with warm tortillas for wrapping.",
+        "nutrition":  {
+                          "calories":  480,
+                          "protein_g":  36,
+                          "carbs_g":  42,
+                          "fiber_g":  5,
+                          "sugar_g":  6,
+                          "fat_g":  16,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Target",
+                                                  "Safeway",
+                                                  "Costco"
+                                              ],
+                                   "notes":  "Chicken, bell peppers, and tortillas are nationwide staples; a popular customizable weeknight Tex-Mex dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Chicken Fajita Recipe â€“ Easy Chicken Fajitas | Skinnytaste",
+                            "url":  "https://www.skinnytaste.com/chicken-fajitas-45-pts/"
+                        },
+                        {
+                            "title":  "Chicken Fajita - USDA Food and Nutrition Service",
+                            "url":  "https://fns-prod.azureedge.us/sites/default/files/resource-files/Chicken_Fajitas_25_Servings.pdf"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-023",
+        "name":  "Baked Chicken Parmesan with Spaghetti",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Chicken parmesan is a widely eaten Italian-American restaurant and home dinner â€” breaded chicken breast baked with marinara and melted mozzarella, served over spaghetti; a menu staple at red-sauce Italian-American restaurants nationwide and a common home adaptation using baking instead of frying.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken breast",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "breadcrumbs",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "egg",
+                                "quantity":  2,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "marinara sauce",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded mozzarella",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "spaghetti",
+                                "quantity":  12,
+                                "unit":  "oz"
+                            },
+                            {
+                                "item":  "grated parmesan",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Dip chicken breasts in egg, then coat in breadcrumbs mixed with parmesan. Bake at 400Â°F for 18-20 minutes until golden and cooked through, then top with marinara and mozzarella and bake another 5 minutes until melted. Serve over cooked spaghetti tossed with remaining marinara.",
+        "nutrition":  {
+                          "calories":  530,
+                          "protein_g":  42,
+                          "carbs_g":  50,
+                          "fiber_g":  4,
+                          "sugar_g":  7,
+                          "fat_g":  15,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "eggs",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Safeway",
+                                                  "Aldi",
+                                                  "Target"
+                                              ],
+                                   "notes":  "All ingredients are mainstream nationwide grocery staples; the baked version is a common lighter home adaptation of the fried restaurant classic."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Homemade Chicken Parmigiana | Johns Hopkins Medicine",
+                            "url":  "https://www.hopkinsmedicine.org/health/wellness-and-prevention/homemade-chicken-parmigiana"
+                        },
+                        {
+                            "title":  "Healthy Baked Chicken Parmesan | The Clean Eating Couple",
+                            "url":  "https://thecleaneatingcouple.com/baked-chicken-parmesan/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-024",
+        "name":  "Classic Beef and Ricotta Lasagna",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  8,
+        "popularityContext":  "Lasagna is one of the best-known Italian-American baked pasta dinners in the US, layering pasta sheets with ground beef, ricotta, mozzarella, and marinara; a common make-ahead family dinner and potluck dish nationwide, especially popular for Sunday dinners and freezer meal prep.",
+        "ingredients":  [
+                            {
+                                "item":  "lasagna noodles",
+                                "quantity":  12,
+                                "unit":  "noodles"
+                            },
+                            {
+                                "item":  "ground beef, 85% lean",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "ricotta cheese",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded mozzarella",
+                                "quantity":  2.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "marinara sauce",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "egg",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "grated parmesan",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Boil lasagna noodles until al dente. Brown ground beef and stir into marinara sauce. Mix ricotta with egg and half the parmesan. Layer noodles, meat sauce, ricotta mixture, and mozzarella in a baking dish, repeating to fill; top with remaining mozzarella and parmesan. Bake covered at 375Â°F for 35 minutes, then uncovered for 10-15 minutes until bubbling and golden.",
+        "nutrition":  {
+                          "calories":  430,
+                          "protein_g":  27,
+                          "carbs_g":  35,
+                          "fiber_g":  3,
+                          "sugar_g":  7,
+                          "fat_g":  21,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "eggs",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "All ingredients are mainstream nationwide grocery staples; a popular make-ahead and freezer-friendly family dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "No-Fuss Beef Lasagna - Beef It\u0027s What\u0027s For Dinner",
+                            "url":  "https://www.beefitswhatsfordinner.com/recipes/recipe/130/no-fuss-beef-lasagna"
+                        },
+                        {
+                            "title":  "Beef lasagna Nutrition - SnapCalorie",
+                            "url":  "https://www.snapcalorie.com/nutrition/beef_lasagna_nutrition.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-025",
+        "name":  "Green Bean Casserole with Crispy Onions",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "A Thanksgiving and holiday-table staple since Campbell\u0027s published the original recipe in 1955, green bean casserole (green beans in a creamy mushroom sauce topped with crispy fried onions) is also commonly served as a side-turned-dinner-component at potlucks and family meals across the US year-round.",
+        "ingredients":  [
+                            {
+                                "item":  "green beans, fresh or frozen",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "condensed cream of mushroom soup",
+                                "quantity":  1,
+                                "unit":  "can (10.5 oz)"
+                            },
+                            {
+                                "item":  "milk",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "crispy fried onions (canned)",
+                                "quantity":  1.33,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "soy sauce",
+                                "quantity":  1,
+                                "unit":  "tsp"
+                            }
+                        ],
+        "prepNotes":  "Steam or blanch green beans until just tender-crisp. Mix with cream of mushroom soup, milk, soy sauce, and two-thirds of the fried onions in a casserole dish. Bake at 350Â°F for 25 minutes, top with remaining onions, and bake 5 more minutes until golden and bubbling.",
+        "nutrition":  {
+                          "calories":  190,
+                          "protein_g":  4,
+                          "carbs_g":  17,
+                          "fiber_g":  3,
+                          "sugar_g":  5,
+                          "fat_g":  12,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  false,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "vegetarian"
+                                      ],
+                     "allergens":  [
+                                       "dairy",
+                                       "gluten",
+                                       "soy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Canned soup, fried onions, and green beans are nationwide grocery staples, especially stocked heavily around the November holiday season. Best paired with a protein main like roast turkey or chicken to make a complete dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Green bean casserole nutrition facts and analysis",
+                            "url":  "https://www.nutritionvalue.org/Green_bean_casserole_75403020_nutritional_value.html"
+                        },
+                        {
+                            "title":  "Heart-healthy green bean casserole recipe | Shine365",
+                            "url":  "https://shine365.marshfieldclinic.org/heart-care/green-bean-casserole-recipe/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-026",
+        "name":  "Philly Cheesesteak Sandwich",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Originating in Philadelphia in the 1930s, the cheesesteak â€” thin-sliced griddled beef with melted cheese and sautÃ©ed onions on a long roll â€” is a defining regional sandwich now sold nationwide at delis, cheesesteak shops, and home kitchens as a quick weeknight dinner.",
+        "ingredients":  [
+                            {
+                                "item":  "ribeye steak, thinly sliced",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "onion, sliced",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "green bell pepper, sliced",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "provolone cheese slices",
+                                "quantity":  4,
+                                "unit":  "slices"
+                            },
+                            {
+                                "item":  "hoagie rolls",
+                                "quantity":  4,
+                                "unit":  "rolls"
+                            },
+                            {
+                                "item":  "vegetable oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "SautÃ© onion and bell pepper in oil until softened, push to the side of the pan. Add thinly sliced ribeye to the hot pan and cook 3-4 minutes, chopping with a spatula as it browns. Mix meat with the vegetables, top with provolone until melted, and pile onto toasted hoagie rolls.",
+        "nutrition":  {
+                          "calories":  560,
+                          "protein_g":  37,
+                          "carbs_g":  42,
+                          "fiber_g":  3,
+                          "sugar_g":  5,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Thin-sliced ribeye or sandwich steak, hoagie rolls, and provolone are sold nationwide; pre-sliced \u0027sandwich steak\u0027 is common in supermarket meat departments outside the Philadelphia region too."
+                               },
+        "sources":  [
+                        {
+                            "title":  "How Many Calories in a Cheesesteak? Full Nutrition Guide",
+                            "url":  "https://phillysandwichsd.com/cheesesteak-calories-your-guide-to-nutrition-facts/"
+                        },
+                        {
+                            "title":  "Philly Cheesesteak Sandwich calories \u0026 nutrition - Arise App",
+                            "url":  "https://www.arise-app.com/dish/Philly-Cheesesteak-Sandwich"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-027",
+        "name":  "Domino\u0027s Large Hand-Tossed Pepperoni Pizza (Takeout)",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Domino\u0027s is one of the largest pizza delivery chains in the US, and a large hand-tossed pepperoni pizza ordered for delivery or carryout is among the most common weeknight and weekend takeout dinners for American families.",
+        "ingredients":  [
+                            {
+                                "item":  "Domino\u0027s large (14-inch) hand-tossed pepperoni pizza",
+                                "quantity":  8,
+                                "unit":  "slices (2 per serving)"
+                            }
+                        ],
+        "prepNotes":  "This is a restaurant/delivery order, not a home recipe â€” ordered whole and divided into 8 slices, with 2 slices per serving. Nutrition reflects Domino\u0027s published values for a large hand-tossed pepperoni pizza.",
+        "nutrition":  {
+                          "calories":  560,
+                          "protein_g":  24,
+                          "carbs_g":  70,
+                          "fiber_g":  4,
+                          "sugar_g":  6,
+                          "fat_g":  20,
+                          "method":  "Compiled from Domino\u0027s published nutrition guide (dominos.com/nutrition) cross-checked with CalorieKing restaurant database"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "ultra-processed",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Domino\u0027s (nationwide delivery/carryout chain)"
+                                              ],
+                                   "notes":  "Available for delivery or carryout nationwide; one of the most-ordered pizza delivery brands in the US alongside Pizza Hut and Papa John\u0027s."
+                               },
+        "sources":  [
+                        {
+                            "title":  "DOMINO\u0027S NUTRITION GUIDE",
+                            "url":  "https://www.dominos.com/cms/assets/7d2e19df-e360-41eb-a367-5ab794ab2ebc"
+                        },
+                        {
+                            "title":  "Calories in Domino\u0027s Pizza Pepperoni Large Hand Tossed Crust Pizza | CalorieKing",
+                            "url":  "https://www.calorieking.com/us/en/foods/f/calories-in-pizzas-pepperoni-large-hand-tossed-crust-pizza/0Pv74tuTQteBH74qVuyUFg"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-028",
+        "name":  "Chick-fil-A Chicken Sandwich Meal with Waffle Fries",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  1,
+        "popularityContext":  "Chick-fil-A\u0027s breaded chicken sandwich is one of the most popular fast-food items in the US, consistently ranking as the chain\u0027s signature order; commonly purchased as a dinner meal with waffle fries on the way home from work or as a quick family takeout option.",
+        "ingredients":  [
+                            {
+                                "item":  "Chick-fil-A Chicken Sandwich",
+                                "quantity":  1,
+                                "unit":  "sandwich"
+                            },
+                            {
+                                "item":  "Chick-fil-A Waffle Potato Fries, medium",
+                                "quantity":  1,
+                                "unit":  "medium order"
+                            }
+                        ],
+        "prepNotes":  "This is a restaurant/takeout order, not a home recipe â€” a breaded chicken breast filet on a buttered bun with pickles, ordered as a combo with medium waffle fries. Nutrition reflects Chick-fil-A\u0027s published values.",
+        "nutrition":  {
+                          "calories":  850,
+                          "protein_g":  33,
+                          "carbs_g":  90,
+                          "fiber_g":  7,
+                          "sugar_g":  8,
+                          "fat_g":  41,
+                          "method":  "Compiled from Chick-fil-A published nutrition guide (chick-fil-a.com/nutrition-allergens) cross-checked with fastfoodnutrition.org"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "ultra-processed",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy",
+                                       "eggs"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Chick-fil-A (nationwide quick-service chain)"
+                                              ],
+                                   "notes":  "Available at Chick-fil-A locations nationwide; the grilled chicken sandwich is a lower-calorie alternative on the same menu."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Nutrition Guide: View Calories, Allergens, and More | Chick-fil-A",
+                            "url":  "https://www.chick-fil-a.com/nutrition-allergens"
+                        },
+                        {
+                            "title":  "Chick-fil-A Chicken Sandwich Nutrition Facts",
+                            "url":  "https://fastfoodnutrition.org/chick-fil-a/chicken-sandwich"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-029",
+        "name":  "Chicken Enchiladas Verde",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Enchiladas verde â€” corn tortillas rolled around shredded chicken, covered in tangy tomatillo green sauce and melted cheese â€” are a widely cooked Mexican-American home dinner and a staple on Tex-Mex restaurant menus across the US.",
+        "ingredients":  [
+                            {
+                                "item":  "cooked chicken breast, shredded",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "corn tortillas",
+                                "quantity":  12,
+                                "unit":  "tortillas (6-inch)"
+                            },
+                            {
+                                "item":  "green enchilada sauce (salsa verde)",
+                                "quantity":  2.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded Monterey Jack cheese",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "sour cream",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "onion, diced",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Mix shredded chicken with onion and a little enchilada sauce. Warm tortillas to make them pliable, fill each with chicken, roll, and place seam-down in a baking dish. Pour remaining green sauce over the top, sprinkle with cheese, and bake at 375Â°F for 20-25 minutes until bubbling; finish with a drizzle of sour cream.",
+        "nutrition":  {
+                          "calories":  430,
+                          "protein_g":  30,
+                          "carbs_g":  32,
+                          "fiber_g":  4,
+                          "sugar_g":  4,
+                          "fat_g":  20,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central, cross-checked against published home-recipe nutrition panels"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free"
+                                      ],
+                     "allergens":  [
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Corn tortillas, jarred green enchilada sauce (e.g. Herdez, La Victoria), and Monterey Jack cheese are nationwide grocery staples in the Mexican foods aisle."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Easy Green Chicken Enchiladas Recipe - Inspired Taste",
+                            "url":  "https://www.inspiredtaste.net/11767/salsa-verde-chicken-enchiladas/"
+                        },
+                        {
+                            "title":  "Salsa Verde Chicken Enchiladas - Family Food on the Table",
+                            "url":  "https://www.familyfoodonthetable.com/salsa-verde-chicken-enchiladas/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-030",
+        "name":  "Oven-Baked Buffalo Chicken Wings with Celery and Ranch",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Invented in Buffalo, New York in 1964, Buffalo wings tossed in a butter-hot sauce blend and served with celery and ranch or blue cheese dip are now a nationwide dinner and game-day staple, commonly oven-baked at home as a lighter alternative to deep-frying.",
+        "ingredients":  [
+                            {
+                                "item":  "chicken wings, split into flats and drumettes",
+                                "quantity":  2.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "baking powder",
+                                "quantity":  1,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "hot sauce (e.g. Frank\u0027s RedHot)",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "butter, melted",
+                                "quantity":  3,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "celery sticks",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "ranch dressing",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Pat wings dry and toss with baking powder and salt; arrange on a wire rack over a sheet pan. Bake at 425Â°F for 40-45 minutes, flipping halfway, until crisp and cooked through. Whisk hot sauce with melted butter and toss the hot wings to coat. Serve with celery sticks and ranch dressing.",
+        "nutrition":  {
+                          "calories":  520,
+                          "protein_g":  38,
+                          "carbs_g":  4,
+                          "fiber_g":  1,
+                          "sugar_g":  1,
+                          "fat_g":  38,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "low_carb"
+                                      ],
+                     "allergens":  [
+                                       "dairy",
+                                       "eggs"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Aldi",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Chicken wings and bottled hot sauce are nationwide staples; pairing with a starchy side or extra vegetables rounds this protein-heavy dish into a fuller dinner plate."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Calories in Baked Buffalo Wings - Nutritionix",
+                            "url":  "https://www.nutritionix.com/food/baked-buffalo-wings"
+                        },
+                        {
+                            "title":  "Homemade buffalo wings Nutrition - SnapCalorie",
+                            "url":  "https://www.snapcalorie.com/nutrition/homemade_buffalo_wings_nutrition.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-031",
+        "name":  "Skillet Chicken and Broccoli Alfredo",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  5,
+        "popularityContext":  "Chicken Alfredo is one of the most popular Italian-American pasta dinners in the US, served at chain restaurants like Olive Garden and widely home-cooked as a creamy weeknight comfort meal; adding broccoli is a common home adaptation for a more balanced plate.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken breast, sliced",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "fettuccine or penne pasta",
+                                "quantity":  12,
+                                "unit":  "oz"
+                            },
+                            {
+                                "item":  "broccoli florets",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "heavy cream",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "grated parmesan",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "butter and garlic",
+                                "quantity":  3,
+                                "unit":  "tbsp total"
+                            }
+                        ],
+        "prepNotes":  "Cook pasta, adding broccoli to the pot for the last 3 minutes; drain. Season and sear chicken in butter and garlic until cooked through, then remove. In the same pan, simmer cream and parmesan into a sauce, return chicken and toss with the pasta and broccoli to coat.",
+        "nutrition":  {
+                          "calories":  560,
+                          "protein_g":  38,
+                          "carbs_g":  48,
+                          "fiber_g":  4,
+                          "sugar_g":  3,
+                          "fat_g":  24,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Safeway",
+                                                  "Aldi",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Pasta, cream, and parmesan are nationwide grocery staples; adding broccoli is a common home modification that boosts fiber compared to restaurant versions."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Healthy Chicken Alfredo Pasta - Jordo\u0027s World",
+                            "url":  "https://jordosworld.com/healthy-chicken-alfredo-pasta/"
+                        },
+                        {
+                            "title":  "High Protein Chicken Alfredo Recipe - Fed \u0026 Fit",
+                            "url":  "https://fedandfit.com/high-protein-chicken-alfredo-recipe/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-032",
+        "name":  "Slow Cooker Pork Carnitas Tacos",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Carnitas â€” pork shoulder slow-cooked until tender and then crisped, traditionally from MichoacÃ¡n, Mexico â€” is a widely eaten Mexican-American taco filling across the US, common in home cooking, taquerias, and grocery deli counters alike.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless pork shoulder",
+                                "quantity":  3,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "orange juice",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "lime juice",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "cumin, oregano, garlic powder",
+                                "quantity":  2,
+                                "unit":  "tbsp total"
+                            },
+                            {
+                                "item":  "corn tortillas",
+                                "quantity":  12,
+                                "unit":  "tortillas (6-inch)"
+                            },
+                            {
+                                "item":  "onion and cilantro for topping",
+                                "quantity":  1,
+                                "unit":  "cup total"
+                            }
+                        ],
+        "prepNotes":  "Season pork shoulder with cumin, oregano, and garlic powder, then slow-cook with orange and lime juice on low for 7-8 hours until very tender. Shred the meat and broil or pan-sear briefly to crisp the edges. Serve in warmed corn tortillas topped with diced onion and cilantro.",
+        "nutrition":  {
+                          "calories":  430,
+                          "protein_g":  32,
+                          "carbs_g":  30,
+                          "fiber_g":  4,
+                          "sugar_g":  3,
+                          "fat_g":  19,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Costco",
+                                                  "Aldi",
+                                                  "Safeway"
+                                              ],
+                                   "notes":  "Pork shoulder and corn tortillas are nationwide staples; especially prominent in supermarkets with a strong Mexican foods section, common in the Southwest and across the US generally."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Recipe for Carnitas Tacos - CA Dept of Education Healthy Eating \u0026 Nutrition",
+                            "url":  "https://www.cde.ca.gov/ls/nu/he/recipe-carnitastacos.asp"
+                        },
+                        {
+                            "title":  "Pork Carnitas Tacos with Tomatillo Salsa - 100 Days of Real Food",
+                            "url":  "https://www.100daysofrealfood.com/recipe-pork-carnitas-tacos-with-tomatillo-salsa/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-033",
+        "name":  "New England Clam Chowder with Oyster Crackers",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "A defining New England regional dish dating back to colonial coastal cooking, this creamy potato-and-clam soup is a staple at seafood shacks and home kitchens throughout the Northeast and is sold nationwide in canned and restaurant form.",
+        "ingredients":  [
+                            {
+                                "item":  "chopped clams, canned (with juice)",
+                                "quantity":  2,
+                                "unit":  "cans (6.5 oz each)"
+                            },
+                            {
+                                "item":  "russet potatoes, diced",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "bacon, diced",
+                                "quantity":  4,
+                                "unit":  "slices"
+                            },
+                            {
+                                "item":  "onion, diced",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "half-and-half",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "flour",
+                                "quantity":  3,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "oyster crackers",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Cook bacon until crisp, remove, and sautÃ© onion in the rendered fat. Stir in flour to form a paste, then whisk in clam juice and add potatoes; simmer until potatoes are tender. Stir in clams and half-and-half, heat through without boiling, and top each bowl with crispy bacon and oyster crackers.",
+        "nutrition":  {
+                          "calories":  340,
+                          "protein_g":  16,
+                          "carbs_g":  30,
+                          "fiber_g":  2,
+                          "sugar_g":  4,
+                          "fat_g":  17,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "pescatarian"
+                                      ],
+                     "allergens":  [
+                                       "shellfish",
+                                       "dairy",
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Whole Foods",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Canned chopped clams and oyster crackers are sold nationwide; fresh clams are more readily available in coastal Northeast supermarkets but canned versions make this accessible everywhere."
+                               },
+        "sources":  [
+                        {
+                            "title":  "New England Clam Chowder nutrition: calories, carbs, GI, protein, fiber, fats",
+                            "url":  "https://foodstruct.com/food/new-england-clam-chowder"
+                        },
+                        {
+                            "title":  "Nutrition Facts for Soup, clam chowder, new england, canned, prepared with equal volume water",
+                            "url":  "https://tools.myfooddata.com/nutrition-facts/174555/wt1"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-034",
+        "name":  "Homemade Sloppy Joes",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Sloppy joes â€” ground beef simmered in a tangy tomato-based sauce and piled onto a soft bun â€” are a nostalgic American family and school-cafeteria dinner dating to the early-to-mid 20th century, still widely cooked as a quick, budget-friendly weeknight meal.",
+        "ingredients":  [
+                            {
+                                "item":  "ground beef, 90% lean",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "onion and bell pepper, diced",
+                                "quantity":  1.5,
+                                "unit":  "cups total"
+                            },
+                            {
+                                "item":  "tomato sauce",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "ketchup and Worcestershire sauce",
+                                "quantity":  0.33,
+                                "unit":  "cup total"
+                            },
+                            {
+                                "item":  "brown sugar",
+                                "quantity":  1,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "hamburger buns",
+                                "quantity":  6,
+                                "unit":  "buns"
+                            }
+                        ],
+        "prepNotes":  "Brown ground beef with onion and bell pepper, draining excess fat. Stir in tomato sauce, ketchup, Worcestershire sauce, and brown sugar; simmer 10-15 minutes until thickened. Spoon onto toasted hamburger buns.",
+        "nutrition":  {
+                          "calories":  400,
+                          "protein_g":  25,
+                          "carbs_g":  35,
+                          "fiber_g":  2,
+                          "sugar_g":  12,
+                          "fat_g":  18,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Ground beef, canned tomato sauce, and buns are inexpensive pantry staples found at every mainstream US grocery store; adding a side salad or vegetable rounds out the plate."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Healthy Sloppy Joe Recipe - The Spice Girl Kitchen",
+                            "url":  "https://thespicegirlkitchen.com/healthy-sloppy-joe-recipe/"
+                        },
+                        {
+                            "title":  "Homemade Sloppy Joes - Your Choice Nutrition",
+                            "url":  "https://yourchoicenutrition.com/homemade-sloppy-joes/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-035",
+        "name":  "Memphis-Style Dry Rub Baby Back Ribs",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Memphis barbecue is famous nationally for dry-rubbed ribs seasoned with a paprika-and-spice blend rather than a wet sauce; baby back ribs cooked this way are a defining regional BBQ style replicated in home kitchens, smokers, and grills across the US.",
+        "ingredients":  [
+                            {
+                                "item":  "baby back pork ribs",
+                                "quantity":  3,
+                                "unit":  "lbs (2 racks)"
+                            },
+                            {
+                                "item":  "paprika, brown sugar, garlic powder, chili powder for dry rub",
+                                "quantity":  0.33,
+                                "unit":  "cup total"
+                            },
+                            {
+                                "item":  "apple cider vinegar for spritzing",
+                                "quantity":  0.25,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Remove the membrane from the ribs and coat both sides generously with dry rub. Smoke or bake at 275Â°F for 3-3.5 hours, spritzing occasionally with apple cider vinegar, until the meat pulls back from the bone. Rest 10 minutes before slicing between the bones.",
+        "nutrition":  {
+                          "calories":  520,
+                          "protein_g":  38,
+                          "carbs_g":  14,
+                          "fiber_g":  1,
+                          "sugar_g":  9,
+                          "fat_g":  33,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central, cross-checked against published home-recipe nutrition panels"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Costco",
+                                                  "Kroger",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Baby back ribs are sold nationwide; pairing with a fiber-rich side like coleslaw or grilled corn rounds out the plate. Especially associated with Memphis, Tennessee but cooked nationwide."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Memphis Style Dry Rub Ribs - Hey Grill Hey",
+                            "url":  "https://heygrillhey.com/memphis-style-dry-rub-ribs/"
+                        },
+                        {
+                            "title":  "Memphis Style Dry Ribs (in the oven or on the grill) - Barefeet in the Kitchen",
+                            "url":  "https://barefeetinthekitchen.com/memphis-style-dry-ribs-recipe/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-036",
+        "name":  "Baked Ziti with Italian Sausage",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  8,
+        "popularityContext":  "Baked ziti is a widely cooked Italian-American baked pasta dish â€” tube pasta tossed with marinara, ricotta, and mozzarella and baked until bubbling â€” common at family dinners, potlucks, and casual Italian-American restaurants nationwide as a lasagna alternative that\u0027s faster to assemble.",
+        "ingredients":  [
+                            {
+                                "item":  "ziti pasta",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "Italian sausage, casings removed",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "marinara sauce",
+                                "quantity":  3.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "ricotta cheese",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded mozzarella",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "grated parmesan",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Boil ziti until al dente and drain. Brown Italian sausage in a skillet, breaking it into crumbles, then stir in marinara sauce. Combine pasta with half the meat sauce and the ricotta, spread in a baking dish, top with remaining sauce and the mozzarella and parmesan. Bake at 375Â°F for 25-30 minutes until bubbling and golden.",
+        "nutrition":  {
+                          "calories":  480,
+                          "protein_g":  26,
+                          "carbs_g":  48,
+                          "fiber_g":  3,
+                          "sugar_g":  7,
+                          "fat_g":  21,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Ziti, jarred marinara, Italian sausage, and ricotta are nationwide grocery staples; a popular make-ahead and freezer-friendly family dinner like lasagna."
+                               },
+        "sources":  [
+                        {
+                            "title":  "High Protein Baked Ziti - The Balanced Nutritionist",
+                            "url":  "https://thebalancednutritionist.com/high-protein-baked-ziti/"
+                        },
+                        {
+                            "title":  "Healthy Baked Ziti Recipe - Eat Yourself Skinny",
+                            "url":  "https://www.eatyourselfskinny.com/healthy-baked-ziti/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-037",
+        "name":  "Taco Bell Crunchwrap Supreme (Takeout)",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  1,
+        "popularityContext":  "The Crunchwrap Supreme is one of Taco Bell\u0027s signature menu items and among the most ordered Tex-Mex-style fast-food dinners in the US â€” a grilled flour tortilla folded around seasoned beef, nacho cheese, a crunchy tostada shell, lettuce, tomato, and sour cream.",
+        "ingredients":  [
+                            {
+                                "item":  "Taco Bell Crunchwrap Supreme",
+                                "quantity":  1,
+                                "unit":  "wrap"
+                            }
+                        ],
+        "prepNotes":  "This is a restaurant/takeout order, not a home recipe â€” ordered as a single Crunchwrap Supreme, commonly with a second item or side for a full dinner. Nutrition reflects Taco Bell\u0027s published values.",
+        "nutrition":  {
+                          "calories":  530,
+                          "protein_g":  16,
+                          "carbs_g":  71,
+                          "fiber_g":  6,
+                          "sugar_g":  5,
+                          "fat_g":  21,
+                          "method":  "Compiled from Taco Bell published nutrition facts cross-checked with Carb Manager restaurant database"
+                      },
+        "tags":  {
+                     "proteinForward":  false,
+                     "fiberRich":  true,
+                     "processingLevel":  "ultra-processed",
+                     "glycemicLoad":  "high",
+                     "irSuitability":  "needs-adaptation",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Taco Bell (nationwide quick-service chain)"
+                                              ],
+                                   "notes":  "Available at Taco Bell locations nationwide; often ordered alongside a side of seasoned beef or chicken to add protein for a more balanced meal."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Crunchwrap Supreme | Taco Bell",
+                            "url":  "https://www.tacobell.com/food/specialties/crunchwrap-supreme"
+                        },
+                        {
+                            "title":  "Carbs in Taco Bell Crunch Wrap Supreme | Carb Manager",
+                            "url":  "https://www.carbmanager.com/food-detail/md:46746c4c9b44c34a98a5049c07a2886f/crunch-wrap-supreme"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-038",
+        "name":  "King Ranch Chicken Casserole",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  8,
+        "popularityContext":  "A Texas-born Tex-Mex casserole dating to mid-20th-century home cooking, layering shredded chicken, corn tortillas, a creamy Rotel-spiked sauce, and melted cheese; a widely cooked potluck and family dinner staple across Texas and the broader South and Southwest.",
+        "ingredients":  [
+                            {
+                                "item":  "cooked chicken, shredded (rotisserie works well)",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "corn tortillas",
+                                "quantity":  10,
+                                "unit":  "tortillas (6-inch)"
+                            },
+                            {
+                                "item":  "diced tomatoes with green chiles (Rotel)",
+                                "quantity":  1,
+                                "unit":  "can (10 oz)"
+                            },
+                            {
+                                "item":  "condensed cream of chicken soup",
+                                "quantity":  1,
+                                "unit":  "can (10.5 oz)"
+                            },
+                            {
+                                "item":  "onion and bell pepper, diced",
+                                "quantity":  1.5,
+                                "unit":  "cups total"
+                            },
+                            {
+                                "item":  "shredded cheddar and Monterey Jack cheese",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            }
+                        ],
+        "prepNotes":  "SautÃ© onion and bell pepper until softened. Mix with shredded chicken, Rotel, and cream of chicken soup. Layer torn corn tortillas, the chicken mixture, and cheese in a baking dish, repeating to fill, ending with cheese on top. Bake at 350Â°F for 30-35 minutes until bubbling and golden.",
+        "nutrition":  {
+                          "calories":  400,
+                          "protein_g":  26,
+                          "carbs_g":  28,
+                          "fiber_g":  3,
+                          "sugar_g":  4,
+                          "fat_g":  21,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central, cross-checked against published home-recipe nutrition panels"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "gluten_free"
+                                      ],
+                     "allergens":  [
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Rotel, canned soup, corn tortillas, and shredded cheese are nationwide grocery staples; using rotisserie chicken from the deli counter (Costco, Walmart) speeds up prep on a weeknight."
+                               },
+        "sources":  [
+                        {
+                            "title":  "King Ranch Casserole Recipe - Taste of Home",
+                            "url":  "https://www.tasteofhome.com/recipes/king-ranch-casserole/"
+                        },
+                        {
+                            "title":  "King Ranch Chicken Casserole - Eat This Much",
+                            "url":  "https://www.eatthismuch.com/calories/king-ranch-chicken-casserole-2599778"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-039",
+        "name":  "Garlic Shrimp Scampi over Linguine",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Shrimp scampi is a widely served Italian-American restaurant dish â€” shrimp sautÃ©ed in garlic, butter, white wine, and lemon, tossed with pasta â€” and a common quick weeknight dinner at home thanks to its short cook time and accessible ingredients.",
+        "ingredients":  [
+                            {
+                                "item":  "shrimp, peeled and deveined",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "linguine pasta",
+                                "quantity":  12,
+                                "unit":  "oz"
+                            },
+                            {
+                                "item":  "garlic, minced",
+                                "quantity":  5,
+                                "unit":  "cloves"
+                            },
+                            {
+                                "item":  "butter and olive oil",
+                                "quantity":  4,
+                                "unit":  "tbsp total"
+                            },
+                            {
+                                "item":  "white wine or chicken broth",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "lemon juice and parsley",
+                                "quantity":  3,
+                                "unit":  "tbsp total"
+                            }
+                        ],
+        "prepNotes":  "Cook linguine until al dente and reserve a little pasta water. SautÃ© garlic in butter and olive oil until fragrant, add shrimp and cook 2-3 minutes per side until just pink. Pour in wine or broth and lemon juice, simmer briefly, then toss with the cooked pasta and parsley, adding pasta water as needed to loosen the sauce.",
+        "nutrition":  {
+                          "calories":  480,
+                          "protein_g":  32,
+                          "carbs_g":  50,
+                          "fiber_g":  2,
+                          "sugar_g":  2,
+                          "fat_g":  16,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "pescatarian"
+                                      ],
+                     "allergens":  [
+                                       "shellfish",
+                                       "gluten",
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Costco",
+                                                  "Safeway",
+                                                  "Aldi"
+                                              ],
+                                   "notes":  "Frozen shrimp and linguine are nationwide staples; Trader Joe\u0027s and Costco frozen shrimp are common budget-friendly options for a quick 20-minute dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Garlic Shrimp Scampi Recipe - Inspired Taste",
+                            "url":  "https://www.inspiredtaste.net/38141/shrimp-scampi-recipe/"
+                        },
+                        {
+                            "title":  "Shrimp scampi pasta Nutrition - SnapCalorie",
+                            "url":  "https://www.snapcalorie.com/nutrition/shrimp_scampi_pasta_nutrition.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-040",
+        "name":  "Chicken and Andouille Sausage Gumbo over Rice",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Gumbo is a foundational Louisiana Creole dish built on a dark roux, the Cajun \u0027holy trinity,\u0027 chicken, andouille sausage, and okra, traditionally served over white rice; a dish with deep cultural roots in Louisiana that is now cooked and celebrated nationwide.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken thighs, cubed",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "andouille sausage, sliced",
+                                "quantity":  0.75,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "flour and oil for roux",
+                                "quantity":  0.33,
+                                "unit":  "cup each"
+                            },
+                            {
+                                "item":  "onion, celery, bell pepper, diced",
+                                "quantity":  2,
+                                "unit":  "cups total"
+                            },
+                            {
+                                "item":  "okra, sliced",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "chicken broth",
+                                "quantity":  5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "cooked white rice",
+                                "quantity":  3,
+                                "unit":  "cups"
+                            }
+                        ],
+        "prepNotes":  "Cook flour and oil over medium-low heat, stirring constantly, until the roux turns deep brown (15-20 minutes). Add the trinity vegetables and cook until softened, then whisk in broth gradually. Add chicken, sausage, and okra; simmer 45 minutes until chicken is tender. Serve ladled over rice.",
+        "nutrition":  {
+                          "calories":  520,
+                          "protein_g":  34,
+                          "carbs_g":  38,
+                          "fiber_g":  4,
+                          "sugar_g":  3,
+                          "fat_g":  26,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central, cross-checked against published home-recipe nutrition panels"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Safeway",
+                                                  "Aldi",
+                                                  "local Cajun/Creole grocers"
+                                              ],
+                                   "notes":  "Andouille sausage, okra (fresh or frozen), and the trinity vegetables are sold nationwide; especially abundant in Louisiana and Gulf Coast-region supermarkets."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Authentic Cajun Chicken and Sausage Gumbo - Lauren from Scratch",
+                            "url":  "https://laurenfromscratch.com/authentic-louisiana-cajun-chicken-and-sausage-gumbo/"
+                        },
+                        {
+                            "title":  "Classic Chicken and Sausage Gumbo - Family Food on the Table",
+                            "url":  "https://www.familyfoodonthetable.com/classic-chicken-and-sausage-gumbo/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-041",
+        "name":  "Ground Beef and Tater Tot Hotdish",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  6,
+        "popularityContext":  "Tater tot hotdish is a beloved Midwestern casserole â€” ground beef, mixed vegetables, and a creamy sauce topped with crispy tater tots and baked until golden â€” strongly associated with Minnesota and the upper Midwest church-potluck tradition, and a common family dinner nationwide.",
+        "ingredients":  [
+                            {
+                                "item":  "ground beef, 90% lean",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "frozen mixed vegetables (corn, peas, green beans)",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "condensed cream of mushroom soup",
+                                "quantity":  1,
+                                "unit":  "can (10.5 oz)"
+                            },
+                            {
+                                "item":  "milk",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "frozen tater tots",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "shredded cheddar cheese",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Brown ground beef and drain excess fat. Mix with mixed vegetables, soup, and milk, then spread in a baking dish. Top with a single layer of frozen tater tots and sprinkle with cheese. Bake at 375Â°F for 35-40 minutes until tots are golden and crisp.",
+        "nutrition":  {
+                          "calories":  430,
+                          "protein_g":  22,
+                          "carbs_g":  33,
+                          "fiber_g":  4,
+                          "sugar_g":  4,
+                          "fat_g":  24,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "moderate",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "moderate",
+                     "dietPatterns":  [
+
+                                      ],
+                     "allergens":  [
+                                       "dairy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Safeway",
+                                                  "Target"
+                                              ],
+                                   "notes":  "Frozen tater tots, mixed vegetables, and canned soup are nationwide freezer-and-pantry staples; especially iconic in Minnesota and the upper Midwest, where it\u0027s traditionally called \u0027hotdish.\u0027"
+                               },
+        "sources":  [
+                        {
+                            "title":  "Tater Tot Casserole - Calories and Nutrition Facts - Fitia",
+                            "url":  "https://fitia.app/calories-nutritional-information/tater-tot-casserole-52372/"
+                        },
+                        {
+                            "title":  "Tatertot hotdish Nutrition - SnapCalorie",
+                            "url":  "https://www.snapcalorie.com/nutrition/tatertot_hotdish_nutrition.html"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-042",
+        "name":  "Honey Garlic Baked Salmon with Green Beans",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A widely shared modern American weeknight dinner format pairing a sweet-savory honey-garlic glazed salmon with a simple green vegetable; reflects the rise of quick, high-protein one-pan dinners promoted heavily across US recipe blogs and meal-prep content.",
+        "ingredients":  [
+                            {
+                                "item":  "salmon fillets",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "honey",
+                                "quantity":  3,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "soy sauce",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "garlic, minced",
+                                "quantity":  4,
+                                "unit":  "cloves"
+                            },
+                            {
+                                "item":  "green beans, trimmed",
+                                "quantity":  4,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Whisk honey, soy sauce, and garlic into a glaze. Sear salmon skin-side up in olive oil for 3-4 minutes, flip, brush with the glaze, and cook another 3-4 minutes until just opaque, basting once more. Steam or sautÃ© green beans until tender-crisp and serve alongside.",
+        "nutrition":  {
+                          "calories":  400,
+                          "protein_g":  35,
+                          "carbs_g":  20,
+                          "fiber_g":  4,
+                          "sugar_g":  13,
+                          "fat_g":  19,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "pescatarian",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "fish",
+                                       "soy"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Whole Foods",
+                                                  "Trader Joe\u0027s",
+                                                  "Costco",
+                                                  "Kroger",
+                                                  "Walmart"
+                                              ],
+                                   "notes":  "Fresh or frozen salmon fillets are nationwide staples; frozen salmon at Costco or Trader Joe\u0027s is a budget-friendly option for this quick 20-minute dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Honey Garlic Salmon - Family Food on the Table",
+                            "url":  "https://www.familyfoodonthetable.com/honey-garlic-salmon/"
+                        },
+                        {
+                            "title":  "This Sweet-and-Savory Honey Garlic Salmon Is My New Weeknight Hero - Well Plated",
+                            "url":  "https://www.wellplated.com/honey-garlic-salmon/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-043",
+        "name":  "Turkey Meatballs with Zucchini Noodles",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A modern American adaptation of spaghetti and meatballs using spiralized zucchini (\u0027zoodles\u0027) instead of pasta, widely popularized by meal-prep and low-carb-leaning recipe blogs as a vegetable-forward weeknight dinner that still delivers the classic Italian-American flavor profile.",
+        "ingredients":  [
+                            {
+                                "item":  "ground turkey, 93% lean",
+                                "quantity":  1,
+                                "unit":  "lb"
+                            },
+                            {
+                                "item":  "breadcrumbs",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "egg",
+                                "quantity":  1,
+                                "unit":  "large"
+                            },
+                            {
+                                "item":  "zucchini, spiralized into noodles",
+                                "quantity":  4,
+                                "unit":  "cups (about 4 medium zucchini)"
+                            },
+                            {
+                                "item":  "marinara sauce",
+                                "quantity":  2,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "grated parmesan",
+                                "quantity":  0.33,
+                                "unit":  "cup"
+                            }
+                        ],
+        "prepNotes":  "Mix ground turkey, breadcrumbs, egg, and half the parmesan; shape into meatballs and bake at 400Â°F for 18-20 minutes or brown in a skillet. Simmer meatballs in marinara sauce for 10 minutes. SautÃ© zucchini noodles in a dry pan for 2-3 minutes until just tender (avoid overcooking to prevent excess water), then top with meatballs, sauce, and remaining parmesan.",
+        "nutrition":  {
+                          "calories":  380,
+                          "protein_g":  35,
+                          "carbs_g":  18,
+                          "fiber_g":  4,
+                          "sugar_g":  9,
+                          "fat_g":  19,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "low",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "low_carb",
+                                          "gluten_free"
+                                      ],
+                     "allergens":  [
+                                       "eggs",
+                                       "dairy",
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Trader Joe\u0027s",
+                                                  "Aldi",
+                                                  "Safeway"
+                                              ],
+                                   "notes":  "Ground turkey and zucchini are nationwide staples; pre-spiralized zucchini noodles are sold fresh or frozen at Trader Joe\u0027s, Walmart, and most major chains."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Zucchini Noodles with Turkey Meatballs - Damn Delicious",
+                            "url":  "https://damndelicious.net/2017/01/20/zucchini-noodles-with-turkey-meatballs/"
+                        },
+                        {
+                            "title":  "Zoodles and Meatballs (With Slow Cooker Turkey Meatballs) - Skinnytaste",
+                            "url":  "https://www.skinnytaste.com/zoodles-and-meatballs-zucchini-noodles/"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-044",
+        "name":  "Southwest Turkey Burgers with Sweet Potato Fries",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "Turkey burgers are a common American leaner alternative to beef burgers, and pairing them with oven-baked sweet potato fries instead of regular fries is a widely adopted home-cooking swap promoted by health-focused recipe sources including the American Heart Association.",
+        "ingredients":  [
+                            {
+                                "item":  "ground turkey, 93% lean",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "black beans, canned, drained and mashed",
+                                "quantity":  0.5,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "cumin, chili powder, garlic powder",
+                                "quantity":  1.5,
+                                "unit":  "tbsp total"
+                            },
+                            {
+                                "item":  "burger buns",
+                                "quantity":  4,
+                                "unit":  "buns"
+                            },
+                            {
+                                "item":  "sweet potatoes, cut into wedges",
+                                "quantity":  1.5,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Toss sweet potato wedges with olive oil, salt, and paprika; roast at 425Â°F for 25-30 minutes, flipping halfway, until crisp and tender. Mix ground turkey with mashed black beans and seasoning, form into patties, and grill or pan-sear 5-6 minutes per side until cooked through. Serve on buns alongside the sweet potato fries.",
+        "nutrition":  {
+                          "calories":  500,
+                          "protein_g":  38,
+                          "carbs_g":  46,
+                          "fiber_g":  7,
+                          "sugar_g":  8,
+                          "fat_g":  16,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central, cross-checked against American Heart Association recipe nutrition panel"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  true,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+                                       "gluten"
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Target",
+                                                  "Safeway",
+                                                  "Costco"
+                                              ],
+                                   "notes":  "Ground turkey, sweet potatoes, and black beans are nationwide grocery staples; a popular lighter swap on the classic burger-and-fries dinner."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Southwest Turkey Burger and Sweet Potato Fries | American Heart Association Recipes",
+                            "url":  "https://recipes.heart.org/en/recipes/southwest-turkey-burger-and-sweet-potato-fries"
+                        },
+                        {
+                            "title":  "Calories in Turkey Burger with Sweet Potato Fries - SparkRecipes",
+                            "url":  "https://recipes.sparkpeople.com/recipe-calories.asp?recipe=630280"
+                        }
+                    ]
+    },
+    {
+        "id":  "us-dinner-045",
+        "name":  "One-Pan Cajun Chicken and Rice Skillet",
+        "country":  "US",
+        "mealType":  "dinner",
+        "servings":  4,
+        "popularityContext":  "A modern American one-pan weeknight dinner combining Cajun-seasoned chicken breast with rice, bell peppers, and tomatoes cooked together in a single skillet; widely featured across US recipe blogs and meal-prep content as an easy, minimal-cleanup family dinner.",
+        "ingredients":  [
+                            {
+                                "item":  "boneless chicken breast, cubed",
+                                "quantity":  1.25,
+                                "unit":  "lbs"
+                            },
+                            {
+                                "item":  "long-grain rice, uncooked",
+                                "quantity":  1,
+                                "unit":  "cup"
+                            },
+                            {
+                                "item":  "bell peppers, diced",
+                                "quantity":  1.5,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "diced tomatoes, canned",
+                                "quantity":  1,
+                                "unit":  "can (14.5 oz)"
+                            },
+                            {
+                                "item":  "chicken broth",
+                                "quantity":  1.75,
+                                "unit":  "cups"
+                            },
+                            {
+                                "item":  "Cajun seasoning",
+                                "quantity":  1.5,
+                                "unit":  "tbsp"
+                            },
+                            {
+                                "item":  "olive oil",
+                                "quantity":  2,
+                                "unit":  "tbsp"
+                            }
+                        ],
+        "prepNotes":  "Season chicken with half the Cajun seasoning and sear in olive oil until browned; remove and set aside. SautÃ© bell peppers in the same skillet, then stir in rice, tomatoes, broth, and remaining seasoning. Return chicken to the skillet, cover, and simmer 18-20 minutes until rice is tender and liquid is absorbed.",
+        "nutrition":  {
+                          "calories":  440,
+                          "protein_g":  34,
+                          "carbs_g":  40,
+                          "fiber_g":  3,
+                          "sugar_g":  5,
+                          "fat_g":  13,
+                          "method":  "Calculated from ingredient composition via USDA FoodData Central"
+                      },
+        "tags":  {
+                     "proteinForward":  true,
+                     "fiberRich":  false,
+                     "processingLevel":  "minimal",
+                     "glycemicLoad":  "medium",
+                     "irSuitability":  "good",
+                     "dietPatterns":  [
+                                          "gluten_free",
+                                          "dairy_free"
+                                      ],
+                     "allergens":  [
+
+                                   ]
+                 },
+        "regionAvailability":  {
+                                   "stores":  [
+                                                  "Walmart",
+                                                  "Kroger",
+                                                  "Aldi",
+                                                  "Target",
+                                                  "Safeway",
+                                                  "Costco"
+                                              ],
+                                   "notes":  "Chicken breast, rice, canned tomatoes, and Cajun seasoning blends are nationwide grocery staples; a fast, low-cleanup weeknight dinner option."
+                               },
+        "sources":  [
+                        {
+                            "title":  "Award-Winning Louisiana Chicken \u0026 Sausage Gumbo Recipe (Cajun seasoning reference)",
+                            "url":  "https://epicchickenrecipes.com/gumbo-cookoff-winner-chicken-and-sausage-gumbo/"
+                        },
+                        {
+                            "title":  "Chicken Fajita - USDA Food and Nutrition Service (Cajun/Tex-Mex seasoning reference)",
+                            "url":  "https://fns-prod.azureedge.us/sites/default/files/resource-files/Chicken_Fajitas_25_Servings.pdf"
+                        }
+                    ]
+    }
+]

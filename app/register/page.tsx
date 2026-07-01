@@ -55,11 +55,15 @@ export default function RegisterPage() {
   async function handleAction(formData: FormData) {
     setError(null);
     startTransition(async () => {
-      const result = await registerAction(formData);
-      if (result?.error) {
-        setError(result.error);
-      } else if (result?.success) {
-        setSuccess(true);
+      try {
+        const result = await registerAction(formData);
+        if (result?.error) {
+          setError(result.error);
+        } else if (result?.success) {
+          setSuccess(true);
+        }
+      } catch {
+        setError("Something went wrong. Please try again.");
       }
     });
   }

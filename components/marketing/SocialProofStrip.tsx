@@ -32,7 +32,7 @@ export function SocialProofStrip() {
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-6 text-sm text-muted-foreground">
           <span className="flex items-center gap-1.5">
-            <span className="text-forest-500 font-bold">50+</span> evidence-based articles
+            <span className="text-forest-500 font-bold">Evidence-based</span> articles
           </span>
           <span className="text-border">|</span>
           <span className="flex items-center gap-1.5">

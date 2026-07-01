@@ -24,6 +24,7 @@ import type {
   CookingTime,
   CookingSkill,
   AgeRange,
+  SafetyFlag,
 } from "@/lib/quiz/types";
 
 // ---------------------------------------------------------------------------
@@ -39,6 +40,7 @@ type QuizAction =
   | { type: "SET_COOKING_TIME"; payload: CookingTime }
   | { type: "SET_COOKING_SKILL"; payload: CookingSkill }
   | { type: "SET_AGE"; payload: AgeRange }
+  | { type: "TOGGLE_SAFETY_FLAG"; payload: SafetyFlag }
   | { type: "SET_STEP"; payload: QuizStep }
   | { type: "NEXT_STEP" }
   | { type: "PREV_STEP" };
@@ -59,6 +61,7 @@ const initialAnswers: QuizAnswers = {
   cookingTime: null,
   cookingSkill: null,
   ageRange: null,
+  safetyFlags: [],
   email: null,
 };
 
@@ -147,11 +150,23 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
         answers: { ...state.answers, ageRange: action.payload },
       };
 
+    case "TOGGLE_SAFETY_FLAG": {
+      const flag = action.payload;
+      const current = state.answers.safetyFlags;
+      const next = current.includes(flag)
+        ? current.filter((f) => f !== flag)
+        : [...current, flag];
+      return {
+        ...state,
+        answers: { ...state.answers, safetyFlags: next },
+      };
+    }
+
     case "SET_STEP":
       return { ...state, step: action.payload, direction: 1 };
 
     case "NEXT_STEP": {
-      const next = Math.min(state.step + 1, 8) as QuizStep;
+      const next = Math.min(state.step + 1, 9) as QuizStep;
       return { ...state, step: next, direction: 1 };
     }
 
@@ -783,21 +798,64 @@ function Step7Age({ state, dispatch }: StepProps) {
   );
 }
 
-interface Step8EmailProps extends StepProps {
+const SAFETY_FLAGS: Array<{ value: SafetyFlag; label: string }> = [
+  { value: "type1_diabetes", label: "I have type 1 diabetes" },
+  { value: "pregnant", label: "I am pregnant" },
+  { value: "breastfeeding", label: "I am breastfeeding" },
+  { value: "kidney_disease", label: "I have kidney disease" },
+  { value: "advanced_liver_disease", label: "I have advanced liver disease" },
+  {
+    value: "eating_disorder_history",
+    label: "I have a history of eating disorders",
+  },
+  { value: "takes_insulin", label: "I take insulin" },
+  {
+    value: "hypoglycemia_risk_medication",
+    label: "I take medication that can cause low blood sugar (hypoglycaemia)",
+  },
+  { value: "under_18", label: "I am under 18" },
+];
+
+function Step8Safety({ state, dispatch }: StepProps) {
+  return (
+    <div className="space-y-3">
+      <p className="text-xs text-muted-foreground italic">
+        This helps us know when to recommend extra care. Select all that
+        apply — it&apos;s fine if none do.
+      </p>
+      <div className="grid grid-cols-1 gap-2">
+        {SAFETY_FLAGS.map((f) => (
+          <CheckCard
+            key={f.value}
+            checked={state.answers.safetyFlags.includes(f.value)}
+            onToggle={() =>
+              dispatch({ type: "TOGGLE_SAFETY_FLAG", payload: f.value })
+            }
+            label={f.label}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+interface Step9EmailProps extends StepProps {
   sessionId: string;
-  onSubmit: (email: string) => Promise<void>;
+  onSubmit: (email: string, marketingConsent: boolean) => Promise<void>;
   onSkip: () => void;
   isSubmitting: boolean;
 }
 
-function Step8Email({
+function Step9Email({
   state,
   dispatch,
   onSubmit,
   onSkip,
   isSubmitting,
-}: Step8EmailProps) {
+}: Step9EmailProps) {
   const [localEmail, setLocalEmail] = useState(state.answers.email ?? "");
+  // Marketing consent: unchecked by default — must be an explicit opt-in (GDPR/PECR/AU Spam Act)
+  const [marketingConsent, setMarketingConsent] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   async function handleSubmit(e: React.FormEvent) {
@@ -813,9 +871,8 @@ function Step8Email({
       setError("Please enter a valid email address.");
       return;
     }
-    // Sync to reducer before submitting (so session includes email)
     dispatch({ type: "SET_GOAL", payload: state.answers.goal ?? "just_learning" });
-    await onSubmit(trimmed);
+    await onSubmit(trimmed, marketingConsent);
   }
 
   return (
@@ -823,11 +880,12 @@ function Step8Email({
       <div className="text-center space-y-2">
         <div className="text-4xl">📬</div>
         <p className="text-sm text-muted-foreground">
-          Where should we send your recipe recommendations?
+          Enter your email to save your results and access your educational plan.
         </p>
       </div>
 
-      <form onSubmit={handleSubmit} className="space-y-3">
+      <form onSubmit={handleSubmit} className="space-y-4">
+        {/* Email field */}
         <div className="space-y-1.5">
           <label
             htmlFor="quiz-email"
@@ -857,6 +915,31 @@ function Step8Email({
           )}
         </div>
 
+        {/* Marketing consent checkbox — must be unchecked by default (GDPR Article 7 / AU Spam Act / CAN-SPAM) */}
+        <div className="rounded-xl border border-border bg-muted/30 p-4">
+          <label className="flex items-start gap-3 cursor-pointer">
+            <input
+              type="checkbox"
+              checked={marketingConsent}
+              onChange={(e) => setMarketingConsent(e.target.checked)}
+              className="mt-0.5 h-4 w-4 flex-shrink-0 rounded border-border accent-forest-600 cursor-pointer"
+              aria-describedby="marketing-consent-description"
+            />
+            <span className="text-sm text-foreground leading-snug">
+              I&apos;d like to receive educational emails from InsulinIQ about
+              metabolic health, nutrition habits, and future product updates. I
+              can unsubscribe at any time.
+            </span>
+          </label>
+          <p
+            id="marketing-consent-description"
+            className="mt-2 text-xs text-muted-foreground/70 pl-7"
+          >
+            Your quiz result is shown regardless of this choice. Marketing
+            emails are optional and separate from your quiz results.
+          </p>
+        </div>
+
         <button
           type="submit"
           disabled={isSubmitting}
@@ -867,7 +950,7 @@ function Step8Email({
             "disabled:opacity-60 disabled:cursor-not-allowed"
           )}
         >
-          {isSubmitting ? "Preparing your plan…" : "Send My Plan"}
+          {isSubmitting ? "Preparing your plan…" : "Show My Results"}
         </button>
       </form>
 
@@ -878,10 +961,14 @@ function Step8Email({
           disabled={isSubmitting}
           className="text-sm text-muted-foreground underline underline-offset-2 hover:text-foreground transition-colors disabled:opacity-50"
         >
-          Skip — show me my results
+          Skip — show me my results without saving
         </button>
         <p className="text-xs text-muted-foreground/70">
-          No spam. Your data is never sold.
+          We do not sell your data. See our{" "}
+          <a href="/legal/privacy" className="underline hover:text-muted-foreground transition-colors" target="_blank" rel="noopener noreferrer">
+            Privacy Policy
+          </a>
+          .
         </p>
       </div>
     </div>
@@ -914,6 +1001,8 @@ function canAdvance(state: QuizState): boolean {
     case 7:
       return answers.ageRange !== null;
     case 8:
+      return true; // Safety screening is optional by design — never blocks progress
+    case 9:
       return true; // Email step has its own internal validation
     default:
       return false;
@@ -957,6 +1046,11 @@ const STEP_CONFIG: Record<
     subheading: "Metabolic health looks different across life stages.",
   },
   8: {
+    heading: "A few safety questions",
+    subheading:
+      "This helps us know when to recommend extra care before any meal plan.",
+  },
+  9: {
     heading: "Your personalised plan is ready",
   },
 };
@@ -980,7 +1074,7 @@ export function QuizStepper() {
 
   const { step, answers } = state;
   const config = STEP_CONFIG[step];
-  const progress = ((step - 1) / 7) * 100; // 0% at step 1, 100% at step 8
+  const progress = ((step - 1) / 8) * 100; // 0% at step 1, 100% at step 9
 
   function handleNext() {
     if (!canAdvance(state)) return;
@@ -996,7 +1090,7 @@ export function QuizStepper() {
   // Determine slide direction based on step delta
   const direction = step >= prevStepRef.current ? 1 : -1;
 
-  async function handleEmailSubmit(email: string) {
+  async function handleEmailSubmit(email: string, marketingConsent: boolean) {
     setIsSubmitting(true);
     const updatedAnswers: QuizAnswers = { ...answers, email };
     try {
@@ -1004,6 +1098,7 @@ export function QuizStepper() {
         sessionId,
         answers: updatedAnswers,
         email,
+        marketingConsent,
       });
       if (result.success) {
         router.push(`/quiz/results?session=${result.profileId}`);
@@ -1054,7 +1149,7 @@ export function QuizStepper() {
         {/* Step counter */}
         <div className="px-6 pt-5 pb-2 flex items-center justify-between">
           <span className="text-xs text-muted-foreground font-medium">
-            Question {step} of 8
+            Question {step} of 9
           </span>
           <span className="text-xs text-muted-foreground">
             {Math.round(progress)}% complete
@@ -1091,8 +1186,9 @@ export function QuizStepper() {
               {step === 5 && <Step5Allergens state={state} dispatch={dispatch} />}
               {step === 6 && <Step6Cooking state={state} dispatch={dispatch} />}
               {step === 7 && <Step7Age state={state} dispatch={dispatch} />}
-              {step === 8 && (
-                <Step8Email
+              {step === 8 && <Step8Safety state={state} dispatch={dispatch} />}
+              {step === 9 && (
+                <Step9Email
                   state={state}
                   dispatch={dispatch}
                   sessionId={sessionId}
@@ -1106,7 +1202,7 @@ export function QuizStepper() {
         </div>
 
         {/* Navigation footer — hidden on email step (has its own submit) */}
-        {step !== 8 && (
+        {step !== 9 && (
           <div className="border-t border-border px-6 py-4 flex items-center justify-between">
             {step > 1 ? (
               <button
@@ -1133,8 +1229,8 @@ export function QuizStepper() {
                   : "bg-muted-foreground/30 cursor-not-allowed"
               )}
             >
-              {step === 7 ? "Almost done" : "Continue"}
-              {step < 7 ? (
+              {step === 8 ? "Almost done" : "Continue"}
+              {step < 8 ? (
                 <ChevronRight className="h-4 w-4" />
               ) : (
                 <ArrowRight className="h-4 w-4" />

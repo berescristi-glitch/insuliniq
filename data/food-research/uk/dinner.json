@@ -1,0 +1,2073 @@
+[
+  {
+    "id": "uk-dinner-001",
+    "name": "Roast Chicken Dinner",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The roast dinner is eaten almost every Sunday across the UK and is considered a cornerstone of British food culture, traditionally built around a roasted meat with roast potatoes, vegetables and gravy. Roast chicken is one of the most common home-cooked versions, served nationwide as a weekly family meal.",
+    "ingredients": [
+      { "item": "chicken breast, roasted (skin-on)", "quantity": 150, "unit": "g" },
+      { "item": "roast potatoes", "quantity": 200, "unit": "g" },
+      { "item": "carrots", "quantity": 60, "unit": "g" },
+      { "item": "broccoli or green beans", "quantity": 60, "unit": "g" },
+      { "item": "Yorkshire pudding", "quantity": 40, "unit": "g" },
+      { "item": "chicken gravy", "quantity": 60, "unit": "ml" },
+      { "item": "vegetable oil for roasting", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Roast the chicken at 190-200C until juices run clear, basting occasionally. Parboil potatoes for 8-10 minutes before roasting in oil at high heat for a crisp exterior. Steam or boil carrots and greens separately. Gravy is traditionally made from roasting juices thickened with flour or cornflour and stock.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 38,
+      "carbs_g": 48,
+      "fiber_g": 6,
+      "sugar_g": 5,
+      "fat_g": 22,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for roast chicken, potatoes, vegetables and gravy; cross-checked against typical UK roast-chicken-dinner calorie ranges reported across nutrition tracking sources (480-620 kcal per serving depending on portion)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "All components are sold fresh and frozen in every major UK supermarket year-round; a weekly Sunday-lunch tradition nationwide."
+    },
+    "sources": [
+      { "title": "Traditional British foods overview - roast dinner as a weekly staple", "url": "https://www.insightvacations.com/blog/traditional-british-foods/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-002",
+    "name": "Shepherd's Pie",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Shepherd's pie is a traditional British comfort food made with minced lamb in a rich gravy topped with mashed potato, historically a way to use leftover roast lamb. It remains a staple on pub menus and in home cooking across the UK, especially in colder months.",
+    "ingredients": [
+      { "item": "lamb mince", "quantity": 150, "unit": "g" },
+      { "item": "potatoes, for mash", "quantity": 200, "unit": "g" },
+      { "item": "carrots", "quantity": 50, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "milk", "quantity": 30, "unit": "ml" },
+      { "item": "lamb or beef stock", "quantity": 100, "unit": "ml" },
+      { "item": "tomato puree", "quantity": 10, "unit": "g" },
+      { "item": "Worcestershire sauce", "quantity": 5, "unit": "ml" },
+      { "item": "plain flour", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Brown the lamb mince with softened onion and carrot, stir in tomato puree and Worcestershire sauce, then add stock and simmer covered for about 40 minutes until rich and thickened. Top with buttery mashed potato, ruffle with a fork, and bake at around 200C for 20-25 minutes until golden on top.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 28,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 7,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for lamb mince, potato and vegetables; cross-checked against Tesco Real Food's classic shepherd's pie recipe method and typical home-style shepherd's pie nutrition figures (360-540 kcal range)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A widely cooked home staple and pub menu item; lamb mince is sold in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Classic Shepherd's Pie Recipe - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/classic-shepherds-pie.html" },
+      { "title": "Minted Lamb Shepherd's Pie - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/minted-lamb-shepherds-pie.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-003",
+    "name": "Cottage Pie",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Cottage pie is the beef-mince counterpart to shepherd's pie and is one of the most common British family dinners, valued as an affordable, hearty way to feed a family using inexpensive minced beef. It appears regularly in supermarket ready-meal ranges and home-cooking rotations.",
+    "ingredients": [
+      { "item": "beef mince (5% fat)", "quantity": 150, "unit": "g" },
+      { "item": "potatoes, for mash", "quantity": 200, "unit": "g" },
+      { "item": "carrot", "quantity": 50, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "tomato puree", "quantity": 10, "unit": "g" },
+      { "item": "beef stock", "quantity": 100, "unit": "ml" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "milk", "quantity": 30, "unit": "ml" },
+      { "item": "plain flour or cornflour", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Soften diced onion and carrot in oil, brown the beef mince, then stir in tomato puree, stock and a little flour to thicken; simmer for 30-40 minutes. Top with mashed potato and bake until golden, typically 20-25 minutes at 200C.",
+    "nutrition": {
+      "calories": 500,
+      "protein_g": 30,
+      "carbs_g": 42,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 23,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for beef mince, potato and vegetables; cross-checked directly against a BBC Good Food cottage pie nutrition panel (approx. 496 kcal, 29.8g protein, 42.2g carbs, 23.2g fat per serving)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "One of the most common British family dinners; beef mince is sold in every major UK supermarket and cottage pie is a common ready-meal category."
+    },
+    "sources": [
+      { "title": "Calories in Cottage Pie by BBC Good Food - nutrition facts panel", "url": "https://www.mynetdiary.com/food/calories-in-cottage-pie-by-bbc-good-food-serving-23662628-0.html" },
+      { "title": "Cottage Pie from BBC Good Food", "url": "https://recipes.sparkpeople.com/recipe-detail.asp?recipe=2356561" }
+    ]
+  },
+  {
+    "id": "uk-dinner-004",
+    "name": "Fish and Chips",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Fish and chips is widely regarded as Britain's most iconic national dish, traditionally made with battered cod or haddock and chunky fried chips, often served with mushy peas. It is sold at roughly 10,500 fish and chip shops across the UK and remains a Friday-night staple.",
+    "ingredients": [
+      { "item": "cod fillet", "quantity": 150, "unit": "g" },
+      { "item": "plain flour (batter)", "quantity": 40, "unit": "g" },
+      { "item": "sparkling water or beer (batter)", "quantity": 60, "unit": "ml" },
+      { "item": "potatoes, cut into chips", "quantity": 250, "unit": "g" },
+      { "item": "vegetable oil for frying", "quantity": 15, "unit": "ml" },
+      { "item": "mushy peas", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Cut potatoes into thick chips, rinse to remove excess starch, and fry in two stages for crispness. Dust the fish in flour, dip into a cold, fizzy batter, and deep-fry until golden, about 4 minutes. Serve immediately with chips, salt, vinegar and mushy peas.",
+    "nutrition": {
+      "calories": 780,
+      "protein_g": 38,
+      "carbs_g": 78,
+      "fiber_g": 7,
+      "sugar_g": 2,
+      "fat_g": 36,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for battered white fish and deep-fried chips; cross-checked against typical UK chip-shop nutrition figures for a home-cooked (not supersized takeaway) portion."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Iceland", "Morrisons"],
+      "notes": "Frozen and chilled versions of all components are sold nationwide; also widely available from independent fish and chip shops."
+    },
+    "sources": [
+      { "title": "Traditional British foods - fish and chips as Britain's national dish", "url": "https://www.insightvacations.com/blog/traditional-british-foods/" },
+      { "title": "Fish and Chips Recipe - Jamie Oliver", "url": "https://jamieolivereats.uk/fish-and-chips/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-005",
+    "name": "Bangers and Mash with Onion Gravy",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Bangers and mash is a classic British comfort dish of pork sausages served with creamy mashed potato and onion gravy, a staple of pub menus and home cooking throughout the UK. It is simple, affordable, and commonly served with peas as a quick weeknight family dinner.",
+    "ingredients": [
+      { "item": "pork sausages", "quantity": 150, "unit": "g" },
+      { "item": "potatoes, for mash", "quantity": 200, "unit": "g" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "milk", "quantity": 30, "unit": "ml" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "beef or vegetable stock", "quantity": 100, "unit": "ml" },
+      { "item": "plain flour (gravy thickener)", "quantity": 10, "unit": "g" },
+      { "item": "peas", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Roast or grill the sausages until browned and cooked through, around 20-25 minutes. Soften sliced onions in the pan drippings, add stock and a little flour, simmering until thickened. Boil and mash the potatoes with butter and milk, then serve sausages and gravy over mash with peas.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 24,
+      "carbs_g": 42,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 32,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pork sausages, potato and onion gravy; cross-checked against BBC Food's bangers and mash recipe method and typical UK pork sausage fat content."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "Pork sausages and potatoes are sold in every UK supermarket; this is one of the most common British home dinners."
+    },
+    "sources": [
+      { "title": "BBC Food - Bangers and mash with onion gravy and peas (archived recipe)", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/bangers_and_mash_with_80175.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-006",
+    "name": "Toad in the Hole",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Toad in the hole is a traditional British dish of sausages baked in a crisp Yorkshire-pudding-style batter, usually served with onion gravy, mash and vegetables. It is a well-known home-cooked nostalgia dish seen on pub and all-day-breakfast-style menus across the UK.",
+    "ingredients": [
+      { "item": "pork sausages", "quantity": 120, "unit": "g" },
+      { "item": "plain flour", "quantity": 50, "unit": "g" },
+      { "item": "egg", "quantity": 50, "unit": "g" },
+      { "item": "milk", "quantity": 100, "unit": "ml" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "onion gravy", "quantity": 60, "unit": "ml" }
+    ],
+    "prepNotes": "Brown the sausages in a hot, oiled tin in the oven for about 10 minutes, then pour over a batter made from flour, egg and milk whisked together. Bake at around 220C for 20-25 minutes until the batter is puffed and golden. Serve with onion gravy.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 24,
+      "carbs_g": 36,
+      "fiber_g": 2,
+      "sugar_g": 4,
+      "fat_g": 30,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pork sausages, Yorkshire-pudding-style batter and onion gravy; cross-checked against Sainsbury's Magazine toad-in-the-hole recipe methods."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A nostalgic British home-cooked dinner; all ingredients are widely stocked in UK supermarkets."
+    },
+    "sources": [
+      { "title": "Frying pan sage and onion toad in the hole - Sainsbury's Magazine", "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/frying-pan-toad-in-the-hole" },
+      { "title": "All-day-breakfast toad-in-the-hole - Sainsbury's Magazine", "url": "https://www.sainsburysmagazine.co.uk/recipes/breakfasts/all-day-breakfast-toad-in-the-hole" }
+    ]
+  },
+  {
+    "id": "uk-dinner-007",
+    "name": "Beef and Ale Stew with Dumplings",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Beef and ale stew is a traditional British winter dish, slow-cooked with root vegetables and a dark ale-based gravy, often finished with suet dumplings. It is a classic pub and home-cooking dish associated with cold-weather comfort eating across the UK.",
+    "ingredients": [
+      { "item": "stewing beef", "quantity": 150, "unit": "g" },
+      { "item": "carrots", "quantity": 60, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "celery", "quantity": 30, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "ale (dark beer)", "quantity": 80, "unit": "ml" },
+      { "item": "beef stock", "quantity": 100, "unit": "ml" },
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "tomato puree", "quantity": 5, "unit": "g" },
+      { "item": "suet", "quantity": 15, "unit": "g" },
+      { "item": "self-raising flour (dumplings)", "quantity": 25, "unit": "g" }
+    ],
+    "prepNotes": "Brown the beef in batches, then soften onion, carrot and celery in the same pan, stirring in tomato puree and flour before adding the ale and stock. Simmer covered in a low oven (around 160C) for 1.5-2 hours until tender. Suet dumplings are added for the last 20-25 minutes to steam through.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 36,
+      "carbs_g": 34,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 28,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for stewing beef, root vegetables, ale-based gravy and suet dumplings; cross-checked against the BBC Food beef and ale stew with dumplings recipe method."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "A classic British winter dish; stewing beef and ale are widely stocked in all major UK supermarkets."
+    },
+    "sources": [
+      { "title": "BBC Food - Beef and ale stew with dumplings (archived recipe)", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/beefandalestewwithdu_90180.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-008",
+    "name": "Steak and Kidney Pie",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Steak and kidney pie is a classic British dish combining slow-cooked beef and kidney in a rich gravy, encased in pastry, traditionally served as a hearty pub lunch or Sunday dinner. It has long been considered one of the quintessential dishes of British pie culture.",
+    "ingredients": [
+      { "item": "stewing beef", "quantity": 120, "unit": "g" },
+      { "item": "ox or lamb kidney", "quantity": 50, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "beef stock", "quantity": 80, "unit": "ml" },
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "Worcestershire sauce", "quantity": 5, "unit": "ml" },
+      { "item": "shortcrust or puff pastry", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Brown the beef and kidney separately, then soften the onion, return the meat to the pan, dust with flour, and add stock; simmer for around 1.5 hours until tender, then season with Worcestershire sauce and cool. Top a pie dish of the filling with rolled pastry and bake at around 200C for 25-35 minutes until golden.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 32,
+      "carbs_g": 34,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 30,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for stewing beef, kidney and shortcrust pastry; cross-checked against the BBC Food classic steak and kidney pie recipe method."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons", "Waitrose"],
+      "notes": "A traditional pub and home-cooked pie; beef, kidney and pastry are sold in major UK supermarkets."
+    },
+    "sources": [
+      { "title": "BBC Food - Steak and kidney pie (archived recipe)", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/steakandkidneypie_73308.html" },
+      { "title": "The ultimate makeover: Steak & kidney pie - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/the-ultimate-makeover-steak-kidney-pie/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-009",
+    "name": "Turkey Mince Chilli with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Turkey mince chilli is a widely promoted leaner alternative to beef chilli con carne in UK home cooking media, appearing on BBC Good Food and British Turkey's recipe site. It's a popular weeknight family meal due to turkey mince's wide availability and lower fat content.",
+    "ingredients": [
+      { "item": "turkey mince (5% fat)", "quantity": 125, "unit": "g" },
+      { "item": "tinned chopped tomatoes", "quantity": 150, "unit": "g" },
+      { "item": "tinned kidney beans, drained", "quantity": 75, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "red pepper", "quantity": 50, "unit": "g" },
+      { "item": "chilli powder, cumin, paprika", "quantity": 1, "unit": "tsp each" },
+      { "item": "tomato puree", "quantity": 15, "unit": "g" },
+      { "item": "basmati or long grain rice, dry", "quantity": 60, "unit": "g" },
+      { "item": "rapeseed oil", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Brown the turkey mince, then soften onion, garlic and pepper before adding spices, tomatoes, puree and beans. Simmer 20-25 minutes until thickened, then serve over boiled rice. Adding a little oil prevents sticking since turkey mince releases less fat than beef.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 38,
+      "carbs_g": 58,
+      "fiber_g": 9,
+      "sugar_g": 10,
+      "fat_g": 9,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for turkey mince, kidney beans and basmati rice, cross-checked against BBC Good Food's turkey chilli recipe and British Turkey's official turkey chilli recipe."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi"],
+      "notes": "Turkey mince is sold year-round in all major UK supermarkets and is commonly promoted as a leaner mince option."
+    },
+    "sources": [
+      { "title": "Turkey chilli - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/turkey-chilli/" },
+      { "title": "Turkey Chilli - British Turkey", "url": "https://britishturkey.org.uk/recipes/turkey-chilli/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-010",
+    "name": "Beef Mince Bowl with Rice and Vegetables",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Beef mince and rice bowl-style dinners are a staple budget weeknight meal in UK households, championed by the NHS Healthier Families recipe hub as an affordable, family-friendly comfort classic. Mince is the UK's most-bought fresh beef product.",
+    "ingredients": [
+      { "item": "beef mince (10-12% fat)", "quantity": 125, "unit": "g" },
+      { "item": "basmati or long grain rice, dry", "quantity": 60, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "carrot", "quantity": 50, "unit": "g" },
+      { "item": "pepper", "quantity": 50, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "tinned chopped tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "curry powder or mixed herbs", "quantity": 2, "unit": "tsp" },
+      { "item": "beef stock", "quantity": 100, "unit": "ml" },
+      { "item": "rapeseed oil", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Brown mince thoroughly and drain excess fat, then soften vegetables and combine with stock and tomatoes; simmer until rice is cooked separately and vegetables are tender, about 20 minutes. Swap vegetables seasonally for variety.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 34,
+      "carbs_g": 60,
+      "fiber_g": 6,
+      "sugar_g": 11,
+      "fat_g": 16,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for beef mince, basmati rice and mixed vegetables, cross-checked against the NHS Healthier Families 'Brilliant Beef Curry' recipe (384 kcal, 22g protein, 67g carbs, 5g fibre using lean braising steak)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "One of the most common British home dinners; beef mince is the UK's best-selling fresh beef product."
+    },
+    "sources": [
+      { "title": "Brilliant Beef Curry - Recipes - Healthier Families - NHS", "url": "https://www.nhs.uk/healthier-families/recipes/brilliant-beef-curry/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-011",
+    "name": "Chicken Traybake with Vegetables",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "One-pan chicken traybakes are one of the most searched and cooked weeknight dinners in the UK, popularised by BBC Good Food, Pinch of Nom and council healthy-eating campaigns for being low-effort, low-washing-up family meals.",
+    "ingredients": [
+      { "item": "chicken thighs, skin-on, bone-in", "quantity": 220, "unit": "g" },
+      { "item": "baby new potatoes", "quantity": 200, "unit": "g" },
+      { "item": "red pepper", "quantity": 75, "unit": "g" },
+      { "item": "courgette", "quantity": 75, "unit": "g" },
+      { "item": "red onion", "quantity": 50, "unit": "g" },
+      { "item": "olive oil", "quantity": 15, "unit": "ml" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "lemon", "quantity": 0.5, "unit": "whole" },
+      { "item": "mixed herbs or Mediterranean seasoning", "quantity": 1, "unit": "tsp" }
+    ],
+    "prepNotes": "Toss potatoes and chicken in oil and seasoning first since they need the longest roast time (around 35-40 minutes at 200C), then add softer vegetables like courgette and pepper halfway through. Squeeze lemon juice over before serving.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 38,
+      "carbs_g": 35,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 28,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken thigh (skin-on), new potatoes and roasted vegetables, cross-checked against Pinch of Nom's Chicken and Vegetable Traybake and Gateshead Council's Spanish chicken and vegetable traybake recipe."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "mediterranean"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "A widely cooked low-effort one-pan weeknight dinner; all ingredients are available year-round at every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Spanish chicken and vegetable tray bake - Gateshead Council", "url": "https://www.gateshead.gov.uk/article/16272/Spanish-chicken-and-vegetable-tray-bake" },
+      { "title": "Chicken and Vegetable Traybake - Pinch Of Nom", "url": "https://pinchofnom.com/recipes/chicken-and-vegetable-traybake/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-012",
+    "name": "Turkey Burger with Salad",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Turkey burgers are sold widely as a fresh product by major UK supermarkets and are frequently featured in Sainsbury's Magazine recipes as a leaner alternative to beef burgers, often served with salad as a common quick, lighter weeknight dinner.",
+    "ingredients": [
+      { "item": "turkey burger patties", "quantity": 230, "unit": "g" },
+      { "item": "mixed salad leaves", "quantity": 60, "unit": "g" },
+      { "item": "cucumber", "quantity": 50, "unit": "g" },
+      { "item": "tomato", "quantity": 80, "unit": "g" },
+      { "item": "red onion", "quantity": 20, "unit": "g" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" },
+      { "item": "wholemeal burger bun", "quantity": 60, "unit": "g" },
+      { "item": "balsamic or light dressing", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Grill or pan-fry turkey burgers until cooked through with no pink remaining, turning once. Serve over a generous mixed salad with a light dressing for a lighter meal, or in a wholemeal bun for a heartier version.",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 41,
+      "carbs_g": 18,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 17,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for turkey burger patties and fresh salad vegetables, cross-checked against Sainsbury's British Fresh Turkey Burgers nutrition panel (171 kcal, 24g protein, 6.5g fat per 115g burger)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Sainsbury's", "Tesco", "Asda", "Aldi"],
+      "notes": "Fresh turkey burgers are sold in the chiller aisle of every major UK supermarket as a leaner alternative to beef burgers."
+    },
+    "sources": [
+      { "title": "Calories in Sainsbury's Turkey Burgers and Nutrition Facts", "url": "https://www.fatsecret.co.uk/calories-nutrition/sainsburys/turkey-burgers/1-burger" },
+      { "title": "Guacamole turkey burgers recipe - Sainsbury's Magazine", "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/guacamole-turkey-burgers" }
+    ]
+  },
+  {
+    "id": "uk-dinner-013",
+    "name": "Chicken Tikka Masala with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Chicken tikka masala is widely regarded as Britain's most iconic curry-house dish and is often called a British national dish, served in virtually every Indian restaurant and curry house across the UK as well as a supermarket ready-meal staple.",
+    "ingredients": [
+      { "item": "chicken breast", "quantity": 150, "unit": "g" },
+      { "item": "basmati rice, dry", "quantity": 75, "unit": "g" },
+      { "item": "natural yoghurt", "quantity": 40, "unit": "g" },
+      { "item": "tinned tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "single cream", "quantity": 30, "unit": "ml" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "garlic and ginger", "quantity": 1, "unit": "tsp each" },
+      { "item": "garam masala, turmeric, paprika", "quantity": 2, "unit": "tsp" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Marinate chicken in yoghurt and spices for at least 30 minutes, then grill or pan-sear before simmering in a tomato-cream sauce with onions and spices for 15-20 minutes. Using yoghurt for most of the sauce body keeps it lighter than restaurant versions.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 42,
+      "carbs_g": 62,
+      "fiber_g": 4,
+      "sugar_g": 9,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken breast, basmati rice, cream and tomato-based sauce, cross-checked against BBC Food's low-fat chicken tikka masala recipe and Tesco's Chicken Tikka Masala ready meal nutrition panel (511 kcal per 350g pack, 39g protein, 32g fat)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Sold in virtually every UK curry house and as a ready meal in every major supermarket; consistently named the UK's favourite curry."
+    },
+    "sources": [
+      { "title": "BBC Food - Low-fat chicken tikka masala", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/low-fat_chicken_tikka_04689.html" },
+      { "title": "Tesco Calorie Controlled Chicken Tikka Masala & Pilau Rice", "url": "https://www.tesco.com/groceries/en-GB/products/312216677" }
+    ]
+  },
+  {
+    "id": "uk-dinner-014",
+    "name": "Chicken Korma with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Chicken korma is one of the most popular mild curries ordered in UK curry houses and Indian takeaways, especially favoured by those who prefer a creamy, less spicy option, and is a frequent BBC Food recipe subject for lighter home versions.",
+    "ingredients": [
+      { "item": "chicken breast", "quantity": 150, "unit": "g" },
+      { "item": "basmati rice, dry", "quantity": 75, "unit": "g" },
+      { "item": "natural yoghurt", "quantity": 50, "unit": "g" },
+      { "item": "coconut cream or single cream", "quantity": 30, "unit": "ml" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "ground almonds", "quantity": 10, "unit": "g" },
+      { "item": "garlic and ginger", "quantity": 1, "unit": "tsp each" },
+      { "item": "mild curry spices", "quantity": 2, "unit": "tsp" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Marinate chicken in yoghurt and spices, then cook gently with softened onions, ground almonds and cream on a low simmer for 15-20 minutes so the sauce doesn't split. Korma relies on richness from nuts and cream rather than chilli heat. Serve over basmati rice.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 39,
+      "carbs_g": 60,
+      "fiber_g": 4,
+      "sugar_g": 8,
+      "fat_g": 26,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken breast, basmati rice, cream and ground almonds, cross-checked against BBC Food's healthy chicken korma recipe (294 kcal per portion without rice)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy", "nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose"],
+      "notes": "A long-standing fixture of British curry-night culture, served in curry houses nationwide and as a supermarket ready meal."
+    },
+    "sources": [
+      { "title": "BBC Food - Chicken korma", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/chicken_korma_16352.html" },
+      { "title": "Chicken korma - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/light-chicken-korma/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-015",
+    "name": "Lamb Rogan Josh with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Lamb rogan josh is a curry-house menu staple across the UK, valued for its rich, tomato-and-spice based sauce, and is a recipe BBC Food has published as a lower-calorie home-cookable version of the restaurant classic.",
+    "ingredients": [
+      { "item": "diced lamb shoulder or leg", "quantity": 150, "unit": "g" },
+      { "item": "basmati rice, dry", "quantity": 75, "unit": "g" },
+      { "item": "tinned chopped tomatoes", "quantity": 150, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "garlic and ginger", "quantity": 1, "unit": "tsp each" },
+      { "item": "Kashmiri chilli powder or paprika", "quantity": 1, "unit": "tsp" },
+      { "item": "garam masala, cumin, coriander", "quantity": 2, "unit": "tsp" },
+      { "item": "natural yoghurt", "quantity": 20, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Brown the lamb pieces, then soften onions, garlic and ginger before adding spices, tomatoes and a splash of water; simmer covered for 45-60 minutes until tender. A spoon of yoghurt stirred in at the end adds creaminess without heavy cream.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 40,
+      "carbs_g": 58,
+      "fiber_g": 5,
+      "sugar_g": 9,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for diced lamb, basmati rice and tomato-spice sauce, cross-checked against BBC Food's lamb rogan josh recipe (280 kcal, 33g protein, 13g fat, 6g carbs per portion without rice)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Commonly ordered alongside tikka masala and korma as one of the UK's most familiar takeaway curries."
+    },
+    "sources": [
+      { "title": "BBC Food - Lamb rogan josh", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/lamb_rogan_josh_04376.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-016",
+    "name": "Dahl (Red Lentil Curry) with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Dahl is widely eaten in the UK both as an authentic South Asian home-cooked staple and as a popular curry-house side or vegetarian main, frequently featured as an easy, budget-friendly, plant-based weeknight recipe and a mainstream comfort food choice.",
+    "ingredients": [
+      { "item": "red lentils, dry", "quantity": 75, "unit": "g" },
+      { "item": "tinned tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "garlic and ginger", "quantity": 1, "unit": "tsp each" },
+      { "item": "turmeric, cumin, coriander", "quantity": 2, "unit": "tsp" },
+      { "item": "coconut milk", "quantity": 50, "unit": "ml" },
+      { "item": "vegetable stock or water", "quantity": 200, "unit": "ml" },
+      { "item": "basmati rice, dry", "quantity": 60, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "fresh coriander", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Rinse lentils, then simmer with stock, spices and tomatoes for 20-25 minutes until soft and thickened, stirring occasionally. Stir in coconut milk at the end for creaminess and finish with fresh coriander and a squeeze of lemon. Serve with rice.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 16,
+      "carbs_g": 68,
+      "fiber_g": 11,
+      "sugar_g": 7,
+      "fat_g": 11,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for red lentils, coconut milk and basmati rice, cross-checked against widely-published UK red lentil dahl recipe formulations (commonly 250-260 kcal per serving without rice, 10-13g protein, 12g fibre)."
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "Dried red lentils and coconut milk are sold in every major UK supermarket; a mainstream vegetarian and vegan curry-house and home staple."
+    },
+    "sources": [
+      { "title": "Red lentil dahl recipe discussion referencing BBC Good Food", "url": "https://www.mumsnet.com/talk/food_and_recipes/5411135-red-lentil-dahl-recipe-on-the-bbc-website" }
+    ]
+  },
+  {
+    "id": "uk-dinner-017",
+    "name": "Sweet and Sour Chicken with Egg Fried Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Sweet and sour chicken is one of the most ordered dishes from Chinese takeaways across the UK, typically battered chicken in a bright, tangy sauce served alongside egg fried rice. It is a Friday-night fakeaway staple, with home-cook versions widely published as a lower-fat alternative to takeaway.",
+    "ingredients": [
+      { "item": "chicken breast", "quantity": 150, "unit": "g" },
+      { "item": "cornflour", "quantity": 20, "unit": "g" },
+      { "item": "egg (for batter)", "quantity": 50, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 15, "unit": "ml" },
+      { "item": "red pepper", "quantity": 50, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "pineapple chunks in juice, drained", "quantity": 60, "unit": "g" },
+      { "item": "rice vinegar", "quantity": 15, "unit": "ml" },
+      { "item": "ketchup", "quantity": 20, "unit": "g" },
+      { "item": "light soy sauce", "quantity": 10, "unit": "ml" },
+      { "item": "caster sugar", "quantity": 15, "unit": "g" },
+      { "item": "cooked long-grain rice", "quantity": 180, "unit": "g" }
+    ],
+    "prepNotes": "Dice chicken, coat in cornflour and egg, and shallow-fry or air-fry until golden, then toss through a sauce of ketchup, vinegar, soy and sugar simmered with peppers, onion and pineapple until glossy. Serve immediately over rice so the batter doesn't go soft.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 34,
+      "carbs_g": 78,
+      "fiber_g": 3,
+      "sugar_g": 22,
+      "fat_g": 12,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken breast, rice and a ketchup-vinegar-sugar sauce, cross-checked against Tesco's Sweet & Sour Chicken & Egg Fried Rice 400g ready meal panel and Tesco Real Food's home recipe."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs", "soya"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi"],
+      "notes": "A Chinese-British takeaway staple found on virtually every UK takeaway menu and as a supermarket ready meal."
+    },
+    "sources": [
+      { "title": "Sweet And Sour Chicken Recipe - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/sweet-and-sour-chicken.html" },
+      { "title": "Tesco Finest Sweet & Sour Chicken & Egg Fried Rice 400G", "url": "https://www.tesco.com/groceries/en-GB/products/312100065" }
+    ]
+  },
+  {
+    "id": "uk-dinner-018",
+    "name": "Chicken Chow Mein",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Chow mein is a standard Chinese-British takeaway noodle dish, found on virtually every UK takeaway menu, and is commonly recreated at home as a quick midweek fakeaway with stir-fried egg noodles, chicken, beansprouts and vegetables in a soy-based sauce.",
+    "ingredients": [
+      { "item": "chicken breast", "quantity": 120, "unit": "g" },
+      { "item": "medium egg noodles, dry", "quantity": 75, "unit": "g" },
+      { "item": "beansprouts", "quantity": 50, "unit": "g" },
+      { "item": "carrot, julienned", "quantity": 30, "unit": "g" },
+      { "item": "red pepper", "quantity": 30, "unit": "g" },
+      { "item": "spring onion", "quantity": 20, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "light soy sauce", "quantity": 20, "unit": "ml" },
+      { "item": "sesame oil", "quantity": 5, "unit": "ml" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "Chinese five spice", "quantity": 1, "unit": "pinch" }
+    ],
+    "prepNotes": "Boil and drain noodles, tossing in sesame oil to prevent sticking. Marinate chicken briefly in soy and five spice, then stir-fry hot and fast in a wok before adding vegetables and noodles, tossing together with the sauce. High heat replicates the smoky flavour of takeaway versions.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 32,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 12,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for egg noodles, chicken breast and stir-fry vegetables, cross-checked against Tesco Real Food's chicken chow mein recipe and typical UK takeaway-style chow mein ready meal nutrition panels."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soya", "eggs", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "Found on virtually every UK Chinese takeaway menu and a frequent home fakeaway recipe."
+    },
+    "sources": [
+      { "title": "Chow mein - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/chow-mein/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-019",
+    "name": "Beef in Black Bean Sauce with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A classic Cantonese-style dish that became a UK takeaway menu fixture, pairing stir-fried beef strips with peppers and onions in a savoury fermented black bean sauce. It is consistently among the most popular beef options on Chinese-British menus.",
+    "ingredients": [
+      { "item": "beef sirloin or rump, sliced", "quantity": 130, "unit": "g" },
+      { "item": "black bean sauce, jarred", "quantity": 40, "unit": "g" },
+      { "item": "red pepper", "quantity": 50, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "root ginger", "quantity": 5, "unit": "g" },
+      { "item": "rice wine vinegar", "quantity": 5, "unit": "ml" },
+      { "item": "sugar", "quantity": 5, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "cooked long-grain rice", "quantity": 180, "unit": "g" }
+    ],
+    "prepNotes": "Slice beef thinly against the grain and stir-fry very briefly over high heat to keep it tender, then set aside while peppers and onion are softened. Return beef to the pan with black bean sauce, vinegar, sugar and a splash of water, simmer briefly, and serve over rice.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 36,
+      "carbs_g": 62,
+      "fiber_g": 3,
+      "sugar_g": 9,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for lean beef, jarred black bean sauce and rice, cross-checked against the BBC Good Food network's easy beef in black bean sauce recipe and comparable supermarket beef black bean ready-meal nutrition panels."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["soya", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "Asda"],
+      "notes": "A long-standing Chinese-British takeaway menu staple, now a popular home fakeaway recipe."
+    },
+    "sources": [
+      { "title": "Easy beef in black bean sauce - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/easy-beef-black-bean-sauce/" },
+      { "title": "Beef in Black Bean Sauce Recipe - Great British Chefs", "url": "https://www.greatbritishchefs.com/recipes/black-bean-beef-recipe" }
+    ]
+  },
+  {
+    "id": "uk-dinner-020",
+    "name": "Egg Fried Rice (Standalone Main)",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Egg fried rice is ubiquitous as both a takeaway side and a standalone quick meal in the UK, often made at home from leftover rice as a fast dinner. It is one of the most searched fakeaway recipes on UK food sites, prized for being fast, cheap and using up cooked rice.",
+    "ingredients": [
+      { "item": "cooked long-grain rice, day-old, cooled", "quantity": 250, "unit": "g" },
+      { "item": "eggs", "quantity": 100, "unit": "g" },
+      { "item": "frozen peas", "quantity": 40, "unit": "g" },
+      { "item": "spring onion", "quantity": 15, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "light soy sauce", "quantity": 15, "unit": "ml" },
+      { "item": "sesame oil", "quantity": 3, "unit": "ml" }
+    ],
+    "prepNotes": "Use day-old refrigerated rice to stop the dish turning gluey. Scramble eggs lightly in a hot wok, remove, then fry rice hard in the same pan with peas and spring onion before folding the egg and soy sauce back through at the end.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 16,
+      "carbs_g": 70,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for cooked rice, eggs and peas, cross-checked against standalone supermarket egg fried rice side-dish nutrition panels scaled to a realistic main-meal portion."
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "soya", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Aldi", "Asda"],
+      "notes": "A ubiquitous Chinese-British takeaway side and quick home meal made from leftover rice."
+    },
+    "sources": [
+      { "title": "Egg fried rice video - Jamie Oliver", "url": "https://www.jamieoliver.com/inspiration/egg-fried-rice/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-021",
+    "name": "Spaghetti Bolognese",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Spaghetti bolognese is one of the UK's most cooked family dinners, an Italian-British adaptation served far more often at home than in Italy itself, usually with a thicker tomato-and-mince sauce. It is a top weeknight staple recipe on Tesco Real Food and BBC Food.",
+    "ingredients": [
+      { "item": "spaghetti, dry", "quantity": 85, "unit": "g" },
+      { "item": "beef mince (5% fat)", "quantity": 120, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "carrot", "quantity": 40, "unit": "g" },
+      { "item": "celery", "quantity": 30, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "tinned chopped tomatoes", "quantity": 150, "unit": "g" },
+      { "item": "tomato puree", "quantity": 15, "unit": "g" },
+      { "item": "beef stock", "quantity": 50, "unit": "ml" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "parmesan, to serve", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Soften onion, carrot and celery in oil before browning the mince. Add tomatoes, puree, stock and herbs and simmer for at least 30-45 minutes to develop flavour. Cook spaghetti separately to al dente and combine with the sauce, finished with grated parmesan.",
+    "nutrition": {
+      "calories": 550,
+      "protein_g": 32,
+      "carbs_g": 62,
+      "fiber_g": 6,
+      "sugar_g": 11,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for dry pasta, lean beef mince and tinned tomatoes, cross-checked against Tesco Real Food's Easy Spaghetti Bolognese recipe and Tesco Finest Spaghetti Bolognese ready-meal nutrition panel."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Lidl"],
+      "notes": "One of the most cooked family dinners in the UK; all ingredients are available in every major supermarket."
+    },
+    "sources": [
+      { "title": "Easy Spaghetti Bolognese Recipe - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/easy-spaghetti-bolognese.html" },
+      { "title": "Tesco Finest Spaghetti Bolognese 400G", "url": "https://www.tesco.com/groceries/en-GB/products/261892196" }
+    ]
+  },
+  {
+    "id": "uk-dinner-022",
+    "name": "Chicken and Mushroom Pasta Bake",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Pasta bakes are a fixture of British home cooking and supermarket ready-meal aisles, valued as an easy make-ahead family dinner using a creamy sauce, pasta and chicken finished with cheese under the oven grill. Variants appear regularly in UK food magazines as a way to use up leftover roast chicken.",
+    "ingredients": [
+      { "item": "penne or fusilli, dry", "quantity": 85, "unit": "g" },
+      { "item": "chicken breast", "quantity": 120, "unit": "g" },
+      { "item": "chestnut mushrooms", "quantity": 80, "unit": "g" },
+      { "item": "single cream", "quantity": 60, "unit": "ml" },
+      { "item": "chicken stock", "quantity": 100, "unit": "ml" },
+      { "item": "plain flour", "quantity": 10, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 25, "unit": "g" },
+      { "item": "spinach", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Pan-fry mushrooms until golden, then make a roux of butter and flour, loosened with stock and cream to make a sauce. Fold cooked chicken, pasta and spinach through the sauce, top with grated cheddar, and bake at around 200C until bubbling and golden.",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 38,
+      "carbs_g": 58,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pasta, chicken breast, cream and cheddar, cross-checked against delicious. magazine's chicken and mushroom pasta bake recipe and comparable supermarket chicken pasta bake ready-meal nutrition panels."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A common make-ahead family dinner and supermarket ready-meal category across the UK."
+    },
+    "sources": [
+      { "title": "Chicken and mushroom pasta bake recipe - delicious. magazine", "url": "https://www.deliciousmagazine.co.uk/recipes/chicken-and-mushroom-pasta-bake/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-023",
+    "name": "Beef Lasagne",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Beef lasagne is one of the most widely eaten Italian-British dishes in the UK, sold as a supermarket ready meal in practically every chain and a standard home-cooked Sunday or batch-cook dinner. BBC Good Food's lasagne recipe is one of the most consistently popular pasta recipes on the site.",
+    "ingredients": [
+      { "item": "dried lasagne sheets", "quantity": 75, "unit": "g" },
+      { "item": "beef mince (5-10% fat)", "quantity": 130, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "carrot", "quantity": 30, "unit": "g" },
+      { "item": "celery", "quantity": 20, "unit": "g" },
+      { "item": "tinned chopped tomatoes", "quantity": 120, "unit": "g" },
+      { "item": "tomato puree", "quantity": 15, "unit": "g" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "full-fat milk", "quantity": 150, "unit": "ml" },
+      { "item": "cheddar or parmesan", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Simmer a beef ragu slowly (1-2 hours) with softened vegetables and tomatoes, while making a separate bechamel from butter, flour and milk. Build layers of pasta, ragu and bechamel in a dish, top with cheese, and bake until golden and bubbling.",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 34,
+      "carbs_g": 48,
+      "fiber_g": 4,
+      "sugar_g": 9,
+      "fat_g": 28,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pasta, beef mince, bechamel and cheese, cross-checked against BBC Good Food's beef lasagne recipe (approx. 580 kcal/serving) and Tesco's standard Beef Lasagne ready meal (537 kcal per serving, 28g protein, 55g carbs, 24g fat)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Waitrose"],
+      "notes": "Sold as a ready meal in practically every UK supermarket and a standard home-cooked batch-cook dinner."
+    },
+    "sources": [
+      { "title": "BBC Food - How to make lasagne", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/lasagne_22392.html" },
+      { "title": "Tesco Beef Lasagne (750g) nutrition", "url": "https://www.mynetdiary.com/food/calories-in-beef-lasagne-750g-by-tesco-pack-37908143-0.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-024",
+    "name": "Tuna Pasta Bake",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Tuna pasta bake is a long-standing British budget family dinner, built around tinned tuna, pasta and a cheese sauce, and remains a staple ready-meal category at every major UK supermarket. It is frequently recommended on UK food sites as a cheap, store-cupboard-friendly midweek meal.",
+    "ingredients": [
+      { "item": "penne or fusilli, dry", "quantity": 85, "unit": "g" },
+      { "item": "tinned tuna in water, drained", "quantity": 100, "unit": "g" },
+      { "item": "sweetcorn", "quantity": 40, "unit": "g" },
+      { "item": "single cream or creme fraiche", "quantity": 50, "unit": "ml" },
+      { "item": "chicken or vegetable stock", "quantity": 80, "unit": "ml" },
+      { "item": "plain flour", "quantity": 10, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 25, "unit": "g" }
+    ],
+    "prepNotes": "Make a butter-flour roux loosened with stock and cream, then stir through drained tuna, sweetcorn and cooked pasta. Top with grated cheddar and bake until the top is golden and the sauce is bubbling at the edges.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 34,
+      "carbs_g": 58,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pasta, tinned tuna and a cheese-cream sauce, cross-checked against Tesco's Meal For One Tuna Pasta Bake (413 kcal, 62g carbs, 6.1g fat, 30g protein) and BBC Good Food network's tuna pasta bake recipe."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "dairy", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "A long-standing British budget family dinner; a staple ready-meal category at every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Tuna pasta bake - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/tuna-pasta-bake/" },
+      { "title": "Tesco Meal For One Tuna Pasta Bake nutrition", "url": "https://www.mynetdiary.com/food/calories-in-meal-for-one-tuna-pasta-bake-by-tesco-pack-7102844-0.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-025",
+    "name": "Omelette with Spinach and Mushrooms",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The omelette is a long-standing British light-dinner staple, commonly made at home with whatever vegetables are on hand, and spinach-mushroom is one of the most common vegetarian fillings cited across UK recipe sites. BBC Good Food's basic omelette template lists sauteed mushrooms among the standard suggested fillings.",
+    "ingredients": [
+      { "item": "eggs", "quantity": 150, "unit": "g" },
+      { "item": "mushrooms, chestnut or button, sliced", "quantity": 60, "unit": "g" },
+      { "item": "spinach, fresh", "quantity": 40, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 15, "unit": "ml" },
+      { "item": "cheddar cheese", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Saute mushrooms in a little butter until golden and most moisture has cooked off, then wilt the spinach in the same pan for 30-60 seconds. Beat eggs with a splash of milk, pour into a hot non-stick pan with butter, swirl to set the edges, add the filling and cheese, and fold in half.",
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 24,
+      "carbs_g": 3,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 26,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for eggs, mushrooms, spinach, butter and cheddar, cross-checked against the BBC Good Food network basic omelette recipe and comparable spinach-mushroom omelette nutrition panels (220-410 kcal range depending on cheese/butter use)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["eggs", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi"],
+      "notes": "A widely cooked light dinner in UK households; eggs, mushrooms and spinach are available year-round in all major supermarkets."
+    },
+    "sources": [
+      { "title": "Basic omelette recipe - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/basic-omelette/" },
+      { "title": "Spinach and Mushroom Omelette - Easy Peasy Foodie", "url": "https://www.easypeasyfoodie.com/spinach-and-mushroom-omelette/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-026",
+    "name": "Jacket Potato with Cheese and Baked Beans",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Jacket potato with cheese and beans is one of the UK's most iconic cheap, filling dinners, served everywhere from school canteens to pub menus and supermarket recipe hubs. Tesco Real Food has a dedicated recipe page confirming it as a mainstream household combination.",
+    "ingredients": [
+      { "item": "baking potato", "quantity": 280, "unit": "g" },
+      { "item": "baked beans, canned in tomato sauce", "quantity": 200, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 40, "unit": "g" },
+      { "item": "butter", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Prick the potato, rub with a little oil and salt, and bake at 220C for around 1 hour to 1hr15 until the skin is crisp and inside fluffy. Split open, fluff the flesh with butter, heat the beans, then pile on top and finish with grated cheese until melted.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 24,
+      "carbs_g": 78,
+      "fiber_g": 13,
+      "sugar_g": 16,
+      "fat_g": 17,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for potato, canned baked beans and cheddar, cross-checked against typical jacket-potato-with-cheese-and-beans nutrition entries and Tesco Real Food's recipe ingredient list."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "One of the UK's most iconic cheap, filling meals; served in school canteens, pubs and homes nationwide."
+    },
+    "sources": [
+      { "title": "Jacket potato with baked beans and cheese - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/jacket-potato-with-baked-beans-and-cheese.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-027",
+    "name": "Beans on Toast with a Fried Egg",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Beans on toast is a quintessential British quick meal eaten at any time of day, and the NHS's Healthier Families recipe hub features its own healthy beans on toast page. Adding a fried or poached egg is a common way to make the meal more substantial for dinner.",
+    "ingredients": [
+      { "item": "baked beans, canned, reduced sugar/salt", "quantity": 200, "unit": "g" },
+      { "item": "wholemeal bread", "quantity": 80, "unit": "g" },
+      { "item": "egg", "quantity": 50, "unit": "g" },
+      { "item": "butter or low-fat spread", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Heat the beans in a small pan or microwave until piping hot. Toast the bread, then fry the egg in a little oil or butter until the white is set and yolk still soft, or poach in gently simmering water for 3 minutes. Spread toast lightly with butter, top with beans, and place the egg on top.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 22,
+      "carbs_g": 52,
+      "fiber_g": 11,
+      "sugar_g": 12,
+      "fat_g": 14,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for wholemeal bread, canned baked beans and egg, cross-checked against the NHS Healthier Families Healthy beans on toast recipe and Food Standards Scotland's Eatwell baked-beans-on-toast portion guidance."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "A quintessential British quick meal eaten at any time of day, made from store-cupboard staples available nationwide."
+    },
+    "sources": [
+      { "title": "Healthy beans on toast - NHS Healthier Families", "url": "https://www.nhs.uk/healthier-families/recipes/healthy-beans-on-toast/" },
+      { "title": "Baked beans on toast with cheese - Food Standards Scotland Eatwell", "url": "https://www.foodstandards.gov.scot/consumers/healthy-eating/eatwell/eatwell-everyday/baked-beans-on-toast-with-cheese" }
+    ]
+  },
+  {
+    "id": "uk-dinner-028",
+    "name": "Fish Finger Sandwich",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "The fish finger sandwich is a well-documented British comfort food, with UK fish finger sales exceeding one billion units annually, and the sandwich form is widely cited as a nostalgic, popular way to eat them, dating back to fish fingers' 1955 UK launch.",
+    "ingredients": [
+      { "item": "fish fingers, breaded cod", "quantity": 112, "unit": "g" },
+      { "item": "white bread or soft roll", "quantity": 90, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 15, "unit": "g" },
+      { "item": "tomato ketchup or tartare sauce", "quantity": 10, "unit": "g" },
+      { "item": "lettuce leaf", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Grill or oven-bake fish fingers according to pack instructions, around 15-20 minutes at 200C, turning once, until golden and piping hot. Spread bread or roll with mayonnaise and ketchup or tartare, add lettuce, and sandwich the hot fish fingers inside.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 21,
+      "carbs_g": 52,
+      "fiber_g": 3,
+      "sugar_g": 7,
+      "fat_g": 21,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for breaded cod fish fingers, white bread roll and mayonnaise, cross-checked against standard supermarket fish finger pack nutrition panels."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "fish", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Iceland"],
+      "notes": "A well-documented British comfort food; fish fingers are sold in every major UK supermarket freezer aisle."
+    },
+    "sources": [
+      { "title": "Fish finger sandwich - Wikipedia", "url": "https://en.wikipedia.org/wiki/Fish_finger_sandwich" }
+    ]
+  },
+  {
+    "id": "uk-dinner-029",
+    "name": "Steak and Ale Pie with Chips",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Steak and ale pie is a standard fixture on British pub menus, and Wetherspoons sells a British Beef & Doom Bar Ale Pie with gravy, chips and peas as part of its regular Pub Classics range, confirming it as a mainstream pub dinner.",
+    "ingredients": [
+      { "item": "braising beef", "quantity": 150, "unit": "g" },
+      { "item": "ale or stout", "quantity": 100, "unit": "ml" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "carrot", "quantity": 40, "unit": "g" },
+      { "item": "beef stock", "quantity": 100, "unit": "ml" },
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "puff or shortcrust pastry", "quantity": 80, "unit": "g" },
+      { "item": "chips, oven or fried", "quantity": 250, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Brown the beef in batches, then soften onion and carrot, deglaze with ale, add stock and flour-thickened liquid, and simmer 1.5-2 hours until tender. Cool slightly, top with pastry, and bake at 200C for 25-30 minutes until golden. Serve with chips.",
+    "nutrition": {
+      "calories": 980,
+      "protein_g": 42,
+      "carbs_g": 86,
+      "fiber_g": 7,
+      "sugar_g": 8,
+      "fat_g": 49,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for braising beef, pastry and chips, cross-checked against CalorieKing UK's Wetherspoon British Beef & Doom Bar Ale Pie listing, scaled to a typical single pie-plus-chips portion."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A standard fixture on British pub menus nationwide, including major chains such as Wetherspoons."
+    },
+    "sources": [
+      { "title": "Calories in Wetherspoon British Beef & Doom Bar Ale Pie, with Gravy, Chips & Peas - CalorieKing UK", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-meals-british-beef-doom-bar-ale-pie-with-gravy-chips-peas/ilrZ1lE_Slir-BCzgxU5VQ" }
+    ]
+  },
+  {
+    "id": "uk-dinner-030",
+    "name": "Fish Pie",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Fish pie is a classic British comfort dish combining white fish, smoked fish and prawns in a creamy sauce under a mashed potato crust, well-established enough that the UK's Food Standards Agency hosts its own guidance page describing it as a filling, comforting family meal.",
+    "ingredients": [
+      { "item": "potato", "quantity": 250, "unit": "g" },
+      { "item": "cod or pollock fillet", "quantity": 150, "unit": "g" },
+      { "item": "smoked haddock", "quantity": 80, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 200, "unit": "ml" },
+      { "item": "butter", "quantity": 25, "unit": "g" },
+      { "item": "plain flour", "quantity": 20, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 30, "unit": "g" },
+      { "item": "peas", "quantity": 50, "unit": "g" }
+    ],
+    "prepNotes": "Boil and mash the potatoes with a little butter and milk. Poach the fish gently in milk for 5-8 minutes, then flake, reserving the milk to make a roux-based white sauce. Combine fish, peas and sauce in a dish, top with mashed potato, scatter cheese, and bake at 200C for 20-25 minutes until golden.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 48,
+      "fiber_g": 5,
+      "sugar_g": 8,
+      "fat_g": 19,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for potato, white and smoked fish, milk and cheddar, cross-checked against the Food Standards Agency's fish pie ingredient guidance."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "Morrisons"],
+      "notes": "A classic British comfort dish; sold as a ready meal and recommended via the UK's Food Standards Agency."
+    },
+    "sources": [
+      { "title": "Fish pie - Food Standards Agency", "url": "https://www.food.gov.uk/safety-hygiene/fish-pie" }
+    ]
+  },
+  {
+    "id": "uk-dinner-031",
+    "name": "Sausage and Mash with Onion Gravy (Pub-Style)",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Sausage and mash with onion gravy is a staple British pub dinner, with Wetherspoons listing Bangers & Mash featuring three Lincolnshire sausages, mash, peas and gravy as a standard Pub Classics menu item, typically a larger, richer portion than a home-cooked equivalent.",
+    "ingredients": [
+      { "item": "pork sausages, Lincolnshire-style", "quantity": 240, "unit": "g" },
+      { "item": "potato, for mash", "quantity": 300, "unit": "g" },
+      { "item": "butter", "quantity": 20, "unit": "g" },
+      { "item": "milk", "quantity": 30, "unit": "ml" },
+      { "item": "onion", "quantity": 80, "unit": "g" },
+      { "item": "beef or vegetable stock", "quantity": 150, "unit": "ml" },
+      { "item": "plain flour", "quantity": 10, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Grill or fry the sausages until browned and cooked through, about 20 minutes. Boil and mash potatoes with butter and milk until smooth. Slowly caramelise sliced onions for 15-20 minutes, then add flour and stock, simmering until glossy and thickened. Plate mash, top with sausages, and pour over gravy.",
+    "nutrition": {
+      "calories": 780,
+      "protein_g": 32,
+      "carbs_g": 58,
+      "fiber_g": 6,
+      "sugar_g": 9,
+      "fat_g": 46,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pork sausages, potato and onion gravy, cross-checked against CalorieKing UK's Wetherspoon Bangers & Mash listing (869 kcal for the full pub plate including peas)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A staple British pub dinner served by major pub chains including Wetherspoons nationwide."
+    },
+    "sources": [
+      { "title": "Calories in Wetherspoon Bangers & Mash, 3 Lincolnshire Sausages, Peas & Gravy - CalorieKing UK", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-meals-bangers-mash-3-lincoinshire-sausages-peas-gravy/NSDwWsmrR_-IXlUEAWnhiw" }
+    ]
+  },
+  {
+    "id": "uk-dinner-032",
+    "name": "Gammon Steak with Parsley Sauce, Chips and Peas",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Gammon steak with chips and peas is a long-running British pub and home dinner staple, with Wetherspoons selling multiple gammon-and-chips variations, and gammon with a creamy parsley sauce is a well-documented British classic appearing across UK recipe sites as a traditional pairing.",
+    "ingredients": [
+      { "item": "gammon steak", "quantity": 180, "unit": "g" },
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "butter", "quantity": 20, "unit": "g" },
+      { "item": "semi-skimmed milk", "quantity": 200, "unit": "ml" },
+      { "item": "fresh parsley, chopped", "quantity": 10, "unit": "g" },
+      { "item": "chips, oven or fried", "quantity": 250, "unit": "g" },
+      { "item": "garden peas", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Grill or fry the gammon steak for 5-6 minutes each side until golden and cooked through, snipping the fat edge first to stop curling. For the parsley sauce, melt butter, stir in flour, gradually whisk in milk over low heat until thickened, then stir through chopped parsley. Serve with chips, peas and sauce.",
+    "nutrition": {
+      "calories": 870,
+      "protein_g": 46,
+      "carbs_g": 70,
+      "fiber_g": 7,
+      "sugar_g": 8,
+      "fat_g": 42,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for gammon, milk-based white sauce, chips and peas, cross-checked against CalorieKing UK's Wetherspoon gammon-with-chips listing and comparable gammon steak with chips and peas nutrition entries (approx. 925 kcal, 38g fat, 50g protein)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A long-running British pub and home dinner staple served nationwide, including major pub chains."
+    },
+    "sources": [
+      { "title": "Calories in Wetherspoon 5oz Gammon & Eggs, with Chips - CalorieKing UK", "url": "https://www.calorieking.com/gb/en/foods/f/calories-in-meals-5oz-gammon-eggs-with-chips/l_AwBKD7RdKw8VmiYkTvSA" },
+      { "title": "Gammon with Parsley Sauce - Pinch of Nom", "url": "https://pinchofnom.com/recipes/gammon-with-parsley-sauce/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-033",
+    "name": "Liver and Onions with Mash",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A traditional British dish dating back to the 19th century, typically made with lamb's or pig's liver, slowly cooked with caramelised onions and a rich gravy. It remains a nostalgic comfort-food staple, commonly served in home kitchens alongside mash and greens.",
+    "ingredients": [
+      { "item": "lamb's liver", "quantity": 120, "unit": "g" },
+      { "item": "onion", "quantity": 110, "unit": "g" },
+      { "item": "plain flour, for dusting", "quantity": 10, "unit": "g" },
+      { "item": "butter or oil", "quantity": 10, "unit": "g" },
+      { "item": "beef stock", "quantity": 150, "unit": "ml" },
+      { "item": "Worcestershire sauce", "quantity": 5, "unit": "ml" },
+      { "item": "potatoes, for mash", "quantity": 200, "unit": "g" },
+      { "item": "milk", "quantity": 30, "unit": "ml" },
+      { "item": "butter, for mash", "quantity": 10, "unit": "g" },
+      { "item": "cabbage or seasonal greens", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Cook sliced onions slowly for 10-12 minutes until soft and caramelised, then set aside. Dust liver slices lightly in flour, season, and fry quickly, 2-3 minutes per side, taking care not to overcook. Build the gravy in the same pan with stock and Worcestershire sauce, return onions and liver briefly to heat through. Serve over buttery mash with steamed greens.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 34,
+      "carbs_g": 38,
+      "fiber_g": 5,
+      "sugar_g": 7,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for lamb's liver (fried), potato (boiled) and onion (fried), cross-checked against published macro profiles for liver and onions recipes (approx. 30-35g protein per serving) and Diabetes UK's liver and onions recipe page."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A nostalgic British comfort dish; lamb's liver is sold fresh in the meat aisle of major UK supermarkets."
+    },
+    "sources": [
+      { "title": "Liver and onion gravy - Pinch Of Nom", "url": "https://pinchofnom.com/recipes/liver-and-onion-gravy/" },
+      { "title": "Liver and onions with neeps, tatties and beans - Diabetes UK", "url": "https://www.diabetes.org.uk/guide-to-diabetes/recipes/liver-and-onions-neeps-tatties-and-beans" }
+    ]
+  },
+  {
+    "id": "uk-dinner-034",
+    "name": "Gammon with Parsley Sauce, New Potatoes and Vegetables",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A classic British home-cooked dinner using a gammon joint or steak, traditionally paired with a creamy parsley sauce, new potatoes and vegetables, distinct from the pub gammon-and-chips variant. It's a long-standing Sunday or midweek family dinner, especially popular around Easter and Christmas leftovers.",
+    "ingredients": [
+      { "item": "gammon steak", "quantity": 150, "unit": "g" },
+      { "item": "new potatoes", "quantity": 200, "unit": "g" },
+      { "item": "butter", "quantity": 15, "unit": "g" },
+      { "item": "plain flour", "quantity": 15, "unit": "g" },
+      { "item": "whole milk", "quantity": 150, "unit": "ml" },
+      { "item": "fresh parsley", "quantity": 5, "unit": "g" },
+      { "item": "peas or green beans", "quantity": 60, "unit": "g" },
+      { "item": "carrots", "quantity": 70, "unit": "g" }
+    ],
+    "prepNotes": "Grill or fry the gammon steak 3-4 minutes per side until browned and cooked through. For the sauce, make a roux with butter and flour, gradually whisk in milk, simmer until thickened, then stir in chopped parsley. Boil new potatoes with skins on and steam vegetables. Plate gammon with a generous pool of parsley sauce.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 32,
+      "carbs_g": 40,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 20,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for gammon, white parsley sauce and potato, cross-checked against Tesco's Gammon Steaks with Parsley Sauce product line and the Tesco Real Food Scandinavian-style smoked gammon with parsley sauce recipe structure."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["dairy", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A classic British home-cooked Sunday or midweek dinner, especially common around Easter using leftover gammon."
+    },
+    "sources": [
+      { "title": "Tesco Gammon Steaks with Parsley Sauce 322g", "url": "https://www.tesco.com/groceries/en-GB/products/314698154" },
+      { "title": "Scandinavian-style smoked gammon with parsley sauce - Tesco Real Food", "url": "https://realfood.tesco.com/recipes/scandinavian-style-smoked-gammon-with-parsley-sauce.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-035",
+    "name": "Lamb Jalfrezi with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Jalfrezi is one of the most popular curry house dishes in the UK, characterised by a thick, spicy tomato-based sauce with stir-fried peppers and onions. It is a defining example of British Indian restaurant cuisine and a takeaway favourite nationwide, also sold as a supermarket ready meal.",
+    "ingredients": [
+      { "item": "diced lamb", "quantity": 150, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "green and red pepper", "quantity": 80, "unit": "g" },
+      { "item": "tinned tomatoes", "quantity": 80, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "ginger", "quantity": 5, "unit": "g" },
+      { "item": "green chilli", "quantity": 1, "unit": "whole" },
+      { "item": "ground cumin, coriander, chilli powder, turmeric", "quantity": 5, "unit": "g" },
+      { "item": "natural yoghurt", "quantity": 20, "unit": "g" },
+      { "item": "basmati rice, cooked", "quantity": 180, "unit": "g" }
+    ],
+    "prepNotes": "Marinate meat in yoghurt and spices for at least an hour. Fry onions, garlic, ginger and chilli, add spices and tomatoes to build the base sauce, then add meat and simmer until tender, 45 minutes or more for lamb. Stir in sliced peppers near the end so they retain some bite. Serve with steamed basmati rice.",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 38,
+      "carbs_g": 62,
+      "fiber_g": 4,
+      "sugar_g": 8,
+      "fat_g": 20,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for lamb, basmati rice and tomato-based curry sauce, cross-checked against the Tesco Finest Chicken Jalfrezi & Rice ready-meal nutrition panel and range."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "halal"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A defining example of British Indian restaurant cuisine, served in curry houses nationwide and sold as a supermarket ready meal."
+    },
+    "sources": [
+      { "title": "Tesco Finest Chicken Jalfrezi & Rice 450G", "url": "https://www.tesco.com/groceries/en-GB/products/288441083" }
+    ]
+  },
+  {
+    "id": "uk-dinner-036",
+    "name": "Saag Paneer with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Saag paneer is a beloved vegetarian curry combining spiced spinach with cubes of paneer cheese, widely available in UK curry houses and supermarkets as a vegetarian counterpart to meat curries, and a popular choice for vegetarians dining at Indian restaurants across Britain.",
+    "ingredients": [
+      { "item": "paneer", "quantity": 100, "unit": "g" },
+      { "item": "fresh spinach", "quantity": 200, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "ginger", "quantity": 5, "unit": "g" },
+      { "item": "green chilli", "quantity": 1, "unit": "whole" },
+      { "item": "ghee or oil", "quantity": 15, "unit": "g" },
+      { "item": "ground turmeric and chilli powder", "quantity": 3, "unit": "g" },
+      { "item": "basmati rice, cooked", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Toss cubed paneer in ghee with turmeric and chilli powder until golden on all sides. Blitz onion, garlic, ginger and chilli into a paste and cook down. Wilt and puree the spinach, combine with the onion paste, then fold in the paneer to heat through. Finish with a squeeze of lemon juice and serve with rice.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 20,
+      "carbs_g": 38,
+      "fiber_g": 6,
+      "sugar_g": 5,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for paneer, spinach and basmati rice, cross-checked against the BBC Good Food network saag paneer recipe method and Sainsbury's Magazine saag paneer recipe."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose"],
+      "notes": "A popular vegetarian curry-house dish across the UK; paneer is sold in the world foods aisle of most major supermarkets."
+    },
+    "sources": [
+      { "title": "Saag paneer - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/saag-paneer/" },
+      { "title": "Saag paneer recipe - Sainsbury's Magazine", "url": "https://www.sainsburysmagazine.co.uk/recipes/sides/saag-paneer" }
+    ]
+  },
+  {
+    "id": "uk-dinner-037",
+    "name": "Fakeaway Baked Sweet and Sour Chicken with Rice",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A staple of UK slimming-community recipe culture, this baked remix replicates the Chinese takeaway favourite using diced chicken breast, pineapple and a vinegar-based sauce without batter or deep frying. It is one of the most searched fakeaway recipes in the UK as a lower-fat Friday-night-takeaway substitute.",
+    "ingredients": [
+      { "item": "chicken breast", "quantity": 150, "unit": "g" },
+      { "item": "tinned pineapple chunks in juice", "quantity": 80, "unit": "g" },
+      { "item": "red pepper", "quantity": 60, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "tomato puree", "quantity": 15, "unit": "g" },
+      { "item": "soy sauce", "quantity": 10, "unit": "ml" },
+      { "item": "white wine vinegar", "quantity": 10, "unit": "ml" },
+      { "item": "cornflour", "quantity": 8, "unit": "g" },
+      { "item": "sugar", "quantity": 5, "unit": "g" },
+      { "item": "chicken stock", "quantity": 50, "unit": "ml" },
+      { "item": "cooked rice", "quantity": 180, "unit": "g" }
+    ],
+    "prepNotes": "Dice chicken and bake or air-fry without oil or batter until cooked through and lightly browned. Soften onion and pepper with a few sprays of oil, then add stock, soy sauce, vinegar, tomato puree, pineapple and sugar, simmering to reduce. Thicken with a cornflour slurry, fold in the baked chicken, and serve over rice.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 38,
+      "carbs_g": 58,
+      "fiber_g": 3,
+      "sugar_g": 14,
+      "fat_g": 4,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken breast (roasted, no skin), pineapple in juice and basmati rice, cross-checked against Slimming World's slow-cooked sweet and sour chicken recipe."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["soya"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Asda", "Aldi", "Lidl"],
+      "notes": "A widely searched lower-fat fakeaway alternative to takeaway sweet and sour chicken, popularised by UK slimming-community recipe culture."
+    },
+    "sources": [
+      { "title": "Slow-cooked sweet & sour chicken - Slimming World", "url": "https://www.slimmingworld.co.uk/recipes/slow-cooked-sweet-sour-chicken" },
+      { "title": "Slimming World's sweet and sour chicken recipe - GoodtoKnow", "url": "https://www.goodto.com/recipes/slimming-worlds-sweet-and-sour-chicken" }
+    ]
+  },
+  {
+    "id": "uk-dinner-038",
+    "name": "Baked Fish and Chips",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A healthier remix of Britain's iconic fish and chips, using oven-baked breaded cod and oven-baked chips to cut fat while keeping the classic flavour combination. It's a widely cooked midweek family dinner across the UK and a common better-for-you alternative to chippy takeaway.",
+    "ingredients": [
+      { "item": "cod fillet", "quantity": 150, "unit": "g" },
+      { "item": "fresh breadcrumbs", "quantity": 30, "unit": "g" },
+      { "item": "egg, for coating", "quantity": 15, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "potatoes, cut into chips", "quantity": 250, "unit": "g" },
+      { "item": "peas", "quantity": 80, "unit": "g" }
+    ],
+    "prepNotes": "Cut potatoes into chip shapes, toss in a little oil, and roast at high heat (around 220C) for 30-35 minutes, turning halfway, until golden. Coat cod in beaten egg then breadcrumbs, drizzle with oil, and bake for the final 12-15 minutes alongside the chips until the fish is opaque and the crumb golden. Serve with peas.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 34,
+      "carbs_g": 56,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 12,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for baked cod, breadcrumbs and oven chips, cross-checked against the BBC Good Food network oven-baked fish and chips recipe method."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["gluten", "eggs", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Iceland"],
+      "notes": "A widely cooked healthier remix of fish and chips, common as a midweek family dinner across the UK."
+    },
+    "sources": [
+      { "title": "Oven-baked fish & chips - BBC Good Food network", "url": "https://www.bbcgoodfoodme.com/recipes/ovenbaked-fish-and-chips/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-039",
+    "name": "Salmon with New Potatoes and Greens",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A simple roasted or grilled salmon dinner with new potatoes and seasonal greens is a widely cooked, easy weeknight dinner in the UK, reflecting NHS Eatwell-style guidance to eat oily fish and supermarket convenience ranges built around salmon fillets. Jamie Oliver's site features multiple variations on this exact combination.",
+    "ingredients": [
+      { "item": "salmon fillet", "quantity": 140, "unit": "g" },
+      { "item": "new potatoes", "quantity": 200, "unit": "g" },
+      { "item": "broccoli or green beans", "quantity": 100, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "lemon", "quantity": 0.5, "unit": "whole" },
+      { "item": "fresh dill or parsley", "quantity": 3, "unit": "g" }
+    ],
+    "prepNotes": "Boil or steam new potatoes, skins on, for 15-18 minutes until tender. Season salmon and roast or air-fry at 200C for 12-15 minutes until just cooked through and flaking. Steam greens for 4-5 minutes. Plate together with a drizzle of olive oil, lemon juice and fresh herbs.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 32,
+      "carbs_g": 32,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for baked salmon, boiled potato and boiled broccoli, cross-checked against Jamie Oliver's air-fryer salmon with crispy potatoes and tray-baked salmon recipe structures."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free", "dairy_free", "mediterranean"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "Aldi"],
+      "notes": "A widely cooked easy weeknight dinner reflecting NHS Eatwell-style guidance to eat oily fish; salmon fillets are sold in every major UK supermarket."
+    },
+    "sources": [
+      { "title": "Air-fryer salmon with crispy potatoes - Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/fish/air-fryer-salmon-with-crispy-potatoes/" },
+      { "title": "Tray Baked Salmon - Jamie Oliver", "url": "https://www.jamieoliver.com/recipes/fish-recipes/summer-tray-baked-salmon/" }
+    ]
+  },
+  {
+    "id": "uk-dinner-040",
+    "name": "Pork Chops with Apples and Cider",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A classic British pairing of pork with apple, popularised in recipe form by Nigel Slater for BBC Food and also by the Hairy Bikers, reflecting the long-standing UK culinary tradition of pork and apple as a natural flavour match, commonly eaten in autumn and winter.",
+    "ingredients": [
+      { "item": "pork loin chop", "quantity": 175, "unit": "g" },
+      { "item": "eating apple", "quantity": 100, "unit": "g" },
+      { "item": "onion", "quantity": 40, "unit": "g" },
+      { "item": "dry cider", "quantity": 100, "unit": "ml" },
+      { "item": "fresh sage", "quantity": 2, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "potatoes, for mash", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Season and brown the pork chops in a hot pan with olive oil, then set aside. Soften sliced onion in the same pan, add apple wedges and sage, then return the chops, nestling them among the apples and onion. Pour over cider to partly cover, then simmer or oven-bake (around 180C) for 25-30 minutes until the pork is cooked through. Serve with mashed potato.",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 36,
+      "carbs_g": 30,
+      "fiber_g": 4,
+      "sugar_g": 14,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for pork loin chop (grilled), apple (raw) and cider, cross-checked against the BBC Food pork chops with apples and cider (Nigel Slater) recipe and the Hairy Bikers' pork loin chops with apples and cider recipe structure."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A well-established British autumn and winter dinner combination found across multiple BBC Food recipe collections."
+    },
+    "sources": [
+      { "title": "BBC Food - Pork chops with apples and cider", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/porkchopswithapplesa_92491.html" },
+      { "title": "BBC Food - Pork loin chops with apples, cider and creamy butter bean mash", "url": "https://git.macropus.org/bbc-food/www.bbc.co.uk/food/recipes/pork_loin_chops_with_55999.html" }
+    ]
+  },
+  {
+    "id": "uk-dinner-041",
+    "name": "Asian Prawn Noodles",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A quick weeknight stir-fry and noodle-soup hybrid using cooked prawns, wholewheat noodles and stir-fry vegetables, widely cooked at home across the UK as a fast, low-fat dinner. BBC Good Food lists it as a low-calorie noodle one-pot recipe.",
+    "ingredients": [
+      { "item": "wholewheat noodles, dry", "quantity": 60, "unit": "g" },
+      { "item": "garlic", "quantity": 1.5, "unit": "clove" },
+      { "item": "fresh ginger, grated", "quantity": 8, "unit": "g" },
+      { "item": "fresh coriander", "quantity": 10, "unit": "g" },
+      { "item": "red chilli", "quantity": 0.5, "unit": "whole" },
+      { "item": "tamari or soy sauce", "quantity": 8, "unit": "ml" },
+      { "item": "spring onions", "quantity": 20, "unit": "g" },
+      { "item": "sugar snap peas", "quantity": 60, "unit": "g" },
+      { "item": "beansprouts", "quantity": 80, "unit": "g" },
+      { "item": "cooked prawns", "quantity": 50, "unit": "g" },
+      { "item": "lime", "quantity": 0.5, "unit": "whole" }
+    ],
+    "prepNotes": "Soak noodles in boiling water for 5 minutes, then drain. Simmer garlic, ginger, chilli, tamari, spring onion and sugar snaps in water or light stock for 3 minutes, then add noodles and beansprouts. Stir in prawns, lime juice and zest, and coriander just before serving, off the heat, so the prawns don't overcook.",
+    "nutrition": {
+      "calories": 350,
+      "protein_g": 24,
+      "carbs_g": 50,
+      "fiber_g": 7,
+      "sugar_g": 7,
+      "fat_g": 4,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for wholewheat noodles, prawns and stir-fry vegetables, cross-checked directly against BBC Good Food's published Asian prawn noodles nutrition panel (245 kcal, 2g fat, 35g carbs, 6g sugars, 6g fibre, 19g protein per smaller serving), scaled up to a full single-portion main meal."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "dairy_free"],
+      "allergens": ["shellfish", "soya", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose"],
+      "notes": "A quick, low-fat weeknight stir-fry dinner widely cooked at home across the UK; pre-cooked prawns are sold in every major supermarket."
+    },
+    "sources": [
+      { "title": "Asian prawn noodles - BBC Good Food", "url": "https://www.bbcgoodfood.com/recipes/asian-prawn-noodles" }
+    ]
+  },
+  {
+    "id": "uk-dinner-042",
+    "name": "Creamy Lentil and Vegetable Curry",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A vegan and vegetarian lentil-and-vegetable curry is a common home-cooked midweek dinner in the UK, often served with rice or naan. BBC Good Food publishes several versions as budget-friendly, plant-based staples.",
+    "ingredients": [
+      { "item": "red lentils, dry", "quantity": 50, "unit": "g" },
+      { "item": "sweet potato, diced", "quantity": 100, "unit": "g" },
+      { "item": "onion", "quantity": 30, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "fresh ginger, grated", "quantity": 3, "unit": "g" },
+      { "item": "curry powder or paste, medium", "quantity": 1, "unit": "tsp" },
+      { "item": "tinned chopped tomatoes", "quantity": 75, "unit": "g" },
+      { "item": "vegetable stock", "quantity": 150, "unit": "ml" },
+      { "item": "coconut milk", "quantity": 25, "unit": "ml" },
+      { "item": "cherry tomatoes", "quantity": 30, "unit": "g" },
+      { "item": "spinach", "quantity": 25, "unit": "g" }
+    ],
+    "prepNotes": "Soften onion, garlic and ginger, stir in curry powder, then add lentils, sweet potato, tomatoes and stock; simmer about 20 minutes until lentils and sweet potato are tender. Stir in coconut milk and spinach at the end and warm through gently. Serve with rice or naan.",
+    "nutrition": {
+      "calories": 290,
+      "protein_g": 13,
+      "carbs_g": 42,
+      "fiber_g": 9,
+      "sugar_g": 9,
+      "fat_g": 7,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for red lentils, sweet potato and tomatoes, cross-checked against BBC Good Food's creamy lentil and veggie curry recipe composition."
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "mediterranean"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi"],
+      "notes": "A common budget-friendly, plant-based midweek dinner in UK households; red lentils and sweet potato are sold in every major supermarket."
+    },
+    "sources": [
+      { "title": "Creamy lentil & veggie curry - BBC Good Food", "url": "https://www.bbcgoodfood.com/recipes/creamy-lentil-veggie-curry" }
+    ]
+  },
+  {
+    "id": "uk-dinner-043",
+    "name": "Chicken Fajitas",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Chicken fajitas are a top UK home-cooked Tex-Mex dinner, driven heavily by supermarket fajita kits from Old El Paso, Tesco and Sainsbury's own-brand ranges; Old El Paso UK publishes its own chicken fajita recipes and kit nutrition panels.",
+    "ingredients": [
+      { "item": "chicken breast, sliced into strips", "quantity": 120, "unit": "g" },
+      { "item": "bell peppers, mixed colours, sliced", "quantity": 80, "unit": "g" },
+      { "item": "onion, sliced", "quantity": 40, "unit": "g" },
+      { "item": "fajita seasoning mix", "quantity": 7, "unit": "g" },
+      { "item": "vegetable oil", "quantity": 5, "unit": "ml" },
+      { "item": "flour tortillas, small", "quantity": 50, "unit": "g" },
+      { "item": "soured cream", "quantity": 20, "unit": "g" },
+      { "item": "salsa", "quantity": 20, "unit": "g" },
+      { "item": "grated cheddar", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Toss sliced chicken in seasoning, stir-fry in hot oil until cooked through, then add peppers and onion and cook until softened with a slight char. Warm tortillas separately and serve everything in the centre of the table for self-assembly with soured cream, salsa and cheese.",
+    "nutrition": {
+      "calories": 450,
+      "protein_g": 34,
+      "carbs_g": 32,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 18,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken, peppers and tortillas, cross-checked against Old El Paso UK's Chicken and Veggie Fajitas recipe nutrition panel and Sizzling Grilled Chicken Fajitas nutrition panel."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["halal"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Morrisons"],
+      "notes": "A top UK home-cooked Tex-Mex dinner, driven heavily by widely stocked supermarket fajita kits."
+    },
+    "sources": [
+      { "title": "Old El Paso UK - Chicken and Veggie Fajitas", "url": "https://www.oldelpaso.com/recipes/chicken-and-veggie-fajitas" },
+      { "title": "Old El Paso UK - Smoky BBQ Fajita Kit product page", "url": "https://www.oldelpaso.co.uk/products/smoky-bbq-fajita-kit" }
+    ]
+  },
+  {
+    "id": "uk-dinner-044",
+    "name": "Sausage and Butter Bean Casserole",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A classic British one-pot family dinner distinct from bangers and mash, made by braising sausages with tinned beans, tomatoes and stock. It is promoted by BBC Good Food as a low-cost, freezer-friendly midweek meal.",
+    "ingredients": [
+      { "item": "pork sausages", "quantity": 100, "unit": "g" },
+      { "item": "onion, chopped", "quantity": 40, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "dried mixed herbs", "quantity": 1, "unit": "tsp" },
+      { "item": "tinned butter beans, drained", "quantity": 100, "unit": "g" },
+      { "item": "tinned chopped tomatoes", "quantity": 100, "unit": "g" },
+      { "item": "chicken stock", "quantity": 75, "unit": "ml" },
+      { "item": "fresh parsley", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Brown sausages in a hot pan for 6-8 minutes until coloured, then add onion and cook 3 minutes, followed by garlic and herbs. Add butter beans, tomatoes and stock, then simmer uncovered until the sauce thickens slightly and sausages are cooked through. Finish with chopped parsley; freezes well in portions.",
+    "nutrition": {
+      "calories": 423,
+      "protein_g": 24,
+      "carbs_g": 16,
+      "fiber_g": 6,
+      "sugar_g": 7,
+      "fat_g": 28,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for sausages and pulses, cross-checked against a published nutrition panel for Sausage & Bean Casserole by BBC Good Food (423 kcal, 23.5g protein, 16g carbs per serving)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Aldi", "Morrisons"],
+      "notes": "A classic British one-pot family dinner promoted as a low-cost, freezer-friendly midweek meal."
+    },
+    "sources": [
+      { "title": "Sausage & butter bean casserole - BBC Good Food", "url": "https://www.bbcgoodfood.com/recipes/sausage-and-bean-casserole" }
+    ]
+  },
+  {
+    "id": "uk-dinner-045",
+    "name": "Chicken and Chorizo Paella",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "A Spanish-British fusion one-pot rice dish that has become a popular UK family dinner, with BBC Good Food describing its chicken and chorizo paella as a hearty family supper cooked in a single pan.",
+    "ingredients": [
+      { "item": "chicken thighs, boneless", "quantity": 100, "unit": "g" },
+      { "item": "chorizo, sliced", "quantity": 25, "unit": "g" },
+      { "item": "onion, chopped", "quantity": 30, "unit": "g" },
+      { "item": "garlic", "quantity": 1, "unit": "clove" },
+      { "item": "paella or short-grain rice, dry", "quantity": 60, "unit": "g" },
+      { "item": "smoked paprika", "quantity": 0.5, "unit": "tsp" },
+      { "item": "chicken stock", "quantity": 175, "unit": "ml" },
+      { "item": "frozen peas", "quantity": 30, "unit": "g" },
+      { "item": "lemon wedge and parsley, to finish", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Brown chicken in a deep frying pan, then set aside. Soften onion slowly for about 10 minutes, add garlic and chorizo to release its oils. Stir in paprika and rice to coat, pour in hot stock, return chicken to the pan and simmer about 20 minutes without too much stirring. Add peas for the final 5 minutes until rice is tender.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 29,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 17,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for chicken thigh, chorizo and rice, cross-checked against comparable published chicken and chorizo paella nutrition panels (range 472-619 kcal per serving)."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Waitrose", "Morrisons"],
+      "notes": "A popular Spanish-British fusion one-pot family dinner; chorizo and paella rice are sold in most major UK supermarkets."
+    },
+    "sources": [
+      { "title": "Chicken & chorizo paella - BBC Good Food", "url": "https://www.bbcgoodfood.com/recipes/chicken-chorizo-paella" }
+    ]
+  },
+  {
+    "id": "uk-dinner-046",
+    "name": "Toad in the Hole with Vegetarian Sausages",
+    "country": "UK",
+    "mealType": "dinner",
+    "servings": 1,
+    "popularityContext": "Vegetarian toad in the hole, made with meat-free sausages, is a widely available adaptation of the classic British dish, reflecting the growing presence of vegetarian sausage ranges (Linda McCartney's, Quorn) on UK supermarket shelves and recipe sites adapting traditional dishes for vegetarian diets.",
+    "ingredients": [
+      { "item": "vegetarian sausages", "quantity": 120, "unit": "g" },
+      { "item": "plain flour", "quantity": 50, "unit": "g" },
+      { "item": "egg", "quantity": 50, "unit": "g" },
+      { "item": "milk", "quantity": 100, "unit": "ml" },
+      { "item": "vegetable oil", "quantity": 10, "unit": "ml" },
+      { "item": "vegetarian onion gravy", "quantity": 60, "unit": "ml" }
+    ],
+    "prepNotes": "Brown the vegetarian sausages in a hot, oiled tin in the oven for about 8 minutes, then pour over a batter made from flour, egg and milk whisked together. Bake at around 220C for 20-25 minutes until the batter is puffed and golden. Serve with vegetarian onion gravy.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 22,
+      "carbs_g": 38,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 24,
+      "method": "Calculated from McCance and Widdowson's Composition of Foods / UK nutrient databank values for Yorkshire-pudding-style batter and a typical vegetarian sausage nutrition panel (Linda McCartney's-style, approx. 14-16g protein per 2 sausages), cross-checked against standard toad-in-the-hole recipe structure adapted for vegetarian sausages."
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "eggs", "dairy", "soya"]
+    },
+    "regionAvailability": {
+      "stores": ["Tesco", "Sainsbury's", "Asda", "Waitrose"],
+      "notes": "Vegetarian sausage ranges are widely stocked in the chiller aisle of every major UK supermarket, making this a common vegetarian adaptation of a classic dish."
+    },
+    "sources": [
+      { "title": "Frying pan sage and onion toad in the hole - Sainsbury's Magazine", "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/frying-pan-toad-in-the-hole" }
+    ]
+  }
+]

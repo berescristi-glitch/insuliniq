@@ -212,7 +212,7 @@ export function HeroSection() {
                         <div key={i} className="w-6 h-6 rounded-full border-2 border-forest-900" style={{ backgroundColor: c }} />
                       ))}
                     </div>
-                    <span className="text-white/35 text-xs">2,847 profiles today</span>
+                    <span className="text-white/35 text-xs">Sample profile view</span>
                   </div>
                 </div>
               </div>

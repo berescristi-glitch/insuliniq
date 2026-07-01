@@ -6,7 +6,7 @@ export function SiteFooter() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           <div className="col-span-2 md:col-span-1">
-            <Link href="/" className="text-lg font-bold text-emerald-700">
+            <Link href="/" className="text-lg font-bold text-forest-700">
               InsulinIQ
             </Link>
             <p className="mt-2 text-sm text-gray-500">
@@ -30,7 +30,7 @@ export function SiteFooter() {
                 <li key={l.href}>
                   <Link
                     href={l.href}
-                    className="text-sm text-gray-500 hover:text-emerald-700"
+                    className="text-sm text-gray-500 hover:text-forest-700"
                   >
                     {l.label}
                   </Link>
@@ -46,15 +46,12 @@ export function SiteFooter() {
             <ul className="mt-4 space-y-2">
               {[
                 { href: "/quiz", label: "Free Quiz" },
-                { href: "/recipes", label: "Recipes" },
-                { href: "/meal-plans", label: "Meal Plans" },
-                { href: "/ai-assistant", label: "AI Assistant" },
-                { href: "/community", label: "Community" },
+                { href: "/pricing", label: "Pricing" },
               ].map((l) => (
                 <li key={l.href}>
                   <Link
                     href={l.href}
-                    className="text-sm text-gray-500 hover:text-emerald-700"
+                    className="text-sm text-gray-500 hover:text-forest-700"
                   >
                     {l.label}
                   </Link>
@@ -72,11 +69,13 @@ export function SiteFooter() {
                 { href: "/legal/disclaimer", label: "Medical Disclaimer" },
                 { href: "/legal/privacy", label: "Privacy Policy" },
                 { href: "/legal/terms", label: "Terms of Use" },
+                { href: "/about/scientific-integrity", label: "Scientific Integrity" },
+                { href: "/about/sources", label: "Research Sources" },
               ].map((l) => (
                 <li key={l.href}>
                   <Link
                     href={l.href}
-                    className="text-sm text-gray-500 hover:text-emerald-700"
+                    className="text-sm text-gray-500 hover:text-forest-700"
                   >
                     {l.label}
                   </Link>

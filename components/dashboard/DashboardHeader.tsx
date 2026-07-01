@@ -36,6 +36,9 @@ export function DashboardHeader() {
                 {email}
               </span>
             )}
+            <Link href="/settings" className="text-sm font-medium text-muted-foreground hover:text-foreground">
+              Settings
+            </Link>
             <form action={logoutAction}>
               <Button variant="ghost" size="sm" type="submit">
                 Sign out

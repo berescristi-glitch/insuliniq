@@ -1,0 +1,1721 @@
+[
+  {
+    "id": "us-snack-001",
+    "name": "Lay's Classic Potato Chips (1 oz Bag)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Lay's is the best-selling potato chip brand in the US and the single-serve 1 oz bag is a staple of lunchboxes, vending machines, gas stations and convenience stores nationwide.",
+    "ingredients": [
+      { "item": "Lay's Classic potato chips", "quantity": 1, "unit": "oz bag" }
+    ],
+    "prepNotes": "Open the bag and eat straight away. No preparation needed; commonly paired with a sandwich or eaten alone between meals.",
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 15,
+      "fiber_g": 1,
+      "sugar_g": 0.5,
+      "fat_g": 10,
+      "method": "Calculated from Lay's product nutrition panel via myfooddata.com and CalorieKing, cross-checked against USDA FoodData Central potato chip values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold individually and in multipacks in every US supermarket, convenience store and vending machine nationwide."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Lay's - Potato Chips - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/539107/wt1" },
+      { "title": "Calories in Lay's Classic Potato Chips - CalorieKing", "url": "https://www.calorieking.com/us/en/foods/f/calories-in-potato-chips-classic-potato-chips/XPc3OJAMR_Sdy9yY5R5ymA" }
+    ]
+  },
+  {
+    "id": "us-snack-002",
+    "name": "Doritos Nacho Cheese Tortilla Chips (1 oz Bag)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Doritos Nacho Cheese is one of the top-selling tortilla chip flavors in the US, a fixture of school lunches, road trips and casual movie nights since the 1970s.",
+    "ingredients": [
+      { "item": "Doritos Nacho Cheese tortilla chips", "quantity": 1, "unit": "oz bag (28g)" }
+    ],
+    "prepNotes": "Open the bag and eat directly. No preparation required.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 20,
+      "fiber_g": 2,
+      "sugar_g": 1,
+      "fat_g": 5,
+      "method": "Calculated from Doritos product nutrition panel via myfooddata.com, cross-checked against USDA FoodData Central tortilla chip values"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold in single-serve and multipack bags nationwide year-round."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Doritos - Nacho Cheese Flavored Tortilla Chips - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/2653592/wt1" },
+      { "title": "RF Doritos Nacho Cheese Tortilla Chips Nutrition Facts PDF", "url": "https://www.washk12.org/wp-content/uploads/sites/21/2023/04/chips.pdf" }
+    ]
+  },
+  {
+    "id": "us-snack-003",
+    "name": "Cheez-It Original Baked Snack Crackers (27 Crackers)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cheez-It is one of the longest-running American cracker brands and the small square cheese cracker is a staple office desk drawer and lunchbox snack across the country.",
+    "ingredients": [
+      { "item": "Cheez-It Original baked snack crackers", "quantity": 27, "unit": "crackers (30g)" }
+    ],
+    "prepNotes": "Eat straight from the box or a portioned snack bag. No preparation needed.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 3,
+      "carbs_g": 17,
+      "fiber_g": 1,
+      "sugar_g": 0,
+      "fat_g": 8,
+      "method": "Calculated from Cheez-It product nutrition panel via Kellanova SmartLabel and myfooddiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Aldi"],
+      "notes": "Sold in boxes and 100-calorie snack packs in every US supermarket nationwide."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Cheez-It Original Crackers - MyFoodDiary", "url": "https://www.myfooddiary.com/foods/245444/cheez-it-original-crackers" },
+      { "title": "Cheez-It Original Snack Crackers - Kellanova", "url": "https://www.kellanovaawayfromhome.com/en-us/products/cheez-it-original-crackers-product.10024100122124.html" }
+    ]
+  },
+  {
+    "id": "us-snack-004",
+    "name": "Triscuit Original Crackers (6 Crackers)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Triscuit is a widely recognized whole-grain wheat cracker brand sold in nearly every US grocery store, often used as a base for cheese-and-cracker snack plates.",
+    "ingredients": [
+      { "item": "Triscuit Original woven wheat crackers", "quantity": 6, "unit": "crackers (28g)" }
+    ],
+    "prepNotes": "Eat plain or top with a slice of cheese. No cooking required.",
+    "nutrition": {
+      "calories": 120,
+      "protein_g": 3,
+      "carbs_g": 20,
+      "fiber_g": 3,
+      "sugar_g": 0,
+      "fat_g": 3.5,
+      "method": "Calculated from Triscuit product nutrition panel via myfooddata.com and nutritionandingredients.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Safeway"],
+      "notes": "Sold in standard and family-size boxes in nearly every US supermarket."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Triscuit - Triscuit Crackers Original - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/2491746/wt1" },
+      { "title": "Triscuit Original Crackers - nutritionandingredients.com", "url": "https://nutritionandingredients.com/triscuit-original-crackers/" }
+    ]
+  },
+  {
+    "id": "us-snack-005",
+    "name": "Snyder's of Hanover Pretzel Sticks (28 Sticks)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Snyder's of Hanover is the leading US pretzel brand; pretzel sticks are a low-fat snack-aisle staple often packed in school lunches and office snack drawers.",
+    "ingredients": [
+      { "item": "Snyder's of Hanover pretzel sticks", "quantity": 28, "unit": "sticks (30g)" }
+    ],
+    "prepNotes": "Eat straight from the bag. Pairs well with hummus or mustard for dipping.",
+    "nutrition": {
+      "calories": 110,
+      "protein_g": 3,
+      "carbs_g": 23,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 1,
+      "method": "Calculated from Snyder's of Hanover product nutrition panel via myfooddata.com and fatsecret.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold in standard bags and snack-size multipacks in nearly every US supermarket."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Snyder's Of Hanover - Pretzels Sticks - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/2676123/wt1" },
+      { "title": "Calories in Snyder's of Hanover Pretzel Sticks - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/snyders-of-hanover/pretzel-sticks" }
+    ]
+  },
+  {
+    "id": "us-snack-006",
+    "name": "SkinnyPop Original Popcorn (3.5 Cups)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "SkinnyPop helped popularize the ready-to-eat air-popped popcorn category in US grocery stores and is widely marketed as a whole-grain, minimally processed chip alternative.",
+    "ingredients": [
+      { "item": "SkinnyPop Original popcorn", "quantity": 3.5, "unit": "cups (28g)" }
+    ],
+    "prepNotes": "Ready to eat straight from the bag. No popping or cooking needed.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 15,
+      "fiber_g": 3,
+      "sugar_g": 0,
+      "fat_g": 10,
+      "method": "Calculated from SkinnyPop product nutrition panel via myfooddiary.com and H-E-B product page"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Whole Foods", "Kroger", "Costco"],
+      "notes": "Sold in single-serve bags and large sharing bags in most US supermarkets."
+    },
+    "sources": [
+      { "title": "SkinnyPop Popcorn Original - H-E-B product page", "url": "https://www.heb.com/product-detail/skinnypop-popcorn-original/1949351" },
+      { "title": "Nutrition Facts for SkinnyPop Original Popcorn - MyFoodDiary", "url": "https://www.myfooddiary.com/foods/6719050/skinnypop-original-popcorn" }
+    ]
+  },
+  {
+    "id": "us-snack-007",
+    "name": "Pirate's Booty Aged White Cheddar Puffs (1 oz)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pirate's Booty is a widely recognized US baked rice-and-corn puff snack, popular with parents as a lighter alternative to fried cheese puffs and a common after-school snack.",
+    "ingredients": [
+      { "item": "Pirate's Booty Aged White Cheddar puffs", "quantity": 1, "unit": "oz (28g)" }
+    ],
+    "prepNotes": "Eat straight from the bag. No preparation needed.",
+    "nutrition": {
+      "calories": 130,
+      "protein_g": 2,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 5,
+      "method": "Calculated from Pirate's Booty product nutrition panel via myfooddata.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Target", "Walmart", "Kroger", "Trader Joe's"],
+      "notes": "Sold in single-serve and family-size bags in most mainstream and natural-foods grocery stores."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Pirate's Booty - Aged White Cheddar - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/1861633/wt1" },
+      { "title": "Calories in Aged White Cheddar Snack by Pirate's Booty - MyNetDiary", "url": "https://www.mynetdiary.com/food/calories-in-aged-white-cheddar-snack-by-pirate-s-booty-serving-9152714-0.html" }
+    ]
+  },
+  {
+    "id": "us-snack-008",
+    "name": "Goldfish Cheddar Crackers (55 Pieces)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pepperidge Farm Goldfish crackers are one of the most iconic American kid snacks, sold in small fish-shaped pieces and a fixture of school lunchboxes and snack-time at daycare.",
+    "ingredients": [
+      { "item": "Goldfish Cheddar crackers", "quantity": 55, "unit": "pieces (approx. 30g)" }
+    ],
+    "prepNotes": "Eat straight from the bag or a small portioned container. No preparation needed.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 3,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sugar_g": 0,
+      "fat_g": 5,
+      "method": "Calculated from Pepperidge Farm Goldfish product nutrition panel via myfooddata.com and nutritionvalue.org"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger", "Safeway", "Costco"],
+      "notes": "Sold in large bags and individual snack packs in virtually every US supermarket."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Pepperidge Farm Goldfish Crackers Cheddar - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/811210/wt1" },
+      { "title": "Pepperidge farm goldfish crackers cheddar - nutritionvalue.org", "url": "https://www.nutritionvalue.org/Pepperidge_farm_goldfish_crackers_cheddar_by_PEPPERIDGE_FARM_811210_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "us-snack-009",
+    "name": "Nature Valley Oats 'n Honey Crunchy Granola Bar (2-Bar Pouch)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Nature Valley granola bars are a top-selling US granola bar brand, commonly tossed into school lunches, gym bags and glove compartments as a shelf-stable grab-and-go snack.",
+    "ingredients": [
+      { "item": "Nature Valley Oats 'n Honey Crunchy Granola Bars", "quantity": 2, "unit": "bars (1 pouch, 42g)" }
+    ],
+    "prepNotes": "Eat straight from the pouch. No preparation needed.",
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 3,
+      "carbs_g": 29,
+      "fiber_g": 2,
+      "sugar_g": 11,
+      "fat_g": 6,
+      "method": "Calculated from Nature Valley product nutrition panel via naturevalley.com and General Mills Foodservice spec sheet"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "tree nuts (may contain)"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger", "Safeway", "Costco"],
+      "notes": "Sold in boxes of individually wrapped 2-bar pouches in nearly every US supermarket."
+    },
+    "sources": [
+      { "title": "Oats and Honey Granola Bars - Nature Valley", "url": "https://www.naturevalley.com/products/oats-n-honey-crunchy-granola-bars" },
+      { "title": "Nature Valley Crunchy Granola Bars Oats 'N Honey - General Mills Foodservice", "url": "https://www.generalmillsfoodservice.com/products/category/snacks/bars/nature-valley/crunchy-granola-bars-oats-n-honey-074oz" }
+    ]
+  },
+  {
+    "id": "us-snack-010",
+    "name": "SunChips Original Multigrain Snacks (1 oz)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "SunChips is a long-running Frito-Lay multigrain chip brand marketed as a whole-grain alternative to standard potato chips and commonly found in vending machines and lunch combo packs.",
+    "ingredients": [
+      { "item": "SunChips Original multigrain snacks", "quantity": 1, "unit": "oz (16 chips)" }
+    ],
+    "prepNotes": "Eat straight from the bag. No preparation needed.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 2.3,
+      "carbs_g": 19,
+      "fiber_g": 2,
+      "sugar_g": 3,
+      "fat_g": 6,
+      "method": "Calculated from SunChips product nutrition panel via PepsiCo School Source and myfooddiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger", "Safeway", "Costco"],
+      "notes": "Sold in single-serve and family bags in nearly every US supermarket nationwide."
+    },
+    "sources": [
+      { "title": "SunChips Original Whole Grain Snacks 1 oz - PepsiCo School Source", "url": "https://www.pepsicoschoolsource.com/brands/sunchips-snacks/sunchips-original-whole-grain-snacks-1-oz" },
+      { "title": "Nutrition Facts for SunChips Original - MyFoodDiary", "url": "https://www.myfooddiary.com/foods/7435354/sunchips-original" }
+    ]
+  },
+  {
+    "id": "us-snack-011",
+    "name": "Apple Slices with Peanut Butter",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Apple slices with peanut butter is a classic American after-school and lunchbox snack, recommended widely by dietitians and school nutrition programs as a simple combination of fruit and protein-rich spread.",
+    "ingredients": [
+      { "item": "apple, medium", "quantity": 1, "unit": "whole (sliced)" },
+      { "item": "peanut butter", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Wash and core the apple, then slice into wedges. Serve with peanut butter for dipping, either in a small bowl or spread directly onto the slices.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 8,
+      "carbs_g": 28,
+      "fiber_g": 6,
+      "sugar_g": 19,
+      "fat_g": 16,
+      "method": "Calculated from USDA FoodData Central values for raw apple and smooth peanut butter"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Trader Joe's", "Aldi"],
+      "notes": "Apples and peanut butter are available year-round in every US grocery store."
+    },
+    "sources": [
+      { "title": "Apple and Peanut Butter: Nutrition, Calories, and Benefits - Healthline", "url": "https://www.healthline.com/health/apple-and-peanut-butter" },
+      { "title": "Apple with peanut butter Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/apple_with_peanut_butter_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-snack-012",
+    "name": "Baby Carrots with Hummus",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Pre-washed baby carrots paired with a tub of hummus is one of the most common grab-and-go vegetable snacks sold and eaten in the US, popularized by ready-to-eat produce sections and meal-prep culture.",
+    "ingredients": [
+      { "item": "baby carrots", "quantity": 1, "unit": "cup (about 12 carrots)" },
+      { "item": "hummus", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Rinse baby carrots if not pre-washed. Serve alongside a small container of hummus for dipping.",
+    "nutrition": {
+      "calories": 130,
+      "protein_g": 4,
+      "carbs_g": 17,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 6,
+      "method": "Calculated from USDA FoodData Central values for raw baby carrots and commercial hummus"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Trader Joe's", "Aldi", "Costco"],
+      "notes": "Pre-packaged baby carrot bags and hummus tubs are available year-round in every US supermarket produce and deli section."
+    },
+    "sources": [
+      { "title": "Baby Carrots and Low-Fat Hummus - PCRM", "url": "https://www.pcrm.org/good-nutrition/plant-based-diets/recipes/baby-carrots-and-low-fat-hummus" },
+      { "title": "Carrot and hummus Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/carrot_and_hummus_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-snack-013",
+    "name": "Cottage Cheese with Pineapple",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Cottage cheese with pineapple is a long-standing American diner and home-kitchen combination, sold pre-portioned in supermarket dairy aisles and popular again recently through high-protein social media food trends.",
+    "ingredients": [
+      { "item": "low-fat cottage cheese", "quantity": 0.75, "unit": "cup" },
+      { "item": "pineapple chunks, fresh or canned in juice", "quantity": 0.5, "unit": "cup" }
+    ],
+    "prepNotes": "Drain canned pineapple if using. Spoon cottage cheese into a bowl and top with pineapple chunks. Ready in under 2 minutes.",
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 17,
+      "carbs_g": 19,
+      "fiber_g": 1,
+      "sugar_g": 14,
+      "fat_g": 5,
+      "method": "Calculated from USDA FoodData Central values for low-fat cottage cheese and pineapple"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Whole Foods"],
+      "notes": "Cottage cheese and canned or fresh pineapple are available year-round in every US supermarket dairy and produce aisle."
+    },
+    "sources": [
+      { "title": "Cottage Cheese and Pineapple Bowl - Healthy by Fork", "url": "https://www.healthybyfork.com/cottage-cheese-and-pineapple-bowl/" },
+      { "title": "Pineapple cottage cheese mix Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/pineapple_cottage_cheese_mix_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-snack-014",
+    "name": "Classic Trail Mix (Nuts, Raisins, M&Ms)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Trail mix is a quintessential American hiking, road-trip and school-lunch snack, sold pre-packaged in every supermarket snack aisle and bulk-bin section nationwide.",
+    "ingredients": [
+      { "item": "trail mix (peanuts, almonds, raisins, chocolate candies)", "quantity": 0.25, "unit": "cup (1 oz)" }
+    ],
+    "prepNotes": "Eat straight from a portioned bag or container. No preparation needed.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 4,
+      "carbs_g": 15,
+      "fiber_g": 2,
+      "sugar_g": 9,
+      "fat_g": 9,
+      "method": "Calculated from USDA FoodData Central values for standard trail mix with chocolate chips, nuts and dried fruit"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["peanuts", "tree nuts", "dairy", "may contain soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Costco", "Trader Joe's", "Whole Foods"],
+      "notes": "Sold pre-packaged and in bulk bins year-round in nearly every US grocery store."
+    },
+    "sources": [
+      { "title": "Trail Mix Nutrition Facts for US Consumers - Number Analytics", "url": "https://www.numberanalytics.com/blog/trail-mix-nutrition-facts-us-consumers" },
+      { "title": "Is Trail Mix Good for You? - Consumer Reports", "url": "https://www.consumerreports.org/healthy-snacks/is-trail-mix-good-for-you/" }
+    ]
+  },
+  {
+    "id": "us-snack-015",
+    "name": "Mozzarella String Cheese (1 Stick)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "String cheese is one of the most common kid and adult grab-and-go snacks in the US, individually wrapped and a refrigerator staple in school lunches, gym bags and office fridges.",
+    "ingredients": [
+      { "item": "mozzarella string cheese stick", "quantity": 1, "unit": "stick (28g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly, optionally peeled into strings. No preparation needed.",
+    "nutrition": {
+      "calories": 80,
+      "protein_g": 7,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "fat_g": 6,
+      "method": "Calculated from Kraft and Galbani string cheese product nutrition panels via myfooddata.com and carbmanager.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco", "Aldi"],
+      "notes": "Sold in multipacks in the refrigerated dairy section of every US supermarket."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Tops - Mozzarella String Cheese Sticks - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/528585/wt1" },
+      { "title": "Carbs in Kraft String Cheese Mozzarella - Carb Manager", "url": "https://www.carbmanager.com/food-detail/md:a157f903e70fe29409592f27adcc93e8/string-cheese-mozzarella" }
+    ]
+  },
+  {
+    "id": "us-snack-016",
+    "name": "Plain Greek Yogurt with Berries",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Greek yogurt became a mainstream American snack in the 2010s, led by brands like Chobani, and is now a standard high-protein snack recommended widely for its versatility and availability in every dairy aisle.",
+    "ingredients": [
+      { "item": "plain nonfat Greek yogurt", "quantity": 1, "unit": "cup" },
+      { "item": "mixed berries, fresh", "quantity": 0.5, "unit": "cup" }
+    ],
+    "prepNotes": "Spoon yogurt into a bowl and top with fresh berries. Ready in under 2 minutes.",
+    "nutrition": {
+      "calories": 165,
+      "protein_g": 22,
+      "carbs_g": 16,
+      "fiber_g": 2,
+      "sugar_g": 11,
+      "fat_g": 1,
+      "method": "Calculated from Chobani nonfat plain Greek yogurt product nutrition panel and USDA FoodData Central mixed berries"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Trader Joe's", "Costco"],
+      "notes": "Greek yogurt and fresh or frozen berries are available year-round in every US supermarket dairy and produce aisle."
+    },
+    "sources": [
+      { "title": "Nonfat Plain - Chobani Greek Yogurt", "url": "https://www.chobani.com/products/yogurt/greek/nonfat-plain-cup" },
+      { "title": "1 Cup Of Chobani Greek Yogurt, Non Fat Plain Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/greek-yogurt-non-fat-plain-1757332?a=1.3333333333333333%3A1" }
+    ]
+  },
+  {
+    "id": "us-snack-017",
+    "name": "Roasted Almonds (1 oz)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A small handful of roasted almonds is one of the most commonly recommended whole-food snacks in the US, sold in single-serve packs at gas stations, airports and office vending machines as well as bulk bins in every grocery store.",
+    "ingredients": [
+      { "item": "dry-roasted almonds, lightly salted", "quantity": 1, "unit": "oz (about 23 almonds)" }
+    ],
+    "prepNotes": "Eat straight from a portioned bag or container. No preparation needed.",
+    "nutrition": {
+      "calories": 165,
+      "protein_g": 6,
+      "carbs_g": 6,
+      "fiber_g": 3,
+      "sugar_g": 1,
+      "fat_g": 14,
+      "method": "Calculated from USDA FoodData Central values for dry-roasted almonds"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Costco", "Trader Joe's", "Whole Foods"],
+      "notes": "Sold in single-serve packs and bulk bags year-round in every US grocery store."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Dry Roasted Almonds - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/170158/wt2" },
+      { "title": "Almonds - The Nutrition Source, Harvard T.H. Chan School of Public Health", "url": "https://nutritionsource.hsph.harvard.edu/food-features/almonds/" }
+    ]
+  },
+  {
+    "id": "us-snack-018",
+    "name": "Steamed Edamame in the Pod",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Steamed edamame became a mainstream US snack through sushi-restaurant culture and is now sold frozen in every major grocery store's freezer aisle as a quick microwave snack.",
+    "ingredients": [
+      { "item": "frozen edamame in pods", "quantity": 1, "unit": "cup (155g)" },
+      { "item": "sea salt", "quantity": 0.25, "unit": "tsp" }
+    ],
+    "prepNotes": "Steam or microwave frozen edamame pods according to package directions, about 5 minutes. Toss with a pinch of sea salt and squeeze pods to eat the beans inside.",
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 17,
+      "carbs_g": 14,
+      "fiber_g": 8,
+      "sugar_g": 3,
+      "fat_g": 8,
+      "method": "Calculated from USDA FoodData Central values for cooked edamame in pods"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's", "Whole Foods", "Walmart", "Kroger", "Target"],
+      "notes": "Sold frozen in bags in the freezer aisle of nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Edamame pods Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/edamame_pods_nutrition.html" },
+      { "title": "Steamed Edamame Pods - University of Maryland Nutrition label", "url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151290*3" }
+    ]
+  },
+  {
+    "id": "us-snack-019",
+    "name": "Celery Sticks with Peanut Butter",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Celery with peanut butter is a classic American low-prep snack often taught in school nutrition programs, sometimes called \"ants on a log\" when raisins are added on top.",
+    "ingredients": [
+      { "item": "celery stalks", "quantity": 3, "unit": "large stalks, cut into sticks" },
+      { "item": "peanut butter", "quantity": 2, "unit": "tbsp" }
+    ],
+    "prepNotes": "Wash celery stalks and cut into 3-4 inch sticks. Spread or dip in peanut butter.",
+    "nutrition": {
+      "calories": 200,
+      "protein_g": 8,
+      "carbs_g": 9,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 16,
+      "method": "Calculated from USDA FoodData Central values for raw celery and smooth peanut butter"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Aldi", "Safeway"],
+      "notes": "Celery and peanut butter are available year-round in every US grocery store."
+    },
+    "sources": [
+      { "title": "Celery Sticks with Peanut Butter - American Liver Foundation", "url": "https://liverfoundation.org/health-and-wellness/healthy-lifestyle/recipes/celery-sticks-with-peanut-butter/" },
+      { "title": "Celery and Peanut Butter: Nutrition, Benefits, Downsides - Healthline", "url": "https://www.healthline.com/nutrition/celery-and-peanut-butter" }
+    ]
+  },
+  {
+    "id": "us-snack-020",
+    "name": "Medium Banana",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "A single banana is one of the most commonly eaten on-the-go whole-fruit snacks in the US, sold individually at nearly every grocery checkout, office cafeteria and gym snack bar.",
+    "ingredients": [
+      { "item": "banana, medium", "quantity": 1, "unit": "whole (118g)" }
+    ],
+    "prepNotes": "Peel and eat. No preparation needed.",
+    "nutrition": {
+      "calories": 105,
+      "protein_g": 1.3,
+      "carbs_g": 27,
+      "fiber_g": 3.1,
+      "sugar_g": 14.4,
+      "fat_g": 0.4,
+      "method": "Calculated from USDA FoodData Central values for raw banana"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Trader Joe's", "Aldi", "Costco"],
+      "notes": "Bananas are sold year-round in every US grocery store and are one of the most consistently low-priced fruits."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Banana, 1 Medium - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/100081786/wt1" },
+      { "title": "Bananas - The Nutrition Source, Harvard T.H. Chan School of Public Health", "url": "https://nutritionsource.hsph.harvard.edu/food-features/bananas/" }
+    ]
+  },
+  {
+    "id": "us-snack-021",
+    "name": "Two Hard-Boiled Eggs",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Hard-boiled eggs are a long-standing American high-protein snack, sold pre-peeled and packaged in nearly every supermarket and convenience store cooler as a grab-and-go option.",
+    "ingredients": [
+      { "item": "eggs, large", "quantity": 2, "unit": "whole, hard-boiled" }
+    ],
+    "prepNotes": "Place eggs in a pot, cover with water, bring to a boil, then cover and remove from heat for 10-12 minutes. Cool in ice water, peel, and sprinkle with salt and pepper if desired.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 12,
+      "carbs_g": 1,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "fat_g": 10,
+      "method": "Calculated from USDA FoodData Central values for hard-boiled large eggs"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco", "Trader Joe's"],
+      "notes": "Eggs and pre-peeled hard-boiled egg packs are available year-round in every US supermarket."
+    },
+    "sources": [
+      { "title": "Hard-Boiled Egg Nutrition Facts: Calories, Protein and More - Healthline", "url": "https://www.healthline.com/nutrition/boiled-egg-nutrition" },
+      { "title": "Two hard boiled eggs Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/two_hard_boiled_eggs_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-snack-022",
+    "name": "Jack Link's Original Beef Jerky (1 oz)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Jack Link's is the dominant US beef jerky brand, found at gas stations, convenience stores and the checkout aisle of nearly every supermarket as a shelf-stable high-protein snack.",
+    "ingredients": [
+      { "item": "Jack Link's Original beef jerky", "quantity": 1, "unit": "oz (28g)" }
+    ],
+    "prepNotes": "Eat straight from the bag. No preparation needed.",
+    "nutrition": {
+      "calories": 80,
+      "protein_g": 10,
+      "carbs_g": 3,
+      "fiber_g": 0,
+      "sugar_g": 2,
+      "fat_g": 2,
+      "method": "Calculated from Jack Link's product nutrition panel via myfooddata.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Costco", "Safeway"],
+      "notes": "Sold in single-serve bags at checkout aisles and multipacks year-round in nearly every US store."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Jack Link's - Original Beef Jerky - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/566443/wt1" },
+      { "title": "Original Beef Jerky - Jack Link's", "url": "https://www.jacklinks.com/products/original-beef-jerky" }
+    ]
+  },
+  {
+    "id": "us-snack-023",
+    "name": "RXBAR Chocolate Sea Salt Protein Bar",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "RXBAR popularized the minimal-ingredient \"egg white protein bar\" category in the US, marketed with its ingredient list printed on the front of the wrapper, and is now sold in nearly every major grocery and convenience chain.",
+    "ingredients": [
+      { "item": "RXBAR Chocolate Sea Salt protein bar", "quantity": 1, "unit": "bar (52g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 12,
+      "carbs_g": 23,
+      "fiber_g": 5,
+      "sugar_g": 13,
+      "fat_g": 9,
+      "method": "Calculated from RXBAR product nutrition panel via myfooddata.com and mynetdiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["eggs", "tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Whole Foods", "Kroger", "Costco"],
+      "notes": "Sold individually and in multipacks in the snack-bar aisle of most US supermarkets year-round."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Rx Bar - Chocolate Sea Salt Protein Bar - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/705852/wt1" },
+      { "title": "Calories in Protein Bar Chocolate Sea Salt by Rxbar - MyNetDiary", "url": "https://www.mynetdiary.com/food/calories-in-protein-bar-chocolate-sea-salt-by-rxbar-bar-14848780-0.html" }
+    ]
+  },
+  {
+    "id": "us-snack-024",
+    "name": "Quest Chocolate Chip Cookie Dough Protein Bar",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Quest Bars are one of the best-selling high-protein, high-fiber bars in US gyms, supplement stores and supermarket protein-bar sections, known for a low-sugar dessert-style flavor lineup.",
+    "ingredients": [
+      { "item": "Quest Chocolate Chip Cookie Dough protein bar", "quantity": 1, "unit": "bar (60g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly, or warm for 10 seconds in the microwave for a softer texture. No other preparation needed.",
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 21,
+      "carbs_g": 22,
+      "fiber_g": 12,
+      "sugar_g": 1,
+      "fat_g": 9,
+      "method": "Calculated from Quest Nutrition product nutrition panel via questnutrition.com"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "low_carb"],
+      "allergens": ["milk", "tree nuts (may contain)", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Costco", "Kroger", "Whole Foods"],
+      "notes": "Sold individually and in box multipacks in the protein-bar and supplement sections of most US supermarkets."
+    },
+    "sources": [
+      { "title": "Chocolate Chip Cookie Dough Protein Bars - Quest Nutrition", "url": "https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar" },
+      { "title": "Calories in Quest Chocolate Chip Cookie Dough Protein Bar - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/quest/chocolate-chip-cookie-dough-protein-bar" }
+    ]
+  },
+  {
+    "id": "us-snack-025",
+    "name": "Premier Protein Chocolate Shake (11.5 fl oz)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Premier Protein ready-to-drink shakes are a top-selling US bottled protein beverage, sold by the case at Costco and Sam's Club and individually in convenience stores as a quick high-protein snack on the go.",
+    "ingredients": [
+      { "item": "Premier Protein Chocolate shake", "quantity": 11.5, "unit": "fl oz bottle" }
+    ],
+    "prepNotes": "Shake well and drink chilled. No preparation needed.",
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 30,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 3,
+      "method": "Calculated from Premier Protein product nutrition panel via premierprotein.com and myfooddiary.com"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Costco", "Walmart", "Target", "Kroger", "Safeway"],
+      "notes": "Sold in multipack cases nationwide; one of the most widely stocked ready-to-drink protein shakes in US supermarkets."
+    },
+    "sources": [
+      { "title": "Chocolate Protein Shake - Premier Protein", "url": "https://www.premierprotein.com/products/chocolate-protein-shake" },
+      { "title": "Nutrition Facts for Premier Protein Chocolate Flavored High Protein Shake - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/2608019/wt1" }
+    ]
+  },
+  {
+    "id": "us-snack-026",
+    "name": "Slim Jim Original Giant Smoked Snack Stick",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Slim Jim is a long-running American convenience-store meat snack stick, a checkout-aisle staple since the 1940s and especially common with truckers, hunters and road-trippers.",
+    "ingredients": [
+      { "item": "Slim Jim Original Giant smoked snack stick", "quantity": 1, "unit": "stick (28g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 140,
+      "protein_g": 6,
+      "carbs_g": 2,
+      "fiber_g": 0,
+      "sugar_g": 1,
+      "fat_g": 12,
+      "method": "Calculated from Slim Jim product nutrition panel via myfooddata.com and eatthismuch.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["low_carb"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway"],
+      "notes": "Sold individually at checkout aisles and in multipacks nationwide, especially common in convenience stores and gas stations."
+    },
+    "sources": [
+      { "title": "Slim Jim Original, Beef Stick Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/original-beef-stick-1761007" },
+      { "title": "Nutrition Facts for Slim Jim Original Smoked Snack Sticks - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/2600423/wt1" }
+    ]
+  },
+  {
+    "id": "us-snack-027",
+    "name": "StarKist Tuna Creations Ranch Pouch with Whole-Grain Crackers",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Ready-to-eat flavored tuna pouches like StarKist Tuna Creations are a popular no-cook, shelf-stable protein snack in the US, often eaten straight from the pouch or paired with crackers at desks and on road trips.",
+    "ingredients": [
+      { "item": "StarKist Tuna Creations Ranch pouch", "quantity": 2.6, "unit": "oz pouch" },
+      { "item": "whole-grain crackers", "quantity": 6, "unit": "crackers" }
+    ],
+    "prepNotes": "Tear open the pouch and eat directly with a fork, or scoop onto crackers. No cooking or draining needed.",
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 18,
+      "carbs_g": 21,
+      "fiber_g": 3,
+      "sugar_g": 1,
+      "fat_g": 4,
+      "method": "Calculated from StarKist Tuna Creations product nutrition panel via starkist.com and Triscuit cracker nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Tuna pouches and whole-grain crackers are shelf-stable pantry staples sold in every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Tuna Creations Ranch - StarKist", "url": "https://starkist.com/product/tuna-creations-ranch/" },
+      { "title": "Amazon.com: StarKist Light Tuna in Water Pouch Nutrition", "url": "https://www.amazon.com/StarKist-Protein-Calories-Serving-Perfect/dp/B00374QXAC" }
+    ]
+  },
+  {
+    "id": "us-snack-028",
+    "name": "Roasted Pumpkin Seeds (Pepitas, 1 oz)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Roasted pumpkin seeds, or pepitas, are sold in the bulk and snack-nut aisles of most US grocery stores and are a popular fall and year-round seed snack, especially in the Southwest where pepitas are a Mexican-American pantry staple.",
+    "ingredients": [
+      { "item": "roasted pumpkin seeds (pepitas), salted", "quantity": 1, "unit": "oz (28g)" }
+    ],
+    "prepNotes": "Eat straight from a portioned bag. No preparation needed.",
+    "nutrition": {
+      "calories": 151,
+      "protein_g": 7,
+      "carbs_g": 4,
+      "fiber_g": 2,
+      "sugar_g": 0.4,
+      "fat_g": 13,
+      "method": "Calculated from USDA FoodData Central values for roasted pumpkin and squash seed kernels"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free", "low_carb"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Trader Joe's", "Whole Foods", "Aldi"],
+      "notes": "Sold in bags and bulk bins year-round; especially popular in Southwestern and Mexican-American grocery sections."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Roasted Squash And Pumpkin Seeds (Pepitas) (Unsalted) - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/170557/wt2" },
+      { "title": "Pepitas Roasted Pumpkin Seeds, Salted Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/roasted-pumpkin-seeds-salted-486884" }
+    ]
+  },
+  {
+    "id": "us-snack-029",
+    "name": "Oreo Cookies (3 Cookies)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Oreo is the best-selling cookie brand in the US, a household pantry staple since 1912, commonly eaten plain, dunked in milk, or packed in lunchboxes as an after-school treat.",
+    "ingredients": [
+      { "item": "Oreo sandwich cookies", "quantity": 3, "unit": "cookies (34g)" }
+    ],
+    "prepNotes": "Eat straight from the package, traditionally dunked in a glass of milk. No preparation needed.",
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 1,
+      "carbs_g": 25,
+      "fiber_g": 1,
+      "sugar_g": 13,
+      "fat_g": 7,
+      "method": "Calculated from Nabisco Oreo product nutrition panel via recipal.com and snapcalorie.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegan"],
+      "allergens": ["gluten", "may contain milk", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Aldi", "Costco"],
+      "notes": "Sold in standard and family-size packages in every US supermarket cookie aisle year-round."
+    },
+    "sources": [
+      { "title": "Oreo cookies Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/oreo_cookies_nutrition.html" },
+      { "title": "Oreo Cookies Nutrition Facts - Recipal", "url": "https://www.recipal.com/ingredients/7622-nutrition-facts-calories-protein-carbs-fat-oreo-cookies" }
+    ]
+  },
+  {
+    "id": "us-snack-030",
+    "name": "Reese's Peanut Butter Cups (2 Cups, Standard Size)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Reese's Peanut Butter Cups are one of the top-selling candies in the US, a Halloween and checkout-aisle staple combining chocolate and peanut butter.",
+    "ingredients": [
+      { "item": "Reese's Peanut Butter Cups, standard size", "quantity": 2, "unit": "cups (1.5 oz package)" }
+    ],
+    "prepNotes": "Unwrap and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 4,
+      "carbs_g": 24,
+      "fiber_g": 1,
+      "sugar_g": 21,
+      "fat_g": 13,
+      "method": "Calculated from Hershey's Reese's product nutrition panel via myfooddata.com and nutritionvalue.org"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["peanuts", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold individually at checkout aisles and in multipacks nationwide year-round, with seasonal shapes around holidays."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Candies, Reese's Peanut Butter Cups - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/168763/wt1" },
+      { "title": "Candies, REESE'S Peanut Butter Cups - nutritionvalue.org", "url": "https://www.nutritionvalue.org/Candies%2C_REESE%27S_Peanut_Butter_Cups_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "us-snack-031",
+    "name": "Rice Krispies Treats Bar",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Rice Krispies Treats are a classic American homemade and packaged dessert snack, a bake-sale and lunchbox staple made from puffed rice cereal and marshmallow since the 1930s.",
+    "ingredients": [
+      { "item": "Kellogg's Rice Krispies Treats Original bar", "quantity": 1, "unit": "bar (22g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly. No preparation needed for the packaged version.",
+    "nutrition": {
+      "calories": 90,
+      "protein_g": 0.5,
+      "carbs_g": 17,
+      "fiber_g": 0,
+      "sugar_g": 8,
+      "fat_g": 2,
+      "method": "Calculated from Kellogg's Rice Krispies Treats product nutrition panel via Kellogg's SmartLabel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten (may contain)", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold in individually wrapped multipack boxes in nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Kellogg's Rice Krispies Treats Original Bars - SmartLabel", "url": "https://smartlabel.kelloggs.com/Product/Index/00038000265013" },
+      { "title": "Nutrition Facts for Rice Krispies Treats - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/2529015/wt1" }
+    ]
+  },
+  {
+    "id": "us-snack-032",
+    "name": "Welch's Mixed Fruit Snacks (1 Pouch)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Welch's Fruit Snacks are one of the most common American kid snacks, sold in individual pouches for school lunches and marketed as a fruit-juice-based alternative to traditional gummy candy.",
+    "ingredients": [
+      { "item": "Welch's Mixed Fruit fruit snacks", "quantity": 1, "unit": "pouch (0.8 oz / 22.7g)" }
+    ],
+    "prepNotes": "Tear open the pouch and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 70,
+      "protein_g": 0,
+      "carbs_g": 17,
+      "fiber_g": 0,
+      "sugar_g": 10,
+      "fat_g": 0,
+      "method": "Calculated from Welch's Fruit Snacks product nutrition panel via eatthismuch.com and myfooddiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold in multipack boxes of individual pouches in nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Welch's Fruit Snacks, Mixed Fruit - welchsfruitsnacks.com", "url": "https://welchsfruitsnacks.com/products/mixed-fruit/" },
+      { "title": "Nutrition Facts for Welch's Mixed Fruit Snacks - MyFoodDiary", "url": "https://www.myfooddiary.com/foods/1862499/welchs-mixed-fruit-snacks" }
+    ]
+  },
+  {
+    "id": "us-snack-033",
+    "name": "Homemade Chocolate Chip Cookie (1 Medium Cookie)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "The Toll House-style chocolate chip cookie is one of the most iconic homemade American desserts, baked in home kitchens nationwide since the 1930s and a common after-school or bake-sale treat.",
+    "ingredients": [
+      { "item": "homemade chocolate chip cookie, medium (3-inch)", "quantity": 1, "unit": "cookie (about 25g)" }
+    ],
+    "prepNotes": "Made from a standard butter, sugar, flour and chocolate chip recipe, baked at 375°F for 9-11 minutes. Best enjoyed slightly warm with a glass of milk.",
+    "nutrition": {
+      "calories": 130,
+      "protein_g": 1.5,
+      "carbs_g": 17,
+      "fiber_g": 0.5,
+      "sugar_g": 10,
+      "fat_g": 7,
+      "method": "Calculated from standard Toll House-style recipe ingredient breakdown via USDA FoodData Central for butter, flour, sugar and chocolate chips"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs", "may contain tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Trader Joe's"],
+      "notes": "Ingredients (flour, butter, sugar, chocolate chips) are available year-round in every US grocery store; pre-made dough and bakery versions are also widely sold."
+    },
+    "sources": [
+      { "title": "Chocolate Chip Cookie Nutrition Information - Chocolate Covered Katie", "url": "https://chocolatecoveredkatie.com/chocolate-chip-cookie-nutrition-information/" },
+      { "title": "Homemade chocolate chip cookie Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/homemade_chocolate_chip_cookie_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-snack-034",
+    "name": "Snickers Bar (Full Size)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Snickers is one of the best-selling chocolate candy bars in the US, sold at every checkout aisle, gas station and vending machine and famously marketed around hunger (\"You're not you when you're hungry\").",
+    "ingredients": [
+      { "item": "Snickers bar, full size", "quantity": 1, "unit": "bar (1.86 oz / 52.7g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 4,
+      "carbs_g": 33,
+      "fiber_g": 1,
+      "sugar_g": 27,
+      "fat_g": 12,
+      "method": "Calculated from Mars Snickers product nutrition panel via fatsecret.com and foodstruct.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["peanuts", "dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold individually at checkout aisles and in multipacks nationwide year-round."
+    },
+    "sources": [
+      { "title": "Calories in Snickers Snickers Bar - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/snickers/snickers-bar-(186-oz)" },
+      { "title": "Snickers nutrition - foodstruct.com", "url": "https://foodstruct.com/food/snickers" }
+    ]
+  },
+  {
+    "id": "us-snack-035",
+    "name": "Klondike Original Vanilla Ice Cream Bar",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "The Klondike Bar is a classic American frozen dessert snack, a chocolate-coated vanilla ice cream bar sold in supermarket freezer aisles since the early 1920s and famous for its \"What would you do for a Klondike Bar?\" ad campaign.",
+    "ingredients": [
+      { "item": "Klondike Original vanilla ice cream bar", "quantity": 1, "unit": "bar (97g)" }
+    ],
+    "prepNotes": "Keep frozen and unwrap just before eating. No preparation needed.",
+    "nutrition": {
+      "calories": 250,
+      "protein_g": 3,
+      "carbs_g": 28,
+      "fiber_g": 1,
+      "sugar_g": 23,
+      "fat_g": 14,
+      "method": "Calculated from Klondike product nutrition panel via fatsecret.com and myfooddiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy", "soy", "may contain tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold in multipack boxes in the freezer aisle of nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Calories in Klondike Original Ice Cream Bar - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/klondike/original-ice-cream-bar" },
+      { "title": "Nutrition Facts for Klondike Original Klondike Bar - MyFoodDiary", "url": "https://www.myfooddiary.com/foods/22735/klondike-original-klondike-bar" }
+    ]
+  },
+  {
+    "id": "us-snack-036",
+    "name": "Jell-O Chocolate Pudding Cup",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Jell-O ready-to-eat pudding cups are a long-standing American lunchbox dessert, sold in multipacks in the refrigerated and shelf-stable snack aisles of nearly every supermarket.",
+    "ingredients": [
+      { "item": "Jell-O Original Chocolate ready-to-eat pudding cup", "quantity": 1, "unit": "cup (99g)" }
+    ],
+    "prepNotes": "Open the cup and eat directly with a spoon. No preparation needed.",
+    "nutrition": {
+      "calories": 120,
+      "protein_g": 1,
+      "carbs_g": 21,
+      "fiber_g": 0.5,
+      "sugar_g": 19,
+      "fat_g": 3.5,
+      "method": "Calculated from Jell-O product nutrition panel via fatsecret.com and Amazon product listing"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Aldi"],
+      "notes": "Sold in multipacks in the shelf-stable pudding aisle of nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Calories in Jell-O Chocolate Pudding Cups - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/jell-o/chocolate-pudding-cups" },
+      { "title": "Amazon.com: Jell-O Original Chocolate Ready-to-Eat Pudding Snack Cups", "url": "https://www.amazon.com/Jell-Chocolate-Pudding-Snacks-Count/dp/B000Q61OZI" }
+    ]
+  },
+  {
+    "id": "us-snack-037",
+    "name": "Quest Nacho Cheese Protein Chips (1 Bag)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Quest Protein Chips popularized the high-protein tortilla-style chip category in US gyms and supplement aisles, sold individually and in multipacks as a savory, low-carb alternative to traditional tortilla chips.",
+    "ingredients": [
+      { "item": "Quest Nacho Cheese protein chips", "quantity": 1, "unit": "oz bag (32g)" }
+    ],
+    "prepNotes": "Open the bag and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 18,
+      "carbs_g": 5,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 6,
+      "method": "Calculated from Quest Nutrition product nutrition panel via questnutrition.com and nutritionvalue.org"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "low_carb"],
+      "allergens": ["dairy", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Costco", "Kroger", "Whole Foods"],
+      "notes": "Sold individually and in box multipacks in the protein-snack and supplement sections of most US supermarkets."
+    },
+    "sources": [
+      { "title": "Nacho Cheese Protein Chips - Quest Nutrition", "url": "https://www.questnutrition.com/products/nacho-cheese-protein-chips" },
+      { "title": "Protein chips by QUEST nutrition facts and analysis - nutritionvalue.org", "url": "https://www.nutritionvalue.org/Protein_chips_by_QUEST_537443_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "us-snack-038",
+    "name": "Justin's Classic Peanut Butter Squeeze Pack",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Justin's squeeze packs are a widely sold single-serve nut butter format in US grocery and convenience stores, popular for hiking, gym bags and lunchboxes as a no-spoon-needed protein-and-fat snack.",
+    "ingredients": [
+      { "item": "Justin's Classic Peanut Butter squeeze pack", "quantity": 1.15, "unit": "oz packet (32g)" }
+    ],
+    "prepNotes": "Tear open the packet and squeeze directly into the mouth, onto a banana, or onto crackers. No preparation needed.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 7,
+      "carbs_g": 6,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "fat_g": 18,
+      "method": "Calculated from Justin's product nutrition panel via fatsecret.com and Hormel Foodservice product spec sheet"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Target", "Walmart", "Kroger", "Trader Joe's"],
+      "notes": "Sold individually at checkout aisles and in multipack boxes in most US supermarkets and outdoor/camping retailers year-round."
+    },
+    "sources": [
+      { "title": "Classic Peanut Butter - JUSTIN'S Products", "url": "https://www.justins.com/products/classic-peanut-butter/" },
+      { "title": "Calories in Justin's Nut Butter Classic Peanut Butter - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/justins-nut-butter/classic-peanut-butter" }
+    ]
+  },
+  {
+    "id": "us-snack-039",
+    "name": "Rice Cakes with Almond Butter and Banana",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Rice cakes topped with nut butter are a long-standing American health-food-aisle snack, popularized by gym culture and meal-prep blogs as a lighter alternative to bread-based snacks.",
+    "ingredients": [
+      { "item": "plain brown rice cakes", "quantity": 2, "unit": "cakes" },
+      { "item": "almond butter", "quantity": 2, "unit": "tbsp" },
+      { "item": "banana, medium", "quantity": 0.5, "unit": "whole, sliced" }
+    ],
+    "prepNotes": "Spread almond butter evenly over each rice cake. Top with banana slices and eat immediately for the best crunch.",
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 7,
+      "carbs_g": 30,
+      "fiber_g": 5,
+      "sugar_g": 10,
+      "fat_g": 16,
+      "method": "Calculated from USDA FoodData Central values for plain rice cakes, almond butter and raw banana"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": ["tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Whole Foods", "Trader Joe's", "Aldi"],
+      "notes": "Rice cakes, almond butter and bananas are stocked year-round in nearly every US grocery store."
+    },
+    "sources": [
+      { "title": "Rice Cakes With Banana & Almond Butter - Eat This Much", "url": "https://www.eatthismuch.com/calories/rice-cakes-with-banana-almond-butter-332327" },
+      { "title": "Almond butter on rice cake Nutrition - SnapCalorie", "url": "https://www.snapcalorie.com/nutrition/almond_butter_on_rice_cake_nutrition.html" }
+    ]
+  },
+  {
+    "id": "us-snack-040",
+    "name": "Kettle Corn (3 Cups, Ready-to-Eat Bag)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Kettle corn is a sweet-and-salty popcorn style with roots in early American fairs and markets, now sold in ready-to-eat bags by brands like LesserEvil and Pop's in nearly every snack aisle and at farmers markets and state fairs nationwide.",
+    "ingredients": [
+      { "item": "ready-to-eat kettle corn popcorn", "quantity": 3, "unit": "cups (1 oz / 28g)" }
+    ],
+    "prepNotes": "Eat straight from the bag. No preparation needed.",
+    "nutrition": {
+      "calories": 120,
+      "protein_g": 1.5,
+      "carbs_g": 22,
+      "fiber_g": 2.5,
+      "sugar_g": 6,
+      "fat_g": 4,
+      "method": "Calculated from LesserEvil and Pop's Kettle Korn product nutrition panels via eatthismuch.com and popskettlekorn.net"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Target", "Walmart", "Trader Joe's", "Kroger"],
+      "notes": "Sold in bags year-round in the snack aisle of most US supermarkets, and fresh-popped at farmers markets, fairs and festivals."
+    },
+    "sources": [
+      { "title": "Nutritional Facts and Ingredients for Pop's Kettle Korn Flavors", "url": "https://popskettlekorn.net/nutrition-facts/" },
+      { "title": "Lesserevil Kettle Corn Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/kettle-corn-124294" }
+    ]
+  },
+  {
+    "id": "us-snack-041",
+    "name": "P3 Portable Protein Pack (Turkey, Almonds & Colby Jack Cheese)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Oscar Mayer's P3 packs are a widely sold adult-marketed answer to Lunchables, combining sliced turkey, almonds and cheese in a refrigerated grab-and-go tray found in the deli and lunch-meat aisles of most US supermarkets.",
+    "ingredients": [
+      { "item": "P3 Portable Protein Pack (turkey, almonds, Colby Jack cheese)", "quantity": 2, "unit": "oz tray (56g)" }
+    ],
+    "prepNotes": "Open the tray and eat directly, no preparation needed. Keep refrigerated until ready to eat.",
+    "nutrition": {
+      "calories": 160,
+      "protein_g": 11,
+      "carbs_g": 4,
+      "fiber_g": 1,
+      "sugar_g": 1,
+      "fat_g": 12,
+      "method": "Calculated from Oscar Mayer P3 product nutrition panel via oscarmayer.com and myfooddiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "low_carb"],
+      "allergens": ["tree nuts", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger", "Safeway", "Costco"],
+      "notes": "Sold in single trays and multipacks in the refrigerated lunch-meat aisle of nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Portable Protein Snack Pack with Turkey, Almonds & Colby Jack Cheese - Oscar Mayer", "url": "https://www.oscarmayer.com/products/00044700072752-portable-protein-snack-pack-with-turkey-almonds-colby-jack-cheese" },
+      { "title": "Nutrition Facts for P3 Portable Protein Pack - Turkey, Colby Jack & Almonds - MyFoodDiary", "url": "https://www.myfooddiary.com/foods/7482167/p3-portable-protein-pack-turkey-colby-jack-almonds" }
+    ]
+  },
+  {
+    "id": "us-snack-042",
+    "name": "Ghirardelli Dark Chocolate Squares, 60% Cacao (3 Pieces)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Ghirardelli's individually wrapped dark chocolate squares are a top-selling premium chocolate snack in the US, commonly found at checkout displays, candy dishes and gift sections of nearly every supermarket.",
+    "ingredients": [
+      { "item": "Ghirardelli 60% Cacao Dark Chocolate squares", "quantity": 3, "unit": "squares (33g)" }
+    ],
+    "prepNotes": "Unwrap and eat directly. No preparation needed.",
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 2,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sugar_g": 12,
+      "fat_g": 11,
+      "method": "Calculated from Ghirardelli product nutrition panel via eatthismuch.com and nutritionvalue.org, scaled from per-square values to a 3-square serving"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy", "soy", "may contain tree nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Target", "Kroger", "Safeway", "Costco", "Whole Foods"],
+      "notes": "Sold in bags of individually wrapped squares year-round in the candy and baking aisles of nearly every US supermarket."
+    },
+    "sources": [
+      { "title": "Ghirardelli Dark Chocolate Squares, 60% Cacao Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/dark-chocolate-squares-60-cacao-2264199" },
+      { "title": "60% cacao dark chocolate squares by GHIRARDELLI nutrition facts - nutritionvalue.org", "url": "https://www.nutritionvalue.org/60%25_cacao_dark_chocolate_squares_by_GHIRARDELLI_625522_nutritional_value.html" }
+    ]
+  },
+  {
+    "id": "us-snack-043",
+    "name": "Trader Joe's Organic Dried Mango (8 Pieces)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Trader Joe's Organic Dried Mango is one of the chain's best-known dried-fruit snacks, a cult-favorite item frequently cited in \"best Trader Joe's snacks\" roundups and a common lunchbox and desk-drawer staple.",
+    "ingredients": [
+      { "item": "Trader Joe's Organic Dried Mango", "quantity": 8, "unit": "pieces (40g)" }
+    ],
+    "prepNotes": "Eat straight from the bag. No preparation needed.",
+    "nutrition": {
+      "calories": 130,
+      "protein_g": 1,
+      "carbs_g": 31,
+      "fiber_g": 2,
+      "sugar_g": 24,
+      "fat_g": 0,
+      "method": "Calculated from Trader Joe's Organic Dried Mango product nutrition panel via myfooddata.com and eatthismuch.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Trader Joe's"],
+      "notes": "Sold in resealable bags year-round at Trader Joe's; comparable dried mango is also available at Whole Foods and Walmart."
+    },
+    "sources": [
+      { "title": "Nutrition Facts for Trader Joe's - Organic Dried Mango - myfooddata", "url": "https://tools.myfooddata.com/nutrition-facts/400319/wt1" },
+      { "title": "Trader Joe's Organic Dried Mango Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/organic-dried-mango-490991" }
+    ]
+  },
+  {
+    "id": "us-snack-044",
+    "name": "GT's Synergy Organic Raw Kombucha (16 fl oz Bottle)",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "GT's is the best-selling and most widely distributed kombucha brand in the US, a fermented tea drink that moved from natural-foods stores into the mainstream beverage aisle of nearly every major supermarket over the past decade.",
+    "ingredients": [
+      { "item": "GT's Synergy Organic Raw Kombucha, Original", "quantity": 16, "unit": "fl oz bottle" }
+    ],
+    "prepNotes": "Shake gently and drink chilled straight from the bottle. No preparation needed.",
+    "nutrition": {
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 14,
+      "fiber_g": 0,
+      "sugar_g": 12,
+      "fat_g": 0,
+      "method": "Calculated from GT's Living Foods product nutrition panel via fatsecret.com and eatthismuch.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "gluten_free", "dairy_free"],
+      "allergens": []
+    },
+    "regionAvailability": {
+      "stores": ["Whole Foods", "Target", "Walmart", "Kroger", "Trader Joe's", "Costco"],
+      "notes": "Sold individually and in multipack cases in the refrigerated beverage aisle of nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Calories in GT's Organic Raw Kombucha (Bottle) - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/gts/organic-raw-kombucha-(bottle)" },
+      { "title": "Gt's Synergy Kombucha Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/synergy-kombucha-103655" }
+    ]
+  },
+  {
+    "id": "us-snack-045",
+    "name": "Chobani Flip Peanut Butter Dream Greek Yogurt",
+    "country": "US",
+    "mealType": "snack",
+    "servings": 1,
+    "popularityContext": "Chobani Flip is a top-selling US Greek yogurt format that pairs a yogurt cup with a separate mix-in compartment of crunchy and sweet toppings, widely stocked in the dairy aisle as a single-serve dessert-style snack.",
+    "ingredients": [
+      { "item": "Chobani Flip Peanut Butter Dream Greek yogurt cup with mix-in", "quantity": 1, "unit": "cup (4.5 oz / 128g)" }
+    ],
+    "prepNotes": "Pour the peanut butter and chocolate mix-in compartment into the yogurt side, stir, and eat with the provided spoon. No other preparation needed.",
+    "nutrition": {
+      "calories": 210,
+      "protein_g": 12,
+      "carbs_g": 26,
+      "fiber_g": 1,
+      "sugar_g": 18,
+      "fat_g": 7,
+      "method": "Calculated from Chobani Flip product nutrition panel via eatthismuch.com and mynetdiary.com"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "gluten_free"],
+      "allergens": ["dairy", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Walmart", "Kroger", "Target", "Safeway", "Costco"],
+      "notes": "Sold individually and in multipacks in the dairy aisle of nearly every US supermarket year-round."
+    },
+    "sources": [
+      { "title": "Chobani Greek Yogurt Flip, Peanut Butter Dream Nutrition Facts - Eat This Much", "url": "https://www.eatthismuch.com/calories/greek-yogurt-flip-peanut-butter-dream-2377004" },
+      { "title": "Calories in Chobani Flip Peanut Butter Dream - FatSecret", "url": "https://foods.fatsecret.com/calories-nutrition/chobani/flip-peanut-butter-dream" }
+    ]
+  }
+]

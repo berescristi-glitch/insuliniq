@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "au-lunch-001",
+    "name": "Chicken and Quinoa Salad Bowl",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A staple of Australian cafe lunch counters and meal-prep kitchens, this bowl format (grain, roast chicken, greens, feta, citrus dressing) is one of the most commonly ordered \"healthy lunch\" items in capital-city CBD cafes.",
+    "ingredients": [
+      { "item": "cooked chicken breast", "quantity": 120, "unit": "g" },
+      { "item": "cooked quinoa", "quantity": 150, "unit": "g" },
+      { "item": "baby spinach", "quantity": 40, "unit": "g" },
+      { "item": "cherry tomatoes", "quantity": 60, "unit": "g" },
+      { "item": "avocado", "quantity": 50, "unit": "g" },
+      { "item": "feta cheese", "quantity": 30, "unit": "g" },
+      { "item": "lemon juice", "quantity": 10, "unit": "ml" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Cook quinoa ahead and chill or use warm. Grill or poach chicken breast and slice. Toss spinach, tomatoes and quinoa in a bowl, top with chicken, avocado and crumbled feta, then finish with a lemon-olive oil dressing.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 34,
+      "fiber_g": 8,
+      "sugar_g": 4,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are mainstream supermarket staples year-round; pre-cooked quinoa pouches and rotisserie chicken make this fast to assemble."
+    },
+    "sources": [
+      { "title": "Chicken and Quinoa Salad - It's Not Complicated Recipes", "url": "https://itsnotcomplicatedrecipes.com/chicken-and-quinoa-salad/" },
+      { "title": "Chicken Quinoa Bowl (Mediterranean-Style)", "url": "https://www.cookedandloved.com/recipes/mediterranean-chicken-quinoa-bowl/" }
+    ]
+  },
+  {
+    "id": "au-lunch-002",
+    "name": "Bakery Beef Mince Meat Pie",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The meat pie is one of Australia's most iconic lunch foods, sold at every bakery, service station and sports ground nationwide; brands like Four'N Twenty are a cultural institution.",
+    "ingredients": [
+      { "item": "bakery beef mince pie (puff pastry, beef, gravy)", "quantity": 175, "unit": "g" },
+      { "item": "tomato sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Bought ready-made from a bakery or supermarket hot box and reheated; not typically home-cooked for lunch. Serve hot with a dollop of tomato sauce on the side.",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 16,
+      "carbs_g": 38,
+      "fiber_g": 2,
+      "sugar_g": 6,
+      "fat_g": 29,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against CalorieKing Australia bakery pie entries"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Sold fresh-baked at independent bakeries nationwide and frozen multi-packs (Four'N Twenty, Mrs Mac's) at all major supermarkets."
+    },
+    "sources": [
+      { "title": "Calories in Banjo's Bakery Cafe Meat Pie | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-pies-pasties-sausage-rolls-meat-pie/eRnQcN7pRDeRu9VUCJ0N4Q" },
+      { "title": "Four'N Twenty", "url": "https://en.wikipedia.org/wiki/Four%27n_Twenty" }
+    ]
+  },
+  {
+    "id": "au-lunch-003",
+    "name": "Bakery Sausage Roll with Tomato Sauce",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Alongside the meat pie, the sausage roll is a defining Australian bakery lunch item, eaten at school canteens, bakeries and office lunch runs nationwide.",
+    "ingredients": [
+      { "item": "bakery sausage roll (puff pastry, seasoned pork/beef mince)", "quantity": 130, "unit": "g" },
+      { "item": "tomato sauce", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Bought ready-made from a bakery, school canteen or supermarket and reheated until pastry is crisp. Serve with tomato sauce.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 11,
+      "carbs_g": 30,
+      "fiber_g": 2,
+      "sugar_g": 5,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against CalorieKing Australia sausage roll entries"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Available fresh at independent bakeries and frozen multi-packs at all major supermarkets nationwide."
+    },
+    "sources": [
+      { "title": "Calories in Sausage Roll | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-pies-pasties-sausage-rolls-sausage-roll/5LGhPfeXT3muiYrHkzpOAw" },
+      { "title": "Australian Sausage Rolls Recipe: How to Make It", "url": "https://www.tasteofhome.com/recipes/aussie-sausage-rolls/" }
+    ]
+  },
+  {
+    "id": "au-lunch-004",
+    "name": "Chicken Banh Mi Roll",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Banh mi is one of Australia's most popular grab-and-go lunches thanks to the country's large Vietnamese-Australian community; it is sold at dedicated banh mi shops and bakeries in every major city, especially Melbourne and Sydney.",
+    "ingredients": [
+      { "item": "Vietnamese baguette roll", "quantity": 1, "unit": "roll (120 g)" },
+      { "item": "shredded cooked chicken", "quantity": 100, "unit": "g" },
+      { "item": "pate", "quantity": 15, "unit": "g" },
+      { "item": "Kewpie mayonnaise", "quantity": 15, "unit": "g" },
+      { "item": "pickled carrot and daikon", "quantity": 40, "unit": "g" },
+      { "item": "cucumber", "quantity": 30, "unit": "g" },
+      { "item": "coriander and chilli", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Split the baguette and spread with pate and mayonnaise. Layer shredded chicken, pickled carrot and daikon, cucumber ribbons, coriander and sliced chilli. Press lightly and slice in half to serve.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 28,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 8,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Best bought fresh from Vietnamese bakeries widespread in Melbourne, Sydney and Brisbane suburbs; baguette rolls and pickled vegetables also available at major supermarkets for home assembly."
+    },
+    "sources": [
+      { "title": "Chicken Banh Mi (Vietnamese sandwich) - RecipeTin Eats", "url": "https://www.recipetineats.com/chicken-banh-mi-vietnamese-sandwich/" },
+      { "title": "Bánh Mì Recipe: Easy Traditional Vietnamese Pork Sandwich", "url": "https://beinspired.au/recipes/banh-mi-3/" }
+    ]
+  },
+  {
+    "id": "au-lunch-005",
+    "name": "Salmon and Avocado Sushi Selection",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Sushi trains and supermarket sushi counters are an everyday grab-lunch across Australian CBDs; pre-packed salmon and avocado selections from Woolworths and Coles, or sushi train venues, are extremely common office lunches.",
+    "ingredients": [
+      { "item": "sushi rice", "quantity": 180, "unit": "g" },
+      { "item": "nori seaweed sheets", "quantity": 4, "unit": "sheets" },
+      { "item": "raw salmon (sashimi-grade)", "quantity": 80, "unit": "g" },
+      { "item": "avocado", "quantity": 60, "unit": "g" },
+      { "item": "cucumber", "quantity": 40, "unit": "g" },
+      { "item": "soy sauce", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Bought ready-made from a sushi train, supermarket sushi counter or Japanese takeaway; rolled with vinegared rice, nori, salmon, avocado and cucumber, then sliced into pieces. Serve with soy sauce for dipping.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 19,
+      "carbs_g": 58,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 12,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against Woolworths salmon sushi selection nutrition panel"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian", "dairy_free"],
+      "allergens": ["fish", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sold fresh daily at supermarket sushi counters, sushi train venues and Japanese takeaway shops in every capital city."
+    },
+    "sources": [
+      { "title": "The Best Sushi Trains in Sydney | ellaslist", "url": "https://www.ellaslist.com.au/articles/sushi-trains-in-sydney" },
+      { "title": "Calories in Salmon Sushi Selection by Woolworths and Nutrition Facts", "url": "https://www.mynetdiary.com/food/calories-in-salmon-sushi-selection-by-woolworths-serving-23798541-0.html" }
+    ]
+  },
+  {
+    "id": "au-lunch-006",
+    "name": "Greek-Style Lamb Souvlaki Wrap",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Lamb souvlaki wraps are a long-standing favourite shaped by Australia's large Greek-Australian community, sold at souvlaki bars and Greek takeaways nationwide and replicated as a quick home lunch via Coles, IGA and Australian Lamb recipes.",
+    "ingredients": [
+      { "item": "lamb leg steak strips", "quantity": 120, "unit": "g" },
+      { "item": "Greek-style flatbread or pita", "quantity": 1, "unit": "piece (75 g)" },
+      { "item": "Greek yoghurt tzatziki", "quantity": 40, "unit": "g" },
+      { "item": "tomato", "quantity": 50, "unit": "g" },
+      { "item": "cucumber", "quantity": 40, "unit": "g" },
+      { "item": "red onion", "quantity": 20, "unit": "g" },
+      { "item": "feta cheese", "quantity": 20, "unit": "g" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Marinate lamb strips in olive oil, lemon and oregano, then grill or pan-fry until cooked through. Warm the flatbread, spread with tzatziki, then fill with lamb, tomato, cucumber, red onion and crumbled feta.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 38,
+      "carbs_g": 35,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Lamb leg steaks, flatbread, tzatziki and feta are mainstream supermarket items year-round; also sold ready-made at Greek souvlaki bars in most suburbs."
+    },
+    "sources": [
+      { "title": "Greek-Style Lamb Souvlaki Wraps | IGA Recipes", "url": "https://www.iga.com.au/recipes/dinner/greek-style-lamb-souvlaki-wraps/" },
+      { "title": "Lamb Souvlaki Wraps Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/lamb-souvlaki-wraps" }
+    ]
+  },
+  {
+    "id": "au-lunch-007",
+    "name": "Crispy Chicken Schnitzel Roll",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The chicken schnitzel roll/sandwich is a widely loved Australian bakery and cafe lunch item, often served Vietnamese-style with slaw and chilli mayo or classic-style with lettuce, tomato and aioli on a bread roll.",
+    "ingredients": [
+      { "item": "crumbed chicken schnitzel", "quantity": 150, "unit": "g" },
+      { "item": "bread roll", "quantity": 1, "unit": "roll (80 g)" },
+      { "item": "lettuce", "quantity": 30, "unit": "g" },
+      { "item": "tomato", "quantity": 40, "unit": "g" },
+      { "item": "aioli", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Pan-fry or oven-bake a crumbed chicken schnitzel until golden and cooked through. Split and lightly toast the bread roll, spread with aioli, then layer lettuce, tomato and schnitzel.",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 34,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 5,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Crumbed chicken schnitzel widely available fresh or frozen at supermarkets; also a standard bakery/sandwich-shop and pub-lunch item nationwide."
+    },
+    "sources": [
+      { "title": "Crispy Chicken Schnitzel Sandwich - The Scranline", "url": "https://thescranline.com/crispy-chicken-schnitzel-sandwich/" },
+      { "title": "Chicken Schnitzel Roll/Sandwich – Aus Vi Bakery", "url": "https://www.ausvibakery.com/product/chicken-schnitzel-roll/" }
+    ]
+  },
+  {
+    "id": "au-lunch-008",
+    "name": "Teriyaki Salmon Poke Bowl",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Poke bowls have become a mainstream Australian lunch trend over the last decade, with dedicated poke chains and Coles recipe content showing salmon poke as one of the most popular formats in capital cities.",
+    "ingredients": [
+      { "item": "raw salmon (sashimi-grade), diced", "quantity": 100, "unit": "g" },
+      { "item": "cooked brown rice", "quantity": 150, "unit": "g" },
+      { "item": "edamame beans", "quantity": 50, "unit": "g" },
+      { "item": "cucumber", "quantity": 50, "unit": "g" },
+      { "item": "avocado", "quantity": 50, "unit": "g" },
+      { "item": "teriyaki sauce", "quantity": 20, "unit": "ml" },
+      { "item": "sesame seeds", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Toss diced salmon in teriyaki sauce. Spoon warm or cooled brown rice into a bowl, then arrange salmon, edamame, cucumber and avocado on top. Sprinkle with sesame seeds before serving.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 32,
+      "carbs_g": 52,
+      "fiber_g": 8,
+      "sugar_g": 9,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "dairy_free"],
+      "allergens": ["fish", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sashimi-grade salmon available at supermarket fish counters and Asian grocers; dedicated poke bowl chains widespread in Sydney, Melbourne, Brisbane and Adelaide CBDs."
+    },
+    "sources": [
+      { "title": "Quick & Easy Teriyaki Salmon Poke Bowl Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/teriyaki-salmon-poke-bowl" },
+      { "title": "16 easy poke bowl recipes to keep things interesting | Gourmet Traveller", "url": "https://www.gourmettraveller.com.au/recipe-collections/poke-bowl-recipes-17013/" }
+    ]
+  },
+  {
+    "id": "au-lunch-009",
+    "name": "Vietnamese Pork Rice Paper Rolls",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Rice paper rolls are a widely eaten light lunch across Australia, sold fresh at Vietnamese bakeries, food courts and chains like Roll'd, and packed into lunch boxes as a gluten-friendly home option.",
+    "ingredients": [
+      { "item": "rice paper sheets", "quantity": 4, "unit": "sheets" },
+      { "item": "cooked pork (sliced or mince)", "quantity": 100, "unit": "g" },
+      { "item": "rice vermicelli noodles, cooked", "quantity": 60, "unit": "g" },
+      { "item": "lettuce", "quantity": 40, "unit": "g" },
+      { "item": "carrot, julienned", "quantity": 30, "unit": "g" },
+      { "item": "mint and coriander", "quantity": 10, "unit": "g" },
+      { "item": "peanut dipping sauce", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Dip rice paper sheets briefly in warm water to soften. Lay out pork, noodles, lettuce, carrot and herbs, then roll tightly, folding in the sides. Serve with peanut dipping sauce.",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 24,
+      "carbs_g": 46,
+      "fiber_g": 4,
+      "sugar_g": 7,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Rice paper sold in the Asian foods aisle of all major supermarkets; ready-made rolls widely available from Vietnamese bakeries and the Roll'd chain."
+    },
+    "sources": [
+      { "title": "Vietnamese Rice Paper Rolls - RecipeTin Eats", "url": "https://www.recipetineats.com/vietnamese-rice-paper-rolls-spring-rolls/" },
+      { "title": "Roll'd", "url": "https://en.wikipedia.org/wiki/Roll%27d" }
+    ]
+  },
+  {
+    "id": "au-lunch-010",
+    "name": "Lebanese Chicken Wrap with Garlic Sauce",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Lebanese chicken wraps with garlic sauce, popularised by chains like El Jannah and Camy's Chargrill, are a hugely popular Australian takeaway lunch, especially in Sydney and Melbourne.",
+    "ingredients": [
+      { "item": "Lebanese bread (flatbread)", "quantity": 1, "unit": "piece (90 g)" },
+      { "item": "char-grilled chicken breast, shredded", "quantity": 120, "unit": "g" },
+      { "item": "garlic sauce (toum)", "quantity": 25, "unit": "g" },
+      { "item": "tabouli", "quantity": 40, "unit": "g" },
+      { "item": "lettuce", "quantity": 30, "unit": "g" },
+      { "item": "pickles", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Char-grill or pan-sear chicken breast seasoned with Lebanese spices, then shred. Warm the Lebanese bread, spread with garlic sauce, then fill with chicken, tabouli, lettuce and pickles before rolling tightly.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 36,
+      "carbs_g": 42,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["halal"],
+      "allergens": ["gluten"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Lebanese bread, tabouli and garlic sauce available at major supermarkets; ready-made wraps sold at Lebanese charcoal chicken shops widespread across Sydney and Melbourne suburbs."
+    },
+    "sources": [
+      { "title": "El Jannah Randwick | The Best Charcoal & Fried Chicken", "url": "https://eljannah.com.au/locations/nsw/randwick/" },
+      { "title": "Lebanese chicken Wrap - Camy's Chargrill Chicken Restaurants", "url": "https://www.camys.com.au/catering/burgers-wraps-sandwiches/lebanese-chicken-wrap/" }
+    ]
+  },
+  {
+    "id": "au-lunch-011",
+    "name": "Chicken Caesar Salad with Bacon and Poached Egg",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Chicken Caesar salad is a fixture on Australian cafe lunch menus nationwide, from independent cafes to chains like The Coffee Club, often served with bacon, poached egg and sourdough croutons.",
+    "ingredients": [
+      { "item": "cos lettuce", "quantity": 100, "unit": "g" },
+      { "item": "grilled chicken breast", "quantity": 120, "unit": "g" },
+      { "item": "bacon", "quantity": 30, "unit": "g" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "parmesan cheese, shaved", "quantity": 20, "unit": "g" },
+      { "item": "sourdough croutons", "quantity": 25, "unit": "g" },
+      { "item": "Caesar dressing", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Grill chicken breast and slice; pan-fry bacon until crisp; poach the egg for 3 minutes. Toss cos lettuce with Caesar dressing, then top with chicken, bacon, poached egg, parmesan and croutons.",
+    "nutrition": {
+      "calories": 570,
+      "protein_g": 40,
+      "carbs_g": 18,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 36,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against The Coffee Club Caesar Salad with Chicken nutrition listing"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["low_carb"],
+      "allergens": ["eggs", "dairy", "gluten", "fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are mainstream supermarket items; ready-made versions sold at almost every Australian cafe and chain such as The Coffee Club and Grill'd."
+    },
+    "sources": [
+      { "title": "Chicken Caesar Salad – The Coffee Club Australia", "url": "https://coffeeclub.com.au/products/chicken-caesar-salad" },
+      { "title": "Calories in The Coffee Club Caesar Salad with Chicken | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-salads-caesar-salad-with-chicken/oPzXFoLAT_ejOlV2wCPtKQ" }
+    ]
+  },
+  {
+    "id": "au-lunch-012",
+    "name": "Turkey Burger Bowl with Feta and Greens",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A modern lunch-bowl reinterpretation of the burger, popular in Australian meal-prep and cafe-style \"bowl food\" culture, swapping the bun for greens and grains while keeping the patty as the centrepiece.",
+    "ingredients": [
+      { "item": "lean turkey mince", "quantity": 150, "unit": "g" },
+      { "item": "feta cheese", "quantity": 30, "unit": "g" },
+      { "item": "mixed lettuce leaves", "quantity": 80, "unit": "g" },
+      { "item": "tomato", "quantity": 60, "unit": "g" },
+      { "item": "red onion", "quantity": 20, "unit": "g" },
+      { "item": "cooked brown rice", "quantity": 100, "unit": "g" },
+      { "item": "olive oil yoghurt dressing", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Mix turkey mince with crumbled feta, salt and pepper, shape into a patty and pan-fry 4-5 minutes per side until cooked through. Build the bowl with brown rice, lettuce, tomato and red onion, top with the sliced patty and a dollop of yoghurt dressing.",
+    "nutrition": {
+      "calories": 500,
+      "protein_g": 42,
+      "carbs_g": 30,
+      "fiber_g": 5,
+      "sugar_g": 5,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Turkey mince is sold at all major supermarkets, though less commonly stocked than beef or chicken mince; feta and brown rice are pantry staples nationwide."
+    },
+    "sources": [
+      { "title": "High Protein Turkey Burger Bowls | Greens & Chocolate", "url": "https://greensnchocolate.com/high-protein-turkey-burger-bowls/" },
+      { "title": "Mediterranean Turkey Burger Bowls - Nourished By Nutrition", "url": "https://nourishedbynutrition.com/mediterranean-turkey-burger-bowls/" }
+    ]
+  },
+  {
+    "id": "au-lunch-013",
+    "name": "Tuna, Corn and Mayo Sandwich",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Tuna sandwiches are one of the most common Australian lunchbox and work-lunch staples, made with canned tuna, a pantry item in almost every Australian household.",
+    "ingredients": [
+      { "item": "wholegrain bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "canned tuna in spring water, drained", "quantity": 95, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 20, "unit": "g" },
+      { "item": "corn kernels", "quantity": 40, "unit": "g" },
+      { "item": "cucumber", "quantity": 30, "unit": "g" },
+      { "item": "lettuce", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Flake the drained tuna and mix with mayonnaise and corn kernels. Layer lettuce and cucumber on one slice of bread, top with the tuna mixture, and close the sandwich with the second slice.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 30,
+      "carbs_g": 38,
+      "fiber_g": 6,
+      "sugar_g": 6,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["fish", "gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Canned tuna, wholegrain bread and mayonnaise are pantry basics stocked at every Australian supermarket; one of the most budget-friendly lunches available."
+    },
+    "sources": [
+      { "title": "53 Scrumptious Sandwich Ideas for the School Lunch Box (and Not ONE is Vegemite!)", "url": "https://mumcentral.com.au/sandwich-ideas-for-school-lunch-box/" },
+      { "title": "Ham and Cheese Lunchbox Sandwich", "url": "https://www.foodworks.com.au/recipes/lunch/ham-cheese-sandwich" }
+    ]
+  },
+  {
+    "id": "au-lunch-014",
+    "name": "Pulled Beef Burrito Bowl with Brown Rice and Guacamole",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Burrito bowls from Mexican-inspired chains such as Guzman y Gomez are one of the most popular fast-casual lunches in Australian cities, offering the burrito's fillings without the tortilla.",
+    "ingredients": [
+      { "item": "pulled beef brisket", "quantity": 130, "unit": "g" },
+      { "item": "cooked brown rice", "quantity": 150, "unit": "g" },
+      { "item": "black beans", "quantity": 80, "unit": "g" },
+      { "item": "guacamole", "quantity": 50, "unit": "g" },
+      { "item": "salsa", "quantity": 40, "unit": "g" },
+      { "item": "cos lettuce, shredded", "quantity": 40, "unit": "g" },
+      { "item": "cheese, grated", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Slow-cook or simmer beef brisket with Mexican spices until tender, then shred. Layer brown rice, black beans and shredded lettuce in a bowl, top with the pulled beef, guacamole, salsa and grated cheese.",
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 40,
+      "carbs_g": 56,
+      "fiber_g": 12,
+      "sugar_g": 5,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All components available at major supermarkets for home assembly; ready-made bowls widely sold at Mexican fast-casual chains like Guzman y Gomez and Mad Mex nationwide."
+    },
+    "sources": [
+      { "title": "Order Guzman y Gomez (Australia Square) | Menu & Prices | Sydney Delivery | Uber Eats", "url": "https://www.ubereats.com/au/store/guzman-y-gomez-australia-square/IxAaGnwuRDemnlt4gRmdtw" },
+      { "title": "Our Food | Guzman y Gomez Mexican Kitchen", "url": "https://www.guzmanygomez.com.au/our-food/" }
+    ]
+  },
+  {
+    "id": "au-lunch-015",
+    "name": "Pork Banh Mi Roll",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The pork banh mi is the classic and most ordered version of this Vietnamese-Australian sandwich, with dedicated bakeries like Melbourne's N Lee and Kenny's Bakery drawing lunchtime queues.",
+    "ingredients": [
+      { "item": "Vietnamese baguette roll", "quantity": 1, "unit": "roll (120 g)" },
+      { "item": "grilled pork, sliced", "quantity": 110, "unit": "g" },
+      { "item": "pate", "quantity": 15, "unit": "g" },
+      { "item": "mayonnaise", "quantity": 15, "unit": "g" },
+      { "item": "pickled carrot and daikon", "quantity": 40, "unit": "g" },
+      { "item": "cucumber", "quantity": 30, "unit": "g" },
+      { "item": "coriander and chilli", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Marinate pork slices in a sweet-savoury Vietnamese marinade and grill until caramelised. Split the baguette, spread with pate and mayonnaise, then fill with pork, pickled vegetables, cucumber, coriander and chilli.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 30,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 9,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Sold fresh at Vietnamese bakeries throughout Melbourne, Sydney, Brisbane and Perth; baguette rolls and pickled vegetables also available at major supermarkets for home assembly."
+    },
+    "sources": [
+      { "title": "Where to find Melbourne's best banh mi - What's On Melbourne", "url": "https://whatson.melbourne.vic.gov.au/article/where-to-find-melbournes-best-banh-mi" },
+      { "title": "10 Spots for the Best Banh Mi in Melbourne | Man of Many", "url": "https://manofmany.com/culture/food/best-banh-mi-melbourne" }
+    ]
+  },
+  {
+    "id": "au-lunch-016",
+    "name": "Thai Chicken Larb Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Larb (laab gai) is a widely ordered dish on Thai restaurant menus across Australian cities and a popular light, high-flavour lunch choice, reflecting the strong presence of Thai cuisine in the Australian dining landscape.",
+    "ingredients": [
+      { "item": "chicken mince", "quantity": 150, "unit": "g" },
+      { "item": "lime juice", "quantity": 20, "unit": "ml" },
+      { "item": "fish sauce", "quantity": 15, "unit": "ml" },
+      { "item": "shallots", "quantity": 30, "unit": "g" },
+      { "item": "mint and coriander leaves", "quantity": 15, "unit": "g" },
+      { "item": "toasted rice powder", "quantity": 10, "unit": "g" },
+      { "item": "cos lettuce cups", "quantity": 80, "unit": "g" },
+      { "item": "chilli flakes", "quantity": 2, "unit": "g" }
+    ],
+    "prepNotes": "Cook chicken mince in a dry pan until just cooked through, breaking up any lumps. Remove from heat and toss with lime juice, fish sauce, shallots, herbs, toasted rice powder and chilli. Serve spooned into cos lettuce cups.",
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 36,
+      "carbs_g": 14,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 14,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Chicken mince, fish sauce and lime are widely stocked; toasted rice powder may need an Asian grocer, common in most metro areas."
+    },
+    "sources": [
+      { "title": "Thai Chicken Larb Salad — Em's Food For Friends", "url": "https://emsfoodforfriends.com.au/thai-chicken-larb-salad/" },
+      { "title": "Larb Gai (Thai Chicken Larb) - It's Not Complicated Recipes", "url": "https://itsnotcomplicatedrecipes.com/thai-chicken-larb/" }
+    ]
+  },
+  {
+    "id": "au-lunch-017",
+    "name": "Falafel and Hummus Wrap",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Falafel wraps are a mainstream Australian lunch option shaped by the strong Lebanese-Australian food culture, sold at Lebanese takeaways, Mediterranean cafes and major supermarket meal-kit ranges.",
+    "ingredients": [
+      { "item": "falafel (chickpea), baked", "quantity": 5, "unit": "pieces (150 g)" },
+      { "item": "wholemeal pita bread", "quantity": 1, "unit": "piece (70 g)" },
+      { "item": "hummus", "quantity": 40, "unit": "g" },
+      { "item": "tabbouleh or mixed salad", "quantity": 60, "unit": "g" },
+      { "item": "tahini sauce", "quantity": 20, "unit": "g" },
+      { "item": "pickled cucumber", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Bake or air-fry falafel until golden. Warm the pita, spread with hummus, then fill with falafel, tabbouleh, pickled cucumber and a drizzle of tahini sauce before folding.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 18,
+      "carbs_g": 58,
+      "fiber_g": 12,
+      "sugar_g": 6,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian", "vegan", "dairy_free"],
+      "allergens": ["gluten", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Falafel, hummus and pita are mainstream supermarket items; also a common menu item at Lebanese and Mediterranean takeaways nationwide."
+    },
+    "sources": [
+      { "title": "Falafel and hummus pita wrap | Recipes | WW Australia", "url": "https://www.weightwatchers.com/au/recipe/falafel-and-hommus-pita-wrap-1/562688e6cb94e20c34177500" },
+      { "title": "Falafel Wrap (Packed with Flavor & Protein) - Cooking With Ayeh", "url": "https://cookingwithayeh.com/falafel-wrap/" }
+    ]
+  },
+  {
+    "id": "au-lunch-018",
+    "name": "Jacket Potato with Baked Beans and Cheese",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Jacket (baked) potatoes topped with baked beans and cheese are a long-standing budget-friendly Australian lunch, featured in Woolworths recipe collections and a common cafe and home lunch, especially in cooler months.",
+    "ingredients": [
+      { "item": "potato (sebago, skin on)", "quantity": 250, "unit": "g" },
+      { "item": "baked beans, reduced salt", "quantity": 200, "unit": "g" },
+      { "item": "cheddar cheese, grated", "quantity": 40, "unit": "g" },
+      { "item": "spring onion", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Pierce the potato skin and bake at 200C for 50-60 minutes until tender, or microwave 8-10 minutes then finish under the grill for crisp skin. Warm the baked beans, split the potato open, and top with beans, grated cheese and spring onion.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 23,
+      "carbs_g": 70,
+      "fiber_g": 12,
+      "sugar_g": 14,
+      "fat_g": 13,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Potatoes, canned baked beans and cheese are budget pantry staples available at every Australian supermarket year-round."
+    },
+    "sources": [
+      { "title": "Baked Jacket Potato Recipe | Woolworths", "url": "https://www.woolworths.com.au/shop/recipes/baked-jacket-potato" },
+      { "title": "LiveLighter - Healthy Jacket Baked Potato Recipe", "url": "https://livelighter.com.au/recipe/341/jacket-baked-potato" }
+    ]
+  },
+  {
+    "id": "au-lunch-019",
+    "name": "Chicken and Vegetable Noodle Soup",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Chicken noodle soup is a well-loved Australian comfort lunch, especially in cooler months, with recipes from Coles, RecipeTin Eats and Donna Hay reflecting its place as an everyday home-cooked staple.",
+    "ingredients": [
+      { "item": "chicken breast, shredded", "quantity": 100, "unit": "g" },
+      { "item": "chicken stock", "quantity": 400, "unit": "ml" },
+      { "item": "carrot", "quantity": 50, "unit": "g" },
+      { "item": "celery", "quantity": 40, "unit": "g" },
+      { "item": "egg noodles", "quantity": 70, "unit": "g" },
+      { "item": "spring onion", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Simmer chicken breast in stock with carrot and celery until cooked, then shred the chicken and return to the pot. Add egg noodles and cook until tender, then finish with sliced spring onion.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 32,
+      "carbs_g": 42,
+      "fiber_g": 4,
+      "sugar_g": 5,
+      "fat_g": 8,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["gluten", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are mainstream supermarket staples; a common home-cooked lunch and also sold ready-made in supermarket chilled soup ranges."
+    },
+    "sources": [
+      { "title": "Chicken Noodle Soup Recipe | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/chicken-noodle-soup" },
+      { "title": "Easy Chicken Noodle Soup - RecipeTin Eats", "url": "https://www.recipetineats.com/chicken-and-vegetable-noodle-soup/" }
+    ]
+  },
+  {
+    "id": "au-lunch-020",
+    "name": "Egg and Lettuce Sandwich",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The egg and lettuce sandwich is a nostalgic, old-school Australian sandwich-shop and lunchbox classic, sold at bakeries nationwide such as Brumby's and Bourkies Bakehouse.",
+    "ingredients": [
+      { "item": "wholegrain bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "eggs, hard-boiled", "quantity": 3, "unit": "large" },
+      { "item": "mayonnaise", "quantity": 25, "unit": "g" },
+      { "item": "lettuce", "quantity": 30, "unit": "g" },
+      { "item": "butter", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Hard-boil and cool the eggs, then chop roughly and mix with mayonnaise, salt and pepper to make an egg salad. Lightly butter the bread, layer with lettuce and egg salad, and close the sandwich.",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 21,
+      "carbs_g": 34,
+      "fiber_g": 5,
+      "sugar_g": 3,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Eggs, bread and mayonnaise are pantry basics nationwide; also a standard offering at Australian sandwich bars and bakery chains."
+    },
+    "sources": [
+      { "title": "Egg & Lettuce Sandwich – Bourkies Bakehouse", "url": "https://www.bourkies.com.au/products/egg-lettuce-sandwich" },
+      { "title": "Egg & Lettuce Sandwich — Brumby's", "url": "https://www.brumbys.com.au/recipes/egg-lettuce-sandwich" }
+    ]
+  },
+  {
+    "id": "au-lunch-021",
+    "name": "Chicken Yiros Plate with Greek Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Greek yiros (gyros) plates are a widely eaten Australian lunch, especially strong in South Australia and Victoria thanks to large Greek-Australian communities; sold at dedicated yiros/kebab shops in every capital city.",
+    "ingredients": [
+      { "item": "chicken thigh, marinated and grilled", "quantity": 150, "unit": "g" },
+      { "item": "pita bread", "quantity": 1, "unit": "piece (60 g)" },
+      { "item": "Greek salad (tomato, cucumber, olives, red onion)", "quantity": 100, "unit": "g" },
+      { "item": "feta cheese", "quantity": 25, "unit": "g" },
+      { "item": "tzatziki", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Marinate chicken thigh in lemon, garlic and oregano, then grill until charred and cooked through, slicing into strips. Warm the pita on the side and serve with the Greek salad, crumbled feta and a generous spoon of tzatziki.",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 42,
+      "carbs_g": 32,
+      "fiber_g": 4,
+      "sugar_g": 6,
+      "fat_g": 30,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Chicken thigh, pita and feta are mainstream supermarket items; ready-made yiros plates widely sold at Greek kebab shops, especially common in South Australia and Victoria."
+    },
+    "sources": [
+      { "title": "What is it really called, yiros, kebab, etc - Lifestyle", "url": "https://forums.whirlpool.net.au/archive/873436" },
+      { "title": "Kalimera's Famous Chicken Gyros - RecipeTin Eats", "url": "https://www.recipetineats.com/kalimeras-famous-chicken-gyros/" }
+    ]
+  },
+  {
+    "id": "au-lunch-022",
+    "name": "Leftover Roast Chicken and Walnut Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "A widely recommended way to use a Sunday roast or supermarket rotisserie chicken, this salad is a common Australian next-day lunch found in recipe collections from Gourmet Traveller and Women's Weekly Food.",
+    "ingredients": [
+      { "item": "leftover roast chicken, shredded", "quantity": 130, "unit": "g" },
+      { "item": "mixed salad leaves", "quantity": 80, "unit": "g" },
+      { "item": "red grapes, halved", "quantity": 50, "unit": "g" },
+      { "item": "walnuts", "quantity": 20, "unit": "g" },
+      { "item": "celery", "quantity": 30, "unit": "g" },
+      { "item": "olive oil and lemon dressing", "quantity": 20, "unit": "ml" }
+    ],
+    "prepNotes": "Shred leftover roast chicken from the fridge. Toss salad leaves, celery and grapes together, then top with the chicken and walnuts. Finish with an olive oil and lemon dressing.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 34,
+      "carbs_g": 16,
+      "fiber_g": 4,
+      "sugar_g": 11,
+      "fat_g": 25,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free", "low_carb"],
+      "allergens": ["tree_nuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Built around a leftover Sunday roast or a supermarket rotisserie chicken, both widely available; walnuts and grapes are standard produce-aisle items."
+    },
+    "sources": [
+      { "title": "How to make Roast chicken salad using leftovers Recipe - Better Homes & Gardens Australia", "url": "https://www.bhg.com.au/recipe/chicken/roast-chicken-salad/" },
+      { "title": "Best Chicken Salad Recipes for Light and Fresh Meals", "url": "https://www.gourmettraveller.com.au/recipe-collections/chicken-salad-recipes-17876/" }
+    ]
+  },
+  {
+    "id": "au-lunch-023",
+    "name": "Beef and Vegetable Stir-Fry with Rice",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Beef stir-fry with rice is a common Australian meal-prep lunch, made with rump steak (a favoured cut for stir-frying in Australia) and batch-cooked for the week ahead.",
+    "ingredients": [
+      { "item": "beef rump steak, sliced thin", "quantity": 130, "unit": "g" },
+      { "item": "broccoli", "quantity": 80, "unit": "g" },
+      { "item": "carrot", "quantity": 50, "unit": "g" },
+      { "item": "capsicum", "quantity": 50, "unit": "g" },
+      { "item": "soy sauce", "quantity": 20, "unit": "ml" },
+      { "item": "oyster sauce", "quantity": 10, "unit": "ml" },
+      { "item": "cooked jasmine rice", "quantity": 150, "unit": "g" }
+    ],
+    "prepNotes": "Stir-fry beef strips in a hot wok or pan until browned, then set aside. Stir-fry broccoli, carrot and capsicum for 2-3 minutes, then return the beef with soy and oyster sauce and toss to combine. Serve over jasmine rice.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 38,
+      "carbs_g": 56,
+      "fiber_g": 6,
+      "sugar_g": 8,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["dairy_free"],
+      "allergens": ["soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Rump steak, stir-fry vegetables and sauces are mainstream supermarket items year-round; a popular Monday-to-Friday meal-prep lunch."
+    },
+    "sources": [
+      { "title": "Beef stir fry recipes for easy dinners | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/quick-and-easy/beef-stir-fry-recipes-31812/" },
+      { "title": "Easy Chinese Beef Stir Fry - New & improved! - RecipeTin Eats", "url": "https://www.recipetineats.com/easy-classic-chinese-beef-stir-fry/" }
+    ]
+  },
+  {
+    "id": "au-lunch-024",
+    "name": "Vietnamese Lemongrass Chicken Noodle Salad (Bun Ga Nuong)",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Bun ga nuong is a popular Vietnamese-Australian summer lunch, widely served at Vietnamese restaurants in Sydney, Melbourne and Adelaide, combining marinated grilled chicken with vermicelli noodles and fresh herbs.",
+    "ingredients": [
+      { "item": "chicken thigh, marinated in lemongrass", "quantity": 130, "unit": "g" },
+      { "item": "rice vermicelli noodles, cooked", "quantity": 100, "unit": "g" },
+      { "item": "lettuce and bean sprouts", "quantity": 60, "unit": "g" },
+      { "item": "carrot and cucumber, julienned", "quantity": 50, "unit": "g" },
+      { "item": "mint and coriander", "quantity": 10, "unit": "g" },
+      { "item": "peanuts, crushed", "quantity": 15, "unit": "g" },
+      { "item": "nuoc cham dressing (fish sauce, lime, sugar)", "quantity": 40, "unit": "ml" }
+    ],
+    "prepNotes": "Marinate chicken thigh in lemongrass, garlic, fish sauce and a little sugar, then grill or pan-sear until charred and cooked through. Arrange noodles, lettuce, herbs and vegetables in a bowl, top with sliced chicken and crushed peanuts, then drizzle generously with nuoc cham dressing.",
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 34,
+      "carbs_g": 56,
+      "fiber_g": 4,
+      "sugar_g": 12,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["fish", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Chicken thigh, rice vermicelli and fresh herbs available at major supermarkets and Asian grocers; a common menu item at Vietnamese restaurants across Sydney, Melbourne and Adelaide."
+    },
+    "sources": [
+      { "title": "Vietnamese Chicken Noodle Bowls | Wandercooks", "url": "https://www.wandercooks.com/vietnamese-chicken-noodle-salad/" },
+      { "title": "Vietnamese Lemongrass Chicken with Vermicelli Noodle Salad – Eat, Little Bird", "url": "https://eatlittlebird.com/vietnamese-lemongrass-chicken-noodle-bowl/" }
+    ]
+  },
+  {
+    "id": "au-lunch-025",
+    "name": "Chicken and Salami Focaccia",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Focaccia sandwiches have become a major Melbourne and Sydney cafe lunch trend, reflecting Australia's strong Italian-Australian deli culture, with dedicated focacceria-style venues drawing lunchtime queues.",
+    "ingredients": [
+      { "item": "focaccia bread", "quantity": 1, "unit": "piece (110 g)" },
+      { "item": "grilled chicken breast, sliced", "quantity": 100, "unit": "g" },
+      { "item": "mild salami", "quantity": 30, "unit": "g" },
+      { "item": "provolone or mozzarella cheese", "quantity": 30, "unit": "g" },
+      { "item": "rocket", "quantity": 20, "unit": "g" },
+      { "item": "sundried tomato", "quantity": 20, "unit": "g" },
+      { "item": "aioli", "quantity": 15, "unit": "g" }
+    ],
+    "prepNotes": "Split the focaccia and lightly toast or press in a sandwich press. Spread with aioli, then layer chicken, salami, cheese, sundried tomato and rocket before closing and pressing until warmed through.",
+    "nutrition": {
+      "calories": 650,
+      "protein_g": 40,
+      "carbs_g": 48,
+      "fiber_g": 3,
+      "sugar_g": 4,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Focaccia, deli meats and cheese available at supermarket delis; ready-made versions widely sold at Italian-style cafes and delis, especially concentrated in Melbourne's inner suburbs."
+    },
+    "sources": [
+      { "title": "The best focaccia sandwiches in Melbourne - What's On Melbourne", "url": "https://whatson.melbourne.vic.gov.au/article/the-best-focaccia-sandwiches-in-melbourne" },
+      { "title": "Where to Find Authentic Italian Sandwiches in Melbourne - Panino Misto", "url": "https://paninomisto.com.au/where-to-find-authentic-italian-sandwiches-in-melbourne/" }
+    ]
+  },
+  {
+    "id": "au-lunch-026",
+    "name": "Moroccan-Spiced Pumpkin Soup with Crusty Bread",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Pumpkin soup is one of Australia's most popular winter lunches, recommended by CSIRO's Total Wellbeing Diet and served with crusty bread at cafes and bakeries nationwide during cooler months.",
+    "ingredients": [
+      { "item": "butternut pumpkin, chopped", "quantity": 300, "unit": "g" },
+      { "item": "onion", "quantity": 50, "unit": "g" },
+      { "item": "vegetable or chicken stock", "quantity": 300, "unit": "ml" },
+      { "item": "ground cumin and coriander", "quantity": 5, "unit": "g" },
+      { "item": "olive oil", "quantity": 10, "unit": "ml" },
+      { "item": "wholemeal crusty bread roll", "quantity": 1, "unit": "roll (60 g)" },
+      { "item": "Greek yoghurt, for serving", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Saute onion in olive oil with cumin and coriander until soft, then add pumpkin and stock and simmer 20 minutes until tender. Blend until smooth, season to taste, and serve with a dollop of Greek yoghurt and a wholemeal bread roll on the side.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 13,
+      "carbs_g": 56,
+      "fiber_g": 9,
+      "sugar_g": 14,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Butternut pumpkin and stock are everyday supermarket items; widely sold as a soup-and-bread-roll combo at bakeries and cafes especially through autumn and winter."
+    },
+    "sources": [
+      { "title": "Pumpkin is soup-er: Healthy recipes for winter - CSIRO", "url": "https://www.csiro.au/en/news/all/articles/2023/july/winter-spiced-pumpkin-soup" },
+      { "title": "Delicious Moroccan-Spiced Pumpkin Soup", "url": "https://www.totalwellbeingdiet.com/au/recipes/winter-warmer-recipes/moroccan-spiced-pumpkin-soup/" }
+    ]
+  },
+  {
+    "id": "au-lunch-027",
+    "name": "High-Protein Chicken Caesar Pasta Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Pasta salad is a widely used Australian meal-prep lunch, and chicken Caesar pasta salad specifically is promoted by Australian fitness and nutrition sites as an easy way to combine a high-protein lunch with a make-ahead format.",
+    "ingredients": [
+      { "item": "pasta (penne or fusilli), cooked", "quantity": 120, "unit": "g" },
+      { "item": "grilled chicken breast, diced", "quantity": 130, "unit": "g" },
+      { "item": "cos lettuce, shredded", "quantity": 50, "unit": "g" },
+      { "item": "cherry tomatoes", "quantity": 50, "unit": "g" },
+      { "item": "parmesan cheese, shaved", "quantity": 20, "unit": "g" },
+      { "item": "light Caesar dressing", "quantity": 30, "unit": "g" }
+    ],
+    "prepNotes": "Cook pasta and cool slightly. Toss pasta with grilled chicken, lettuce and cherry tomatoes, then add Caesar dressing and shaved parmesan and mix through. Store in an airtight container if prepping ahead for next-day lunch.",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 44,
+      "carbs_g": 54,
+      "fiber_g": 4,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "fish", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are mainstream pantry and supermarket staples; commonly batch-made on Sundays for the week's office lunches."
+    },
+    "sources": [
+      { "title": "Chicken Caesar Pasta Salad Meal Prep - MYPROTEIN", "url": "https://au.myprotein.com/blog/recipe/chicken-caesar-pasta-salad-meal-prep/" },
+      { "title": "Easy Pasta Salad Recipe I Healthy Made Tasty", "url": "https://healthymadetasty.com.au/recipes/easy-pasta-salad/" }
+    ]
+  },
+  {
+    "id": "au-lunch-028",
+    "name": "Yum Cha Steamed Dumpling Selection",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Yum cha is deeply embedded in Australian lunch culture since the early 1980s, especially in Sydney and Melbourne, with steamed dumplings such as prawn har gau and pork siu mai among the most ordered dishes.",
+    "ingredients": [
+      { "item": "prawn dumplings (har gau)", "quantity": 3, "unit": "pieces (90 g)" },
+      { "item": "pork and prawn dumplings (siu mai)", "quantity": 3, "unit": "pieces (90 g)" },
+      { "item": "steamed bok choy", "quantity": 80, "unit": "g" },
+      { "item": "soy and chilli dipping sauce", "quantity": 15, "unit": "ml" }
+    ],
+    "prepNotes": "Bought or ordered ready-made at a yum cha restaurant, where dumplings are steamed fresh in bamboo baskets and wheeled around on trolleys. Order steamed bok choy alongside to add vegetables, and dip dumplings in soy and chilli sauce.",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 24,
+      "carbs_g": 40,
+      "fiber_g": 3,
+      "sugar_g": 3,
+      "fat_g": 16,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["pescatarian"],
+      "allergens": ["shellfish", "gluten", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Frozen dumplings available at supermarkets for home steaming; fresh-steamed versions widely available at yum cha restaurants throughout Sydney, Melbourne, Brisbane and Perth."
+    },
+    "sources": [
+      { "title": "10 of the Best Dumpling Restaurants in Australia | Asian Inspirations", "url": "https://asianinspirations.com.au/experiences/10-of-the-best-dumpling-restaurants-in-australia/" },
+      { "title": "The top 10 yum cha spots in Sydney - Sydney Travel Guide", "url": "https://www.sydneytravelguide.com.au/yum-cha-sydney/" }
+    ]
+  },
+  {
+    "id": "au-lunch-029",
+    "name": "Ploughman's Lunch Platter",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The ploughman's lunch, a British import, has settled comfortably into Australian pub and cafe menus as a cold sharing-style platter of ham, cheese, pickles and bread, sold at venues from Melbourne delis to catering companies nationwide.",
+    "ingredients": [
+      { "item": "leg ham, sliced", "quantity": 80, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 50, "unit": "g" },
+      { "item": "crusty bread", "quantity": 80, "unit": "g" },
+      { "item": "pickles and chutney", "quantity": 40, "unit": "g" },
+      { "item": "egg, hard-boiled", "quantity": 1, "unit": "large" },
+      { "item": "cherry tomatoes and cos leaves", "quantity": 60, "unit": "g" }
+    ],
+    "prepNotes": "Arrange sliced ham, cheddar and a hard-boiled egg on a plate or board. Add crusty bread, pickles and chutney, and finish with cherry tomatoes and cos leaves for freshness. Assemble cold; no cooking required beyond boiling the egg.",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 36,
+      "carbs_g": 44,
+      "fiber_g": 4,
+      "sugar_g": 9,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Leg ham, cheddar and pickles are mainstream deli-aisle items; also offered as a sharing platter at pubs and cafes and via catering companies for office lunches."
+    },
+    "sources": [
+      { "title": "Ploughman's Lunch Recipe | British-style Lunch Platter | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/ploughmans-lunch" },
+      { "title": "Ploughman's Lunch - A Working Class Meal | Broadsheet", "url": "https://www.broadsheet.com.au/melbourne/food-and-drink/article/ploughmans-lunch-working-class-meal" }
+    ]
+  },
+  {
+    "id": "au-lunch-030",
+    "name": "Mediterranean Chickpea and Quinoa Bowl",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Mediterranean-style grain bowls built on chickpeas and quinoa are a common plant-based lunch choice in Australian cafes and meal-prep kitchens, reflecting the broader popularity of Mediterranean-inspired bowl food.",
+    "ingredients": [
+      { "item": "cooked quinoa", "quantity": 150, "unit": "g" },
+      { "item": "chickpeas, roasted with olive oil and za'atar", "quantity": 120, "unit": "g" },
+      { "item": "cucumber and tomato", "quantity": 80, "unit": "g" },
+      { "item": "kalamata olives", "quantity": 20, "unit": "g" },
+      { "item": "feta cheese", "quantity": 30, "unit": "g" },
+      { "item": "tahini dressing", "quantity": 25, "unit": "g" }
+    ],
+    "prepNotes": "Toss drained chickpeas with olive oil and za'atar, then roast or pan-fry until crisp. Combine quinoa, cucumber, tomato and olives in a bowl, top with roasted chickpeas and crumbled feta, and finish with a drizzle of tahini dressing.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 21,
+      "carbs_g": 58,
+      "fiber_g": 13,
+      "sugar_g": 6,
+      "fat_g": 24,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian", "gluten_free", "mediterranean"],
+      "allergens": ["dairy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Quinoa, canned chickpeas, feta and tahini are widely stocked at all major Australian supermarkets year-round."
+    },
+    "sources": [
+      { "title": "Mediterranean Chickpea Bowls - I Heart Vegetables", "url": "https://iheartvegetables.com/mediterranean-chickpea-bowls/" },
+      { "title": "Mediterranean Chickpea Quinoa Bowl - Plant Based Jess", "url": "https://plantbasedjess.com/mediterranean-chickpea-quinoa-bowl/" }
+    ]
+  },
+  {
+    "id": "au-lunch-031",
+    "name": "Chicken Parmigiana with Side Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The chicken parmigiana, or \"chicken parma\", is widely regarded as Australia's most popular pub meal, served at lunch and dinner in pubs and clubs nationwide, usually with chips but also offered with a side salad.",
+    "ingredients": [
+      { "item": "chicken schnitzel, crumbed", "quantity": 180, "unit": "g" },
+      { "item": "Napoli (tomato) sauce", "quantity": 60, "unit": "g" },
+      { "item": "ham, sliced", "quantity": 20, "unit": "g" },
+      { "item": "mozzarella cheese", "quantity": 40, "unit": "g" },
+      { "item": "mixed side salad", "quantity": 100, "unit": "g" },
+      { "item": "olive oil and vinegar dressing", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Pan-fry or oven-bake the crumbed chicken schnitzel until golden. Top with Napoli sauce, a slice of ham and mozzarella, then grill or bake briefly until the cheese melts. Serve with a lightly dressed side salad instead of chips for a lighter version.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 48,
+      "carbs_g": 28,
+      "fiber_g": 3,
+      "sugar_g": 6,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "low",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Crumbed chicken schnitzel, Napoli sauce and mozzarella are mainstream supermarket items; the ready-made dish is one of the most ordered items on Australian pub lunch menus nationwide."
+    },
+    "sources": [
+      { "title": "Why Aussies love the iconic 'chicken parma' | Geelong Independent", "url": "https://geelongindy.com.au/news/30-12-2025/why-aussies-love-the-iconic-chicken-parma/" },
+      { "title": "Is the Chicken Parmigiana Australia's Best Pub Meal? - James Sismanes", "url": "https://jamessismanes.com.au/is-the-chicken-parmigiana-australias-best-pub-meal/" }
+    ]
+  },
+  {
+    "id": "au-lunch-032",
+    "name": "Butter Chicken with Basmati Rice",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Butter chicken is widely regarded as the most popular Indian curry in Australia, a fixture of Indian restaurant takeaway menus and food courts and a common make-ahead lunch reheated from the previous night's dinner.",
+    "ingredients": [
+      { "item": "chicken thigh, diced", "quantity": 150, "unit": "g" },
+      { "item": "butter chicken curry sauce (tomato, cream, spices)", "quantity": 150, "unit": "g" },
+      { "item": "cooked basmati rice", "quantity": 150, "unit": "g" },
+      { "item": "coriander, for garnish", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Simmer diced chicken thigh in a tomato and cream-based curry sauce with garam masala, ginger and garlic until cooked through and the sauce has thickened. Serve over basmati rice and garnish with fresh coriander; this reheats well as a next-day lunch.",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 36,
+      "carbs_g": 56,
+      "fiber_g": 3,
+      "sugar_g": 8,
+      "fat_g": 26,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free"],
+      "allergens": ["dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Jarred butter chicken sauce and basmati rice are mainstream supermarket items; ready-made butter chicken is sold at Indian restaurants and food court counters in every Australian city."
+    },
+    "sources": [
+      { "title": "Is Butter Chicken the Most Popular Indian Curry in Australia?", "url": "https://www.currylovers-epping.com.au/post/is-butter-chicken-the-most-popular-indian-curry-in-australia" },
+      { "title": "Butter Chicken - RecipeTin Eats", "url": "https://www.recipetineats.com/butter-chicken/" }
+    ]
+  },
+  {
+    "id": "au-lunch-033",
+    "name": "Prawn, Mango and Avocado Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Prawn salads pairing Australian prawns with mango and avocado are a well-established warm-weather lunch, featured by Women's Weekly Food and Australian seafood suppliers and popular in coastal cafes during summer.",
+    "ingredients": [
+      { "item": "cooked prawns, peeled", "quantity": 150, "unit": "g" },
+      { "item": "mango, diced", "quantity": 100, "unit": "g" },
+      { "item": "avocado, diced", "quantity": 60, "unit": "g" },
+      { "item": "rocket", "quantity": 50, "unit": "g" },
+      { "item": "red onion, finely sliced", "quantity": 15, "unit": "g" },
+      { "item": "lime and olive oil dressing", "quantity": 20, "unit": "ml" }
+    ],
+    "prepNotes": "Combine rocket, mango, avocado and red onion in a bowl. Top with cooked prawns and dress with a lime juice and olive oil dressing just before serving so the rocket stays crisp.",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 30,
+      "carbs_g": 24,
+      "fiber_g": 6,
+      "sugar_g": 16,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free", "dairy_free"],
+      "allergens": ["shellfish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Cooked prawns are sold at supermarket seafood counters and fishmongers nationwide; mango is seasonal (best summer) but available most of the year."
+    },
+    "sources": [
+      { "title": "Julie Goodwin's prawn and mango salad | Women's Weekly Food", "url": "https://www.womensweeklyfood.com.au/recipe/lunch/prawn-and-mango-salad-15838/" },
+      { "title": "Summer Avocado, Mango and Prawn Salad Recipe – Getfish Seafood", "url": "https://getfish.com.au/blogs/recipes/summer-avocado-mango-and-prawn-salad-recipe" }
+    ]
+  },
+  {
+    "id": "au-lunch-034",
+    "name": "Chicken and Bacon Club Sandwich",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The chicken and bacon club sandwich is a cafe-menu staple across Australia, served by chains like The Coffee Club and independent sandwich shops as a hearty toasted lunch option.",
+    "ingredients": [
+      { "item": "toasted white or multigrain bread", "quantity": 3, "unit": "slices (130 g)" },
+      { "item": "grilled chicken breast, sliced", "quantity": 100, "unit": "g" },
+      { "item": "bacon", "quantity": 30, "unit": "g" },
+      { "item": "cheddar cheese", "quantity": 20, "unit": "g" },
+      { "item": "lettuce and tomato", "quantity": 50, "unit": "g" },
+      { "item": "avocado", "quantity": 40, "unit": "g" },
+      { "item": "Caesar-style mayo", "quantity": 20, "unit": "g" }
+    ],
+    "prepNotes": "Toast the bread. Grill chicken and cook bacon until crisp. Layer chicken, bacon, cheese, lettuce, tomato and mashed avocado between the toasted bread with mayo, building the classic three-layer club stack, then cut into triangles.",
+    "nutrition": {
+      "calories": 660,
+      "protein_g": 42,
+      "carbs_g": 50,
+      "fiber_g": 5,
+      "sugar_g": 6,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "All ingredients are mainstream supermarket staples; ready-made versions widely sold at cafes nationwide, including The Coffee Club's Chicken & Bacon Club Sandwich."
+    },
+    "sources": [
+      { "title": "Chicken & Bacon Club Sandwich – The Coffee Club Australia", "url": "https://coffeeclub.com.au/products/chicken-bacon-club-sandwich" },
+      { "title": "How to Make a Deluxe Version of the Classic Club Sandwich | Broadsheet", "url": "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-deluxe-club-sandwich-ll-upgrade-your-working-home-lunches-2024" }
+    ]
+  },
+  {
+    "id": "au-lunch-035",
+    "name": "Tofu and Brown Rice Buddha Bowl",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Buddha bowls built on tofu, brown rice and a tahini or peanut dressing are a popular plant-based lunch at dedicated vegan/vegetarian cafes such as Buddha Bowl Cafe in Sydney's Newtown and similar venues in Melbourne.",
+    "ingredients": [
+      { "item": "firm tofu, cubed and pan-fried", "quantity": 150, "unit": "g" },
+      { "item": "cooked brown rice", "quantity": 150, "unit": "g" },
+      { "item": "carrot, shredded", "quantity": 50, "unit": "g" },
+      { "item": "red cabbage, shredded", "quantity": 50, "unit": "g" },
+      { "item": "bean sprouts", "quantity": 30, "unit": "g" },
+      { "item": "peanut tamari dressing", "quantity": 30, "unit": "g" },
+      { "item": "peanuts, crushed", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Pan-fry tofu cubes until golden and crisp on the outside. Arrange brown rice, carrot, cabbage and bean sprouts in a bowl, top with the tofu, then drizzle with peanut tamari dressing and scatter crushed peanuts over the top.",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 26,
+      "carbs_g": 52,
+      "fiber_g": 9,
+      "sugar_g": 8,
+      "fat_g": 22,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["vegan", "vegetarian", "gluten_free", "dairy_free"],
+      "allergens": ["soy", "peanuts"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Firm tofu, brown rice and tamari are stocked at all major supermarkets; ready-made versions widely available at dedicated vegan cafes in Sydney and Melbourne."
+    },
+    "sources": [
+      { "title": "Buddha Bowl Cafe | Wholefood Vegan Bowls | Newtown", "url": "https://buddhabowlcafe.com.au/" },
+      { "title": "5 Places in Sydney to Get Your Buddha Bowl Fix | Sitchu", "url": "https://sitchu.com.au/sydney/cafes/5-places-sydney-get-your-buddha-bowl-fix" }
+    ]
+  },
+  {
+    "id": "au-lunch-036",
+    "name": "Smashed Avocado on Sourdough with Poached Eggs and Feta",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Smashed avocado on toast was popularised by Sydney cafe culture (credited to restaurateur Bill Granger in the early 1990s) and remains one of the most ordered cafe lunch and brunch dishes across Australia, typically finished with poached eggs and feta or chilli.",
+    "ingredients": [
+      { "item": "sourdough bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "avocado", "quantity": 120, "unit": "g" },
+      { "item": "eggs, poached", "quantity": 2, "unit": "large" },
+      { "item": "feta cheese, crumbled", "quantity": 25, "unit": "g" },
+      { "item": "lemon juice", "quantity": 5, "unit": "ml" },
+      { "item": "chilli flakes and cracked pepper", "quantity": 1, "unit": "g" },
+      { "item": "olive oil", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Toast the sourdough. Mash avocado with lemon juice, salt and pepper, and spread thickly over the toast. Poach the eggs for 3 minutes in simmering water with a splash of vinegar, then place on top of the avocado. Finish with crumbled feta, chilli flakes and a drizzle of olive oil.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 24,
+      "carbs_g": 38,
+      "fiber_g": 10,
+      "sugar_g": 3,
+      "fat_g": 34,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against Woolworths Cafe-style Smashed Avocado Toast with Poached Eggs recipe"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "low",
+      "irSuitability": "good",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["eggs", "gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Avocado, sourdough, eggs and feta are mainstream supermarket staples year-round; the dish itself is a defining menu item at cafes nationwide, originating from Sydney cafe culture."
+    },
+    "sources": [
+      { "title": "Cafe-style Smashed Avocado Toast with Poached Eggs Recipe | Woolworths", "url": "https://www.woolworths.com.au/shop/recipes/cafe-style-smashed-avocado-toast-with-poached-eggs" },
+      { "title": "Smashed Avocado on Toast with Pesto and Poached Eggs", "url": "https://cafecat.com.au/smashed-avocado-on-toast-with-pesto-and-poached-eggs/" }
+    ]
+  },
+  {
+    "id": "au-lunch-037",
+    "name": "Korean Fried Chicken Lunch Box with Pickled Radish",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Korean fried chicken box lunches have grown rapidly in popularity in Australian cities, with dedicated chains such as NeNe Chicken and Buza Chicken serving soy-garlic or gochujang glazed chicken over rice as a fast lunch option, especially in Sydney and Melbourne.",
+    "ingredients": [
+      { "item": "chicken thigh pieces, double-fried, crumbed", "quantity": 150, "unit": "g" },
+      { "item": "gochujang soy-garlic glaze", "quantity": 30, "unit": "g" },
+      { "item": "cooked white rice", "quantity": 180, "unit": "g" },
+      { "item": "pickled radish (danmuji)", "quantity": 40, "unit": "g" },
+      { "item": "shredded cabbage slaw", "quantity": 50, "unit": "g" },
+      { "item": "sesame seeds", "quantity": 3, "unit": "g" }
+    ],
+    "prepNotes": "Double-fry crumbed chicken thigh pieces until crisp and cooked through, then toss in a warm gochujang soy-garlic glaze. Serve over a bed of steamed rice with shredded cabbage slaw and pickled radish on the side, finished with a scatter of sesame seeds.",
+    "nutrition": {
+      "calories": 700,
+      "protein_g": 38,
+      "carbs_g": 68,
+      "fiber_g": 4,
+      "sugar_g": 14,
+      "fat_g": 28,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against NeNe Chicken and general Korean fried chicken nutrition listings"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "high",
+      "irSuitability": "needs-adaptation",
+      "dietPatterns": [],
+      "allergens": ["gluten", "soy", "sesame"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Frozen Korean-style crumbed chicken thigh available at major supermarkets and Asian grocers for home cooking; ready-made boxes widely sold at Korean fried chicken chains such as NeNe Chicken and Buza Chicken across Sydney and Melbourne."
+    },
+    "sources": [
+      { "title": "Korean Street Food, Korean Fried Chicken | NeNe Chicken", "url": "https://nenechicken.com.au/menu" },
+      { "title": "Best Korean Restaurant in Melbourne | Buza Chicken", "url": "https://www.buzachicken.com.au/" }
+    ]
+  },
+  {
+    "id": "au-lunch-038",
+    "name": "Turkish Gozleme with Spinach and Feta",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Gozleme, a Turkish stuffed flatbread, is a fixture at weekend markets and festivals across Australia, reflecting a strong Turkish-Australian food presence; spinach and feta is the most widely sold filling, pan-fried fresh on hotplates at market stalls nationwide.",
+    "ingredients": [
+      { "item": "gozleme flatbread dough (flour, yoghurt, water)", "quantity": 120, "unit": "g" },
+      { "item": "spinach, chopped", "quantity": 100, "unit": "g" },
+      { "item": "feta cheese, crumbled", "quantity": 60, "unit": "g" },
+      { "item": "mozzarella cheese, grated", "quantity": 20, "unit": "g" },
+      { "item": "olive oil, for cooking", "quantity": 10, "unit": "ml" },
+      { "item": "lemon wedge, for serving", "quantity": 1, "unit": "wedge" }
+    ],
+    "prepNotes": "Roll out the yoghurt-based dough thinly into a large round. Scatter spinach, feta and mozzarella over one half, fold the dough over to enclose the filling, and pan-fry on a hotplate or large pan with a little olive oil until golden and crisp on both sides. Cut into wedges and serve with a lemon wedge.",
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 26,
+      "carbs_g": 58,
+      "fiber_g": 5,
+      "sugar_g": 4,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against commercial spinach and feta gozleme nutrition panels (World Kitchen, The Gozleme Brothers)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Frozen ready-to-cook gozleme available at supermarkets (Aldi, Woolworths); fresh-made versions are a fixture at weekend markets and festivals nationwide, especially in Sydney and Melbourne."
+    },
+    "sources": [
+      { "title": "Gozleme | Turkish recipes | SBS Food", "url": "https://www.sbs.com.au/food/recipes/gozleme" },
+      { "title": "Gozleme: A Classic Healthy Turkish Street Food | Kocagoz Catering", "url": "https://kocagoz.com.au/gozleme-a-classic-turkish-street-food/" }
+    ]
+  },
+  {
+    "id": "au-lunch-039",
+    "name": "Grilled Fish and Chips with Side Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Fish and chips is a longstanding Australian takeaway lunch tradition; the grilled fish version (often whiting, snapper or barramundi) with chips and salad is a common lighter alternative offered at fish and chip shops and seaside cafes nationwide.",
+    "ingredients": [
+      { "item": "white fish fillet (barramundi or snapper), grilled", "quantity": 180, "unit": "g" },
+      { "item": "potato chips, oven-baked", "quantity": 150, "unit": "g" },
+      { "item": "mixed salad leaves", "quantity": 60, "unit": "g" },
+      { "item": "tomato and cucumber", "quantity": 60, "unit": "g" },
+      { "item": "lemon wedge", "quantity": 1, "unit": "wedge" },
+      { "item": "olive oil and vinegar dressing", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Season the fish fillet and grill 3-4 minutes per side until just cooked through and flaking. Cut potatoes into chips, toss in a little oil and bake until golden, turning once. Plate the fish and chips with a lightly dressed side salad and a lemon wedge.",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 42,
+      "carbs_g": 48,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 18,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against CalorieKing Australia fish and chips and grilled fish entries"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": ["pescatarian", "gluten_free", "dairy_free"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Fresh white fish fillets available at supermarket seafood counters and fishmongers nationwide; the grilled option is offered as a lighter alternative at most fish and chip shops and seaside cafes."
+    },
+    "sources": [
+      { "title": "Grilled fish and better-for-you chips - Blua - Bupa", "url": "https://blua.bupa.com.au/weight-and-nutrition/recipes/grilled-fish-and-better-for-you-chips" },
+      { "title": "Calories in Fish and Chips, fish only, battered, deep fried | CalorieKing (Australia)", "url": "https://www.calorieking.com/au/en/foods/f/calories-in-meals-fish-and-chips-fish-only-battered-deep-fried/p4gnpwUGQo-weMuNwQipug" }
+    ]
+  },
+  {
+    "id": "au-lunch-040",
+    "name": "Spanakopita with Greek Salad",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Spanakopita, layered phyllo pastry filled with spinach and feta, is a well-established Greek-Australian bakery and deli item, sold fresh at Greek bakeries and as frozen multi-packs (such as Aldi's Urban Eats range) at major supermarkets nationwide.",
+    "ingredients": [
+      { "item": "spanakopita (spinach and feta phyllo pastry)", "quantity": 2, "unit": "pieces (180 g)" },
+      { "item": "Greek salad (tomato, cucumber, olives, red onion)", "quantity": 120, "unit": "g" },
+      { "item": "olive oil and lemon dressing", "quantity": 10, "unit": "ml" }
+    ],
+    "prepNotes": "Bake the spanakopita pieces according to packet instructions, or buy fresh from a Greek bakery, until the phyllo is golden and crisp. Serve alongside a Greek salad of tomato, cucumber, olives and red onion dressed simply with olive oil and lemon.",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 19,
+      "carbs_g": 42,
+      "fiber_g": 5,
+      "sugar_g": 5,
+      "fat_g": 33,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against Aldi Urban Eats Spanakopita nutrition panel"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "local markets"],
+      "notes": "Frozen spanakopita widely stocked at Aldi (Urban Eats range), Woolworths and Coles; also sold fresh at Greek bakeries and delis, especially in Melbourne and Sydney."
+    },
+    "sources": [
+      { "title": "Greek Spinach & Cheese Spanakopita 750g - Aldi", "url": "https://www.aldi.com.au/product/urban-eats-spanakopita-750g-000000000000368932" },
+      { "title": "Spanakopita (Greek Spinach Pie) - RecipeTin Eats", "url": "https://www.recipetineats.com/spanakopita-greek-spinach-pie/" }
+    ]
+  },
+  {
+    "id": "au-lunch-041",
+    "name": "Vietnamese Beef Pho",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Beef pho is one of the most widely eaten Vietnamese-Australian dishes at lunchtime, with dedicated pho restaurants in every capital city and home versions made from simmered broth, reflecting Australia's significant Vietnamese-Australian community.",
+    "ingredients": [
+      { "item": "beef stock (star anise, cinnamon, ginger)", "quantity": 450, "unit": "ml" },
+      { "item": "rice noodles (banh pho), cooked", "quantity": 150, "unit": "g" },
+      { "item": "beef sirloin, thinly sliced raw", "quantity": 100, "unit": "g" },
+      { "item": "bean sprouts", "quantity": 40, "unit": "g" },
+      { "item": "Thai basil and coriander", "quantity": 10, "unit": "g" },
+      { "item": "lime wedge and chilli", "quantity": 10, "unit": "g" }
+    ],
+    "prepNotes": "Simmer beef stock with star anise, cinnamon and ginger for at least an hour to build the aromatic broth. Place cooked rice noodles in a bowl, top with thin raw beef slices, then ladle over the boiling broth so it gently cooks the beef. Finish with bean sprouts, herbs, lime and chilli to taste.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 28,
+      "carbs_g": 62,
+      "fiber_g": 3,
+      "sugar_g": 6,
+      "fat_g": 11,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "minimal",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["gluten_free", "dairy_free"],
+      "allergens": ["fish"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "local markets"],
+      "notes": "Rice noodles, beef sirloin and pho spices available at major supermarkets and Asian grocers; ready-made pho widely served at Vietnamese restaurants in every capital city, especially Melbourne and Sydney."
+    },
+    "sources": [
+      { "title": "Vietnamese Pho recipe - RecipeTin Eats", "url": "https://www.recipetineats.com/vietnamese-pho-recipe/" },
+      { "title": "Beef Noodle Soup Recipe - Pho Bo | Asian Inspirations", "url": "https://asianinspirations.com.au/recipes/vietnamese-beef-and-noodle-soup-pho-bo/" }
+    ]
+  },
+  {
+    "id": "au-lunch-042",
+    "name": "Ham, Cheese and Tomato Toastie",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "The ham, cheese and tomato toastie (also called a jaffle) is one of Australia's most enduring lunch staples, made at home in a sandwich press or jaffle iron and sold at cafes and sandwich bars nationwide.",
+    "ingredients": [
+      { "item": "wholegrain bread", "quantity": 2, "unit": "slices (90 g)" },
+      { "item": "leg ham, sliced", "quantity": 80, "unit": "g" },
+      { "item": "cheddar cheese, sliced", "quantity": 40, "unit": "g" },
+      { "item": "tomato, sliced", "quantity": 60, "unit": "g" },
+      { "item": "butter, for grilling", "quantity": 5, "unit": "g" }
+    ],
+    "prepNotes": "Lightly butter the outside of each bread slice. Layer ham, cheese and tomato between the bread, then grill in a sandwich press or jaffle iron until the bread is golden and the cheese has melted through. Slice in half and serve hot.",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 30,
+      "carbs_g": 36,
+      "fiber_g": 5,
+      "sugar_g": 5,
+      "fat_g": 23,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ); cross-checked against Helga's Ham, Cheese & Tomato Toastie recipe"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": true,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "good",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Leg ham, cheddar and wholegrain bread are everyday supermarket staples nationwide; one of the most common home-made and cafe-bought lunches in Australia."
+    },
+    "sources": [
+      { "title": "Ham, Cheese & Tomato Toastie | Helgas", "url": "https://helgas.com.au/recipes/ham-cheese-tomato-toastie" },
+      { "title": "Ham and Cheese Toastie Recipe | Leftover Ham recipes | Coles", "url": "https://www.coles.com.au/recipes-inspiration/recipes/ham-and-cheese-toastie" }
+    ]
+  },
+  {
+    "id": "au-lunch-043",
+    "name": "Italian Meatball Sub with Napoli Sauce and Mozzarella",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Italian deli-style sandwiches, including meatball subs topped with melted mozzarella, are a growing fixture of Australian deli and sandwich-bar culture, reflecting the long-running Italian-Australian food influence seen in cities like Melbourne and Perth (home of the local \"continental roll\").",
+    "ingredients": [
+      { "item": "long bread roll (sub roll)", "quantity": 1, "unit": "roll (110 g)" },
+      { "item": "beef and pork meatballs, cooked", "quantity": 150, "unit": "g" },
+      { "item": "Napoli (tomato) sauce", "quantity": 80, "unit": "g" },
+      { "item": "mozzarella cheese, grated", "quantity": 40, "unit": "g" },
+      { "item": "basil leaves", "quantity": 3, "unit": "g" }
+    ],
+    "prepNotes": "Simmer cooked meatballs in Napoli sauce until heated through and well coated. Split the bread roll and fill with the meatballs and sauce, top with grated mozzarella, then grill or oven-bake briefly until the cheese melts. Finish with a few basil leaves before serving.",
+    "nutrition": {
+      "calories": 680,
+      "protein_g": 42,
+      "carbs_g": 54,
+      "fiber_g": 4,
+      "sugar_g": 8,
+      "fat_g": 32,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": true,
+      "fiberRich": false,
+      "processingLevel": "moderate",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": [],
+      "allergens": ["gluten", "dairy", "eggs"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA", "local markets"],
+      "notes": "Bread rolls, meatballs, Napoli sauce and mozzarella are mainstream supermarket items; ready-made versions widely sold at Italian delis and sandwich bars, particularly strong in Melbourne and Perth (the \"continental roll\")."
+    },
+    "sources": [
+      { "title": "Sammich Up: 7 Italian Deli-Style Sandwiches To Eat Around Australia | Broadsheet", "url": "https://www.broadsheet.com.au/national/food-and-drink/article/sammich-7-italian-deli-style-sandwiches-eat-around-australia" },
+      { "title": "These are Australia's Best Sandwiches | Travel Insider", "url": "https://www.qantas.com/travelinsider/en/explore/australia/best-sandwiches-australia.html" }
+    ]
+  },
+  {
+    "id": "au-lunch-044",
+    "name": "Upgraded Instant Noodles with Egg and Vegetables",
+    "country": "AU",
+    "mealType": "lunch",
+    "servings": 1,
+    "popularityContext": "Instant noodles upgraded with a fresh egg and vegetables are a well-known budget Australian lunch, particularly common among students and office workers, with Australian food sites widely suggesting adding protein and veg to a packet of instant noodles rather than using the seasoning sachet alone.",
+    "ingredients": [
+      { "item": "instant noodles (discard half the seasoning sachet)", "quantity": 1, "unit": "packet (85 g)" },
+      { "item": "egg", "quantity": 1, "unit": "large" },
+      { "item": "frozen mixed vegetables (peas, corn, carrot)", "quantity": 100, "unit": "g" },
+      { "item": "baby spinach", "quantity": 30, "unit": "g" },
+      { "item": "soy sauce", "quantity": 5, "unit": "ml" },
+      { "item": "sesame oil", "quantity": 5, "unit": "ml" }
+    ],
+    "prepNotes": "Cook the noodles in boiling water with the frozen mixed vegetables for the last 2 minutes, using only half the seasoning sachet to reduce sodium. Crack the egg into the pot to poach gently in the noodle water for the final minute, or fry separately. Stir through spinach, soy sauce and sesame oil just before serving.",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 17,
+      "carbs_g": 54,
+      "fiber_g": 6,
+      "sugar_g": 4,
+      "fat_g": 17,
+      "method": "Calculated from ingredient composition via Australian Food Composition Database (NUTTAB/FSANZ)"
+    },
+    "tags": {
+      "proteinForward": false,
+      "fiberRich": true,
+      "processingLevel": "ultra-processed",
+      "glycemicLoad": "medium",
+      "irSuitability": "moderate",
+      "dietPatterns": ["vegetarian"],
+      "allergens": ["gluten", "eggs", "soy"]
+    },
+    "regionAvailability": {
+      "stores": ["Woolworths", "Coles", "Aldi", "IGA"],
+      "notes": "Instant noodles, frozen vegetables and eggs are among the cheapest staples at every Australian supermarket, making this one of the most budget-friendly lunches available; a common student and office-worker meal."
+    },
+    "sources": [
+      { "title": "When in Doubt, I Make Noodles: 16 Budget-Friendly Favorites", "url": "https://www.budgetbytes.com/noodle-recipes/" },
+      { "title": "What to Add to Instant Ramen Noodles: Backpacking Tips and Recipe Ideas — Slower Hiking", "url": "https://slowerhiking.com/food/what-to-add-to-instant-ramen-noodles-backpacking-food" }
+    ]
+  }
+]

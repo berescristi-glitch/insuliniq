@@ -33,7 +33,9 @@ export async function subscribeToNewsletter(formData: FormData) {
     return { error: "Something went wrong. Please try again." };
   }
 
-  await sendConfirmationEmail(email);
+  sendConfirmationEmail(email).catch((err) =>
+    console.error("Newsletter confirmation email failed:", err)
+  );
 
   return { success: true };
 }

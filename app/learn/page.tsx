@@ -31,7 +31,7 @@ const MDX_ARTICLES = [
       "A clear, science-backed explanation of how insulin resistance develops, how it's measured, and what the evidence says actually helps — for anyone without a medical background.",
     category: "Insulin Resistance",
     readingTime: 11,
-    badge: "bg-emerald-50 text-emerald-700 border-emerald-200",
+    badge: "bg-forest-50 text-forest-700 border-forest-200",
   },
   {
     href: "/learn/metabolic-syndrome",
@@ -59,6 +59,15 @@ const MDX_ARTICLES = [
     category: "PCOS",
     readingTime: 14,
     badge: "bg-purple-50 text-purple-700 border-purple-200",
+  },
+  {
+    href: "/obesity",
+    title: "Obesity, Insulin Resistance, and Metabolic Health",
+    excerpt:
+      "How visceral fat drives insulin resistance through adipokine dysregulation and free fatty acid overflow — and why metabolic markers, not weight alone, determine real health risk.",
+    category: "Obesity",
+    readingTime: 15,
+    badge: "bg-clay-50 text-clay-700 border-clay-200",
   },
   {
     href: "/nafld",
@@ -127,13 +136,13 @@ export default async function LearnPage() {
                   {article.readingTime} min read
                 </span>
               </div>
-              <h2 className="font-semibold text-gray-900 group-hover:text-emerald-700 transition-colors leading-snug mb-2">
+              <h2 className="font-semibold text-gray-900 group-hover:text-forest-700 transition-colors leading-snug mb-2">
                 {article.title}
               </h2>
               <p className="text-sm text-gray-500 flex-1 line-clamp-3">
                 {article.excerpt}
               </p>
-              <div className="mt-4 flex items-center gap-1 text-sm font-medium text-emerald-700">
+              <div className="mt-4 flex items-center gap-1 text-sm font-medium text-forest-700">
                 Read article
                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </div>
