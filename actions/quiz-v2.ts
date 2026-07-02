@@ -123,6 +123,13 @@ export async function submitQuizV2(data: {
           has_safety_flags: hasSafetyFlags,
           updated_at: now,
         }).eq("id", existing.id);
+
+        // Resend confirmation if they gave consent but never confirmed (e.g. registered earlier)
+        if (marketingConsent && existing.marketing_consent && !existing.confirmed && !existing.unsubscribed_at) {
+          sendConfirmationEmail(email).catch((err) =>
+            console.error("Quiz v2 confirmation email resend failed:", err)
+          );
+        }
       }
     } else {
       const { error: insertErr } = await admin.from("newsletter_subscribers").insert({
